@@ -30,7 +30,7 @@ jobs:
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
-        pip install requests beautifulsoup4 geoip2
+        pip install requests beautifulsoup4 geoip2 tqdm
         
     - name: Clean old config files
       run: |
@@ -56,14 +56,14 @@ jobs:
     - name: Combine Configs
       run: python combine_configs.py
         
-    - name: Country Categorization
-      run: python country_categorizer.py
+    - name: Enhanced Country Categorization
+      run: python enhanced_country_categorizer.py
         
     - name: Create summary
       run: |
         date > last_update.txt
         echo "Updated: $(date -u '+%Y-%m-%d %H:%M UTC')" > update_info.txt
-        echo "Country categorized configs available in configs/country/" >> update_info.txt
+        echo "Enhanced country categorized configs available in configs/country/" >> update_info.txt
         
     - name: Reorder directories
       run: |

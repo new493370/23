@@ -368,9 +368,6 @@ class EnhancedCountryCategorizer:
         return 'unknown'
     
     def get_real_ip_behind_cdn(self, hostname):
-        if 'cloudflare' in hostname.lower():
-            return None
-        
         try:
             import dns.resolver
             resolver = dns.resolver.Resolver()
@@ -523,7 +520,9 @@ class EnhancedCountryCategorizer:
     def save_optimized_results(self, results):
         timestamp = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
         output_dir = 'configs/country'
-        os.makedirs(output_dir, exist_ok=True)
+        
+        if not os.path.exists(output_dir):
+            os.makedirs(output_dir, exist_ok=True)
         
         country_stats = {}
         cdn_stats = defaultdict(int)
@@ -565,7 +564,7 @@ class EnhancedCountryCategorizer:
                         f.write("\n")
             
             for proto, config_list in by_protocol.items():
-                if len(config_list) >= 10:
+                if len(config_list) >= 5:
                     proto_file = os.path.join(country_dir, f"{proto}.txt")
                     with open(proto_file, 'w', encoding='utf-8') as f:
                         f.write(f"# {country} - {proto.upper()}\n")
@@ -606,57 +605,98 @@ class EnhancedCountryCategorizer:
         
         return country_stats
     
+    def read_all_combined_configs(self):
+        configs = []
+        
+        search_paths = [
+            'configs/combined/all.txt',
+            './configs/combined/all.txt',
+            'combined/all.txt',
+            './combined/all.txt'
+        ]
+        
+        for filepath in search_paths:
+            if os.path.exists(filepath):
+                self.logger.info(f"Found config file: {filepath}")
+                try:
+                    with open(filepath, 'r', encoding='utf-8', errors='ignore') as f:
+                        lines = f.readlines()
+                        for line in lines:
+                            line = line.strip()
+                            if line and not line.startswith('#'):
+                                configs.append(line)
+                    break
+                except Exception as e:
+                    self.logger.error(f"Error reading {filepath}: {e}")
+        
+        if not configs:
+            combined_dir = 'configs/combined'
+            if os.path.exists(combined_dir):
+                self.logger.info(f"Searching in directory: {combined_dir}")
+                for filename in os.listdir(combined_dir):
+                    if filename.endswith('.txt'):
+                        filepath = os.path.join(combined_dir, filename)
+                        try:
+                            with open(filepath, 'r', encoding='utf-8', errors='ignore') as f:
+                                for line in f:
+                                    line = line.strip()
+                                    if line and not line.startswith('#'):
+                                        configs.append(line)
+                        except Exception as e:
+                            self.logger.error(f"Error reading {filepath}: {e}")
+        
+        if not configs:
+            self.logger.warning("No configs found. Checking current directory...")
+            for filename in os.listdir('.'):
+                if filename.endswith('.txt'):
+                    try:
+                        with open(filename, 'r', encoding='utf-8', errors='ignore') as f:
+                            for line in f:
+                                line = line.strip()
+                                if line and not line.startswith('#'):
+                                    configs.append(line)
+                    except:
+                        pass
+        
+        unique_configs = list(set(configs))
+        self.logger.info(f"Loaded {len(unique_configs)} unique configurations")
+        return unique_configs
+    
     def run(self):
         self.logger.info("Starting enhanced country categorization...")
+        
+        print("=" * 70)
+        print("ENHANCED COUNTRY CATEGORIZER")
+        print("=" * 70)
+        
+        current_dir = os.getcwd()
+        print(f"Current directory: {current_dir}")
+        
+        if os.path.exists('configs'):
+            print(f"Contents of configs/: {os.listdir('configs')}")
+        else:
+            print("configs/ directory not found")
         
         configs = self.read_all_combined_configs()
         if not configs:
             self.logger.error("No configurations found!")
+            print("ERROR: No configurations found!")
             return
         
-        self.logger.info(f"Found {len(configs)} configurations")
+        print(f"Configurations to process: {len(configs)}")
+        
+        if not self.geoip_reader:
+            print("Warning: GeoIP database not found, attempting download...")
+            if not self.download_geoip_db():
+                print("ERROR: Failed to download GeoIP database!")
+                return
         
         results = self.process_configs_threaded(configs)
         
         stats = self.save_optimized_results(results)
         
-        self.print_summary(stats)
-    
-    def read_all_combined_configs(self):
-        configs = []
-        combined_dir = 'configs/combined'
-        
-        if not os.path.exists(combined_dir):
-            self.logger.error(f"Directory {combined_dir} not found!")
-            return configs
-        
-        all_file = os.path.join(combined_dir, 'all.txt')
-        if os.path.exists(all_file):
-            with open(all_file, 'r', encoding='utf-8', errors='ignore') as f:
-                for line in f:
-                    line = line.strip()
-                    if line and not line.startswith('#'):
-                        configs.append(line)
-        
-        if not configs:
-            for filename in os.listdir(combined_dir):
-                if filename.endswith('.txt'):
-                    filepath = os.path.join(combined_dir, filename)
-                    with open(filepath, 'r', encoding='utf-8', errors='ignore') as f:
-                        for line in f:
-                            line = line.strip()
-                            if line and not line.startswith('#'):
-                                configs.append(line)
-        
-        return list(set(configs))
-    
-    def print_summary(self, stats):
-        print("=" * 70)
-        print("ENHANCED COUNTRY CATEGORIZATION SUMMARY")
-        print("=" * 70)
-        
-        total = sum(stats.values())
-        print(f"Total configurations processed: {total}")
+        print("\n✅ PROCESSING COMPLETE")
+        print(f"Total configurations: {sum(stats.values())}")
         print(f"Countries identified: {len(stats)}")
         
         print("\nTop 10 countries:")
@@ -665,18 +705,12 @@ class EnhancedCountryCategorizer:
         print("-" * 40)
         
         sorted_stats = sorted(stats.items(), key=lambda x: x[1], reverse=True)
+        total = sum(stats.values())
+        
         for country, count in sorted_stats[:10]:
             percentage = (count / total * 100) if total > 0 else 0
             print(f"{country:<10} {count:<10} {percentage:<10.2f}")
         
-        errors = sum(count for country, count in stats.items() 
-                    if country in ['INVALID', 'DNS_FAIL', 'NO_HOST', 'PARSE_ERROR'])
-        skipped = stats.get('SKIPPED', 0)
-        cdn = stats.get('CDN_PROXY', 0)
-        
-        print(f"\nErrors/Invalid: {errors}")
-        print(f"Skipped countries: {skipped}")
-        print(f"CDN/Proxy detected: {cdn}")
         print("=" * 70)
 
 def main():

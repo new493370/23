@@ -19,11 +19,7 @@ SOURCES = [
     "https://cdn.jsdelivr.net/gh/Firmfox/Proxify@main/v2ray_configs/seperated_by_protocol/other.txt",
     "https://cdn.jsdelivr.net/gh/begugla0/nashvpn@main/hysteria2.txt",
     "https://cdn.jsdelivr.net/gh/LowiKLive/BypassWhitelistRu@main/WhiteList-Bypass_Ru.txt",
-    "https://cdn.jsdelivr.net/gh/roosterkid/openproxylist@main/V2RAY_RAW.txt",
-    "https://raw.githubusercontent.com/vlesscollector/vlesscollector/refs/heads/main/vless_configs.txt",
-    "https://raw.githubusercontent.com/MhdiTaheri/V2rayCollector_Py/main/sub/Mix/mix.txt",
-    "https://raw.githubusercontent.com/Firmfox/Proxify/refs/heads/main/v2ray_configs/seperated_by_protocol/other.txt",
-    "https://raw.githubusercontent.com/Surfboardv2ray/TGParse/refs/heads/main/configtg.txt"
+    "https://cdn.jsdelivr.net/gh/roosterkid/openproxylist@main/V2RAY_RAW.txt"
 ]
 
 class GitHubConfigExtractor:

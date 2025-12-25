@@ -1,7 +1,12 @@
 # HK - VLESS Configurations
-# Updated: 2025-12-25 16:01:01
-# Count: 2
+# Updated: 2025-12-25 16:30:18
+# Count: 7
 # Country Code: HK
 
 vless://daredevill_404@46.8.78.214:56094?type=xhttp&encryption=none&path=%2F%40daredevill_404%40daredevill_404%40daredevill_404&host=&mode=auto&security=none#ARISTA🔥
-vless://824dc1b1-e35b-4121-ad73-9acaf13d6410@n1761184282.74qxv.top:443?path=/824dc1b1-e35b-4121-ad73-9acaf13d6410&security=tls&encryption=none&host=n1761184282.74qxv.top&fp=chrome&type=ws&sni=n1761184282.74qxv.top#ARISTA🔥
+vless://824dc1b1-e35b-4121-ad73-9acaf13d6410@n1761184282.74qxv.top:443?path=%2F824dc1b1-e35b-4121-ad73-9acaf13d6410&security=tls&encryption=none&host=n1761184282.74qxv.top&fp=chrome&type=ws&sni=n1761184282.74qxv.top#ARISTA🔥
+vless://a4c6bbd7-6ea5-44b2-9829-08f5ae615d49@47.76.252.138:443?encryption=none&security=tls&sni=n1761184273.mv7wh.tech&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=n1761184273.mv7wh.tech&path=%2Fa4c6bbd7-6ea5-44b2-9829-08f5ae615d49#ARISTA🔥
+vless://45553a57-d94e-46bd-bea7-306eefab0d58@verahk1.uspn.io:8443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=xverahk1.uspn.io&fp=chrome&pbk=63yW4tl7SgDqIGhPc8pakSHJRi4yQpyePUEaoBPm5Fs&sid=dcedb9f230283db1&packetEncoding=xudp#ARISTA🔥
+vless://200fa9ac-dc45-48c3-a278-94cdc18e008e@47.239.5.71:36944?security=none&encryption=none&headerType=none&type=tcp#ARISTA🔥
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@156.238.18.163:2095?path=/Telegram-FILTERK0SH-Telegram-FILTERK0SH-Telegram-FILTERK0SH-Telegram-FILTERK0SH-Telegram-FILTERK0SH-Telegram-FILTERK0SH-Telegram-FILTERK0SH-Telegram-FILTERK0SH-Telegram-FILTERK0SH-Telegram-FILTERK0SH-Telegram-FILTERK0SH&security=&encryption=none&host=redw.pooriam.ir&type=ws#ARISTA🔥
+vless://d80b9af5-5351-4d37-8ba5-c9a7fca650f6@45.38.42.220:2085?security=none&encryption=none&host=www.speedtest.net&headerType=http&type=tcp#ARISTA🔥

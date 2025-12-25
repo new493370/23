@@ -1,4 +1,4 @@
-name: Update Configs Every 3 Hours
+name: Update ARISTA Configs Every 3 Hours
 
 on:
   schedule:
@@ -18,7 +18,9 @@ jobs:
     steps:
     - name: Checkout repository
       uses: actions/checkout@v4
-      
+      with:
+        fetch-depth: 0
+        
     - name: Random delay
       run: sleep $((RANDOM % 300 + 60))
       
@@ -67,6 +69,10 @@ jobs:
         git config --global user.name "github-actions[bot]"
         git config --global user.email "github-actions[bot]@users.noreply.github.com"
         
+    - name: Pull latest changes (avoid conflict)
+      run: |
+        git pull origin main --rebase || true
+        
     - name: Commit and push changes
       run: |
         git add .
@@ -74,5 +80,6 @@ jobs:
           echo "No changes to commit"
         else
           git commit -m "🔄 Configs update $(date -u '+%Y-%m-%d %H:%M')"
-          git push
+          git pull origin main --rebase --autostash
+          git push origin main
         fi

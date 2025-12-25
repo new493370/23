@@ -1,17 +1,8 @@
 # AZ - VLESS Configurations
-# Updated: 2025-12-25 16:50:09
-# Count: 12
+# Updated: 2025-12-25 17:17:38
+# Count: 3
 # Country Code: AZ
 
-vless://2668fdee-331d-4770-8244-d2a4efbf6ef8@180.149.44.70:4655?type=tcp&encryption=none#ARISTA🔥
-vless://2668fdee-331d-4770-8244-d2a4efbf6ef8@180.149.44.70:4655?security=none&type=tcp&note=@freeOnlineVPN#ARISTA🔥
-vless://2668fdee-331d-4770-8244-d2a4efbf6ef8@180.149.44.70:4655?security=none&type=tcp#ARISTA🔥
 vless://2668fdee-331d-4770-8244-d2a4efbf6ef8@180.149.44.70:4655?security=none&encryption=none&headerType=none&type=tcp#ARISTA🔥
-vless://892930fd-0235-4352-817d-01a3ac3c70c5@180.149.44.70:4655/?type=tcp&encryption=none=ELiV2RAY--ELiV2RAY--ELiV2RAY--ELiV2RAY--ELiV2RAY--ELiV2RAY&flow=#ARISTA🔥
-vless://05b2c8e6-3fbd-40e9-ae9a-799f9a8d46a8@180.149.44.70:4655?security=&encryption=none&headerType=none=/@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@TEHRANARGO&type=tcp#ARISTA🔥
-vless://05b2c8e6-3fbd-40e9-ae9a-799f9a8d46a8@180.149.44.70:4655?security=none&encryption=none&headerType=none&type=tcp#ARISTA🔥
-vless://2668fdee-331d-4770-8244-d2a4efbf6ef8@180.149.44.70:4655/?type=tcp&encryption=none&flow=#ARISTA🔥
-vless://2668fdee-331d-4770-8244-d2a4efbf6ef8@180.149.44.70:4655?encryption=none&security=none&type=tcp&headerType=none#ARISTA🔥
-vless://2668fdee-331d-4770-8244-d2a4efbf6ef8@180.149.44.70:4655?encryption=none&security=none&type=tcp&headerType=none&note=@freeOnlineVPN#ARISTA🔥
+vless://2668fdee-331d-4770-8244-d2a4efbf6ef8@180.149.44.70:4655?type=tcp&encryption=none#ARISTA🔥
 vless://2668fdee-331d-4770-8244-d2a4efbf6ef8@180.149.44.70:4655?security=none&encryption=none&headerType=none&type=tcp&note=@freeOnlineVPN#ARISTA🔥
-vless://892930fd-0235-4352-817d-01a3ac3c70c5@180.149.44.70:4655?security=none&encryption=none&headerType=none&type=tcp#ARISTA🔥

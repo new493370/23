@@ -1,7 +1,0 @@
-# LT - VLESS Configurations
-# Updated: 2025-12-25 16:50:09
-# Count: 2
-# Country Code: LT
-
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@5.199.169.208:8880?security=&type=grpc&encryption=none#ARISTA🔥
-vless://137c2b05-bcd7-4fe7-a2bb-25b25b25e366@ippool.penubit.site:2087?encryption=none&type=httpupgrade&host=ndgr.penubit.site&path=/Penubit&security=tls&fp=chrome&sni=ndgr.penubit.site&alpn=http/1.1&mux=4#ARISTA🔥

@@ -1,28 +1,6 @@
 # BG - VLESS Configurations
-# Updated: 2025-12-25 16:50:09
-# Count: 23
+# Updated: 2025-12-25 17:17:38
+# Count: 1
 # Country Code: BG
 
 vless://f7b4be8f-9785-4dbc-98f9-91b816d9a6bd@95.164.6.156:443?path=%2Ffpurikws&security=tls&encryption=none&type=ws#ARISTA🔥
-vless://988cc86a-18f0-4420-a716-357c7d78aac4@95.164.6.131:443?encryption=none&security=tls&fp=chrome&insecure=0&allowInsecure=0&type=ws&path=%2Fzajenxws#ARISTA🔥
-vless://f7b4be8f-9785-4dbc-98f9-91b816d9a6bd@95.164.6.156:443?encryption=none&security=tls&fp=chrome&insecure=0&allowInsecure=0&type=ws&path=%2Ffpurikws#ARISTA🔥
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.6.149:8880?mode=gun&security=&encryption=none&type=grpc#ARISTA🔥
-vless://8672bdcd-e331-464d-9ed8-93a242ca7d2e@89.44.197.77:15946?path=/&security=none&encryption=none&type=ws#ARISTA🔥
-vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@95.164.18.5:2082?path=/&security=none&encryption=none&host=/?BIA_TELEGRAM@v2ray_configs_pools&type=ws#ARISTA🔥
-vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@95.164.18.5:2082?path=/&security=none&encryption=none&host=/v2ray_configs_pools---v2ray_configs_pools?ed=2560&type=ws#ARISTA🔥
-vless://c1853115-eb6b-4592-b01f-05037d33505d@bg.fasssst.ru:443?security=reality&encryption=none&pbk=v5phvruLtbRahHL0xJtl77s4sXHiuSHzUTPq2znyCF4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=bg.fasssst.ru&sid=f5b76860a3c9c3f5#ARISTA🔥
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638938180050767269.birjand-drc-tusabl.info:8880?mode=gun&security=none&encryption=none&type=grpc#ARISTA🔥
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638946986851068158.hamedan-drc-tusabl.info:8880?mode=gun&security=none&encryption=none&type=grpc#ARISTA🔥
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638955432252149982.shiraz-prx-dnraact.info:8880?mode=gun&security=none&encryption=none&type=grpc#ARISTA🔥
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.18.181:8880?mode=gun&security=none&encryption=none&type=grpc#ARISTA🔥
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.6.149:8880?mode=gun&security=none&encryption=none&type=grpc#ARISTA🔥
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.6.156:8880?mode=gun&security=none&encryption=none&fp=chrome&type=grpc#ARISTA🔥
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.6.169:8880?mode=gun&security=none&encryption=none&type=grpc#ARISTA🔥
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.6.183:8880?mode=gun&security=none&encryption=none&authority=?ed=2048HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN&type=grpc#ARISTA🔥
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.6.183:8880?mode=gun&security=none&encryption=none&type=grpc#ARISTA🔥
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.6.22:8880?mode=gun&security=none&encryption=none&authority=telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray&type=grpc#ARISTA🔥
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.6.26:8880?mode=gun&security=none&encryption=none&type=grpc#ARISTA🔥
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.6.65:8880?mode=gun&security=&encryption=none&type=grpc#ARISTA🔥
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.6.7:8880?encryption=none&type=grpc&mode=gun&authority=/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn#ARISTA🔥
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.88.186:8880?mode=gun&security=none&encryption=none&fp=chrome&type=grpc#ARISTA🔥
-vless://f7b4be8f-9785-4dbc-98f9-91b816d9a6bd@95.164.6.156:443?encryption=none&security=tls&allowInsecure=1&type=ws&path=/fpurikws#ARISTA🔥

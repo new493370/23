@@ -17,19 +17,13 @@ SOURCES = [
     "https://cdn.jsdelivr.net/gh/parvinxs/Submahsanetxsparvin@main/Sub.mahsa.xsparvin",
     "https://raw.githubusercontent.com/parvinxs/Fssociety/refs/heads/main/Fssociety.sub",
     "https://cdn.jsdelivr.net/gh/Firmfox/Proxify@main/v2ray_configs/seperated_by_protocol/other.txt",
-    "https://cdn.jsdelivr.net/gh/V2RAYCONFIGSPOOL/V2RAY_SUB@main/v2ray_configs_no1.txt",
-    "https://cdn.jsdelivr.net/gh/V2RAYCONFIGSPOOL/V2RAY_SUB@main/v2ray_configs_no2.txt",
-    "https://cdn.jsdelivr.net/gh/V2RAYCONFIGSPOOL/V2RAY_SUB@main/v2ray_configs_no3.txt",
-    "https://cdn.jsdelivr.net/gh/V2RAYCONFIGSPOOL/V2RAY_SUB@main/v2ray_configs_no4.txt",
-    "https://cdn.jsdelivr.net/gh/V2RAYCONFIGSPOOL/V2RAY_SUB@main/v2ray_configs_no5.txt",
-    "https://cdn.jsdelivr.net/gh/V2RAYCONFIGSPOOL/V2RAY_SUB@main/v2ray_configs_no6.txt",
-    "https://cdn.jsdelivr.net/gh/V2RAYCONFIGSPOOL/V2RAY_SUB@main/v2ray_configs_no7.txt",
-    "https://cdn.jsdelivr.net/gh/V2RAYCONFIGSPOOL/V2RAY_SUB@main/v2ray_configs_no8.txt",
-    "https://cdn.jsdelivr.net/gh/V2RAYCONFIGSPOOL/V2RAY_SUB@main/v2ray_configs_no9.txt",
-    "https://cdn.jsdelivr.net/gh/V2RAYCONFIGSPOOL/V2RAY_SUB@main/v2ray_configs_no10.txt",
     "https://cdn.jsdelivr.net/gh/begugla0/nashvpn@main/hysteria2.txt",
     "https://cdn.jsdelivr.net/gh/LowiKLive/BypassWhitelistRu@main/WhiteList-Bypass_Ru.txt",
-    "https://cdn.jsdelivr.net/gh/roosterkid/openproxylist@main/V2RAY_RAW.txt"
+    "https://cdn.jsdelivr.net/gh/roosterkid/openproxylist@main/V2RAY_RAW.txt",
+    "https://raw.githubusercontent.com/vlesscollector/vlesscollector/refs/heads/main/vless_configs.txt",
+    "https://raw.githubusercontent.com/MhdiTaheri/V2rayCollector_Py/main/sub/Mix/mix.txt",
+    "https://raw.githubusercontent.com/Firmfox/Proxify/refs/heads/main/v2ray_configs/seperated_by_protocol/other.txt",
+    "https://raw.githubusercontent.com/Surfboardv2ray/TGParse/refs/heads/main/configtg.txt"
 ]
 
 class GitHubConfigExtractor:

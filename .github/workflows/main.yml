@@ -1,8 +1,8 @@
-name: Update Configs Every 12 Hours
+name: Update Configs Every 3 Hours
 
 on:
   schedule:
-    - cron: '0 */12 * * *'
+    - cron: '0 */3 * * *'
   workflow_dispatch:
   push:
     branches: [ main ]

@@ -30,21 +30,12 @@ jobs:
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
-        pip install requests beautifulsoup4 geoip2 tqdm
-        pip install dnspython
+        pip install requests beautifulsoup4 geoip2
         
     - name: Clean old config files
       run: |
         rm -rf configs/
         mkdir -p configs/telegram configs/github configs/combined configs/country
-        
-    - name: Download GeoLite2 database
-      run: |
-        wget -q "https://git.io/GeoLite2-Country.mmdb" -O GeoLite2-Country.mmdb || true
-        if [ ! -f "GeoLite2-Country.mmdb" ]; then
-          echo "Using fallback GeoIP database"
-          wget -q "https://cdn.jsdelivr.net/gh/P3TERX/GeoLite.mmdb@latest/GeoLite2-Country.mmdb" -O GeoLite2-Country.mmdb
-        fi
         
     - name: Run Telegram Config Extractor
       run: python telegram_extractor.py
@@ -57,51 +48,19 @@ jobs:
     - name: Combine Configs
       run: python combine_configs.py
         
-    - name: Enhanced Country Categorization
-      run: python enhanced_country_categorizer.py
+    - name: Run Country Classifier
+      run: python country_classifier.py
+      timeout-minutes: 30
+      env:
+        MAX_WORKERS: 20
         
     - name: Create summary
       run: |
         date > last_update.txt
         echo "Updated: $(date -u '+%Y-%m-%d %H:%M UTC')" > update_info.txt
-        echo "Enhanced country categorized configs available in configs/country/" >> update_info.txt
-        
-    - name: Ensure country directory has content
-      run: |
-        if [ -d "configs/country" ]; then
-          echo "Country directory exists"
-          ls -la configs/country/
-          if [ -z "$(ls -A configs/country/)" ]; then
-            echo "Warning: Country directory is empty!"
-            touch configs/country/README.txt
-            echo "Country categorization will be populated on next run" > configs/country/README.txt
-          fi
-        else
-          mkdir -p configs/country
-          touch configs/country/README.txt
-          echo "Country categorization will be populated on next run" > configs/country/README.txt
-        fi
-        
-    - name: Reorder directories
-      run: |
-        if [ -d "configs" ]; then
-          mkdir -p temp_configs
-          
-          [ -d "configs/combined" ] && mv configs/combined temp_configs/ || true
-          [ -d "configs/github" ] && mv configs/github temp_configs/ || true
-          [ -d "configs/telegram" ] && mv configs/telegram temp_configs/ || true
-          [ -d "configs/country" ] && mv configs/country temp_configs/ || true
-          
-          rm -rf configs
-          mkdir -p configs
-          
-          [ -d "temp_configs/combined" ] && mv temp_configs/combined configs/ || true
-          [ -d "temp_configs/github" ] && mv temp_configs/github configs/ || true
-          [ -d "temp_configs/telegram" ] && mv temp_configs/telegram configs/ || true
-          [ -d "temp_configs/country" ] && mv temp_configs/country configs/ || true
-          
-          rm -rf temp_configs
-        fi
+        echo "Telegram configs: $(wc -l < configs/telegram/all.txt 2>/dev/null || echo 0)" >> update_info.txt
+        echo "GitHub configs: $(wc -l < configs/github/all.txt 2>/dev/null || echo 0)" >> update_info.txt
+        echo "Combined configs: $(wc -l < configs/combined/all.txt 2>/dev/null || echo 0)" >> update_info.txt
         
     - name: Configure Git
       run: |
@@ -116,4 +75,4 @@ jobs:
         else
           git commit -m "🔄 Configs update $(date -u '+%Y-%m-%d %H:%M')"
           git push
-        fiv
+        fi

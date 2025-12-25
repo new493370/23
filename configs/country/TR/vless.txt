@@ -1,10 +1,10 @@
 # TR - VLESS Configurations
-# Updated: 2025-12-25 16:30:18
+# Updated: 2025-12-25 16:50:09
 # Count: 46
 # Country Code: TR
 
-vless://ff0e767c-747e-4a6d-b3c9-ba0d602ec939@tu.a.speedgloobalontop.ir:2088?security=none&type=tcp&headerType=&path=&host=#ARISTA🔥
 vless://1efe68bb-88bd-480e-84e5-5be8ce28d1b3@fast-tr.apbxz.com:2053?security=none&type=tcp&headerType=http&path=%2F&host=JouRNaloFbIgdATA.SpRinGeropEn.coM.#ARISTA🔥
+vless://ff0e767c-747e-4a6d-b3c9-ba0d602ec939@tu.a.speedgloobalontop.ir:2088?security=none&type=tcp&headerType=&path=&host=#ARISTA🔥
 vless://0b7286d8-0216-4a73-bc5a-197a4d7c6fcb@vip3.seniorrnet.info:34568?mode=gun&security=none&encryption=none&type=grpc&serviceName=@SEVEN_PING@SEVEN_PING@SEVEN_PING@SEVEN_PING@SEVEN_PING@SEVEN_PING@SEVEN_PING@SEVEN_PING#ARISTA🔥
 vless://7ee4671c-6b18-4574-8498-d6d7979218e5@ardagulerturk.vtuix.space:7035?path=%2F&security=none&encryption=none&host=filimo.com&type=ws#ARISTA🔥
 vless://0182e7fb-802a-4578-95cf-ec1dbfe0b0f3@br.michelstore.shop:49720?type=tcp&encryption=none&security=none#ARISTA🔥
@@ -23,16 +23,16 @@ vless://3da86d70-6fea-4440-9975-24382a36028b@tr.goyit.com:443?mode=gun&security=
 vless://52a1f20b-e3e2-4280-a953-1c7e940408b6@103.231.75.17:443?path=/lfcinsws&security=tls&encryption=none&type=ws#ARISTA🔥
 vless://52a1f20b-e3e2-4280-a953-1c7e940408b6@103.231.75.17:443?path=/lfcinsws?--TELEGRAM-v2ray_configs_pools----TELEGRAM-v2ray_configs_pools&security=tls&encryption=none&type=ws#ARISTA🔥
 vless://5d167c53-11ad-4c7c-a7ed-f8325c5d4a79@193.111.76.108:3039?security=none&encryption=none&headerType=none&type=tcp#ARISTA🔥
+vless://5e2581cf-75e4-41b7-8f92-7e68fdf60b69@movaghat50.goldspeed.org:23143?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#ARISTA🔥
 vless://61545806-60b6-4b38-9d2f-884081a5a913@188.132.141.112:33727?security=none&encryption=none&headerType=http&type=tcp#ARISTA🔥
 vless://61545806-60b6-4b38-9d2f-884081a5a913@188.132.141.112:410?security=none&encryption=none&headerType=http&type=tcp#ARISTA🔥
 vless://62237966-b2c6-4bf9-a269-3717e1773c99@38.180.105.218:9091?security=none&encryption=none&host=tgju.org&headerType=http&type=tcp#ARISTA🔥
-vless://5e2581cf-75e4-41b7-8f92-7e68fdf60b69@movaghat50.goldspeed.org:23143?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#ARISTA🔥
 vless://6d9a7312-5021-40b0-9e2b-d08b6ef0d917@45.136.5.109:3030?security=none&serviceName=Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH&encryption=none&headerType=none&type=tcp#ARISTA🔥
 vless://6d9a7312-5021-40b0-9e2b-d08b6ef0d917@45.136.5.109:8880?security=none&serviceName=Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH&encryption=none&headerType=none&type=tcp#ARISTA🔥
 vless://769774c9-8eb7-4ee4-8093-d56c92ed9e69@95.134.130.138:5437?encryption=none&type=grpc&mode=gun&serviceName=@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&security=none#ARISTA🔥
 vless://7b379ab3-6402-4d32-84e1-3abe074ed1c4@89.144.20.173:12146?security=none&encryption=none&headerType=none&type=tcp#ARISTA🔥
-vless://9b1b61ca-2b67-4091-a777-5baa7a8f741f@188.132.141.58:7035?path=/&security=none&encryption=none&host=filimo.com&type=ws#ARISTA🔥
 vless://99aad62d-a474-4c78-c7be-35a5a7d63826@159.69.101.178:29271?encryption=none&security=reality&sni=www.uptvs.com&fp=chrome&pbk=I2eGv3avw-4z-JRcOfJ_q878ktkhjgUTAt58Z2aLOiA&spx=/&type=grpc#ARISTA🔥
+vless://9b1b61ca-2b67-4091-a777-5baa7a8f741f@188.132.141.58:7035?path=/&security=none&encryption=none&host=filimo.com&type=ws#ARISTA🔥
 vless://a0c62a1e-2360-4586-81d8-e5db7ff0599e@45.136.5.84:3030?security=none&serviceName=Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH&encryption=none&headerType=none&type=tcp#ARISTA🔥
 vless://a0c62a1e-2360-4586-81d8-e5db7ff0599e@45.136.5.84:8880?security=none&serviceName=Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH&encryption=none&headerType=none&type=tcp#ARISTA🔥
 vless://a2e4d2b9-a4e6-4d54-f320-1a8f3f8ab1a8@159.69.101.178:38141?encryption=none&security=reality&sni=www.uptvs.com&fp=chrome&pbk=I2eGv3avw-4z-JRcOfJ_q878ktkhjgUTAt58Z2aLOiA&spx=/&type=grpc#ARISTA🔥

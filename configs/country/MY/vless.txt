@@ -1,8 +1,9 @@
 # MY - VLESS Configurations
-# Updated: 2025-12-25 16:30:18
-# Count: 4
+# Updated: 2025-12-25 16:50:09
+# Count: 5
 # Country Code: MY
 
+vless://309fa273-6579-4cb2-9143-7cad50401eba@45.89.107.200:8443?security=reality&amp;encryption=none&amp;pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=www.cloudflare.com&amp;sid=7cad5040#ARISTA🔥
 vless://6fe4cdfd-11a8-4d3b-94a4-4b735da523de@45.89.107.244:443?path=/ajnexnws&security=tls&encryption=none&type=ws#ARISTA🔥
 vless://7df5e8d1-5c3f-44d7-b62d-0f8b40d875ea@vpn-srv-3.circlevpn.net:35512?security=tls&encryption=none&headerType=none&fp=chrome&type=tcp&sni=vpn-srv-3.circlevpn.net#ARISTA🔥
 vless://8c374da3-b3cb-4460-9098-0837973e228f@45.89.107.232:443?path=/mfgdwhws&security=tls&encryption=none&type=ws#ARISTA🔥

@@ -1,39 +1,39 @@
 # FI - VLESS Configurations
-# Updated: 2025-12-26 19:06:52
-# Count: 49
+# Updated: 2025-12-26 21:41:38
+# Count: 50
 # Country Code: FI
 
-vless://5a76615b-10e1-46f7-d521-17662f3c7287@157.180.80.98:8880?mode=gun&security=none&encryption=none&type=grpc#ARISTA🔥
-vless://f716fa40-e997-42d8-b93c-7122c63cc122@osi1.speedx3.info:8880?security=none&encryption=none&host=zhaket.com&headerType=http&type=tcp#ARISTA🔥
-vless://7ad71a16-f67c-410b-968e-187fd5b49f94@46.62.206.155:31000?path=%2F&security=none&encryption=none&type=ws#ARISTA🔥
-vless://015e6f7b-c6df-470a-a22d-62b8b9947a4d@77.42.77.66:32323?type=tcp&encryption=none&security=none#ARISTA🔥
-vless://73237955-b2c6-4bf9-a269-4717e1773c83@pnl.m0rt3zsh0pping2.ir:9091?security=none&encryption=none&host=tgju.org&headerType=http&type=tcp#ARISTA🔥
-vless://a13b4b95-7997-4c0d-8225-38dee08316ad@37.27.40.194:24199?encryption=none&type=ws&security=none#ARISTA🔥
-vless://ef8066b6-3983-4684-aef7-6dca41d8d9d2@37.27.40.194:24199?encryption=none&type=ws&security=none#ARISTA🔥
-vless://f803f14d-5722-463a-8941-e535ae934441@37.27.40.194:24199?encryption=none&type=ws&security=none#ARISTA🔥
-vless://61d840fc-8695-4870-ba81-47fc82f7787b@157.180.29.25:24199?encryption=none&type=ws&security=none#ARISTA🔥
-vless://b17ec18e-99af-40af-962b-0ad1b987d740@65.109.201.108:443?security=none&encryption=none&headerType=none&type=tcp#ARISTA🔥
-vless://750c5087-ca8d-4878-a30a-15bc8bbadfac@m21a.vip784.com:33801?encryption=none&security=none&type=tcp&headerType=http&host=varzesh3.ir#ARISTA🔥
-vless://80c19783-5c4f-4794-ae0b-6efd11fd27ab@157.180.120.194:40200?security=none&encryption=none&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&type=tcp#ARISTA🔥
-vless://2668fdee-331d-4770-8244-d2a4efbf6ef8@85.9.216.145:4655?security=none&encryption=none&headerType=none&type=tcp#ARISTA🔥
-vless://2668fdee-331d-4770-8244-d2a4efbf6ef8@81.27.108.239:4657?security=none&encryption=none&headerType=none&type=tcp#ARISTA🔥
-vless://b4930c22-82e9-4efa-85de-751aacd98d3b@65.109.198.23:53330?path=%2F&security=none&encryption=none&type=ws#ARISTA🔥
-vless://47867494-9509-4c32-a90a-e9253b033279@fn11.irsbv2.ir:443?path=%2F&security=none&encryption=none&host=cloudflare.com&type=ws#ARISTA🔥
-vless://80c19783-5c4f-4794-ae0b-6efd11fd27ab@77.42.77.66:40200?note=---Telegram---@Argo_VPN1---Telegram---@Argo_VPN1---Telegram---@Argo_VPN1---Telegram---@Argo_VPN1---&type=tcp&encryption=none&security=none#ARISTA🔥
-vless://127afb57-1197-4e9f-995e-ea78deddc226@n2vpn-helper.projectis.ir:2083?path=%2F%40n2vpn&security=tls&encryption=none&host=n2vpn.projectis.ir&fp=chrome&type=ws&sni=n2vpn.projectis.ir#ARISTA🔥
-vless://fa80408d-f7ce-4c96-ac0b-6c1b791b5b69@n2vpn-helper.projectis.ir:2053?path=%2F%40n2vpn&security=tls&encryption=none&host=n2vpn.projectis.ir&fp=chrome&type=ws&sni=n2vpn.projectis.ir#ARISTA🔥
-vless://b8503e70-19fd-4158-9bfd-1ed150b94b9d@n2vpn-helper.projectis.ir:2053?path=%2F%40n2vpn&security=tls&encryption=none&host=n2vpn.projectis.ir&fp=chrome&type=ws&sni=n2vpn.projectis.ir#ARISTA🔥
-vless://466346a8-84ec-4f9b-8fc9-f1ccb079dd67@n2vpn-helper.projectis.ir:2083?path=%2F%40n2vpn&security=tls&encryption=none&host=n2vpn.projectis.ir&fp=chrome&type=ws&sni=n2vpn.projectis.ir#ARISTA🔥
-vless://e8493fdd-75ee-4165-b616-9a9dc974f99d@cdn07.irantechsoftwares.com:443?security=reality&encryption=none&pbk=iGKunF680EUDy-6nhdD4uCKhOWOCblf78iUFkJcvY0c&headerType=none&fp=random&spx=%2FVDsFOgkPOwwqcrc&type=tcp&flow=xtls-rprx-vision&sni=cdn07.irantechsoftwares.com&sid=a110#ARISTA🔥
-vless://2668fdee-331d-4770-8244-d2a4efbf6ef8@81.27.100.89:4655?security=none&encryption=none&headerType=none&type=tcp#ARISTA🔥
 vless://14be96d8-843c-45f9-935d-aeabeb44a663@65.109.198.23:53330?path=%2F&security=none&encryption=none&type=ws#ARISTA🔥
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@157.180.29.19:8880?mode=gun&security=none&encryption=none&type=grpc#ARISTA🔥
+vless://015e6f7b-c6df-470a-a22d-62b8b9947a4d@77.42.77.66:32323?type=tcp&encryption=none&security=none#ARISTA🔥
+vless://80c19783-5c4f-4794-ae0b-6efd11fd27ab@157.180.120.194:40200?security=none&encryption=none&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&type=tcp#ARISTA🔥
+vless://b17ec18e-99af-40af-962b-0ad1b987d740@65.109.201.108:443?security=none&encryption=none&headerType=none&type=tcp#ARISTA🔥
+vless://61d840fc-8695-4870-ba81-47fc82f7787b@157.180.29.25:24199?encryption=none&type=ws&security=none#ARISTA🔥
 vless://320c06e7-7197-495a-9e66-4dbed644ff23@157.180.29.25:24199?encryption=none&type=ws&security=none#ARISTA🔥
 vless://201771a8-7ed5-4155-8295-00da0a7181ef@37.27.220.218:24199?encryption=none&type=ws&security=none#ARISTA🔥
 vless://1a56d473-d6ba-464e-b8ff-94cd824ef660@37.27.220.218:24199?encryption=none&type=ws&security=none#ARISTA🔥
-vless://8f82acbe-f328-471a-8000-fbea349e6ce0@65.109.145.54:443?security=tls&encryption=none&headerType=none&fp=chrome&type=tcp&sni=dedic.app-browser.org#ARISTA🔥
 vless://329d8863-42ce-4015-b9b9-8417499cc174@cleanv2itech1.freesdns.info:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&host=m1.freesdns.info.&fp=chrome&type=ws&sni=m1.freesdns.info.#ARISTA🔥
+vless://a650d3e6-550b-4ae8-b7bc-f7223abba5e4@65.109.198.23:53330?path=%2F&security=none&encryption=none&type=ws#ARISTA🔥
+vless://a13b4b95-7997-4c0d-8225-38dee08316ad@37.27.40.194:24199?encryption=none&type=ws&security=none#ARISTA🔥
+vless://ef8066b6-3983-4684-aef7-6dca41d8d9d2@37.27.40.194:24199?encryption=none&type=ws&security=none#ARISTA🔥
+vless://f803f14d-5722-463a-8941-e535ae934441@37.27.40.194:24199?encryption=none&type=ws&security=none#ARISTA🔥
+vless://8f82acbe-f328-471a-8000-fbea349e6ce0@65.109.145.54:443?security=tls&encryption=none&headerType=none&fp=chrome&type=tcp&sni=dedic.app-browser.org#ARISTA🔥
+vless://f716fa40-e997-42d8-b93c-7122c63cc122@osi1.speedx3.info:8880?security=none&encryption=none&host=zhaket.com&headerType=http&type=tcp#ARISTA🔥
+vless://750c5087-ca8d-4878-a30a-15bc8bbadfac@m21a.vip784.com:33801?encryption=none&security=none&type=tcp&headerType=http&host=varzesh3.ir#ARISTA🔥
+vless://5a76615b-10e1-46f7-d521-17662f3c7287@157.180.80.98:8880?mode=gun&security=none&encryption=none&type=grpc#ARISTA🔥
+vless://b4930c22-82e9-4efa-85de-751aacd98d3b@65.109.198.23:53330?path=%2F&security=none&encryption=none&type=ws#ARISTA🔥
+vless://2668fdee-331d-4770-8244-d2a4efbf6ef8@85.9.216.145:4655?security=none&encryption=none&headerType=none&type=tcp#ARISTA🔥
+vless://466346a8-84ec-4f9b-8fc9-f1ccb079dd67@n2vpn-helper.projectis.ir:2083?path=%2F%40n2vpn&security=tls&encryption=none&host=n2vpn.projectis.ir&fp=chrome&type=ws&sni=n2vpn.projectis.ir#ARISTA🔥
+vless://fa80408d-f7ce-4c96-ac0b-6c1b791b5b69@n2vpn-helper.projectis.ir:2053?path=%2F%40n2vpn&security=tls&encryption=none&host=n2vpn.projectis.ir&fp=chrome&type=ws&sni=n2vpn.projectis.ir#ARISTA🔥
+vless://127afb57-1197-4e9f-995e-ea78deddc226@n2vpn-helper.projectis.ir:2083?path=%2F%40n2vpn&security=tls&encryption=none&host=n2vpn.projectis.ir&fp=chrome&type=ws&sni=n2vpn.projectis.ir#ARISTA🔥
+vless://b8503e70-19fd-4158-9bfd-1ed150b94b9d@n2vpn-helper.projectis.ir:2053?path=%2F%40n2vpn&security=tls&encryption=none&host=n2vpn.projectis.ir&fp=chrome&type=ws&sni=n2vpn.projectis.ir#ARISTA🔥
+vless://7ad71a16-f67c-410b-968e-187fd5b49f94@46.62.206.155:31000?path=%2F&security=none&encryption=none&type=ws#ARISTA🔥
 vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@92.118.233.110:2096/?type=ws&encryption=none&flow=&path=%2F&security=tls&allowInsecure=1#ARISTA🔥
+vless://2668fdee-331d-4770-8244-d2a4efbf6ef8@81.27.108.239:4657?security=none&encryption=none&headerType=none&type=tcp#ARISTA🔥
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@157.180.29.19:8880?mode=gun&security=none&encryption=none&type=grpc#ARISTA🔥
+vless://73237955-b2c6-4bf9-a269-4717e1773c83@pnl.m0rt3zsh0pping2.ir:9091?security=none&encryption=none&host=tgju.org&headerType=http&type=tcp#ARISTA🔥
+vless://47867494-9509-4c32-a90a-e9253b033279@fn11.irsbv2.ir:443?path=%2F&security=none&encryption=none&host=cloudflare.com&type=ws#ARISTA🔥
+vless://80c19783-5c4f-4794-ae0b-6efd11fd27ab@77.42.77.66:40200?note=---Telegram---@Argo_VPN1---Telegram---@Argo_VPN1---Telegram---@Argo_VPN1---Telegram---@Argo_VPN1---&type=tcp&encryption=none&security=none#ARISTA🔥
+vless://e8493fdd-75ee-4165-b616-9a9dc974f99d@cdn07.irantechsoftwares.com:443?security=reality&encryption=none&pbk=iGKunF680EUDy-6nhdD4uCKhOWOCblf78iUFkJcvY0c&headerType=none&fp=random&spx=%2FVDsFOgkPOwwqcrc&type=tcp&flow=xtls-rprx-vision&sni=cdn07.irantechsoftwares.com&sid=a110#ARISTA🔥
 vless://2668fdee-331d-4770-8244-d2a4efbf6ef8@81.27.102.67:4655?security=none&encryption=none&headerType=none&type=tcp#ARISTA🔥
 vless://2668fdee-331d-4770-8244-d2a4efbf6ef8@81.27.108.239:4657?encryption=none&packetEncoding=xudp#ARISTA🔥
 vless://2668fdee-331d-4770-8244-d2a4efbf6ef8@85.9.216.145:4655?type=tcp&encryption=none#ARISTA🔥
@@ -49,6 +49,7 @@ vless://a8ef99ba-872f-4a3a-87d8-6cc29c63521c@157.180.29.25:18423?path=%2F&securi
 vless://8a9f4774-c02e-4d93-90ee-b6c1765cc021@37.27.220.218:42671?path=%2FNT_Safe&security=none&encryption=none&type=ws#ARISTA🔥
 vless://eb162ab1-a006-4931-b1b3-8fc88a22b10e@vkru.outlinekeys.net:443?security=reality&encryption=none&pbk=aCIjONksX6QbTfFBxN1eFqf5caspiR7QyttJ3kDH9yY&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=vkru.outlinekeys.net#ARISTA🔥
 vless://2668fdee-331d-4770-8244-d2a4efbf6ef8@81.27.102.67:4655?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#ARISTA🔥
+vless://722490e5-0cb0-4387-a6f7-da148349ed73@yoyo-fl.bing-net.com:9031?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#ARISTA🔥
 vless://309fa273-6579-4cb2-9143-7cad50401eba@46.62.128.207:443?security=reality&amp;encryption=none&amp;pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=www.cloudflare.com&amp;sid=7cad5040#ARISTA🔥
 vless://47867494-9509-4c32-a90a-e9253b033279@fn11.irsbv2.ir:443?path=%2F&amp;security=none&amp;encryption=none&amp;host=cloudflare.com&amp;type=ws#ARISTA🔥
-vless://2668fdee-331d-4770-8244-d2a4efbf6ef8@85.9.216.145:4655?security=none&encryption=none&headerType=none&type=tcp&note=@freeOnlineVPN#ARISTA🔥
+vless://2668fdee-331d-4770-8244-d2a4efbf6ef8@85.9.216.145:4655?security=&amp;encryption=none&amp;headerType=none&amp;type=tcp#ARISTA🔥

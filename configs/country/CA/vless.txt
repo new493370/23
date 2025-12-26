@@ -1,7 +1,8 @@
 # CA - VLESS Configurations
-# Updated: 2025-12-26 19:06:52
-# Count: 2
+# Updated: 2025-12-26 21:41:38
+# Count: 3
 # Country Code: CA
 
+vless://e2be0db4-4110-42eb-bca1-ba8df0897319@198.50.119.86:8080?path=%2F39427%2FNextlife&security=none&encryption=none&host=telewebion.com&type=ws#ARISTA🔥
 vless://e2be0db4-4110-42eb-bca1-ba8df0897319@198.50.119.86:8080?path=/39427/Nextlife&security=none&encryption=none&host=telewebion.com&type=ws#ARISTA🔥
-vless://e2be0db4-4110-42eb-bca1-ba8df0897319@198.50.119.86:8080?path=%2F39427%2FNextlife&security=none&encryption=none&type=ws&host=telewebion.com#ARISTA🔥
+vless://309fa273-6579-4cb2-9143-7cad50401eba@85.208.108.136:8443?security=reality&amp;encryption=none&amp;pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=www.cloudflare.com&amp;sid=7cad5040#ARISTA🔥

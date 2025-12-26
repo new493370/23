@@ -1,13 +1,13 @@
 # All Configurations for PL
-# Updated: 2025-12-26 09:58:15
+# Updated: 2025-12-26 14:00:13
 # Total Count: 140
 # Country Code: PL
 
 vless://d00d13b2-5cd3-4648-afa9-807983647ed8@144.31.3.129:443?encryption=none&type=ws&host=sinavm.ir&path=/&security=none#ARISTA🔥
+vless://98cb33a8-d6f7-41f0-8796-e4b471d65df8@144.31.5.179:443?path=%2F&security=&encryption=none&type=ws#ARISTA🔥
 vless://b278fc13-9be7-4e21-90cb-cb52ac0e2469@plb.tunnelguard.ru:443?encryption=none&type=xhttp&mode=auto&path=/&security=tls&fp=firefox&sni=plb.tunnelguard.ru&alpn=h2,http/1.1#ARISTA🔥
 vless://Vpn_Kadeh_Iran@146.59.117.172:41990?type=tcp&path=%2F&host=speedtest.com&headerType=http&security=none#ARISTA🔥
 vless://29f8a74e-c05f-4d2c-a4d3-0a809793ac0a@146.59.117.172:41990?type=tcp&path=%2F&host=speedtest.com&headerType=http&security=none#ARISTA🔥
-vless://98cb33a8-d6f7-41f0-8796-e4b471d65df8@144.31.5.179:443?path=%2F&security=&encryption=none&type=ws#ARISTA🔥
 vless://98cb33a8-d6f7-41f0-8796-e4b471d65df8@144.31.5.179:443?path=/&security=none&encryption=none&type=ws#ARISTA🔥
 vless://b278fc13-9be7-4e21-90cb-cb52ac0e2469@plb.tunnelguard.ru:443?encryption=none&type=xhttp&mode=auto&path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&fp=firefox&sni=plb.tunnelguard.ru#ARISTA🔥
 vless://b278fc13-9be7-4e21-90cb-cb52ac0e2469@plb.tunnelguard.ru:443?mode=auto&path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A1000000%2C%22scMaxConcurrentPosts%22%3A100%2C%22scMinPostsIntervalMs%22%3A30%2C%22xPaddingBytes%22%3A%22100-1000%22%2C%22noGRPCHeader%22%3Afalse%7D&fp=firefox&type=xhttp&sni=plb.tunnelguard.ru#ARISTA🔥

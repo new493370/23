@@ -1,5 +1,5 @@
 # SG - VLESS Configurations
-# Updated: 2025-12-27 07:09:28
+# Updated: 2025-12-27 09:48:33
 # Count: 7
 # Country Code: SG
 
@@ -7,6 +7,6 @@ vless://bfb7355f-da10-470c-99d2-16c5061c403a@152.42.185.230:23675?path=%2FFREE%2
 vless://1bcfabf7-c143-4dab-989b-2b663e7e69c8@free.tharuwa.store:80?encryption=none&type=ws&host=zoom.us&path=%2FFREE%20By%20Tharuwa%20%280767597317%29&security=none#ARISTA🔥
 vless://7ec108c5-5c08-4a9f-ad1b-bf60328792d4@news.zoom.us:2096?encryption=none&type=ws&host=free-server.techsonic.cloud&path=%2Ffree-server.techsonic.cloud&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&sni=free-server.techsonic.cloud#ARISTA🔥
 vless://7ec108c5-5c08-4a9f-ad1b-bf60328792d4@news.zoom.us:2096?path=%2Ffree-server.techsonic.cloud&security=tls&alpn=h3&encryption=none&type=ws&sni=free-server.techsonic.cloud#ARISTA🔥
-vless://abff54b1-a5a6-46a6-a202-08452fd07ae7@217.16.27.217:443?security=reality&encryption=none&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=m.ok.com&sid=7426b0c03ef009dc#ARISTA🔥
 vless://a4cb890e-8251-488e-9439-3403c9a58e55@free-server.techsonic.cloud:443?security=tls&encryption=none&headerType=none&allowinsecure=0&type=tcp#ARISTA🔥
 vless://bfb7355f-da10-470c-99d2-16c5061c403a@152.42.185.230:23675?path=%2FFREE%20By%20Tharuwa%20%280767597317%29&amp;security=&amp;encryption=none&amp;host=m.zoom.us&amp;type=ws#ARISTA🔥
+vless://abff54b1-a5a6-46a6-a202-08452fd07ae7@217.16.27.217:443?security=reality&encryption=none&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=m.ok.com&sid=7426b0c03ef009dc#ARISTA🔥

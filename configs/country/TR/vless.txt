@@ -1,14 +1,11 @@
 # TR - VLESS Configurations
-# Updated: 2025-12-27 07:09:28
-# Count: 9
+# Updated: 2025-12-27 09:48:33
+# Count: 6
 # Country Code: TR
 
-vless://0f42bad0-e525-4b46-9551-c76a65c7333d@br.michelstore.shop:54378/?type=tcp&encryption=none&security=none#ARISTA🔥
-vless://ff0e767c-747e-4a6d-b3c9-ba0d602ec939@tu.a.speedgloobalontop.ir:2088?security=none&type=tcp&headerType=&path=&host=#ARISTA🔥
-vless://1efe68bb-88bd-480e-84e5-5be8ce28d1b3@fast-tr.apbxz.com:2053?security=none&type=tcp&headerType=http&path=%2F&host=JouRNaloFbIgdATA.SpRinGeropEn.coM.#ARISTA🔥
 vless://7ee4671c-6b18-4574-8498-d6d7979218e5@ardagulerturk.vtuix.space:7035?path=%2F&security=none&encryption=none&host=filimo.com&type=ws#ARISTA🔥
 vless://0b7286d8-0216-4a73-bc5a-197a4d7c6fcb@vip3.seniorrnet.info:34568?mode=gun&security=none&encryption=none&type=grpc&serviceName=@SEVEN_PING@SEVEN_PING@SEVEN_PING@SEVEN_PING@SEVEN_PING@SEVEN_PING@SEVEN_PING@SEVEN_PING#ARISTA🔥
-vless://0f42bad0-e525-4b46-9551-c76a65c7333d@br.michelstore.shop:54378?type=tcp&encryption=none&security=none#ARISTA🔥
-vless://aa78a7f9-1f85-44f9-9f99-5f8e1860efc2@br.michelstore.shop:54378?type=tcp&encryption=none&security=none#ARISTA🔥
+vless://1efe68bb-88bd-480e-84e5-5be8ce28d1b3@fast-tr.apbxz.com:2053?security=none&type=tcp&headerType=http&path=%2F&host=JouRNaloFbIgdATA.SpRinGeropEn.coM.#ARISTA🔥
+vless://ff0e767c-747e-4a6d-b3c9-ba0d602ec939@tu.a.speedgloobalontop.ir:2088?security=none&type=tcp&headerType=&path=&host=#ARISTA🔥
 vless://eb162ab1-a006-4931-b1b3-8fc88a22b10e@mailru.ookcdn.ru:443?security=reality&encryption=none&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=mailru.ookcdn.ru#ARISTA🔥
 vless://50897f87-f946-41f8-a709-48c3e588686f@tr.gpairnetwork369.de:3060?security=reality&amp;encryption=none&amp;pbk=NVjEaDFrdzaFQHvMt8BPORsLFR3iD8NA31Dpn-1HRFk&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=www.refersion.com&amp;sid=ecd8d10c1518fb7b#ARISTA🔥

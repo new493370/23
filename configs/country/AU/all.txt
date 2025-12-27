@@ -1,9 +1,8 @@
 # All Configurations for AU
-# Updated: 2025-12-27 07:09:28
-# Total Count: 4
+# Updated: 2025-12-27 09:48:33
+# Total Count: 3
 # Country Code: AU
 
-vless://51d45edb-330a-4aa2-a384-386ad67d3f70@82.115.24.175:28402?security=none&encryption=none&headerType=none&type=tcp#ARISTA🔥
 vless://309fa273-6579-4cb2-9143-7cad50401eba@45.15.185.69:8443?security=reality&amp;encryption=none&amp;pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=www.cloudflare.com&amp;sid=7cad5040#ARISTA🔥
 trojan://FR8IHksUYg@170.64.132.131:8080?security=none&type=tcp&headerType=http&path=/#ARISTA🔥
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTVnQ2WmlXelJJMVl4ZWlnNHhCWndpSk90NmNlWHdHYQ@95.111.222.113:443#ARISTA🔥

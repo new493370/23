@@ -1,6 +1,10 @@
 # AT - VLESS Configurations
-# Updated: 2025-12-27 19:10:34
-# Count: 1
+# Updated: 2025-12-27 21:44:41
+# Count: 5
 # Country Code: AT
 
 vless://e99003e7-f724-4612-b7f5-ad4d2b3bcb9c@node1.telegavpn.org:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=node1.telegavpn.org&fp=&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA&sid=#ARISTA🔥
+vless://c08b8aa6-77a5-4ac8-ae22-260dfff4d572@hajimamadvpnjoinsho.fast199.hosting-ip.com:80/?type=ws&path=%2FJoin----HAJIMAMADVPN---Join----HAJIMAMADVPN---Join----HAJIMAMADVPN---Join----HAJIMAMADVPN---Join----HAJIMAMADVPN---Join----HAJIMAMADVPN---Join----HAJIMAMADVPN&host=downloadha.global.ssl.fastly.net&security=none#ARISTA🔥
+vless://32aec9ba-3966-487e-9b67-29ae27d1e37d@Free.fast199.hosting-ip.com:80?type=xhttp&encryption=none&path=/@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam&host=Mahsazxshop.org&mode=auto&security=none#ARISTA🔥
+vless://36249d3e-6aa8-4d5b-b1cd-4bcce6fd1ce5@Free.fast199.hosting-ip.com:80?type=xhttp&encryption=none&path=/@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam&host=Mahsazxshop.org&mode=auto&security=none#ARISTA🔥
+vless://832a3784-7ae1-4ff2-ab13-5fb4bf8abd28@hajimamadvpnjoinsho.fast199.hosting-ip.com:80?path=%2FJoin----HAJIMAMADVPN---Join----HAJIMAMADVPN---Join----HAJIMAMADVPN---Join----HAJIMAMADVPN---Join----HAJIMAMADVPN---Join----HAJIMAMADVPN---Join----HAJIMAMADVPN&security=none&encryption=none&host=downloadha.global.ssl.fastly.net&type=ws#ARISTA🔥

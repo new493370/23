@@ -1,9 +1,10 @@
 # RU - TROJAN Configurations
-# Updated: 2025-12-28 09:49:28
-# Count: 4
+# Updated: 2025-12-28 13:53:54
+# Count: 5
 # Country Code: RU
 
+trojan://oUFBC3Vs2rYmN8_bR-P7quoL@45.129.3.220:10668/?type=tcp&security=tls&allowInsecure=1#ARISTA🔥
+trojan://VjXsgvA0s4@verarussia1.uspn.io:443?type=ws&path=/trojan&security=tls&fp=chrome&sni=verarussia1.uspn.io#ARISTA🔥
 trojan://BaeSzHdfJIR13l67@70.34.218.149:11930?security=tls&headerType=none&fp=chrome&type=tcp&sni=m.vk.com#ARISTA🔥
 trojan://iCfh96DEJn3%3DQRbzF.Tdl@212.192.214.46:18069?security=tls&headerType=none&type=tcp&sni=www.vk.com#ARISTA🔥
 trojan://OdgHycGphesfLmPMYolUF@172.238.229.254:14051?security=tls&headerType=none&type=tcp&sni=eh.vk.com#ARISTA🔥
-trojan://VjXsgvA0s4@verarussia1.uspn.io:443?type=ws&path=/trojan&security=tls&fp=chrome&sni=verarussia1.uspn.io#ARISTA🔥

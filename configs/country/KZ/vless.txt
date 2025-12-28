@@ -1,6 +1,7 @@
 # KZ - VLESS Configurations
-# Updated: 2025-12-28 09:49:28
-# Count: 1
+# Updated: 2025-12-28 13:53:54
+# Count: 2
 # Country Code: KZ
 
+vless://eb162ab1-a006-4931-b1b3-8fc88a22b10e@38.107.234.38:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=maxru.outlinekeys.net&security=reality&pbk=zkeQCEkz7LlrzwzeG26Ae_HEk3_QlgM9CbiWJx5iWh0&sid=#ARISTA🔥
 vless://eb162ab1-a006-4931-b1b3-8fc88a22b10e@maxru.outlinekeys.net:443?security=reality&encryption=none&pbk=zkeQCEkz7LlrzwzeG26Ae_HEk3_QlgM9CbiWJx5iWh0&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=maxru.outlinekeys.net#ARISTA🔥

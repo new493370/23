@@ -1,9 +1,10 @@
 # GitHub TROJAN Configurations
-# Updated: 2025-12-28 09:49:07
-# Count: 90
+# Updated: 2025-12-28 13:53:33
+# Count: 91
 # Source: GitHub Repositories
 
 trojan://LxJCPOP40a@206.206.77.237:51469/?type=grpc&sni=cloudflare.com&fp=chrome&security=reality&pbk=nlxKGGnvTUULdJlG1vfRbiG9IFrbFYC9VMnMWNH_A3s&sid=793dfc59cf7edf#ARISTA🔥
+trojan://oUFBC3Vs2rYmN8_bR-P7quoL@45.129.3.220:10668/?type=tcp&security=tls&allowInsecure=1#ARISTA🔥
 trojan://M%3DvdPVIuNS389OQ6iqbAn-5G@172.236.171.37:28042/?type=tcp&security=tls&sni=www.fuzzyfeelergauge.click&allowInsecure=1#ARISTA🔥
 trojan://e2e3b171-33a8-4c8f-9e5f-ae6e92299e40@ivory.qzz.io:443/?type=ws&host=ivory.qzz.io&path=%2F46.232.122.240%3A8000&security=tls&sni=ivory.qzz.io&allowInsecure=1#ARISTA🔥
 trojan://da943f80-91e6-46df-b7ba-c6ecf28e0171@blueivy.qzz.io:443/?type=ws&host=blueivy.qzz.io&path=%2F192.252.182.52%3A7602&security=tls&sni=blueivy.qzz.io&allowInsecure=1#ARISTA🔥

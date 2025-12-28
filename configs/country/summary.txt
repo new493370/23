@@ -1,43 +1,43 @@
 # Country Classification Summary
-# Updated: 2025-12-28 09:49:28
+# Updated: 2025-12-28 13:53:54
 
-Total configs processed: 10642
-Successfully classified: 3240
-Failed to classify: 2081
+Total configs processed: 10754
+Successfully classified: 3282
+Failed to classify: 2095
 
 By Country:
-  UNKNOWN: 817
-  US: 530
-  RU: 453
-  DE: 217
+  UNKNOWN: 834
+  US: 515
+  RU: 507
+  DE: 207
   VN: 191
-  NL: 143
-  PL: 138
+  NL: 149
+  PL: 139
   IR: 83
-  GB: 72
-  FI: 62
-  MD: 57
-  FR: 50
+  GB: 70
+  FI: 61
+  MD: 56
+  FR: 49
   LT: 48
-  HK: 31
-  SE: 29
-  SG: 27
-  IT: 24
-  CY: 23
-  CA: 20
+  HK: 33
+  CA: 30
+  SG: 26
+  SE: 22
+  CY: 22
   AE: 19
   JP: 18
-  TR: 12
   CH: 12
+  TR: 12
+  IT: 11
   IN: 11
+  CN: 10
   MK: 9
   BR: 8
-  CZ: 7
   UA: 7
+  EE: 7
   SK: 6
-  CN: 6
-  EE: 6
-  KZ: 5
+  CZ: 6
+  KZ: 6
   GR: 5
   SI: 5
   AT: 4
@@ -48,15 +48,15 @@ By Country:
   MT: 4
   MX: 4
   PT: 4
-  BG: 3
   IE: 3
+  DK: 3
+  BG: 3
   MY: 3
   TH: 3
   PE: 3
   HR: 3
   AR: 3
   AM: 2
-  AL: 2
   ID: 2
   LV: 2
   MA: 2
@@ -65,9 +65,7 @@ By Country:
   PY: 2
   CO: 2
   IS: 2
-  DK: 1
   AZ: 1
-  BE: 1
   MU: 1
   PA: 1
   ZA: 1
@@ -83,8 +81,8 @@ By Country:
   GT: 1
 
 By Protocol:
-  vless: 2246
-  ss: 671
-  vmess: 238
-  trojan: 83
+  vless: 2282
+  ss: 674
+  vmess: 240
+  trojan: 84
   hysteria: 2

@@ -1,9 +1,10 @@
 # Combined HYSTERIA2 Configurations
-# Updated: 2025-12-28 07:06:58
+# Updated: 2025-12-28 09:49:07
 # Count: 1502
-# Sources: Telegram (8) + GitHub (1496)
+# Sources: Telegram (9) + GitHub (1496)
 
 hysteria2://Telegram--%3E%40Ln2Ray@206.71.158.23:45000?security=tls&obfs=salamander&obfs-password=Telegram--%3E%40Ln2Ray&insecure=1&sni=gavazn.55994421.xyz#ARISTA🔥
+hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir#ARISTA🔥
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35200?obfs=salamander&obfs-password=Yet-Another-Public-Config-1&sni=YAPC-1.afshin.ir&insecure=0#ARISTA🔥
 hysteria2://ltN6NLua9i@91.99.225.11:443?security=tls&obfs=salamander&obfs-password=Jsbdksj%40V2RayyNGvpn%24Miracle&insecure=1&sni=refersion.com#ARISTA🔥
 hysteria2://AXvJYnaaqG@91.99.225.11:443?security=tls&obfs=salamander&obfs-password=Jsbdksj%40V2RayyNGvpn%24Miracle&insecure=1&sni=refersion.com#ARISTA🔥
@@ -113,7 +114,6 @@ hysteria2://7b5cbc6a-90a1-4b6e-994e-4c198b85f80b@nl1.oomz.ru:30000?security=tls&
 hysteria2://SNItest@37.18.14.169:443?security=tls&insecure=1&sni=megafon.ru#ARISTA🔥
 hysteria2://linux.do@[2a01:4f9:4b:f378::1]:13599?security=tls&insecure=1&sni=www.bing.com#ARISTA🔥
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@206.71.158.40:35000?security=tls&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=0&sni=api.kermanshahi.org#ARISTA🔥
-hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir#ARISTA🔥
 hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@lundun1.nezhasu.com:443?security=tls&insecure=1&mport=50000-65535&sni=lundun1.nezhasu.com#ARISTA🔥
 hysteria2://freehomesvpnchannel3@channel1.saghetalaie.homes:46914?security=tls&obfs=salamander&obfs-password=&O#ARISTA🔥
 hysteria2://jk9cSiRPv7@91.99.225.11:443?security=tls&obfs=salamander&obfs-password=Jsbdksj@V2RayyNGvpn$Miracle&insecure=1&sni=refersion.com#ARISTA🔥

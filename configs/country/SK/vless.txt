@@ -1,11 +1,11 @@
 # SK - VLESS Configurations
-# Updated: 2025-12-28 07:07:14
+# Updated: 2025-12-28 09:49:28
 # Count: 6
 # Country Code: SK
 
+vless://7f4f7178-7e91-4245-83ae-b97bd96fbef8@91.107.149.166:43692?security=reality&encryption=none&pbk=xathCJgbYrFPzIZmJ-iqUz2UdrbGiyyt098V4Wt4S0E&headerType=&fp=firefox&spx=%2F&type=tcp&sni=eset.com&sid=72741b02#ARISTA🔥
 vless://b30e762d-6973-4343-925a-5a49cbd971d8@91.99.150.28:443?security=reality&encryption=none&pbk=TTjrKjLxbiUnRW0lTAsCQBVd4x-frmieZk-6GPRzXT8&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=eset.com#ARISTA🔥
-vless://0e60fa27-e733-4c51-a6c0-4a65c99ea88a@91.99.150.28:443?type=tcp&security=reality&pbk=TTjrKjLxbiUnRW0lTAsCQBVd4x-frmieZk-6GPRzXT8&fp=chrome&sni=eset.com&sid=&spx=%2F&flow=xtls-rprx-vision#ARISTA🔥
-vless://f1e93930-c63d-48d3-940a-edf722ef9d3f@91.99.150.28:443?type=tcp&security=reality&pbk=TTjrKjLxbiUnRW0lTAsCQBVd4x-frmieZk-6GPRzXT8&fp=chrome&sni=eset.com&sid=&spx=%2F#ARISTA🔥
 vless://d9df17c5-652c-4498-9243-13259ee2a064@91.99.150.28:443?security=reality&encryption=none&pbk=TTjrKjLxbiUnRW0lTAsCQBVd4x-frmieZk-6GPRzXT8&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=eset.com#ARISTA🔥
 vless://f46c96e3-6d0d-4099-e2dd-60008bc2ced6@91.99.150.28:443?security=reality&encryption=none&pbk=TTjrKjLxbiUnRW0lTAsCQBVd4x-frmieZk-6GPRzXT8&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=eset.com#ARISTA🔥
-vless://7f4f7178-7e91-4245-83ae-b97bd96fbef8@91.107.149.166:43692?security=reality&encryption=none&pbk=xathCJgbYrFPzIZmJ-iqUz2UdrbGiyyt098V4Wt4S0E&headerType=&fp=firefox&spx=%2F&type=tcp&sni=eset.com&sid=72741b02#ARISTA🔥
+vless://0e60fa27-e733-4c51-a6c0-4a65c99ea88a@91.99.150.28:443?type=tcp&security=reality&pbk=TTjrKjLxbiUnRW0lTAsCQBVd4x-frmieZk-6GPRzXT8&fp=chrome&sni=eset.com&sid=&spx=%2F&flow=xtls-rprx-vision#ARISTA🔥
+vless://f1e93930-c63d-48d3-940a-edf722ef9d3f@91.99.150.28:443?type=tcp&security=reality&pbk=TTjrKjLxbiUnRW0lTAsCQBVd4x-frmieZk-6GPRzXT8&fp=chrome&sni=eset.com&sid=&spx=%2F#ARISTA🔥

@@ -1,15 +1,14 @@
 # All Configurations for PL
-# Updated: 2025-12-28 13:53:54
-# Total Count: 139
+# Updated: 2025-12-28 15:48:52
+# Total Count: 138
 # Country Code: PL
 
-vless://98cb33a8-d6f7-41f0-8796-e4b471d65df8@144.31.5.179:443?security=none&encryption=none&type=ws#ARISTA🔥
 vless://Vpn_Kadeh_Iran@146.59.117.172:41990?type=tcp&path=%2F&host=speedtest.com&headerType=http&security=none#ARISTA🔥
 vless://29f8a74e-c05f-4d2c-a4d3-0a809793ac0a@146.59.117.172:41990?type=tcp&path=%2F&host=speedtest.com&headerType=http&security=none#ARISTA🔥
+vless://98cb33a8-d6f7-41f0-8796-e4b471d65df8@144.31.5.179:443?security=none&encryption=none&type=ws#ARISTA🔥
 vless://98cb33a8-d6f7-41f0-8796-e4b471d65df8@144.31.5.179:443?path=%2F&security=none&encryption=none&type=ws#ARISTA🔥
 vless://b278fc13-9be7-4e21-90cb-cb52ac0e2469@plb.tunnelguard.ru:443?encryption=none&type=xhttp&mode=auto&path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&fp=firefox&sni=plb.tunnelguard.ru#ARISTA🔥
 vless://b278fc13-9be7-4e21-90cb-cb52ac0e2469@plb.tunnelguard.ru:443?mode=auto&path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A1000000%2C%22scMaxConcurrentPosts%22%3A100%2C%22scMinPostsIntervalMs%22%3A30%2C%22xPaddingBytes%22%3A%22100-1000%22%2C%22noGRPCHeader%22%3Afalse%7D&fp=firefox&type=xhttp&sni=plb.tunnelguard.ru#ARISTA🔥
-vless://3ee58d3a-7469-4557-b2f9-0d1d85c3a6fa@144.31.5.142:443?security=reality&amp;encryption=none&amp;pbk=ZqNF3CGI5QqAm5huC9sByjwxYd-6l5Pxc9-njmqqdl0&amp;headerType=none&amp;fp=qq&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=google.com&amp;sid=d4d39c5f8688dfe2#ARISTA🔥
 vmess://eyJhZGQiOiI0NS4xNTQuMTU2LjE3OCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJiYzhlMTIzNS02Y2VmLTRiZGQtZjNmMi0wYjRmM2M4YTdiNzAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjMyNjQ4IiwicHMiOiJBUklTVEHwn5SlIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 ss://YWVzLTI1Ni1jZmI6TTN0MlpFUWNNR1JXQmpSYQ==@217.30.10.18:9011#ARISTA🔥
 ss://YWVzLTI1Ni1jZmI6OVh3WXlac0s4U056UUR0WQ@217.30.10.70:9059#ARISTA🔥

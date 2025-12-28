@@ -1,6 +1,6 @@
 # All Configurations for AE
-# Updated: 2025-12-28 19:07:06
-# Total Count: 18
+# Updated: 2025-12-28 21:43:01
+# Total Count: 19
 # Country Code: AE
 
 vless://a9ca2b2a-df16-4be9-9606-6046dc7e674d@93.127.180.143:2087?security=none&serviceName=Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH&encryption=none&headerType=none&type=tcp#ARISTA🔥
@@ -9,11 +9,12 @@ vless://1b197700-e6fd-43ea-96ca-488f4c4cd731@93.127.180.128:8443?security=none&s
 vless://e265fc78-e269-46b2-9b6a-85f573dab3d5@uaegaming.gojustore.site:7035?path=%2F&security=none&encryption=none&host=filimo.com&type=ws#ARISTA🔥
 vless://4ffec487-ed8a-412f-90ef-4b7b6145ad58@93.127.180.144:7443?security=none&encryption=none&type=tcp&host=p30afzar.com&path=/&headerType=http#ARISTA🔥
 vless://2f15d678-99e3-4730-aa94-abf2628cd69d@188.72.103.3:443?mode=auto&path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&extra=%7B%22noGRPCHeader%22%3Afalse%2C%22scMaxConcurrentPosts%22%3A100%2C%22scMaxEachPostBytes%22%3A1000000%2C%22scMinPostsIntervalMs%22%3A30%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&fp=chrome&type=xhttp&sni=ya.volgogradskie.ru#ARISTA🔥
-vless://c6cde7fa-068a-41cf-9e53-e82b7f2954a2@188.72.103.3:443?mode=auto&path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=ws.fjdjdjfjd.icu&fp=chrome&type=xhttp&sni=ws.fjdjdjfjd.icu#ARISTA🔥
 vless://94c5797e-46ad-4e62-b9cb-c5c5068e47a7@188.72.103.3:443?mode=auto&path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=ws.fjdjdjfjd.icu&fp=chrome&type=xhttp&sni=ws.fjdjdjfjd.icu#ARISTA🔥
+vless://c6cde7fa-068a-41cf-9e53-e82b7f2954a2@188.72.103.3:443?mode=auto&path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=ws.fjdjdjfjd.icu&fp=chrome&type=xhttp&sni=ws.fjdjdjfjd.icu#ARISTA🔥
 vmess://eyJ2IjoiMiIsInBzIjoiQVJJU1RB8J+UpSIsImFkZCI6IjIwLjIwMy45OC4xNjciLCJwb3J0Ijo4MDgwLCJpZCI6IjU1MmIxZjAzLTM3MWEtNGZiNS1kNTEyLTI4NDRhNDc3YTRiNCIsImFpZCI6MCwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsInRscyI6Im5vbmUiLCJwYXRoIjoiLyJ9
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNYjdjMXlza0dlV0YzcXNsMlozWnRo@217.60.63.96:443#ARISTA🔥
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@151.242.251.153:8080#ARISTA🔥
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNYjdjMXlza0dlV0YzcXNsMlozWnRo@217.60.63.96:443#ARISTA🔥
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp2ZlVZcERwUWR4N3lMOXRla3U5QzZWdVlqVWRBQTRoLQ==@217.60.63.96:8080#ARISTA🔥
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@147.78.0.182:990#ARISTA🔥
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@103.57.251.240:990#ARISTA🔥
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZekg0aWQ3WkV5S3BmeTM5RjJZY09tekNzQmtsR3doOA@95.174.68.33:443#ARISTA🔥

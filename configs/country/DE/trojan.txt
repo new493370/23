@@ -1,7 +1,6 @@
 # DE - TROJAN Configurations
-# Updated: 2025-12-27 21:44:41
-# Count: 2
+# Updated: 2025-12-28 04:25:45
+# Count: 1
 # Country Code: DE
 
-trojan://ddnkbe753N@verager2.uspn.io:443/?type=ws&host=verager2.uspn.io&path=%2Ftrojan&security=tls&sni=verager2.uspn.io&allowInsecure=1#ARISTA🔥
 trojan://ddnkbe753N@verager2.uspn.io:443?type=ws&host=verager2.uspn.io&path=/trojan&security=tls&sni=verager2.uspn.io&allowInsecure=1#ARISTA🔥

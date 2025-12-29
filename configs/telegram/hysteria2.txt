@@ -1,13 +1,13 @@
 # Telegram HYSTERIA2 Configurations
-# Updated: 2025-12-29 17:46:46
+# Updated: 2025-12-29 19:09:34
 # Count: 8
 # Source: Telegram Channels
 
-hysteria2://71504eaf-29ac-4190-89d1-dd9ce2c9ee14@[2001:bc8:1640:50eb:dc00:ff:fe57:dd6f]:443?security=tls&obfs=salamander&obfs-password=FnFgQIckcMRtKq7i&insecure=1&mport=50000-60000&sni=Ab.ac#ARISTA🔥
 hysteria2://rxwfFuEMrr@91.99.225.11:443?security=tls&obfs=salamander&obfs-password=Jsbdksj%40V2RayyNGvpn%24Miracle&insecure=1&sni=refersion.com#ARISTA🔥
 hysteria2://BZt34XQ1vL@91.99.225.11:443?security=tls&obfs=salamander&obfs-password=Jsbdksj%40V2RayyNGvpn%24Miracle&insecure=1&sni=refersion.com#ARISTA🔥
 hysteria2://BZa1M5Mciv@91.99.225.11:443?security=tls&obfs=salamander&obfs-password=Jsbdksj%40V2RayyNGvpn%24Miracle&insecure=1&sni=refersion.com#ARISTA🔥
 hysteria2://GZCEhvG4qN@91.99.225.11:443?security=tls&obfs=salamander&obfs-password=Jsbdksj%40V2RayyNGvpn%24Miracle&insecure=1&sni=refersion.com#ARISTA🔥
 hysteria2://kl6QSAMhZS@91.99.225.11:443?security=tls&obfs=salamander&obfs-password=Jsbdksj%40V2RayyNGvpn%24Miracle&insecure=1&sni=refersion.com#ARISTA🔥
-hysteria2://d9812081-7f61-456d-9340-a1fb8dfd603b@80.225.253.247:443?security=tls&insecure=1&mport=50000-65535&sni=mumbai-4.nezhasu.com#ARISTA🔥
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35200?obfs=salamander&obfs-password=Yet-Another-Public-Config-1&sni=YAPC-1.afshin.ir&insecure=0#ARISTA🔥
+hysteria2://71504eaf-29ac-4190-89d1-dd9ce2c9ee14@[2001:bc8:1640:50eb:dc00:ff:fe57:dd6f]:443?security=tls&obfs=salamander&obfs-password=FnFgQIckcMRtKq7i&insecure=1&mport=50000-60000&sni=Ab.ac#ARISTA🔥
+hysteria2://d9812081-7f61-456d-9340-a1fb8dfd603b@80.225.253.247:443?security=tls&insecure=1&mport=50000-65535&sni=mumbai-4.nezhasu.com#ARISTA🔥

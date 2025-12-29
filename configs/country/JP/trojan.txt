@@ -1,7 +1,14 @@
 # JP - TROJAN Configurations
-# Updated: 2025-12-29 15:53:27
-# Count: 2
+# Updated: 2025-12-29 17:48:45
+# Count: 9
 # Country Code: JP
 
 trojan://ace1qxDyr_-GmIUgK.1Tnjb6ikAN@45.77.20.207:10435?type=tcp&security=tls&sni=fuzzyfonduepotstand.oscillatingovenmitt.click#ARISTA🔥
+trojan://76d630f2af6619c4a5de0ef953df3c6a@153.121.65.107:3093?security=tls&sni=www.nintendogames.net&alpn#ARISTA🔥
+trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@202.181.103.246:1334?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=www.nintendogames.net#ARISTA🔥
+trojan://76d630f2af6619c4a5de0ef953df3c6a@160.16.229.223:3093?security=tls&sni=www.nintendogames.net&fp=chrome&type=tcp#ARISTA🔥
+trojan://e2722c0fb503f8a592436c12bce0509a@160.16.107.37:3093?security=tls&sni=www.nintendogames.net&type=tcp#ARISTA🔥
+trojan://44e660b0ee21cf3ac66aee2c08af85d2@160.16.107.37:3093?security=tls&sni=www.nintendogames.net&type=tcp#ARISTA🔥
 trojan://ace1qxDyr_-GmIUgK.1Tnjb6ikAN@167.179.113.248:10435?type=tcp&security=tls&sni=fuzzyfonduepotstand.oscillatingovenmitt.click#ARISTA🔥
+trojan://f36f4495b4b26cc2fe346cfa23e05b1b@160.16.68.250:1281?allowInsecure=0&sni=www.nintendogames.net#ARISTA🔥
+trojan://f36f4495b4b26cc2fe346cfa23e05b1b@160.16.153.13:3901?allowInsecure=1&sni=www.nintendogames.net#ARISTA🔥

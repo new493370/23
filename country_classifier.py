@@ -20,20 +20,6 @@ class ConfigParser:
     def __init__(self):
         self.lock = threading.Lock()
     
-    def extract_domain_from_url(self, url):
-        try:
-            parsed = urlparse(url)
-            if parsed.netloc:
-                netloc = parsed.netloc
-                if '@' in netloc:
-                    netloc = netloc.split('@')[-1]
-                if ':' in netloc:
-                    netloc = netloc.split(':')[0]
-                return netloc
-        except:
-            pass
-        return ''
-    
     def parse_vmess(self, config_str):
         try:
             base64_part = config_str[8:]
@@ -42,23 +28,12 @@ class ConfigParser:
             config_data = json.loads(base64.b64decode(base64_part).decode('utf-8'))
             
             address = config_data.get('add', '')
-            host = config_data.get('host', '')
-            sni = config_data.get('sni', '')
-            
-            target_host = address
-            if host and self.is_domain(host):
-                target_host = host
-            elif sni and self.is_domain(sni):
-                target_host = sni
             
             return {
                 'protocol': 'vmess',
-                'host': address,
+                'address': address,
                 'port': int(config_data.get('port', 0)),
-                'target_host': target_host,
-                'raw': config_str,
-                'sni': sni,
-                'ps': config_data.get('ps', '')
+                'raw': config_str
             }
         except:
             return None
@@ -66,33 +41,31 @@ class ConfigParser:
     def parse_vless(self, config_str):
         try:
             parsed = urlparse(config_str)
-            host_port = parsed.netloc.split('@')[-1]
-            host, port_str = host_port.split(':')
-            port = int(port_str.split('?')[0]) if '?' in port_str else int(port_str)
+            netloc = parsed.netloc
             
-            query_params = parse_qs(parsed.query)
-            sni = ''
-            host_param = ''
+            if '@' in netloc:
+                _, server_part = netloc.split('@', 1)
+            else:
+                server_part = netloc
             
-            if 'sni' in query_params:
-                sni = query_params['sni'][0]
-            elif 'host' in query_params:
-                host_param = query_params['host'][0]
+            if ':' in server_part:
+                host = server_part.split(':')[0]
+            else:
+                host = server_part
             
-            target_host = host
-            if sni and self.is_domain(sni):
-                target_host = sni
-            elif host_param and self.is_domain(host_param):
-                target_host = host_param
+            port = 0
+            if ':' in server_part:
+                port_part = server_part.split(':')[1]
+                if '?' in port_part:
+                    port = int(port_part.split('?')[0])
+                else:
+                    port = int(port_part)
             
             return {
                 'protocol': 'vless',
-                'host': host,
+                'address': host,
                 'port': port,
-                'target_host': target_host,
-                'raw': config_str,
-                'sni': sni,
-                'host_param': host_param
+                'raw': config_str
             }
         except:
             return None
@@ -100,27 +73,31 @@ class ConfigParser:
     def parse_trojan(self, config_str):
         try:
             parsed = urlparse(config_str)
-            host_port = parsed.netloc.split('@')[-1]
-            host, port_str = host_port.split(':')
-            port = int(port_str.split('#')[0]) if '#' in port_str else int(port_str)
+            netloc = parsed.netloc
             
-            query_params = parse_qs(parsed.query)
-            sni = ''
+            if '@' in netloc:
+                _, server_part = netloc.split('@', 1)
+            else:
+                server_part = netloc
             
-            if 'sni' in query_params:
-                sni = query_params['sni'][0]
+            if ':' in server_part:
+                host = server_part.split(':')[0]
+            else:
+                host = server_part
             
-            target_host = host
-            if sni and self.is_domain(sni):
-                target_host = sni
+            port = 0
+            if ':' in server_part:
+                port_part = server_part.split(':')[1]
+                if '#' in port_part:
+                    port = int(port_part.split('#')[0])
+                else:
+                    port = int(port_part)
             
             return {
                 'protocol': 'trojan',
-                'host': host,
+                'address': host,
                 'port': port,
-                'target_host': target_host,
-                'raw': config_str,
-                'sni': sni
+                'raw': config_str
             }
         except:
             return None
@@ -135,20 +112,22 @@ class ConfigParser:
                     base_part += '=' * (4 - len(base_part) % 4)
                 decoded = base64.b64decode(base_part).decode('utf-8')
                 if '@' in decoded:
-                    method_pass, server_part = decoded.split('@', 1)
+                    _, server_part = decoded.split('@', 1)
                 else:
                     return None
             else:
-                encoded_method_pass, server_part = base_part.split('@', 1)
-                
-            server, port_str = server_part.split(':', 1)
-            port = int(port_str)
+                _, server_part = base_part.split('@', 1)
+            
+            if ':' in server_part:
+                host = server_part.split(':')[0]
+                port = int(server_part.split(':')[1])
+            else:
+                return None
             
             return {
                 'protocol': 'ss',
-                'host': server,
+                'address': host,
                 'port': port,
-                'target_host': server,
                 'raw': config_str
             }
         except:
@@ -158,14 +137,17 @@ class ConfigParser:
         try:
             parsed = urlparse(config_str)
             host_port = parsed.netloc
-            host, port_str = host_port.split(':')
-            port = int(port_str)
+            
+            if ':' in host_port:
+                host = host_port.split(':')[0]
+                port = int(host_port.split(':')[1])
+            else:
+                return None
             
             return {
                 'protocol': 'hysteria',
-                'host': host,
+                'address': host,
                 'port': port,
-                'target_host': host,
                 'raw': config_str
             }
         except:
@@ -175,14 +157,17 @@ class ConfigParser:
         try:
             parsed = urlparse(config_str)
             host_port = parsed.netloc
-            host, port_str = host_port.split(':')
-            port = int(port_str)
+            
+            if ':' in host_port:
+                host = host_port.split(':')[0]
+                port = int(host_port.split(':')[1])
+            else:
+                return None
             
             return {
                 'protocol': 'tuic',
-                'host': host,
+                'address': host,
                 'port': port,
-                'target_host': host,
                 'raw': config_str
             }
         except:
@@ -201,41 +186,34 @@ class ConfigParser:
             
             return {
                 'protocol': 'wireguard',
-                'host': host,
+                'address': host,
                 'port': 51820,
-                'target_host': host,
                 'raw': config_str
             }
         except:
             return None
     
-    def is_ip_address(self, host):
-        if not host:
+    def is_valid_ipv4(self, ip):
+        if not ip:
             return False
         
         ipv4_pattern = r'^\d{1,3}\.\d{1,3}\.\d{1,3}\.\d{1,3}$'
-        if re.match(ipv4_pattern, host):
-            parts = host.split('.')
-            if all(0 <= int(part) <= 255 for part in parts):
-                return True
-        
-        return False
-    
-    def is_domain(self, host):
-        if not host:
+        if not re.match(ipv4_pattern, ip):
             return False
         
-        if self.is_ip_address(host):
+        parts = ip.split('.')
+        if len(parts) != 4:
             return False
         
-        domain_pattern = r'^[a-zA-Z0-9][a-zA-Z0-9-]{0,61}[a-zA-Z0-9](\.[a-zA-Z]{2,})+$'
-        if re.match(domain_pattern, host):
-            return True
+        for part in parts:
+            try:
+                num = int(part)
+                if num < 0 or num > 255:
+                    return False
+            except:
+                return False
         
-        if '.' in host and not self.is_ip_address(host):
-            return True
-        
-        return False
+        return True
     
     def parse_config(self, config_str):
         config_str = config_str.strip()
@@ -259,10 +237,48 @@ class ConfigParser:
 
 class GeoIPClassifier:
     def __init__(self):
+        self.maxmind_db = None
+        self.maxmind_db_path = 'GeoLite2-Country.mmdb'
         self.ipapi_cache = {}
         self.cache_file = 'geoip_cache.pkl'
         self.lock = threading.Lock()
         self.load_cache()
+        self.load_maxmind_db()
+    
+    def load_maxmind_db(self):
+        try:
+            if os.path.exists(self.maxmind_db_path):
+                import geoip2.database
+                self.maxmind_db = geoip2.database.Reader(self.maxmind_db_path)
+                logger.info("MaxMind GeoIP database loaded")
+            else:
+                self.download_maxmind_db()
+        except ImportError:
+            logger.warning("geoip2 library not available, using ip-api.com only")
+        except Exception as e:
+            logger.warning(f"Failed to load MaxMind database: {e}")
+    
+    def download_maxmind_db(self):
+        try:
+            urls = [
+                "https://cdn.jsdelivr.net/gh/P3TERX/GeoLite.mmdb@download/GeoLite2-Country.mmdb",
+                "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb"
+            ]
+            
+            for url in urls:
+                try:
+                    logger.info(f"Downloading GeoIP database from: {url}")
+                    response = requests.get(url, timeout=30)
+                    if response.status_code == 200:
+                        with open(self.maxmind_db_path, 'wb') as f:
+                            f.write(response.content)
+                        self.load_maxmind_db()
+                        return
+                except:
+                    continue
+            logger.warning("Could not download GeoIP database")
+        except:
+            pass
     
     def load_cache(self):
         try:
@@ -279,27 +295,63 @@ class GeoIPClassifier:
         except:
             pass
     
+    def get_country_by_maxmind(self, ip):
+        try:
+            if self.maxmind_db:
+                response = self.maxmind_db.country(ip)
+                return response.country.iso_code or "UNKNOWN"
+        except:
+            pass
+        return None
+    
     def get_country_by_ipapi(self, ip):
         try:
-            with self.lock:
-                if ip in self.ipapi_cache:
-                    return self.ipapi_cache[ip]
-            
-            response = requests.get(f"http://ip-api.com/json/{ip}?fields=status,message,countryCode", timeout=10)
+            response = requests.get(f"http://ip-api.com/json/{ip}?fields=status,message,countryCode,as", timeout=10)
             if response.status_code == 200:
                 data = response.json()
                 if data.get('status') == 'success':
                     country = data.get('countryCode', 'UNKNOWN')
-                    with self.lock:
-                        self.ipapi_cache[ip] = country
+                    asn = data.get('as', '')
                     return country
-        except Exception as e:
-            logger.debug(f"IP-API failed for {ip}: {e}")
-        
+        except:
+            pass
         return "UNKNOWN"
     
+    def validate_asn_country(self, ip, detected_country):
+        try:
+            response = requests.get(f"http://ip-api.com/json/{ip}?fields=countryCode,as", timeout=5)
+            if response.status_code == 200:
+                data = response.json()
+                api_country = data.get('countryCode', '')
+                asn = data.get('as', '')
+                
+                common_us_asns = ['AS14618', 'AS15169', 'AS16509', 'AS20473', 'AS3356']
+                if detected_country == 'US' and api_country != 'US' and any(asn_item in asn for asn_item in common_us_asns):
+                    return api_country
+        except:
+            pass
+        return detected_country
+    
     def get_country(self, ip):
-        return self.get_country_by_ipapi(ip)
+        with self.lock:
+            if ip in self.ipapi_cache:
+                return self.ipapi_cache[ip]
+        
+        country = None
+        
+        maxmind_country = self.get_country_by_maxmind(ip)
+        if maxmind_country and maxmind_country != "UNKNOWN":
+            country = maxmind_country
+        
+        if not country or country == "UNKNOWN":
+            country = self.get_country_by_ipapi(ip)
+        
+        country = self.validate_asn_country(ip, country)
+        
+        with self.lock:
+            self.ipapi_cache[ip] = country
+        
+        return country
 
 class CountryClassifier:
     def __init__(self, max_workers=30):
@@ -322,11 +374,11 @@ class CountryClassifier:
             if not parsed:
                 return None
             
-            target_host = parsed.get('target_host', '')
-            if not target_host:
+            address = parsed.get('address', '')
+            if not address:
                 return None
             
-            is_ip = self.parser.is_ip_address(target_host)
+            is_ip = self.parser.is_valid_ipv4(address)
             
             if not is_ip:
                 return {
@@ -335,18 +387,18 @@ class CountryClassifier:
                     'ip': None,
                     'country': 'DOMAIN',
                     'is_ip': False,
-                    'target_host': target_host
+                    'address': address
                 }
             
-            country = self.geoip.get_country(target_host)
+            country = self.geoip.get_country(address)
             
             return {
                 'config': config_str,
                 'parsed': parsed,
-                'ip': target_host,
+                'ip': address,
                 'country': country,
                 'is_ip': True,
-                'target_host': target_host
+                'address': address
             }
         except Exception as e:
             logger.debug(f"Failed to process config: {e}")

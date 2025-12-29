@@ -8,103 +8,124 @@ import pickle
 import threading
 import concurrent.futures
 import requests
-import tarfile
-import gzip
 from datetime import datetime
-from urllib.parse import urlparse
-from typing import Dict, List, Set, Optional, Tuple, Any
+from urllib.parse import urlparse, parse_qs
 import time
 import logging
 
-logging.basicConfig(
-    level=logging.INFO,
-    format='%(asctime)s - %(levelname)s - %(message)s'
-)
+logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 logger = logging.getLogger(__name__)
 
 class ConfigParser:
     def __init__(self):
         self.lock = threading.Lock()
-        self.cdn_domains = {
-            'cloudflare': ['.cloudflare.com', '.cloudflaressl.com'],
-            'akamai': ['.akamai.net', '.akamaiedge.net', '.akamaihd.net'],
-            'fastly': ['.fastly.net', '.fastlylb.net'],
-            'aws': ['.amazonaws.com', '.cloudfront.net'],
-            'azure': ['.azureedge.net', '.azurefd.net'],
-            'google': ['.googleusercontent.com', '.gstatic.com', '.googlehosted.com']
-        }
     
-    def parse_vmess(self, config_str: str) -> Optional[Dict]:
+    def extract_domain_from_url(self, url):
+        try:
+            parsed = urlparse(url)
+            if parsed.netloc:
+                netloc = parsed.netloc
+                if '@' in netloc:
+                    netloc = netloc.split('@')[-1]
+                if ':' in netloc:
+                    netloc = netloc.split(':')[0]
+                return netloc
+        except:
+            pass
+        return ''
+    
+    def parse_vmess(self, config_str):
         try:
             base64_part = config_str[8:]
             if len(base64_part) % 4 != 0:
                 base64_part += '=' * (4 - len(base64_part) % 4)
             config_data = json.loads(base64.b64decode(base64_part).decode('utf-8'))
             
+            address = config_data.get('add', '')
+            host = config_data.get('host', '')
+            sni = config_data.get('sni', '')
+            
+            target_host = address
+            if host and self.is_domain(host):
+                target_host = host
+            elif sni and self.is_domain(sni):
+                target_host = sni
+            
             return {
                 'protocol': 'vmess',
-                'host': config_data.get('add', ''),
+                'host': address,
                 'port': int(config_data.get('port', 0)),
-                'sni': config_data.get('sni', '') or config_data.get('host', ''),
-                'raw': config_str
+                'target_host': target_host,
+                'raw': config_str,
+                'sni': sni,
+                'ps': config_data.get('ps', '')
             }
-        except Exception as e:
-            logger.debug(f"Failed to parse vmess: {e}")
+        except:
             return None
     
-    def parse_vless(self, config_str: str) -> Optional[Dict]:
+    def parse_vless(self, config_str):
         try:
             parsed = urlparse(config_str)
             host_port = parsed.netloc.split('@')[-1]
             host, port_str = host_port.split(':')
             port = int(port_str.split('?')[0]) if '?' in port_str else int(port_str)
             
+            query_params = parse_qs(parsed.query)
             sni = ''
-            params = parsed.query
-            if params:
-                for param in params.split('&'):
-                    if param.startswith('sni='):
-                        sni = param[4:]
-                        break
+            host_param = ''
+            
+            if 'sni' in query_params:
+                sni = query_params['sni'][0]
+            elif 'host' in query_params:
+                host_param = query_params['host'][0]
+            
+            target_host = host
+            if sni and self.is_domain(sni):
+                target_host = sni
+            elif host_param and self.is_domain(host_param):
+                target_host = host_param
             
             return {
                 'protocol': 'vless',
                 'host': host,
                 'port': port,
+                'target_host': target_host,
+                'raw': config_str,
                 'sni': sni,
-                'raw': config_str
+                'host_param': host_param
             }
-        except Exception as e:
-            logger.debug(f"Failed to parse vless: {e}")
+        except:
             return None
     
-    def parse_trojan(self, config_str: str) -> Optional[Dict]:
+    def parse_trojan(self, config_str):
         try:
             parsed = urlparse(config_str)
             host_port = parsed.netloc.split('@')[-1]
             host, port_str = host_port.split(':')
             port = int(port_str.split('#')[0]) if '#' in port_str else int(port_str)
             
+            query_params = parse_qs(parsed.query)
             sni = ''
-            params = parsed.query
-            if params:
-                for param in params.split('&'):
-                    if param.startswith('sni='):
-                        sni = param[4:]
-                        break
+            
+            if 'sni' in query_params:
+                sni = query_params['sni'][0]
+            
+            target_host = host
+            if sni and self.is_domain(sni):
+                target_host = sni
             
             return {
                 'protocol': 'trojan',
                 'host': host,
                 'port': port,
-                'sni': sni,
-                'raw': config_str
+                'target_host': target_host,
+                'raw': config_str,
+                'sni': sni
             }
-        except Exception as e:
-            logger.debug(f"Failed to parse trojan: {e}")
+        except:
             return None
     
-    def parse_ss(self, config_str: str) -> Optional[Dict]:
+    def parse_ss(self, config_str):
         try:
             parts = config_str.split('#', 1)
             base_part = parts[0][5:]
@@ -127,14 +148,13 @@ class ConfigParser:
                 'protocol': 'ss',
                 'host': server,
                 'port': port,
-                'sni': '',
+                'target_host': server,
                 'raw': config_str
             }
-        except Exception as e:
-            logger.debug(f"Failed to parse ss: {e}")
+        except:
             return None
     
-    def parse_hysteria(self, config_str: str) -> Optional[Dict]:
+    def parse_hysteria(self, config_str):
         try:
             parsed = urlparse(config_str)
             host_port = parsed.netloc
@@ -145,14 +165,13 @@ class ConfigParser:
                 'protocol': 'hysteria',
                 'host': host,
                 'port': port,
-                'sni': '',
+                'target_host': host,
                 'raw': config_str
             }
-        except Exception as e:
-            logger.debug(f"Failed to parse hysteria: {e}")
+        except:
             return None
     
-    def parse_tuic(self, config_str: str) -> Optional[Dict]:
+    def parse_tuic(self, config_str):
         try:
             parsed = urlparse(config_str)
             host_port = parsed.netloc
@@ -163,14 +182,13 @@ class ConfigParser:
                 'protocol': 'tuic',
                 'host': host,
                 'port': port,
-                'sni': '',
+                'target_host': host,
                 'raw': config_str
             }
-        except Exception as e:
-            logger.debug(f"Failed to parse tuic: {e}")
+        except:
             return None
     
-    def parse_wireguard(self, config_str: str) -> Optional[Dict]:
+    def parse_wireguard(self, config_str):
         try:
             parsed = urlparse(config_str)
             params = parsed.query
@@ -185,14 +203,41 @@ class ConfigParser:
                 'protocol': 'wireguard',
                 'host': host,
                 'port': 51820,
-                'sni': '',
+                'target_host': host,
                 'raw': config_str
             }
-        except Exception as e:
-            logger.debug(f"Failed to parse wireguard: {e}")
+        except:
             return None
     
-    def parse_config(self, config_str: str) -> Optional[Dict]:
+    def is_ip_address(self, host):
+        if not host:
+            return False
+        
+        ipv4_pattern = r'^\d{1,3}\.\d{1,3}\.\d{1,3}\.\d{1,3}$'
+        if re.match(ipv4_pattern, host):
+            parts = host.split('.')
+            if all(0 <= int(part) <= 255 for part in parts):
+                return True
+        
+        return False
+    
+    def is_domain(self, host):
+        if not host:
+            return False
+        
+        if self.is_ip_address(host):
+            return False
+        
+        domain_pattern = r'^[a-zA-Z0-9][a-zA-Z0-9-]{0,61}[a-zA-Z0-9](\.[a-zA-Z]{2,})+$'
+        if re.match(domain_pattern, host):
+            return True
+        
+        if '.' in host and not self.is_ip_address(host):
+            return True
+        
+        return False
+    
+    def parse_config(self, config_str):
         config_str = config_str.strip()
         
         if config_str.startswith('vmess://'):
@@ -211,250 +256,110 @@ class ConfigParser:
             return self.parse_wireguard(config_str)
         
         return None
-    
-    def is_cdn_domain(self, domain: str) -> Tuple[bool, str]:
-        if not domain:
-            return False, ''
-        
-        for provider, patterns in self.cdn_domains.items():
-            for pattern in patterns:
-                if domain.endswith(pattern):
-                    return True, provider
-        
-        return False, ''
-    
-    def get_target_host(self, parsed_config: Dict) -> str:
-        sni = parsed_config.get('sni', '')
-        host = parsed_config.get('host', '')
-        
-        if sni:
-            return sni
-        return host
-
-class DNSResolver:
-    def __init__(self):
-        self.cache: Dict[str, Tuple[List[str], float]] = {}
-        self.cache_file = 'dns_cache.pkl'
-        self.lock = threading.Lock()
-        self.load_cache()
-    
-    def load_cache(self):
-        try:
-            if os.path.exists(self.cache_file):
-                with open(self.cache_file, 'rb') as f:
-                    self.cache = pickle.load(f)
-        except:
-            self.cache = {}
-    
-    def save_cache(self):
-        try:
-            with open(self.cache_file, 'wb') as f:
-                pickle.dump(self.cache, f)
-        except Exception as e:
-            logger.error(f"Failed to save DNS cache: {e}")
-    
-    def resolve(self, hostname: str, timeout: float = 5.0) -> List[str]:
-        with self.lock:
-            if hostname in self.cache:
-                ips, timestamp = self.cache[hostname]
-                if time.time() - timestamp < 3600:
-                    return ips
-        
-        try:
-            socket.setdefaulttimeout(timeout)
-            
-            if ':' in hostname and not hostname.startswith('['):
-                results = socket.getaddrinfo(hostname, None, socket.AF_INET6)
-                ips = [result[4][0] for result in results]
-            else:
-                ips = socket.gethostbyname_ex(hostname)[2]
-            
-            with self.lock:
-                self.cache[hostname] = (ips, time.time())
-            
-            return ips
-        except socket.gaierror:
-            return []
-        except socket.timeout:
-            logger.debug(f"DNS resolution timeout for {hostname}")
-            return []
-        except Exception as e:
-            logger.debug(f"DNS resolution failed for {hostname}: {e}")
-            return []
 
 class GeoIPClassifier:
     def __init__(self):
-        self.db_path = 'GeoLite2-Country.mmdb'
-        self.cache: Dict[str, str] = {}
+        self.ipapi_cache = {}
         self.cache_file = 'geoip_cache.pkl'
         self.lock = threading.Lock()
         self.load_cache()
-        
-        if not os.path.exists(self.db_path):
-            self.download_geoip_db()
-    
-    def download_geoip_db(self):
-        try:
-            logger.info("Attempting to download GeoLite2 database...")
-            
-            urls = [
-                "https://github.com/P3TERX/GeoLite.mmdb/raw/download/GeoLite2-Country.mmdb",
-                "https://cdn.jsdelivr.net/gh/P3TERX/GeoLite.mmdb@download/GeoLite2-Country.mmdb",
-                "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb"
-            ]
-            
-            for url in urls:
-                try:
-                    logger.info(f"Trying to download from: {url}")
-                    response = requests.get(url, timeout=30)
-                    if response.status_code == 200:
-                        with open(self.db_path, 'wb') as f:
-                            f.write(response.content)
-                        logger.info("GeoIP database downloaded successfully")
-                        return
-                except Exception as e:
-                    logger.debug(f"Failed to download from {url}: {e}")
-                    continue
-            
-            logger.warning("Could not download GeoIP database from any source")
-            logger.warning("Country classification will use fallback method")
-            
-        except Exception as e:
-            logger.error(f"Error downloading GeoIP database: {e}")
-            logger.warning("Country classification will use fallback method")
     
     def load_cache(self):
         try:
             if os.path.exists(self.cache_file):
                 with open(self.cache_file, 'rb') as f:
-                    self.cache = pickle.load(f)
+                    self.ipapi_cache = pickle.load(f)
         except:
-            self.cache = {}
+            self.ipapi_cache = {}
     
     def save_cache(self):
         try:
             with open(self.cache_file, 'wb') as f:
-                pickle.dump(self.cache, f)
-        except Exception as e:
-            logger.error(f"Failed to save GeoIP cache: {e}")
-    
-    def get_country_by_ipapi(self, ip: str) -> str:
-        try:
-            response = requests.get(f"http://ip-api.com/json/{ip}", timeout=5)
-            if response.status_code == 200:
-                data = response.json()
-                return data.get('countryCode', 'UNKNOWN')
+                pickle.dump(self.ipapi_cache, f)
         except:
             pass
+    
+    def get_country_by_ipapi(self, ip):
+        try:
+            with self.lock:
+                if ip in self.ipapi_cache:
+                    return self.ipapi_cache[ip]
+            
+            response = requests.get(f"http://ip-api.com/json/{ip}?fields=status,message,countryCode", timeout=10)
+            if response.status_code == 200:
+                data = response.json()
+                if data.get('status') == 'success':
+                    country = data.get('countryCode', 'UNKNOWN')
+                    with self.lock:
+                        self.ipapi_cache[ip] = country
+                    return country
+        except Exception as e:
+            logger.debug(f"IP-API failed for {ip}: {e}")
+        
         return "UNKNOWN"
     
-    def get_country_fallback(self, ip: str) -> str:
-        try:
-            if ip.startswith('172.') or ip.startswith('10.') or ip.startswith('192.168.'):
-                return "PRIVATE"
-            
-            if ':' in ip:
-                return "IPV6"
-                
-            return "UNKNOWN"
-        except:
-            return "UNKNOWN"
-    
-    def get_country(self, ip: str) -> str:
-        with self.lock:
-            if ip in self.cache:
-                return self.cache[ip]
-        
-        country_code = "UNKNOWN"
-        
-        try:
-            if os.path.exists(self.db_path):
-                import geoip2.database
-                
-                with geoip2.database.Reader(self.db_path) as reader:
-                    try:
-                        response = reader.country(ip)
-                        country_code = response.country.iso_code or "UNKNOWN"
-                    except:
-                        country_code = self.get_country_by_ipapi(ip)
-            else:
-                country_code = self.get_country_by_ipapi(ip)
-                
-        except ImportError:
-            logger.warning("geoip2 not available, using ip-api.com")
-            country_code = self.get_country_by_ipapi(ip)
-        except Exception as e:
-            logger.debug(f"GeoIP lookup failed for {ip}: {e}")
-            country_code = self.get_country_fallback(ip)
-        
-        with self.lock:
-            self.cache[ip] = country_code
-        
-        return country_code
+    def get_country(self, ip):
+        return self.get_country_by_ipapi(ip)
 
 class CountryClassifier:
-    def __init__(self, max_workers: int = 50):
+    def __init__(self, max_workers=30):
         self.parser = ConfigParser()
-        self.dns_resolver = DNSResolver()
         self.geoip = GeoIPClassifier()
         self.max_workers = max_workers
         self.results_lock = threading.Lock()
-        self.results: Dict[str, Dict[str, List[str]]] = {}
+        self.results = {}
         self.stats = {
             'total': 0,
-            'success': 0,
-            'failed': 0,
+            'ip_based': 0,
+            'domain_based': 0,
             'by_country': {},
             'by_protocol': {}
         }
     
-    def process_single_config(self, config_str: str) -> Optional[Dict]:
+    def process_single_config(self, config_str):
         try:
             parsed = self.parser.parse_config(config_str)
             if not parsed:
                 return None
             
-            target_host = self.parser.get_target_host(parsed)
+            target_host = parsed.get('target_host', '')
             if not target_host:
                 return None
             
-            is_ip = re.match(r'^\d{1,3}\.\d{1,3}\.\d{1,3}\.\d{1,3}$', target_host)
-            if not is_ip:
-                is_ipv6 = ':' in target_host and not target_host.startswith('[')
-                if not is_ipv6:
-                    ips = self.dns_resolver.resolve(target_host, timeout=3.0)
-                    if not ips:
-                        return None
-                    ip = ips[0]
-                else:
-                    ip = target_host
-            else:
-                ip = target_host
+            is_ip = self.parser.is_ip_address(target_host)
             
-            is_cdn, cdn_provider = self.parser.is_cdn_domain(target_host)
-            country = self.geoip.get_country(ip)
+            if not is_ip:
+                return {
+                    'config': config_str,
+                    'parsed': parsed,
+                    'ip': None,
+                    'country': 'DOMAIN',
+                    'is_ip': False,
+                    'target_host': target_host
+                }
+            
+            country = self.geoip.get_country(target_host)
             
             return {
                 'config': config_str,
                 'parsed': parsed,
-                'ip': ip,
+                'ip': target_host,
                 'country': country,
-                'is_cdn': is_cdn,
-                'cdn_provider': cdn_provider,
-                'host': target_host
+                'is_ip': True,
+                'target_host': target_host
             }
         except Exception as e:
             logger.debug(f"Failed to process config: {e}")
             return None
     
-    def process_configs(self, configs: List[str]) -> Dict[str, Any]:
+    def process_configs(self, configs):
         logger.info(f"Processing {len(configs)} configurations...")
         
         self.results = {}
         self.stats = {
             'total': len(configs),
-            'success': 0,
-            'failed': 0,
+            'ip_based': 0,
+            'domain_based': 0,
             'by_country': {},
             'by_protocol': {}
         }
@@ -470,24 +375,22 @@ class CountryClassifier:
         
         logger.info(f"After deduplication: {len(unique_configs)} unique configs")
         
-        show_progress = len(unique_configs) <= 10000
-        
         with concurrent.futures.ThreadPoolExecutor(max_workers=self.max_workers) as executor:
-            future_to_config = {
-                executor.submit(self.process_single_config, config): config 
-                for config in unique_configs
-            }
+            future_to_config = {executor.submit(self.process_single_config, config): config for config in unique_configs}
             
             completed = 0
             for future in concurrent.futures.as_completed(future_to_config):
                 completed += 1
-                if show_progress and completed % 100 == 0:
+                if completed % 100 == 0:
                     logger.info(f"Processed {completed}/{len(unique_configs)} configs")
                 
                 result = future.result()
                 if result:
                     with self.results_lock:
-                        self.stats['success'] += 1
+                        if result['is_ip']:
+                            self.stats['ip_based'] += 1
+                        else:
+                            self.stats['domain_based'] += 1
                         
                         country = result['country']
                         protocol = result['parsed']['protocol']
@@ -502,11 +405,7 @@ class CountryClassifier:
                         
                         self.stats['by_country'][country] = self.stats['by_country'].get(country, 0) + 1
                         self.stats['by_protocol'][protocol] = self.stats['by_protocol'].get(protocol, 0) + 1
-                else:
-                    with self.results_lock:
-                        self.stats['failed'] += 1
         
-        self.dns_resolver.save_cache()
         self.geoip.save_cache()
         
         return {
@@ -514,12 +413,17 @@ class CountryClassifier:
             'stats': self.stats
         }
     
-    def save_results(self, results: Dict[str, Any], output_dir: str = 'configs/country'):
+    def save_results(self, results, output_dir='configs/country'):
         os.makedirs(output_dir, exist_ok=True)
         
         timestamp = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
         
+        ip_based_configs = []
+        
         for country, protocols in results['results'].items():
+            if country == 'DOMAIN':
+                continue
+                
             country_dir = os.path.join(output_dir, country)
             os.makedirs(country_dir, exist_ok=True)
             
@@ -538,6 +442,7 @@ class CountryClassifier:
                         f.write(content)
                     
                     all_country_configs.extend(configs)
+                    ip_based_configs.extend(configs)
             
             if all_country_configs:
                 all_file = os.path.join(country_dir, "all.txt")
@@ -550,6 +455,45 @@ class CountryClassifier:
                 with open(all_file, 'w', encoding='utf-8') as f:
                     f.write(content)
         
+        if 'DOMAIN' in results['results']:
+            domain_dir = os.path.join(output_dir, 'DOMAIN')
+            os.makedirs(domain_dir, exist_ok=True)
+            
+            domain_configs = []
+            for protocol, configs in results['results']['DOMAIN'].items():
+                domain_configs.extend(configs)
+            
+            if domain_configs:
+                domain_file = os.path.join(domain_dir, "all.txt")
+                content = f"# Domain-Based Configurations\n"
+                content += f"# Updated: {timestamp}\n"
+                content += f"# Total Count: {len(domain_configs)}\n"
+                content += "# Note: These configs use domain names instead of IP addresses\n\n"
+                content += "\n".join(domain_configs)
+                
+                with open(domain_file, 'w', encoding='utf-8') as f:
+                    f.write(content)
+        
+        ip_summary_file = os.path.join(output_dir, "ip_based_summary.txt")
+        with open(ip_summary_file, 'w', encoding='utf-8') as f:
+            f.write(f"# IP-Based Configurations Summary\n")
+            f.write(f"# Updated: {timestamp}\n\n")
+            f.write(f"Total IP-based configs: {len(ip_based_configs)}\n\n")
+            
+            country_stats = {}
+            for config in ip_based_configs:
+                for country in results['results']:
+                    if country == 'DOMAIN':
+                        continue
+                    for protocol_configs in results['results'][country].values():
+                        if config in protocol_configs:
+                            country_stats[country] = country_stats.get(country, 0) + 1
+                            break
+            
+            f.write("IP-Based Configs by Country:\n")
+            for country, count in sorted(country_stats.items(), key=lambda x: x[1], reverse=True):
+                f.write(f"  {country}: {count}\n")
+        
         stats_file = os.path.join(output_dir, "stats.json")
         with open(stats_file, 'w', encoding='utf-8') as f:
             json.dump(results['stats'], f, indent=2)
@@ -559,11 +503,12 @@ class CountryClassifier:
             f.write(f"# Country Classification Summary\n")
             f.write(f"# Updated: {timestamp}\n\n")
             f.write(f"Total configs processed: {results['stats']['total']}\n")
-            f.write(f"Successfully classified: {results['stats']['success']}\n")
-            f.write(f"Failed to classify: {results['stats']['failed']}\n\n")
+            f.write(f"IP-based configs: {results['stats']['ip_based']}\n")
+            f.write(f"Domain-based configs: {results['stats']['domain_based']}\n\n")
             
-            f.write("By Country:\n")
-            for country, count in sorted(results['stats']['by_country'].items(), key=lambda x: x[1], reverse=True):
+            f.write("IP-Based Configs by Country:\n")
+            ip_countries = {k: v for k, v in results['stats']['by_country'].items() if k != 'DOMAIN'}
+            for country, count in sorted(ip_countries.items(), key=lambda x: x[1], reverse=True):
                 f.write(f"  {country}: {count}\n")
             
             f.write("\nBy Protocol:\n")
@@ -572,28 +517,24 @@ class CountryClassifier:
         
         logger.info(f"Results saved to {output_dir}")
 
-def read_all_configs() -> List[str]:
+def read_all_configs():
     configs = []
     
-    combined_dir = 'configs/combined'
-    if os.path.exists(combined_dir):
-        for filename in os.listdir(combined_dir):
-            if filename.endswith('.txt'):
-                filepath = os.path.join(combined_dir, filename)
-                try:
-                    with open(filepath, 'r', encoding='utf-8', errors='ignore') as f:
-                        for line in f:
-                            line = line.strip()
-                            if line and not line.startswith('#'):
-                                configs.append(line)
-                except Exception as e:
-                    logger.error(f"Error reading {filepath}: {e}")
+    combined_file = 'configs/combined/all.txt'
+    if os.path.exists(combined_file):
+        try:
+            with open(combined_file, 'r', encoding='utf-8', errors='ignore') as f:
+                for line in f:
+                    line = line.strip()
+                    if line and not line.startswith('#'):
+                        configs.append(line)
+        except:
+            pass
     
     if not configs:
         sources = [
             'configs/telegram/all.txt',
-            'configs/github/all.txt',
-            'configs/combined/all.txt'
+            'configs/github/all.txt'
         ]
         
         for filepath in sources:
@@ -604,14 +545,14 @@ def read_all_configs() -> List[str]:
                             line = line.strip()
                             if line and not line.startswith('#'):
                                 configs.append(line)
-                except Exception as e:
-                    logger.error(f"Error reading {filepath}: {e}")
+                except:
+                    pass
     
     return configs
 
 def main():
     print("=" * 60)
-    print("COUNTRY CONFIG CLASSIFIER")
+    print("IP-BASED COUNTRY CONFIG CLASSIFIER")
     print("=" * 60)
     
     try:
@@ -634,15 +575,12 @@ def main():
         print(f"\n✅ CLASSIFICATION COMPLETE")
         print(f"Time elapsed: {elapsed_time:.2f} seconds")
         print(f"Total configs: {results['stats']['total']}")
-        print(f"Successfully classified: {results['stats']['success']}")
-        print(f"Failed: {results['stats']['failed']}")
+        print(f"IP-based configs: {results['stats']['ip_based']}")
+        print(f"Domain-based configs: {results['stats']['domain_based']}")
         
-        print(f"\n📊 Top Countries:")
-        top_countries = sorted(
-            results['stats']['by_country'].items(), 
-            key=lambda x: x[1], 
-            reverse=True
-        )[:10]
+        print(f"\n📊 IP-Based Configs by Country:")
+        ip_countries = {k: v for k, v in results['stats']['by_country'].items() if k != 'DOMAIN'}
+        top_countries = sorted(ip_countries.items(), key=lambda x: x[1], reverse=True)[:15]
         
         for country, count in top_countries:
             print(f"  {country}: {count} configs")
@@ -652,8 +590,6 @@ def main():
         
     except Exception as e:
         logger.error(f"Error in main: {e}")
-        import traceback
-        logger.error(traceback.format_exc())
 
 if __name__ == "__main__":
     main()

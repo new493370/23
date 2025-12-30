@@ -1,11 +1,11 @@
 # All Configurations for UA
-# Updated: 2025-12-30 07:13:21
+# Updated: 2025-12-30 10:04:50
 # Total Count: 6
 # Country Code: UA
 
+vless://4a4bc24c-616a-4384-8a8f-b3e197fc1af2@91.218.212.223:443?path=%2FFree-VPN-CF-Geo-Project%2F91.218.212.223%3D443&security=tls&encryption=none&host=joss.gvpn2.web.id&fp=randomized&type=ws&sni=joss.gvpn2.web.id#ARISTA🔥
+vless://5ebd4347-904e-5baa-a195-e6673fa81cb6@95.164.34.105:2082?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless-grpc#ARISTA🔥
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.70:8880?security=none&encryption=none&type=grpc#ARISTA🔥
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.104:8880?mode=gun&security=none&encryption=none&type=grpc#ARISTA🔥
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.85:8880?mode=gun&security=none&encryption=none&type=grpc#ARISTA🔥
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.104:8880?mode=gun&security=none&encryption=none&fp=chrome&type=grpc#ARISTA🔥
-vless://5ebd4347-904e-5baa-a195-e6673fa81cb6@95.164.34.105:2082?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless-grpc#ARISTA🔥
-vless://4a4bc24c-616a-4384-8a8f-b3e197fc1af2@91.218.212.223:443?path=%2FFree-VPN-CF-Geo-Project%2F91.218.212.223%3D443&security=tls&encryption=none&host=joss.gvpn2.web.id&fp=randomized&type=ws&sni=joss.gvpn2.web.id#ARISTA🔥
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.85:8880?mode=gun&security=none&encryption=none&type=grpc#ARISTA🔥

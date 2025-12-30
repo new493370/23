@@ -1,34 +1,34 @@
 # Country Classification Summary
-# Updated: 2025-12-30 07:13:21
+# Updated: 2025-12-30 10:04:50
 
-Total configs processed: 5465
-IP-based configs: 2648
-Domain-based configs: 2724
+Total configs processed: 5448
+IP-based configs: 2645
+Domain-based configs: 2710
 
 IP-Based Configs by Country:
-  RU: 367
-  UNKNOWN: 311
-  DE: 308
+  RU: 362
+  UNKNOWN: 321
+  DE: 314
   US: 224
   VN: 207
   PL: 152
-  NL: 149
-  GB: 120
-  FR: 101
-  MD: 74
-  FI: 63
-  CA: 62
+  NL: 144
+  GB: 122
+  FR: 99
+  MD: 71
+  FI: 62
+  CA: 59
   LT: 51
-  IR: 42
-  SE: 37
+  IR: 39
+  SE: 39
   HK: 35
   JP: 31
-  CY: 30
+  CY: 29
   AE: 26
   SG: 23
   TR: 15
   IN: 14
-  CH: 13
+  CH: 12
   LV: 11
   IT: 11
   KZ: 9
@@ -36,43 +36,43 @@ IP-Based Configs by Country:
   AT: 9
   EE: 9
   TH: 7
+  ES: 6
+  BG: 6
   UA: 6
   MX: 6
-  BG: 6
-  ES: 6
   BR: 5
   GR: 5
   SI: 5
   TW: 5
   MK: 5
-  AM: 4
   AR: 4
+  AM: 4
   KR: 4
   MT: 4
-  RO: 3
-  MY: 3
   CZ: 3
+  MY: 3
+  RO: 3
+  CN: 3
   IS: 3
   HR: 3
   PE: 3
   PR: 3
   PT: 3
-  CN: 2
   LU: 2
-  ID: 2
   AZ: 2
-  BE: 2
+  ID: 2
   AU: 2
+  BE: 2
   ZA: 2
   NO: 2
   EC: 2
   PY: 2
   CO: 2
-  MU: 1
-  AL: 1
-  MH: 1
   UZ: 1
   GE: 1
+  MH: 1
+  MU: 1
+  AL: 1
   NZ: 1
   IE: 1
   GT: 1
@@ -87,9 +87,8 @@ IP-Based Configs by Country:
   DK: 1
 
 By Protocol:
-  vless: 2701
+  vless: 2684
   hysteria: 1460
-  ss: 740
-  vmess: 351
-  trojan: 119
-  wireguard: 1
+  ss: 742
+  vmess: 352
+  trojan: 117

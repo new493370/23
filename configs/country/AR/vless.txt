@@ -1,6 +1,7 @@
 # AR - VLESS Configurations
-# Updated: 2025-12-30 19:08:58
-# Count: 1
+# Updated: 2025-12-30 21:55:06
+# Count: 2
 # Country Code: AR
 
 vless://eb162ab1-a006-4931-b1b3-8fc88a22b10e@38.180.185.28:8443?security=reality&encryption=none&pbk=CWeNg8bNNdCHYhjNl01BTevvPnHsXd736dymoBEsbBI&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=eh.vk.com#ARISTA🔥
+vless://eb162ab1-a006-4931-b1b3-8fc88a22b10e@38.180.185.28:8443?security=reality&encryption=none&pbk=CWeNg8bNNdCHYhjNl01BTevvPnHsXd736dymoBEsbBI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=eh.vk.com#ARISTA🔥

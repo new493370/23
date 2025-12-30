@@ -1,12 +1,12 @@
 # All Configurations for ES
-# Updated: 2025-12-30 14:07:49
+# Updated: 2025-12-30 15:58:29
 # Total Count: 7
 # Country Code: ES
 
-vless://6fc624eb-0ddb-4f96-891e-1cd96222e665@141.227.128.24:41291?mode=gun&security=none&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#ARISTA🔥
-vless://60ce56ac-bdba-11f0-94db-525400ca5ed1@45.159.79.174:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=st.ozone.ru&fp=firefox&security=reality&pbk=3uWYzm65qryajVsnj0Uanu8be-RhDBd6Ofy2EhQTZjw&sid=#ARISTA🔥
-vless://60ce56ac-bdba-11f0-94db-525400ca5ed1@45.159.79.174:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=st.ozone.ru&fp=firefox&security=reality&pbk=3uWYzm65qryajVsnj0Uanu8be-RhDBd6Ofy2EhQTZjw#ARISTA🔥
-vless://60ce56ac-bdba-11f0-94db-525400ca5ed1@194.48.141.157:443?security=reality&encryption=none&pbk=3uWYzm65qryajVsnj0Uanu8be-RhDBd6Ofy2EhQTZjw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.ozon.ru#ARISTA🔥
-vless://60ce56ac-bdba-11f0-94db-525400ca5ed1@194.48.141.157:443?security=reality&encryption=none&pbk=3uWYzm65qryajVsnj0Uanu8be-RhDBd6Ofy2EhQTZjw&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.ozon.ru#ARISTA🔥
-vless://60ce56ac-bdba-11f0-94db-525400ca5ed1@45.159.79.174:443?security=reality&encryption=none&pbk=3uWYzm65qryajVsnj0Uanu8be-RhDBd6Ofy2EhQTZjw&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=st.ozone.ru#ARISTA🔥
 vless://60ce56ac-bdba-11f0-94db-525400ca5ed1@45.159.79.174:443?security=reality&amp;encryption=none&amp;pbk=3uWYzm65qryajVsnj0Uanu8be-RhDBd6Ofy2EhQTZjw&amp;headerType=none&amp;fp=firefox&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=st.ozone.ru#ARISTA🔥
+vless://60ce56ac-bdba-11f0-94db-525400ca5ed1@45.159.79.174:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=st.ozone.ru&fp=firefox&security=reality&pbk=3uWYzm65qryajVsnj0Uanu8be-RhDBd6Ofy2EhQTZjw#ARISTA🔥
+vless://6fc624eb-0ddb-4f96-891e-1cd96222e665@141.227.128.24:41291?mode=gun&security=none&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#ARISTA🔥
+vless://60ce56ac-bdba-11f0-94db-525400ca5ed1@45.159.79.174:443?security=reality&encryption=none&pbk=3uWYzm65qryajVsnj0Uanu8be-RhDBd6Ofy2EhQTZjw&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=st.ozone.ru#ARISTA🔥
+vless://60ce56ac-bdba-11f0-94db-525400ca5ed1@194.48.141.157:443?security=reality&encryption=none&pbk=3uWYzm65qryajVsnj0Uanu8be-RhDBd6Ofy2EhQTZjw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.ozon.ru#ARISTA🔥
+vless://60ce56ac-bdba-11f0-94db-525400ca5ed1@45.159.79.174:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=st.ozone.ru&fp=firefox&security=reality&pbk=3uWYzm65qryajVsnj0Uanu8be-RhDBd6Ofy2EhQTZjw&sid=#ARISTA🔥
+vless://60ce56ac-bdba-11f0-94db-525400ca5ed1@194.48.141.157:443?security=reality&encryption=none&pbk=3uWYzm65qryajVsnj0Uanu8be-RhDBd6Ofy2EhQTZjw&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.ozon.ru#ARISTA🔥

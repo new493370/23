@@ -1,8 +1,9 @@
 # CA - TROJAN Configurations
-# Updated: 2025-12-30 15:58:29
-# Count: 3
+# Updated: 2025-12-30 19:08:58
+# Count: 4
 # Country Code: CA
 
 trojan://.ie4rghJuMkcf0oF@38.96.254.102:18509?security=tls&sni=shoppingmall.electricbanana.click&path=/#ARISTA🔥
 trojan://.ie4rghJuMkcf0oF@38.96.254.102:18509?sni=shoppingmall.electricbanana.click&path=/#ARISTA🔥
-trojan://5a2c16f9@172.64.229.7:443?sni=snippets.kkii.eu.org&type=ws&path=%2F&fp=chrome#ARISTA🔥
+trojan://6pRjKQJ0CWyFtG.9@198.57.27.27:12990?security=tls&sni=diningtable.electricbanana.click&fp=chrome&allowInsecure=1&type=tcp&headerType=none#ARISTA🔥
+trojan://6pRjKQJ0CWyFtG.9@198.57.27.27:12990?security=tls&sni=diningtable.electricbanana.click&fp=chrome&type=tcp&headerType=none#ARISTA🔥

@@ -1,7 +1,6 @@
 # RO - VLESS Configurations
-# Updated: 2025-12-31 15:52:04
-# Count: 2
+# Updated: 2025-12-31 19:09:12
+# Count: 1
 # Country Code: RO
 
 vless://d9a2c56e-30e3-4e35-9a49-cf49dfb1d489@31.6.1.187:27229?security=reality&encryption=none&pbk=1_vS_JKpOvJnqPUDyaREbXWd5M59bIIKsNyV5Kt0uD8&headerType=none&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=store.steampowered.com&sid=cd1f804d#ARISTA🔥
-vless://157448af-8ecf-4075-a9e9-b23a6a94899b@185.156.44.119:8443?security=tls&sni=buh-ro-01.fromblancwithlove.com&type=tcp&alpn=h2&allowInsecure=1#ARISTA🔥

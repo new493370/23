@@ -1,15 +1,14 @@
 # SG - VLESS Configurations
-# Updated: 2025-12-31 09:57:35
-# Count: 10
+# Updated: 2025-12-31 13:57:41
+# Count: 9
 # Country Code: SG
 
 vless://ea0ba1f9-87dc-4599-8532-c94a61b5fda6@167.99.73.22:443?encryption=none&type=ws&host=joss.gpj4.web.id&path=%2FFree-VPN-CF-Geo-Project%2FSG5192&security=tls&fp=randomized&sni=joss.gpj4.web.id#ARISTA🔥
-vless://8d5911d9-f9f9-484f-8f67-5729ab5fd1af@92.243.74.239:8443?path=%2Fsnippets%3Fip%3Dtw.tp81.netlib.re%3A81&security=tls&encryption=none&type=ws&sni=saas.cfliu.filegear-sg.me#ARISTA🔥
-vless://bfb7355f-da10-470c-99d2-16c5061c403a@152.42.185.230:23675?path=%2FFREE%20By%20Tharuwa%20%280767597317%29&amp;security=none&amp;encryption=none&amp;host=m.zoom.us&amp;type=ws#ARISTA🔥
 vless://a3e65839-adcf-404f-8076-c8bf6dcdadd1@158.178.229.178:443?encryption=none&type=ws&host=imalrzaiserver.imalrzai.workers.dev&path=%2F%3Fed&security=tls&fp=chrome&sni=imalrzaiserver.imalrzai.workers.dev#ARISTA🔥
+vless://602b380a-9fdf-4425-bc07-aae9a95cfc4b@27.50.48.8:443?path=%2Fsnippets%2Fip%3Dtp50000.kr.proxyip.fgfw.eu.org%3A50000%23TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D512&security=tls&alpn=h3&encryption=none&fp=random&type=ws&sni=vless.hubp.de#ARISTA🔥
 vless://602b380a-9fdf-4425-bc07-aae9a95cfc4b@27.50.48.8:443?security=tls&alpn=h3&encryption=none&fp=chrome&type=ws&sni=vless.hubp.de#ARISTA🔥
 vless://602b380a-9fdf-4425-bc07-aae9a95cfc4b@27.50.48.8:443?path=/snippets/ip&security=tls&alpn=h3&encryption=none&fp=chrome&type=ws&sni=vless.hubp.de#ARISTA🔥
-vless://602b380a-9fdf-4425-bc07-aae9a95cfc4b@27.50.48.8:443?path=%2Fsnippets%2Fip%3Dtp50000.kr.proxyip.fgfw.eu.org%3A50000%23TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D512&security=tls&alpn=h3&encryption=none&fp=random&type=ws&sni=vless.hubp.de#ARISTA🔥
-vless://bfb7355f-da10-470c-99d2-16c5061c403a@152.42.185.230:23675?path=%2FFREE%20By%20Tharuwa%20%280767597317%29&security=none&encryption=none&host=m.zoom.us&type=ws#ARISTA🔥
+vless://bfb7355f-da10-470c-99d2-16c5061c403a@152.42.185.230:23675?path=%2FFREE%20By%20Tharuwa%20%280767597317%29&security=&encryption=none&host=m.zoom.us&type=ws#ARISTA🔥
+vless://8d5911d9-f9f9-484f-8f67-5729ab5fd1af@92.243.74.239:8443?path=%2Fsnippets%3Fip%3Dtw.tp81.netlib.re%3A81&security=tls&encryption=none&type=ws&sni=saas.cfliu.filegear-sg.me#ARISTA🔥
 vless://00000000-0000-4000-8000-000000000000@124.243.132.106:23333?encryption=none&security=tls&sni=mikuyo.bpd67081tsq.ddns-ip.net&type=ws&host=mikuyo.bpd67081tsq.ddns-ip.net&path=/@Marisa_kristi#ARISTA🔥
 vless://3e7f67de-648e-4871-b51a-a225214d41ee@8.222.134.143:443?encryption=none&security=reality&sni=www.primevideo.com&fp=chrome&pbk=TRP10HqKUXEQ3O-cfsq93DycfBmbJe9KM36yvSa8Mmw&type=tcp&headerType=none&host=www.primevideo.com#ARISTA🔥

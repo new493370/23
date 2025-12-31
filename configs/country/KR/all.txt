@@ -1,8 +1,12 @@
 # All Configurations for KR
-# Updated: 2025-12-31 04:07:11
-# Total Count: 3
+# Updated: 2025-12-31 07:11:34
+# Total Count: 7
 # Country Code: KR
 
-vless://5d42cfef-0556-4f0c-bfb7-161aef500ab5@121.154.180.50:51698/?type=grpc&encryption=none&flow=&sni=lenovoglobal.com&fp=chrome&security=reality&pbk=PPZbDAYSwCYnPCF8BxguTFfAAZTnLnzpsHePCkGZYxo&sid=34#ARISTA🔥
+vless://5d42cfef-0556-4f0c-bfb7-161aef500ab5@222.102.51.111:51698?mode=gun&security=reality&encryption=none&authority=/---v2rayNplus---v2rayNplus---v2rayNplus---v2rayNplus---&pbk=PPZbDAYSwCYnPCF8BxguTFfAAZTnLnzpsHePCkGZYxo&fp=chrome&spx=/---v2rayNplus---v2rayNplus---v2rayNplus---v2rayNplus---&type=grpc&sni=lenovoglobal.com&sid=34#ARISTA🔥
 vless://5d42cfef-0556-4f0c-bfb7-161aef500ab5@121.154.180.50:51698?security=reality&encryption=none&pbk=PPZbDAYSwCYnPCF8BxguTFfAAZTnLnzpsHePCkGZYxo&fp=chrome&type=grpc&sni=lenovoglobal.com&sid=34#ARISTA🔥
+vless://5d42cfef-0556-4f0c-bfb7-161aef500ab5@121.154.180.50:51698/?type=grpc&encryption=none&flow=&sni=lenovoglobal.com&fp=chrome&security=reality&pbk=PPZbDAYSwCYnPCF8BxguTFfAAZTnLnzpsHePCkGZYxo&sid=34#ARISTA🔥
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxMjI0Mg@115.161.136.145:10099#ARISTA🔥
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@141.164.45.187:7001#ARISTA🔥
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@154.90.63.177:989#ARISTA🔥
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@154.90.62.168:989#ARISTA🔥

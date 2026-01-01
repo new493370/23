@@ -1,8 +1,8 @@
 # All Configurations for AL
-# Updated: 2026-01-01 19:06:19
+# Updated: 2026-01-01 21:44:31
 # Total Count: 3
 # Country Code: AL
 
-vless://8b55c24a-806d-4b29-9388-0e5034cf78df@78.159.131.51:443/?type=tcp&encryption=none&flow=&sni=www.samsung.com&fp=chrome&security=reality&pbk=bonLTdEWniTF7h32iBBM4XK5CP0MhhZ0rIegMsYpbkw&sid=702cc6ff#ARISTA🔥
-vless://4d388def-074d-4cf6-997d-6144c75a6da8@185.177.238.18:443?security=reality&encryption=none&pbk=jrpL94cShQQzeMnCRGQlfiRctXb17NOI6JgUPPcG2XI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=84ba23f147ad6a56#ARISTA🔥
 vless://95fffeb4-c143-4f2c-abe9-8dfeff2c33d7@185.177.238.99:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=al.cdn.stun.su&fp=chrome&security=reality&pbk=su3dq3BDLDkX-jIjq3GyVUXwqzD7CNVYzKtOcO4HQ24&sid=f6f88b14adc6f641#ARISTA🔥
+vless://4d388def-074d-4cf6-997d-6144c75a6da8@185.177.238.18:443?security=reality&encryption=none&pbk=jrpL94cShQQzeMnCRGQlfiRctXb17NOI6JgUPPcG2XI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=84ba23f147ad6a56#ARISTA🔥
+vless://8b55c24a-806d-4b29-9388-0e5034cf78df@78.159.131.51:443/?type=tcp&encryption=none&flow=&sni=www.samsung.com&fp=chrome&security=reality&pbk=bonLTdEWniTF7h32iBBM4XK5CP0MhhZ0rIegMsYpbkw&sid=702cc6ff#ARISTA🔥

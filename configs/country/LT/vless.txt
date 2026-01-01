@@ -1,9 +1,9 @@
 # LT - VLESS Configurations
-# Updated: 2026-01-01 19:06:19
+# Updated: 2026-01-01 21:44:31
 # Count: 4
 # Country Code: LT
 
-vless://5f05f5c4-13a6-4e67-85f1-93b32bf85e52@46.29.234.92:29550?security=reality&encryption=none&pbk=aPVIbZXEkHpPedX9ix1r8Km2ZV1MgpuBjN0Qxkwx1zA&headerType=none&fp=chrome&spx=%2F---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&type=tcp&sni=yandex.ru&sid=8160d3d997cdf7be#ARISTA🔥
-vless://2456f90c-5183-476d-b069-16ae74ce120f@45.146.201.253:2096?encryption=none&type=ws&path=%2F&security=tls&sni=fast01.0860852.xyz#ARISTA🔥
-vless://eb162ab1-a006-4931-b1b3-8fc88a22b10e@147.45.217.250:443?mode=auto&path=%2Fws&security=reality&encryption=none&pbk=m-foGonYn9goyv5U_ffQ-DORHxz4bQ88RIJoim_n228&fp=randomized&type=xhttp&sni=sun6-22.userapi.com#ARISTA🔥
 vless://eb162ab1-a006-4931-b1b3-8fc88a22b10e@147.45.217.250:443?mode=auto&path=%2Fws&security=reality&encryption=none&pbk=m-foGonYn9goyv5U_ffQ-DORHxz4bQ88RIJoim_n228&fp=chrome&type=xhttp&sni=sun6-22.userapi.com#ARISTA🔥
+vless://eb162ab1-a006-4931-b1b3-8fc88a22b10e@147.45.217.250:443?mode=auto&path=%2Fws&security=reality&encryption=none&pbk=m-foGonYn9goyv5U_ffQ-DORHxz4bQ88RIJoim_n228&fp=randomized&type=xhttp&sni=sun6-22.userapi.com#ARISTA🔥
+vless://2456f90c-5183-476d-b069-16ae74ce120f@45.146.201.253:2096?encryption=none&type=ws&path=%2F&security=tls&sni=fast01.0860852.xyz#ARISTA🔥
+vless://5f05f5c4-13a6-4e67-85f1-93b32bf85e52@46.29.234.92:29550?security=reality&encryption=none&pbk=aPVIbZXEkHpPedX9ix1r8Km2ZV1MgpuBjN0Qxkwx1zA&headerType=none&fp=chrome&spx=%2F---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&type=tcp&sni=yandex.ru&sid=8160d3d997cdf7be#ARISTA🔥

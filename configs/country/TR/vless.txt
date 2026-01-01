@@ -1,18 +1,19 @@
 # TR - VLESS Configurations
-# Updated: 2026-01-01 13:59:10
-# Count: 13
+# Updated: 2026-01-01 15:50:22
+# Count: 14
 # Country Code: TR
 
-vless://2f30aa44-c87c-e73d-a715-0813c68ee9b2@45.141.148.89:6048/?type=tcp&encryption=none&flow=&sni=telewebion.com&fp=chrome&security=reality&pbk=8KraKuYxjT-2mqg_y_yJvME2zxbc7BUDPoPvUMWNXmE&sid=cdc30097#ARISTA🔥
-vless://125ea501-6bbe-453a-ab42-352789be8154@45.81.113.60:4656?security=none&encryption=none&headerType=none&type=tcp#ARISTA🔥
-vless://cad50a8e-1b40-4e81-9c36-e2425d910574@62.60.233.21:64392?security=reality&encryption=none&pbk=jkDZG14yH1-j-HH1xDuuKq3IW54FSPSNFfrl9iUWC08&host=Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=yandex.ru&sid=9572999470cc445d#ARISTA🔥
-vless://309fa273-6579-4cb2-9143-7cad50401eba@45.12.143.84:8443?security=reality&encryption=none&pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=7cad5040#ARISTA🔥
-vless://2f30aa44-c87c-e73d-a715-0813c68ee9b2@45.144.214.67:9804?encryption=none&security=none&type=tcp&headerType=none#ARISTA🔥
-vless://282ad8f5-c83c-4078-8876-d691c8a6279f@188.132.141.49:8443?security=reality&encryption=none&pbk=hG9KBeeA2zzWVIZq4EnigRVx8VUCvQeokU5_PnBK2Ds&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=docker.com#ARISTA🔥
-vless://eb162ab1-a006-4931-b1b3-8fc88a22b10e@77.83.245.220:8443?mode=auto&path=%2Fapi%2Fv2%2Fupdates&security=reality&encryption=none&extra=%7Bxmux%3D%7BcMaxReuseTimes%3D0.0%2C%20maxConcurrency%3D16-32%2C%20maxConnections%3D0.0%2C%20hKeepAlivePeriod%3D0.0%2C%20hMaxRequestTimes%3D600-900%2C%20hMaxReusableSecs%3D1800-3000%7D%2C%20headers%3D%7B%7D%2C%20noGRPCHeader%3Dfalse%2C%20xPaddingBytes%3D100-1000%2C%20scMaxEachPostBytes%3D1000000.0%2C%20scMinPostsIntervalMs%3D30.0%2C%20scStreamUpServerSecs%3D20-80%7D&pbk=PWkwR4XjH5BYgg6RAzdK-VXCsM_aP-jyZPc9BQdvPX8&spx=%2F&type=xhttp&sni=01.img.avito.st#ARISTA🔥
-vless://ff14e39f-46f2-49d2-b74a-f22bc830ae2c@95.134.130.146:1331?sni=stackoverflow.com&sid=89345bea5809f46d&mode=auto&security=reality&path=%2F%40MaSTeRSeRVeR1-%40MaSTeRSeRVeR1-%40MaSTeRSeRVeR1-%40MaSTeRSeRVeR1-%40MaSTeRSeRVeR1-%40MaSTeRSeRVeR1-%40MaSTeRSeRVeR1-%40MaSTeRSeRVeR1-%40MaSTeRSeRVeR1-%40MaSTeRSeRVeR1-%40MaSTeRSeRVeR1-%40MaSTeRSeRVeR1-%40MaSTeRSeRVeR1-%40MaSTeRSeRVeR1&encryption=none&fp=chrome&type=xhttp&pbk=m8Tuf48MMB9ILy--1nfwGRPJOEbgHOdylaLS_JQ66DM#ARISTA🔥
-vless://10379355-8b52-4e48-be68-70f34272e92a@185.39.204.27:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=sun1-90.userapi.com&fp=&pbk=fsQFwBuDqsc-AylhF85Yu4jI81hn7LkYtNQCT5FFyiw&sid=#ARISTA🔥
-vless://125ea501-6bbe-453a-ab42-352789be8154@45.81.113.60:4656?encryption=none&security=none&type=tcp&headerType=none#ARISTA🔥
-vless://125ea501-6bbe-453a-ab42-352789be8154@45.81.113.60:4656?encryption=none&packetEncoding=xudp#ARISTA🔥
 vless://125ea501-6bbe-453a-ab42-352789be8154@45.81.113.60:4656?security=none&type=tcp&encryption=none#ARISTA🔥
 vless://513f699d-ed8c-4a47-a225-0736fc2213e7@94.131.123.236:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&encryption=none#ARISTA🔥
+vless://cad50a8e-1b40-4e81-9c36-e2425d910574@62.60.233.21:64392?security=reality&encryption=none&pbk=jkDZG14yH1-j-HH1xDuuKq3IW54FSPSNFfrl9iUWC08&host=Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=yandex.ru&sid=9572999470cc445d#ARISTA🔥
+vless://2f30aa44-c87c-e73d-a715-0813c68ee9b2@45.141.148.89:6048/?type=tcp&encryption=none&flow=&sni=telewebion.com&fp=chrome&security=reality&pbk=8KraKuYxjT-2mqg_y_yJvME2zxbc7BUDPoPvUMWNXmE&sid=cdc30097#ARISTA🔥
+vless://125ea501-6bbe-453a-ab42-352789be8154@45.81.113.60:4656?security=none&encryption=none&headerType=none&type=tcp#ARISTA🔥
+vless://eb162ab1-a006-4931-b1b3-8fc88a22b10e@77.83.245.220:8443?mode=auto&path=%2Fapi%2Fv2%2Fupdates&security=reality&encryption=none&extra=%7Bxmux%3D%7BcMaxReuseTimes%3D0.0%2C%20maxConcurrency%3D16-32%2C%20maxConnections%3D0.0%2C%20hKeepAlivePeriod%3D0.0%2C%20hMaxRequestTimes%3D600-900%2C%20hMaxReusableSecs%3D1800-3000%7D%2C%20headers%3D%7B%7D%2C%20noGRPCHeader%3Dfalse%2C%20xPaddingBytes%3D100-1000%2C%20scMaxEachPostBytes%3D1000000.0%2C%20scMinPostsIntervalMs%3D30.0%2C%20scStreamUpServerSecs%3D20-80%7D&pbk=PWkwR4XjH5BYgg6RAzdK-VXCsM_aP-jyZPc9BQdvPX8&spx=%2F&type=xhttp&sni=01.img.avito.st#ARISTA🔥
+vless://684ead3d-43b1-4707-904a-24e3e9e91fb1@198.105.123.182:2080?mode=gun&security=reality&encryption=none&pbk=9jcs1L8alkKMjyWZh0b0TNaPV53ilNkMIJGLtMU-2S4&fp=chrome&type=grpc&sni=yahoo.com&sid=722ee6b369#ARISTA🔥
+vless://545781e8-cdd4-429f-83db-6684f5e99dae@185.39.204.27:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=sun1-90.userapi.com&fp=&pbk=fsQFwBuDqsc-AylhF85Yu4jI81hn7LkYtNQCT5FFyiw&sid=#ARISTA🔥
+vless://125ea501-6bbe-453a-ab42-352789be8154@45.81.113.60:4656?encryption=none&security=none&type=tcp&headerType=none#ARISTA🔥
+vless://125ea501-6bbe-453a-ab42-352789be8154@45.81.113.60:4656?type=tcp&encryption=none#ARISTA🔥
+vless://ff14e39f-46f2-49d2-b74a-f22bc830ae2c@95.134.130.146:1331?sni=stackoverflow.com&sid=89345bea5809f46d&mode=auto&security=reality&path=%2F%40MaSTeRSeRVeR1-%40MaSTeRSeRVeR1-%40MaSTeRSeRVeR1-%40MaSTeRSeRVeR1-%40MaSTeRSeRVeR1-%40MaSTeRSeRVeR1-%40MaSTeRSeRVeR1-%40MaSTeRSeRVeR1-%40MaSTeRSeRVeR1-%40MaSTeRSeRVeR1-%40MaSTeRSeRVeR1-%40MaSTeRSeRVeR1-%40MaSTeRSeRVeR1-%40MaSTeRSeRVeR1&encryption=none&fp=chrome&type=xhttp&pbk=m8Tuf48MMB9ILy--1nfwGRPJOEbgHOdylaLS_JQ66DM#ARISTA🔥
+vless://282ad8f5-c83c-4078-8876-d691c8a6279f@188.132.141.49:8443?security=reality&encryption=none&pbk=hG9KBeeA2zzWVIZq4EnigRVx8VUCvQeokU5_PnBK2Ds&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=docker.com#ARISTA🔥
+vless://309fa273-6579-4cb2-9143-7cad50401eba@45.12.143.84:8443?security=reality&encryption=none&pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=7cad5040#ARISTA🔥
+vless://2f30aa44-c87c-e73d-a715-0813c68ee9b2@45.144.214.67:9804?encryption=none&security=none&type=tcp&headerType=none#ARISTA🔥

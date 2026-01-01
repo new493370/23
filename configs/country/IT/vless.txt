@@ -1,10 +1,8 @@
 # IT - VLESS Configurations
-# Updated: 2026-01-01 13:59:10
-# Count: 5
+# Updated: 2026-01-01 15:50:22
+# Count: 3
 # Country Code: IT
 
-vless://2f30aa44-c87c-e73d-a715-0813c68ee9b2@93.186.254.141:9804?encryption=none&packetEncoding=xudp#ARISTA🔥
 vless://fc7a34b8-7f83-475f-bca4-7a8f5dc861fb@151.101.242.172:80?host=Germandiginoe.com&type=ws&security=none&path=WEDBAZ%3Fed%3D2048&encryption=none#ARISTA🔥
-vless://2f30aa44-c87c-e73d-a715-0813c68ee9b2@93.186.254.141:9804?encryption=none&security=none&type=tcp&headerType=none#ARISTA🔥
-vless://2f30aa44-c87c-e73d-a715-0813c68ee9b2@93.186.254.141:9804?note=---Telegram---@Argo_VPN1---Telegram---@Argo_VPN1---Telegram---@Argo_VPN1---Telegram---@Argo_VPN1---&security=none&type=tcp&encryption=none#ARISTA🔥
 vless://fc7a34b8-7f83-475f-bca4-7a8f5dc861fb@151.101.242.172:80?host=Germany.ss.ss&type=ws&security=none&path=WEDBAZ%3Fed%3D2048&encryption=none#ARISTA🔥
+vless://2f30aa44-c87c-e73d-a715-0813c68ee9b2@93.186.254.141:9804?encryption=none&security=none&type=tcp&headerType=none#ARISTA🔥

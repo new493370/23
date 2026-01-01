@@ -1,8 +1,8 @@
 # UA - VLESS Configurations
-# Updated: 2026-01-01 13:59:10
+# Updated: 2026-01-01 15:50:22
 # Count: 3
 # Country Code: UA
 
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.85:8880?mode=gun&security=none&encryption=none&type=grpc#ARISTA🔥
 vless://5ebd4347-904e-5baa-a195-e6673fa81cb6@95.164.34.105:2082?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless-grpc#ARISTA🔥
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.85:8880?mode=gun&security=none&encryption=none&type=grpc#ARISTA🔥
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.70:8880?security=none&encryption=none&type=grpc#ARISTA🔥

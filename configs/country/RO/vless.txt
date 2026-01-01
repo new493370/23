@@ -1,6 +1,7 @@
 # RO - VLESS Configurations
-# Updated: 2026-01-01 07:10:52
-# Count: 1
+# Updated: 2026-01-01 09:55:34
+# Count: 2
 # Country Code: RO
 
 vless://d9a2c56e-30e3-4e35-9a49-cf49dfb1d489@31.6.1.187:27229?security=reality&encryption=none&pbk=1_vS_JKpOvJnqPUDyaREbXWd5M59bIIKsNyV5Kt0uD8&headerType=none&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=store.steampowered.com&sid=cd1f804d#ARISTA🔥
+vless://01973bf7-048a-4dc6-a82b-2fa3be7046a5@45.85.119.44:2083?mode=gun&security=tls&encryption=none&type=grpc&serviceName=dagh.mojavadd.space&sni=dagh.mojavadd.space#ARISTA🔥

@@ -1,10 +1,10 @@
 # All Configurations for AL
-# Updated: 2026-01-01 04:27:20
+# Updated: 2026-01-01 07:10:52
 # Total Count: 5
 # Country Code: AL
 
-vless://4d388def-074d-4cf6-997d-6144c75a6da8@185.177.238.18:443?security=reality&encryption=none&pbk=jrpL94cShQQzeMnCRGQlfiRctXb17NOI6JgUPPcG2XI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=84ba23f147ad6a56#ARISTA🔥
-vless://8b55c24a-806d-4b29-9388-0e5034cf78df@78.159.131.51:443/?type=tcp&encryption=none&flow=&sni=www.samsung.com&fp=chrome&security=reality&pbk=bonLTdEWniTF7h32iBBM4XK5CP0MhhZ0rIegMsYpbkw&sid=702cc6ff#ARISTA🔥
-vless://dcddd89c-aeca-4824-a680-d88f96510e9f@185.177.238.99:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=al.cdn.stun.su&fp=chrome&security=reality&pbk=su3dq3BDLDkX-jIjq3GyVUXwqzD7CNVYzKtOcO4HQ24&sid=8051d89749e0d400#ARISTA🔥
 vless://dcddd89c-aeca-4824-a680-d88f96510e9f@78.159.131.23:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=al.cdn.stun.su&fp=chrome&security=reality&pbk=su3dq3BDLDkX-jIjq3GyVUXwqzD7CNVYzKtOcO4HQ24&sid=8780dd274b21219d#ARISTA🔥
 vless://13d36378-f639-4b45-bcf0-3ebc84569ab1@185.177.238.57:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=al.cdn.stun.su&fp=chrome&security=reality&pbk=su3dq3BDLDkX-jIjq3GyVUXwqzD7CNVYzKtOcO4HQ24&sid=0eccda18dcb95082#ARISTA🔥
+vless://8b55c24a-806d-4b29-9388-0e5034cf78df@78.159.131.51:443/?type=tcp&encryption=none&flow=&sni=www.samsung.com&fp=chrome&security=reality&pbk=bonLTdEWniTF7h32iBBM4XK5CP0MhhZ0rIegMsYpbkw&sid=702cc6ff#ARISTA🔥
+vless://dcddd89c-aeca-4824-a680-d88f96510e9f@185.177.238.99:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=al.cdn.stun.su&fp=chrome&security=reality&pbk=su3dq3BDLDkX-jIjq3GyVUXwqzD7CNVYzKtOcO4HQ24&sid=8051d89749e0d400#ARISTA🔥
+vless://4d388def-074d-4cf6-997d-6144c75a6da8@185.177.238.18:443?security=reality&encryption=none&pbk=jrpL94cShQQzeMnCRGQlfiRctXb17NOI6JgUPPcG2XI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=84ba23f147ad6a56#ARISTA🔥

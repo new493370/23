@@ -1,13 +1,12 @@
 # All Configurations for BG
-# Updated: 2026-01-01 21:44:31
-# Total Count: 8
+# Updated: 2026-01-02 03:24:32
+# Total Count: 7
 # Country Code: BG
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@38.60.247.151:990#ARISTA🔥
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTRGFGSVNyM0dmbTZZa0JTU3JGSUV3d1dqRUVVN1hibw@95.164.10.228:443#ARISTA🔥
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwUW1uQzAzSk9iYlBoZGg1RkJKSGdENmpuVExjaHNSQQ@95.164.116.33:443#ARISTA🔥
-vless://d49b76ff-de4c-4efb-84a1-8fe649748c94@95.164.3.121:443?encryption=none&security=reality&sni=google.com&fp=edge&pbk=XY8doX6twfJ6qzioiuOzQCxHyiLWiv8YpKA-lD01AjI&sid=9c&spx=%2F&type=raw&headertype=none#ARISTA🔥
-vless://407b3941-8bf7-49d5-abc6-1ffd61e57990@81.161.229.122:443?security=reality&encryption=none&pbk=XB_Ylp1U4K2uth4jZI2v7Wru8O1cy7Hw26LwlB9QAkk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.microsoft.com&sid=6ba85179e30d4fc2#ARISTA🔥
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTRGFGSVNyM0dmbTZZa0JTU3JGSUV3d1dqRUVVN1hibw@95.164.10.228:443#ARISTA🔥
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@38.60.247.151:990#ARISTA🔥
 vless://35c74182-94ac-45a0-9100-d55fa3b27607@79.110.62.11:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=video.intfreed.ru&fp=chrome&security=reality&pbk=JxwG7rAbNCd_C82p9K69AZDWh51fri2nm3wLHHrfyiw&sid=7755e972daf8eec8#ARISTA🔥
 vless://35c74182-94ac-45a0-9100-d55fa3b27607@79.110.62.11:11443/?type=grpc&encryption=none&flow=&sni=video.intfreed.ru&fp=chrome&security=reality&pbk=JxwG7rAbNCd_C82p9K69AZDWh51fri2nm3wLHHrfyiw&sid=7755e972daf8eec8#ARISTA🔥
+vless://407b3941-8bf7-49d5-abc6-1ffd61e57990@81.161.229.122:443?security=reality&encryption=none&pbk=XB_Ylp1U4K2uth4jZI2v7Wru8O1cy7Hw26LwlB9QAkk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.microsoft.com&sid=6ba85179e30d4fc2#ARISTA🔥
 vmess://eyJ2IjoiMiIsInBzIjoiQVJJU1RB8J+UpSIsImFkZCI6IjQ2LjI1My40LjIxNCIsInBvcnQiOiI4MDgwIiwiaWQiOiI3ZmQ1OWMwNC0wMjA3LTQ1ZTYtYTlkZS1iOGU3ZDk1NGJkMzciLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJodHRwIiwiaG9zdCI6ImJveC5wb25pc2hhLmlyIiwicGF0aCI6Ii8iLCJ0bHMiOiIiLCJzbmkiOiIiLCJhbHBuIjoiIiwiZnAiOiIifQ==

@@ -1,11 +1,11 @@
 # ES - VLESS Configurations
-# Updated: 2026-01-01 21:44:31
+# Updated: 2026-01-02 03:24:32
 # Count: 6
 # Country Code: ES
 
 vless://60ce56ac-bdba-11f0-94db-525400ca5ed1@194.48.141.157:443?security=reality&encryption=none&pbk=3uWYzm65qryajVsnj0Uanu8be-RhDBd6Ofy2EhQTZjw&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.ozon.ru#ARISTA🔥
 vless://60ce56ac-bdba-11f0-94db-525400ca5ed1@194.48.141.157:443?security=reality&encryption=none&pbk=3uWYzm65qryajVsnj0Uanu8be-RhDBd6Ofy2EhQTZjw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.ozon.ru#ARISTA🔥
-vless://60ce56ac-bdba-11f0-94db-525400ca5ed1@45.159.79.174:443?security=reality&encryption=none&pbk=3uWYzm65qryajVsnj0Uanu8be-RhDBd6Ofy2EhQTZjw&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=st.ozone.ru#ARISTA🔥
-vless://60ce56ac-bdba-11f0-94db-525400ca5ed1@45.159.79.174:443?security=reality&encryption=none&pbk=3uWYzm65qryajVsnj0Uanu8be-RhDBd6Ofy2EhQTZjw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=st.ozone.ru#ARISTA🔥
-vless://60ce56ac-bdba-11f0-94db-525400ca5ed1@45.159.79.174:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=st.ozone.ru&fp=firefox&security=reality&pbk=3uWYzm65qryajVsnj0Uanu8be-RhDBd6Ofy2EhQTZjw#ARISTA🔥
 vless://60ce56ac-bdba-11f0-94db-525400ca5ed1@45.159.79.174:443?security=reality&amp;encryption=none&amp;pbk=3uWYzm65qryajVsnj0Uanu8be-RhDBd6Ofy2EhQTZjw&amp;headerType=none&amp;fp=firefox&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=st.ozone.ru#ARISTA🔥
+vless://60ce56ac-bdba-11f0-94db-525400ca5ed1@45.159.79.174:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=st.ozone.ru&fp=firefox&security=reality&pbk=3uWYzm65qryajVsnj0Uanu8be-RhDBd6Ofy2EhQTZjw#ARISTA🔥
+vless://60ce56ac-bdba-11f0-94db-525400ca5ed1@45.159.79.174:443?security=reality&encryption=none&pbk=3uWYzm65qryajVsnj0Uanu8be-RhDBd6Ofy2EhQTZjw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=st.ozone.ru#ARISTA🔥
+vless://60ce56ac-bdba-11f0-94db-525400ca5ed1@45.159.79.174:443?security=reality&encryption=none&pbk=3uWYzm65qryajVsnj0Uanu8be-RhDBd6Ofy2EhQTZjw&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=st.ozone.ru#ARISTA🔥

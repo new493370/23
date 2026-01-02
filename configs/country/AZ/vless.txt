@@ -1,9 +1,8 @@
 # AZ - VLESS Configurations
-# Updated: 2026-01-02 13:59:33
-# Count: 4
+# Updated: 2026-01-02 15:52:05
+# Count: 3
 # Country Code: AZ
 
 vless://125ea501-6bbe-453a-ab42-352789be8154@180.149.44.106:4655?security=none&encryption=none&headerType=none&type=tcp#ARISTA🔥
 vless://125ea501-6bbe-453a-ab42-352789be8154@180.149.44.106:4655?security=none&encryption=none&host=Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&headerType=none&type=tcp#ARISTA🔥
 vless://125ea501-6bbe-453a-ab42-352789be8154@180.149.44.106:4655?security=none&encryption=none&host=Join---i10VPN---Join---i10VPN---Join---i10VPN---Join---i10VPN&headerType=none&type=tcp#ARISTA🔥
-vless://125ea501-6bbe-453a-ab42-352789be8154@180.149.44.106:4655?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#ARISTA🔥

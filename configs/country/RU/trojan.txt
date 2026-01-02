@@ -1,6 +1,7 @@
 # RU - TROJAN Configurations
-# Updated: 2026-01-02 03:24:32
-# Count: 1
+# Updated: 2026-01-02 04:09:03
+# Count: 2
 # Country Code: RU
 
+trojan://vpn@45.82.14.144:2025?security=none&encryption=none&type=ws&host=dns.google.com&path=/#ARISTA🔥
 trojan://oUFBC3Vs2rYmN8_bR-P7quoL@45.129.3.220:10668?security=tls&amp;insecure=1&amp;headerType=none&amp;type=tcp&amp;allowInsecure=1#ARISTA🔥

@@ -1,13 +1,11 @@
 # JP - VLESS Configurations
-# Updated: 2026-01-03 09:53:29
-# Count: 30
+# Updated: 2026-01-03 13:53:10
+# Count: 28
 # Country Code: JP
 
 vless://2c487d9d-25a1-4b79-aed1-086b8c3082ca@178.239.124.30:56482?security=reality&encryption=none&pbk=W9BjX6YmCIVsjhKMlz233Yoe0xcf0SVHfvPKqbf3vCg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cloudcircus.jp#ARISTA🔥
-vless://2c487d9d-25a1-4b79-aed1-086b8c3082ca@178.239.124.30:56482/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=cloudcircus.jp&fp=chrome&security=reality&pbk=W9BjX6YmCIVsjhKMlz233Yoe0xcf0SVHfvPKqbf3vCg&sid=#ARISTA🔥
-vless://1e7c1b91-7573-4755-b44b-55160b5aa957@109.61.109.135:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=jp.cdn.stun.su&fp=chrome&security=reality&pbk=2Q0J_OPL73qhEIYf3YBLCuY4RIBurgz5QDVchQ8e9ks&sid=28d283d04da796d7#ARISTA🔥
+vless://4371ad14-b981-4699-bedf-83fb79bde3e6@109.61.109.135:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=jp.cdn.stun.su&fp=chrome&security=reality&pbk=2Q0J_OPL73qhEIYf3YBLCuY4RIBurgz5QDVchQ8e9ks&sid=b52815d3a6ac45b4#ARISTA🔥
 vless://2c487d9d-25a1-4b79-aed1-086b8c3082ca@178.239.124.30:56482?security=reality&encryption=none&pbk=W9BjX6YmCIVsjhKMlz233Yoe0xcf0SVHfvPKqbf3vCg&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cloudcircus.jp#ARISTA🔥
-vless://15b84012-d261-4b4c-807a-061bb4a901fd@116.80.58.239:39975/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=cloudcircus.jp&fp=chrome&security=reality&pbk=qhTzYYIgBzDLNYR79oxftqdo1kzL-1_hGJKfqrOliCY&sid=#ARISTA🔥
 vless://0ab02f6d-3304-44f1-915b-7ed8fc5751fa@139.162.82.185:443?security=reality&flow=xtls-rprx-vision&pbk=Qj72gbWEZOJshMegmLtOrLUf4bIAQFpJPtCy_pBfcRU&fp=chrome&sni=www.cisco.com&type=tcp&headerType=none&host=www.cisco.com&path=/#ARISTA🔥
 vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@103.53.81.195:36515?encryption=none&security=tls&sni=sni.111000.cc.cd&type=ws&host=sni.111000.cc.cd&path=/?ed=2560&Telegram🇨🇳@WangCai2#ARISTA🔥
 vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@45.66.129.162:25945?encryption=none&security=tls&sni=sni.111000.cc.cd&type=ws&host=sni.111000.cc.cd&path=/?ed=2560&Telegram🇨🇳@WangCai2#ARISTA🔥

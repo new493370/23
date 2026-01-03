@@ -1,8 +1,9 @@
 # LV - VLESS Configurations
-# Updated: 2026-01-03 09:53:29
-# Count: 25
+# Updated: 2026-01-03 13:53:10
+# Count: 26
 # Country Code: LV
 
+vless://dfc61ae0-53cb-4629-82c0-a19bd1fcbc8c@31.57.29.155:8090/?type=tcp&encryption=none&flow=&sni=neshan.org&fp=chrome&security=reality&pbk=IEqCSMyHiRccikTg9nb92kBqVHsrVQHrrX5kF0ALXQY&sid=50#ARISTA🔥
 vless://e977d854-33f3-4345-abee-bf3fa9a6d880@37.233.82.140:40478/?type=tcp&encryption=none&flow=&sni=yahoo.com&fp=chrome&security=reality&pbk=lcJ0LSh015XRfz5-7wB_hln3-bq5ZatFgPugSUCrdR0&sid=3c#ARISTA🔥
 vless://dfc61ae0-53cb-4629-82c0-a19bd1fcbc8c@31.57.29.155:8090?security=reality&encryption=none&pbk=IEqCSMyHiRccikTg9nb92kBqVHsrVQHrrX5kF0ALXQY&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=neshan.org&sid=50#ARISTA🔥
 vless://06babfd1-1af2-4db4-a485-cdf404ce80a9@62.192.174.198:47256?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.unicreditbank.ru&fp=chrome&security=reality&pbk=HkLK62c3szw51gYtORRnPlO0v6kxOSd_aCd0J4rTKzo&sid=9d32c1#ARISTA🔥

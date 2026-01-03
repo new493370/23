@@ -1,13 +1,13 @@
 # CA - TROJAN Configurations
-# Updated: 2026-01-03 15:29:43
+# Updated: 2026-01-03 15:52:37
 # Count: 8
 # Country Code: CA
 
-trojan://6pRjKQJ0CWyFtG.9@198.57.27.27:12990?security=tls&sni=diningtable.electricbanana.click&type=tcp&headerType=none#ARISTA🔥
-trojan://tg-dns68@162.159.152.150:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org&path=%2F%3Fed%3D2560&fp=randomized&alpn=h3#ARISTA🔥
-trojan://.ie4rghJuMkcf0oF@38.96.254.102:18509?security=tls&sni=shoppingmall.electricbanana.click&path=/#ARISTA🔥
-trojan://6pRjKQJ0CWyFtG.9@198.57.27.27:12990?security=tls&sni=diningtable.electricbanana.click&fp=chrome&type=tcp&headerType=none&path=/#ARISTA🔥
-trojan://5a2c16f9@162.159.24.131:443?path=%2F%252F&security=tls&insecure=1&type=ws&allowInsecure=1&sni=snippets.kkii.eu.org#ARISTA🔥
-trojan://.ie4rghJuMkcf0oF@38.96.254.102:18509?sni=shoppingmall.electricbanana.click&path=/#ARISTA🔥
 trojan://6pRjKQJ0CWyFtG.9@198.57.27.27:12990?security=tls&sni=diningtable.electricbanana.click&fp=chrome&allowInsecure=1&type=tcp&headerType=none#ARISTA🔥
+trojan://.ie4rghJuMkcf0oF@38.96.254.102:18509?sni=shoppingmall.electricbanana.click&path=/#ARISTA🔥
+trojan://5a2c16f9@162.159.24.131:443?path=%2F%252F&security=tls&insecure=1&type=ws&allowInsecure=1&sni=snippets.kkii.eu.org#ARISTA🔥
+trojan://tg-dns68@162.159.152.150:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org&path=%2F%3Fed%3D2560&fp=randomized&alpn=h3#ARISTA🔥
 trojan://6pRjKQJ0CWyFtG.9@198.57.27.27:12990?security=tls&sni=diningtable.electricbanana.click&fp=chrome&type=tcp&headerType=none#ARISTA🔥
+trojan://6pRjKQJ0CWyFtG.9@198.57.27.27:12990?security=tls&sni=diningtable.electricbanana.click&fp=chrome&type=tcp&headerType=none&path=/#ARISTA🔥
+trojan://.ie4rghJuMkcf0oF@38.96.254.102:18509?security=tls&sni=shoppingmall.electricbanana.click&path=/#ARISTA🔥
+trojan://6pRjKQJ0CWyFtG.9@198.57.27.27:12990?security=tls&sni=diningtable.electricbanana.click&type=tcp&headerType=none#ARISTA🔥

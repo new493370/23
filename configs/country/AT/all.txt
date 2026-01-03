@@ -1,18 +1,21 @@
 # All Configurations for AT
-# Updated: 2026-01-03 07:10:14
-# Total Count: 13
+# Updated: 2026-01-03 09:53:29
+# Total Count: 16
 # Country Code: AT
 
-vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@212.183.88.158:2096?path=%2F%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=sni.111000.de5.net&fp=chrome&type=ws&allowInsecure=0&sni=sni.111000.de5.net#ARISTA🔥
-vless://9652660f-941e-488a-8e12-d823361bbea7@178.22.31.123:443?security=reality&encryption=none&pbk=v2IqXBzozesIIFXG58OsV8lv3IF1J8oJzB7kQ4nB9Wo&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=cloudflare.com&sid=db9d5264110c7800#ARISTA🔥
-vless://52aa4a12-892d-4a29-be2b-efe1717b1dcc@195.133.88.228:30326?security=reality&encryption=none&pbk=OGdmH9sTKUt8EYv3qd_R01Ck0KDCLQNlKiYcXrmSFkY&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=yandex.ru&sid=786a49cf4b2655a0#ARISTA🔥
-vless://4a0ced83-c4f2-4946-aa90-d9ce633d43a7@152.53.142.189:11487?security=reality&encryption=none&pbk=Vjc6Pniq5ueH7Ue6b3V7nf5oWm89rh113zK1wxm5CFA&host=%2F%3FBIA_TELEGRAM%40V2rayBaaz&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=medicalnewstoday.com&sid=5d#ARISTA🔥
 vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@212.183.88.158:2096?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=sni.111000.de5.net&fp=chrome&type=ws&sni=sni.111000.de5.net#ARISTA🔥
 vless://0d596f59-c03e-4870-b49f-3ad5bf2961c7@45.138.74.173:20601?type=grpc&serviceName=Telegram%40Rnrifci%40Rnrifci%40Rnrifci%40Rnrifci%40Rnrifci%40Rnrifci%40Rnrifci%40Rnrifci%40Rnrifci%40Rnrifci%40Rnrifci%40Rnrifci%40Rnrifci%40Rnrifci&security=reality&pbk=ZH1_5h_vv3I_699rhujKLHtIOb3_r8DzjXSXz7lRtjM&fp=chrome&sni=Gstatic.com&sid=c6a9d7f3&spx=%2F#ARISTA🔥
 vless://0ea54997-1e8a-44dd-8745-46c4bf72fc24@45.138.74.173:20601?type=grpc&serviceName=Telegram%40Rnrifci%40Rnrifci%40Rnrifci%40Rnrifci%40Rnrifci%40Rnrifci%40Rnrifci%40Rnrifci%40Rnrifci%40Rnrifci%40Rnrifci%40Rnrifci%40Rnrifci%40Rnrifci&security=reality&pbk=QRN36377o3AKP9tXV3bJ1_QwJ2bS_1PhsmZe4daBRXE&fp=chrome&sni=Gstatic.com&sid=8ea187aa&spx=%2F#ARISTA🔥
 vless://0f6c0aa0-7f37-44fe-b33f-ef9753f7ee9e@45.138.74.173:20601?type=grpc&serviceName=Telegram%40Rnrifci%40Rnrifci%40Rnrifci%40Rnrifci%40Rnrifci%40Rnrifci%40Rnrifci%40Rnrifci%40Rnrifci%40Rnrifci%40Rnrifci%40Rnrifci%40Rnrifci%40Rnrifci&security=reality&pbk=1ZyXEGSzQC_WAGlhnEV6SgDmHqCxXZSAYGryUHHkAQg&fp=chrome&sni=Gstatic.com&sid=d2e9ce1d&spx=%2F#ARISTA🔥
+vless://4a0ced83-c4f2-4946-aa90-d9ce633d43a7@152.53.142.189:11487?security=reality&encryption=none&pbk=Vjc6Pniq5ueH7Ue6b3V7nf5oWm89rh113zK1wxm5CFA&host=%2F%3FBIA_TELEGRAM%40V2rayBaaz&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=medicalnewstoday.com&sid=5d#ARISTA🔥
+vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@212.183.88.158:2096?path=%2F%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=sni.111000.de5.net&fp=chrome&type=ws&allowInsecure=0&sni=sni.111000.de5.net#ARISTA🔥
 vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@212.183.88.158:2096?path=%2F%3Fed%3D2560Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&security=tls&encryption=none&host=sni.111000.de5.net&fp=chrome&type=ws&sni=sni.111000.de5.net#ARISTA🔥
 vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@212.183.88.158:2096?type=ws&encryption=none&host=sni.111000.de5.net&path=/?ed=2560&Telegram🇨🇳+@WangCai2&security=tls&sni=sni.111000.de5.net#ARISTA🔥
 vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@212.183.88.158:2096?path=/?ed=2560&Telegram🇨🇳+@WangCai2&security=tls&encryption=none&insecure=0&host=sni.111000.de5.net&type=ws&allowInsecure=0&sni=sni.111000.de5.net#ARISTA🔥
+vless://6fdc9193-6649-4cf4-9ddb-09c2e8dfc0c3@152.53.143.63:33046?security=reality&encryption=none&pbk=J-XIJJEgRInlpiaAXZRWaeGNXRZG6mmanXm4VuJXjTc&headerType=none&fp=chrome&spx=%2F---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&type=tcp&flow=xtls-rprx-vision&sni=yelp.com&sid=6cbbec#ARISTA🔥
+vless://6474da41-36d4-4675-9b3b-b68d49f64c16@152.53.144.46:22688?security=reality&encryption=none&pbk=GKOroDaiSIgbEmu_f-SEPypLtVyMUVuPSXSMf3PfF38&headerType=none&fp=chrome&spx=/---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&type=tcp&flow=xtls-rprx-vision&sni=nike.com&sid=3734ad#ARISTA🔥
+vless://6474da41-36d4-4675-9b3b-b68d49f64c16@152.53.144.46:22688/?security=reality&encryption=none&pbk=GKOroDaiSIgbEmu_f-SEPypLtVyMUVuPSXSMf3PfF38&headerType=none&fp=chrome&spx=/---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&type=tcp&flow=xtls-rprx-vision&sni=nike.com&sid=3734ad#ARISTA🔥
+vless://6fdc9193-6649-4cf4-9ddb-09c2e8dfc0c3@152.53.143.63:33046/?security=reality&encryption=none&pbk=J-XIJJEgRInlpiaAXZRWaeGNXRZG6mmanXm4VuJXjTc&headerType=none&fp=chrome&spx=%2F---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&type=tcp&flow=xtls-rprx-vision&sni=yelp.com&sid=6cbbec#ARISTA🔥
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2YTg1YjI0OTI4NmE3NGE5@196.245.238.34:57456#ARISTA🔥
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@37.235.56.69:990#ARISTA🔥
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@185.180.12.81:989#ARISTA🔥

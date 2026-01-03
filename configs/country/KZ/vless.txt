@@ -1,12 +1,12 @@
 # KZ - VLESS Configurations
-# Updated: 2026-01-03 07:10:14
+# Updated: 2026-01-03 09:53:29
 # Count: 13
 # Country Code: KZ
 
-vless://2a9ed01e-5455-44b4-a66a-76ee8165f0ac@77.73.232.61:19747?security=reality&encryption=none&pbk=ZO9dTeg1slvTXgVsBsaJ1BDvz_YUImTLJjbHs-GdVyM&headerType=&fp=chrome&type=tcp&sni=yahoo.com&sid=2001#ARISTA🔥
 vless://7016807b-af17-4dda-ba6e-dc70d7fdfaa6@91.217.10.166:9443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=api.avito.ru&fp=&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA&sid=#ARISTA🔥
-vless://526552b2-f67f-489c-9d0d-3e00e7d890d1@103.106.3.198:4443?security=reality&encryption=none&pbk=5XB_N3ATilH-6tp_MXht-84_y5YaJnx_Z7MbuY2otHE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=github.com&sid=aa7e96542880027a#ARISTA🔥
+vless://2a9ed01e-5455-44b4-a66a-76ee8165f0ac@77.73.232.61:19747?security=reality&encryption=none&pbk=ZO9dTeg1slvTXgVsBsaJ1BDvz_YUImTLJjbHs-GdVyM&headerType=&fp=chrome&type=tcp&sni=yahoo.com&sid=2001#ARISTA🔥
 vless://526552b2-f67f-489c-9d0d-3e00e7d890d1@103.106.3.198:4443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=github.com&fp=chrome&security=reality&pbk=5XB_N3ATilH-6tp_MXht-84_y5YaJnx_Z7MbuY2otHE&sid=aa7e96542880027a#ARISTA🔥
+vless://526552b2-f67f-489c-9d0d-3e00e7d890d1@103.106.3.198:4443?security=reality&encryption=none&pbk=5XB_N3ATilH-6tp_MXht-84_y5YaJnx_Z7MbuY2otHE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=github.com&sid=aa7e96542880027a#ARISTA🔥
 vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@194.76.18.168:2096?type=ws&encryption=none&host=sni.111000.v6.army&path=/?ed=2560&Telegram🇨🇳+@WangCai2&security=tls&sni=sni.111000.v6.army#ARISTA🔥
 vless://205358dd-da90-4a80-992d-43d46aac88ce@103.106.3.198:4443?security=reality&encryption=none&pbk=5XB_N3ATilH-6tp_MXht-84_y5YaJnx_Z7MbuY2otHE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=github.com&sid=aa7e96542880027a#ARISTA🔥
 vless://481c5606-b586-44d7-bc2e-d8ef30d67f62@176.120.72.63:38339?security=reality&encryption=none&pbk=o0MFuznHh_Wztg0FTAMhFXm3hjAqOJAJIIVNn-_A9WA&headerType=none&fp=chrome&type=tcp&sni=dl.google.com&sid=e16883e511#ARISTA🔥

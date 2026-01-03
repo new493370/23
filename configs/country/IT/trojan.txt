@@ -1,7 +1,8 @@
 # IT - TROJAN Configurations
-# Updated: 2026-01-03 07:10:14
-# Count: 2
+# Updated: 2026-01-03 09:53:29
+# Count: 3
 # Country Code: IT
 
+trojan://OdgHycGphesfLmPMYolUF@172.238.229.254:14051?security=tls&sni=api.avito.ru&fp=chrome&type=tcp&headerType=none&path=/&allow_insecure=1#ARISTA🔥
+trojan://OdgHycGphesfLmPMYolUF@172.238.229.254:14051?security=tls&sni=api.avito.ru&type=tcp&headerType=none&path=/&allow_insecure=1#ARISTA🔥
 trojan://OdgHycGphesfLmPMYolUF@172.238.229.254:14051?security=tls&headerType=none&type=tcp&sni=eh.vk.com#ARISTA🔥
-trojan://OdgHycGphesfLmPMYolUF@172.238.229.254:14051?security=tls&amp;headerType=none&amp;type=tcp&amp;sni=api.avito.ru#ARISTA🔥

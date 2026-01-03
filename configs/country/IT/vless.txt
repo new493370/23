@@ -1,7 +1,11 @@
 # IT - VLESS Configurations
-# Updated: 2026-01-03 13:53:10
-# Count: 2
+# Updated: 2026-01-03 15:29:43
+# Count: 6
 # Country Code: IT
 
-vless://fc7a34b8-7f83-475f-bca4-7a8f5dc861fb@151.101.242.172:80?host=Germandiginoe.com&type=ws&security=none&path=WEDBAZ%3Fed%3D2048&encryption=none#ARISTA🔥
+vless://db0f2cb6-a263-48d2-89bc-4237c81e0aca@146.75.55.82:80?security=none&type=ws&headerType=&path=%2Fdownload%3Fed%3D2560&host=ana.ir#ARISTA🔥
+vless://turboo-server@146.75.55.82:80?mode=auto&path=%2F&security=none&encryption=none&host=turboo-server-bot.com&type=xhttp#ARISTA🔥
 vless://fc7a34b8-7f83-475f-bca4-7a8f5dc861fb@151.101.242.172:80?host=Germany.ss.ss&type=ws&security=none&path=WEDBAZ%3Fed%3D2048&encryption=none#ARISTA🔥
+vless://fc7a34b8-7f83-475f-bca4-7a8f5dc861fb@151.101.242.172:80?host=Germandiginoe.com&type=ws&security=none&path=WEDBAZ%3Fed%3D2048&encryption=none#ARISTA🔥
+vless://642eead4-edce-4146-aeb5-8f4288d90f42@151.101.242.172:80?mode=auto&path=%2F&security=none&encryption=none&host=er.com&type=xhttp#ARISTA🔥
+vless://7d27c544-135d-41a2-bd84-713b8af4f3c2@31.14.135.127:7035?path=%2F&security=none&encryption=none&host=filimo.com&type=ws#ARISTA🔥

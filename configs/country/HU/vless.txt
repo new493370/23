@@ -1,10 +1,10 @@
 # HU - VLESS Configurations
-# Updated: 2026-01-04 19:11:40
+# Updated: 2026-01-04 21:42:59
 # Count: 18
 # Country Code: HU
 
-vless://a8cc4860-2daa-a943-a2ba-d2ea31251d11@87.229.100.155:80?path=%2FIVApi%2FDE%2F1&security=none&encryption=none&type=ws#ARISTA🔥
 vless://a8cc4860-2daa-a943-a2ba-d2ea31251d11@87.229.100.155:80?encryption=none&security=none&type=ws&path=%2FIVApi%2FUS%2F1#ARISTA🔥
+vless://a8cc4860-2daa-a943-a2ba-d2ea31251d11@87.229.100.155:80?path=%2FIVApi%2FDE%2F1&security=none&encryption=none&type=ws#ARISTA🔥
 vless://600cb39d-5f62-4e6c-927e-3775285887c1@79.127.133.70:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=tradingview.com&fp=chrome&security=reality&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&sid=2715592069f36fe7#ARISTA🔥
 vless://292e75fc-5a8a-40c4-b937-407c2400a42e@217.13.104.101:3443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&fp=chrome&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=#ARISTA🔥
 vless://4371ad14-b981-4699-bedf-83fb79bde3e6@217.13.104.134:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=hu.jojack.ru&fp=chrome&security=reality&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=e55fd8f9c9a9a0ca#ARISTA🔥

@@ -1,10 +1,9 @@
 # IN - TROJAN Configurations
-# Updated: 2026-01-03 21:45:17
-# Count: 5
+# Updated: 2026-01-04 04:30:17
+# Count: 4
 # Country Code: IN
 
-trojan://M%3DvdPVIuNS389OQ6iqbAn-5G@172.236.171.37:28042?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=www.fuzzyfeelergauge.click#ARISTA🔥
-trojan://M%3DvdPVIuNS389OQ6iqbAn-5G@172.236.171.37:28042/?type=tcp&security=tls&sni=www.fuzzyfeelergauge.click#ARISTA🔥
-trojan://M%3DvdPVIuNS389OQ6iqbAn-5G@172.236.171.37:28042?security=tls&headerType=none&type=tcp&sni=www.fuzzyfeelergauge.click#ARISTA🔥
 trojan://M%3DvdPVIuNS389OQ6iqbAn-5G@172.236.171.37:28042?type=tcp&security=tls&sni=www.fuzzyfeelergauge.click#ARISTA🔥
-trojan://5a2c16f9@98.70.26.236:443?path=Telegram%40V2rayAlpha&security=tls&insecure=1&host=snippets.kkii.eu.org&type=ws&allowInsecure=1&sni=snippets.kkii.eu.org#ARISTA🔥
+trojan://M%3DvdPVIuNS389OQ6iqbAn-5G@172.236.171.37:28042?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=www.fuzzyfeelergauge.click#ARISTA🔥
+trojan://M%3DvdPVIuNS389OQ6iqbAn-5G@172.236.171.37:28042?security=tls&headerType=none&type=tcp&sni=www.fuzzyfeelergauge.click#ARISTA🔥
+trojan://M%3DvdPVIuNS389OQ6iqbAn-5G@172.236.171.37:28042/?type=tcp&security=tls&sni=www.fuzzyfeelergauge.click#ARISTA🔥

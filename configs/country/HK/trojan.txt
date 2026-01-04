@@ -1,11 +1,9 @@
 # HK - TROJAN Configurations
-# Updated: 2026-01-03 21:45:17
-# Count: 6
+# Updated: 2026-01-04 04:30:17
+# Count: 4
 # Country Code: HK
 
+trojan://BxceQaOe@58.152.25.236:443?allowInsecure=1&sni=t.me%2Fripaojiedian#ARISTA🔥
+trojan://BxceQaOe@58.152.25.86:443?allowInsecure=1&sni=%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%20%5BBy%20EbraSha%5D%20#ARISTA🔥
 trojan://7367d04e-4c59-4dff-a50e-12e730a09891@155.117.228.70:26193?security=tls&headerType=none&type=tcp#ARISTA🔥
 trojan://019a8c1f-3d28-74e8-8a8e-40045d7ec77f@38.207.160.35:443/?type=tcp&security=tls&sni=www.bilibili.com&allowInsecure=1#ARISTA🔥
-trojan://f36f4495b4b26cc2fe346cfa23e05b1b@58.152.18.147:443?security=tls&sni=www.nintendogames.net&path=/#ARISTA🔥
-trojan://f36f4495b4b26cc2fe346cfa23e05b1b@58.152.18.147:443?sni=www.nintendogames.net&path=/#ARISTA🔥
-trojan://BxceQaOe@58.152.25.86:443?allowInsecure=1&sni=%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%20%5BBy%20EbraSha%5D%20#ARISTA🔥
-trojan://BxceQaOe@58.152.25.236:443?allowInsecure=1&sni=t.me%2Fripaojiedian#ARISTA🔥

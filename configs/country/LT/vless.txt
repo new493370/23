@@ -1,13 +1,13 @@
 # LT - VLESS Configurations
-# Updated: 2026-01-04 15:50:11
+# Updated: 2026-01-04 19:11:40
 # Count: 8
 # Country Code: LT
 
-vless://eb162ab1-a006-4931-b1b3-8fc88a22b10e@147.45.217.250:443?mode=auto&path=%2Fws&security=reality&encryption=none&pbk=m-foGonYn9goyv5U_ffQ-DORHxz4bQ88RIJoim_n228&fp=chrome&type=xhttp&sni=sun6-22.userapi.com#ARISTA🔥
-vless://eb162ab1-a006-4931-b1b3-8fc88a22b10e@147.45.217.250:443?mode=auto&path=%2Fws&security=reality&encryption=none&pbk=m-foGonYn9goyv5U_ffQ-DORHxz4bQ88RIJoim_n228&fp=randomized&type=xhttp&sni=sun6-22.userapi.com#ARISTA🔥
-vless://a72a7148-24d8-4494-981d-6dfa96a55020@78.153.131.56:443?security=reality&encryption=none&pbk=PpW2d0u6AJyavek1rQ4GMo-oFE51TqpPEBKnKUTlJV4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=kinopoisk.ru&sid=a20d3ed244c76426#ARISTA🔥
-vless://2456f90c-5183-476d-b069-16ae74ce120f@45.146.201.253:2096?encryption=none&type=ws&path=%2F&security=tls&sni=fast01.0860852.xyz#ARISTA🔥
-vless://5f05f5c4-13a6-4e67-85f1-93b32bf85e52@46.29.234.92:29550?security=reality&encryption=none&pbk=aPVIbZXEkHpPedX9ix1r8Km2ZV1MgpuBjN0Qxkwx1zA&headerType=none&fp=chrome&spx=%2F---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&type=tcp&sni=yandex.ru&sid=8160d3d997cdf7be#ARISTA🔥
 vless://401374e6-df77-41fb-f638-dad8184f175b@89.116.180.248:443?security=tls&sni=pqh23v4.hiddendom.shop&alpn=h2&fp=chrome&type=grpc&encryption=none#ARISTA🔥
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.52:8880?security=none&type=grpc#ARISTA🔥
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.55:8880/?type=grpc&encryption=none#ARISTA🔥
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.52:8880?security=none&type=grpc#ARISTA🔥
+vless://5f05f5c4-13a6-4e67-85f1-93b32bf85e52@46.29.234.92:29550?security=reality&encryption=none&pbk=aPVIbZXEkHpPedX9ix1r8Km2ZV1MgpuBjN0Qxkwx1zA&headerType=none&fp=chrome&spx=%2F---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&type=tcp&sni=yandex.ru&sid=8160d3d997cdf7be#ARISTA🔥
+vless://2456f90c-5183-476d-b069-16ae74ce120f@45.146.201.253:2096?encryption=none&type=ws&path=%2F&security=tls&sni=fast01.0860852.xyz#ARISTA🔥
+vless://eb162ab1-a006-4931-b1b3-8fc88a22b10e@147.45.217.250:443?mode=auto&path=%2Fws&security=reality&encryption=none&pbk=m-foGonYn9goyv5U_ffQ-DORHxz4bQ88RIJoim_n228&fp=randomized&type=xhttp&sni=sun6-22.userapi.com#ARISTA🔥
+vless://eb162ab1-a006-4931-b1b3-8fc88a22b10e@147.45.217.250:443?mode=auto&path=%2Fws&security=reality&encryption=none&pbk=m-foGonYn9goyv5U_ffQ-DORHxz4bQ88RIJoim_n228&fp=chrome&type=xhttp&sni=sun6-22.userapi.com#ARISTA🔥
+vless://a72a7148-24d8-4494-981d-6dfa96a55020@78.153.131.56:443?security=reality&encryption=none&pbk=PpW2d0u6AJyavek1rQ4GMo-oFE51TqpPEBKnKUTlJV4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=kinopoisk.ru&sid=a20d3ed244c76426#ARISTA🔥

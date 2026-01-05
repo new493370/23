@@ -1,17 +1,17 @@
 # HK - VLESS Configurations
-# Updated: 2026-01-05 14:05:21
+# Updated: 2026-01-05 16:03:24
 # Count: 12
 # Country Code: HK
 
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@141.11.78.134:8443?security=tls&sni=a.ssll.gay&type=ws&path=%2F%3Fed#ARISTA🔥
-vless://93b99881-df03-4597-9146-0c11e46387f7@61.239.234.5:35500?security=tls&sni=cfv.cscfwoker.fun&type=ws&path=%2F%3Fed&fp=random#ARISTA🔥
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@156.238.18.246:2095?path=%2F&security=none&encryption=none&host=redw.pooriam.ir&type=ws#ARISTA🔥
-vless://93b99881-df03-4597-9146-0c11e46387f7@38.6.219.151:11283?security=tls&sni=cfv.cscfwoker.fun&type=ws&path=%2F%3Fed&fp=random#ARISTA🔥
-vless://daredevill_404@46.8.78.214:56094?type=xhttp&encryption=none&path=%2F%40daredevill_404%40daredevill_404%40daredevill_404&host=&mode=auto&security=none#ARISTA🔥
-vless://e6f14466-3787-47e9-8290-a4e4eb778e45@46.8.78.194:16532?security=reality&encryption=none&pbk=ssiBgQLG4rgrJoEIF_0ZyemZDDK5vj80YesEwiwLt3Q&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=docker.com&sid=784d#ARISTA🔥
 vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@118.141.64.192:36619?encryption=none&security=tls&sni=sni.111000.cc.cd&type=ws&host=sni.111000.cc.cd&path=/?ed=2560&Telegram🇨🇳@WangCai2#ARISTA🔥
+vless://3e7f67de-648e-4871-b51a-a225214d41ee@8.218.41.50:443?security=reality&encryption=none&pbk=TRP10HqKUXEQ3O-cfsq93DycfBmbJe9KM36yvSa8Mmw&headerType=none&fp=chrome&type=tcp&sni=cdn.userway.org#ARISTA🔥
+vless://3e7f67de-648e-4871-b51a-a225214d41ee@47.239.246.82:443?security=reality&pbk=TRP10HqKUXEQ3O-cfsq93DycfBmbJe9KM36yvSa8Mmw&fp=chrome&sni=cdn.userway.org&type=tcp&headerType=none&host=cdn.userway.org&path=/#ARISTA🔥
+vless://daredevill_404@46.8.78.214:56094?type=xhttp&encryption=none&path=%2F%40daredevill_404%40daredevill_404%40daredevill_404&host=&mode=auto&security=none#ARISTA🔥
 vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@202.85.53.54:7000?encryption=none&security=tls&sni=sni.111000.cc.cd&type=ws&host=sni.111000.cc.cd&path=/?ed=2560&Telegram🇨🇳@WangCai2#ARISTA🔥
 vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@223.16.138.113:10201?encryption=none&security=tls&sni=sni.111000.cc.cd&type=ws&host=sni.111000.cc.cd&path=/?ed=2560&Telegram🇨🇳@WangCai2#ARISTA🔥
 vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@43.154.124.136:26666?encryption=none&security=tls&sni=sni.111000.cc.cd&type=ws&host=sni.111000.cc.cd&path=/?ed=2560&Telegram🇨🇳@WangCai2#ARISTA🔥
-vless://3e7f67de-648e-4871-b51a-a225214d41ee@47.239.246.82:443?security=reality&pbk=TRP10HqKUXEQ3O-cfsq93DycfBmbJe9KM36yvSa8Mmw&fp=chrome&sni=cdn.userway.org&type=tcp&headerType=none&host=cdn.userway.org&path=/#ARISTA🔥
-vless://3e7f67de-648e-4871-b51a-a225214d41ee@8.218.41.50:443?security=reality&encryption=none&pbk=TRP10HqKUXEQ3O-cfsq93DycfBmbJe9KM36yvSa8Mmw&headerType=none&fp=chrome&type=tcp&sni=cdn.userway.org#ARISTA🔥
+vless://e6f14466-3787-47e9-8290-a4e4eb778e45@46.8.78.194:16532?security=reality&encryption=none&pbk=ssiBgQLG4rgrJoEIF_0ZyemZDDK5vj80YesEwiwLt3Q&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=docker.com&sid=784d#ARISTA🔥
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@156.238.18.246:2095?path=%2F&security=none&encryption=none&host=redw.pooriam.ir&type=ws#ARISTA🔥
+vless://93b99881-df03-4597-9146-0c11e46387f7@38.6.219.151:11283?security=tls&sni=cfv.cscfwoker.fun&type=ws&path=%2F%3Fed&fp=random#ARISTA🔥
+vless://93b99881-df03-4597-9146-0c11e46387f7@61.239.234.5:35500?security=tls&sni=cfv.cscfwoker.fun&type=ws&path=%2F%3Fed&fp=random#ARISTA🔥
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@141.11.78.134:8443?security=tls&sni=a.ssll.gay&type=ws&path=%2F%3Fed#ARISTA🔥

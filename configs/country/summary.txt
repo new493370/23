@@ -1,105 +1,105 @@
 # Country Classification Summary
-# Updated: 2026-01-05 21:51:46
+# Updated: 2026-01-06 04:09:31
 
-Total configs processed: 7250
-IP-based configs: 3807
-Domain-based configs: 3343
+Total configs processed: 7428
+IP-based configs: 3952
+Domain-based configs: 3375
 
 IP-Based Configs by Country:
-  RU: 674
-  DE: 478
-  UNKNOWN: 414
-  US: 331
-  NL: 231
-  GB: 225
-  FR: 175
-  PL: 159
+  RU: 678
+  DE: 482
+  UNKNOWN: 413
+  US: 330
+  GB: 235
+  NL: 215
+  FR: 181
+  PL: 158
   CA: 130
-  FI: 90
-  MD: 77
-  IR: 74
+  FI: 93
+  MD: 81
+  IR: 78
   SE: 58
-  HK: 53
-  AE: 49
-  CY: 41
-  JP: 38
-  TR: 36
-  VN: 36
-  LT: 34
-  SG: 32
-  IN: 27
-  KZ: 24
-  LV: 23
-  AT: 22
-  EE: 21
-  HU: 16
+  AE: 54
+  HK: 54
+  VN: 43
+  SG: 43
+  CY: 43
+  TR: 42
+  JP: 41
+  LT: 38
+  IN: 32
+  KZ: 29
+  LV: 21
+  EE: 20
+  AT: 20
+  AU: 17
+  HU: 17
   CH: 15
-  IT: 14
+  BR: 14
+  IT: 13
   BG: 12
-  AU: 10
-  SC: 10
-  TH: 9
-  MX: 8
+  SA: 12
+  GR: 12
+  JO: 11
+  SC: 11
+  UA: 11
+  MY: 11
+  KR: 10
+  IL: 10
+  MX: 9
+  PK: 9
   CZ: 8
-  AM: 7
-  MY: 6
+  TH: 8
+  AR: 7
+  KW: 7
+  AM: 6
   BA: 6
   AL: 6
-  AR: 6
-  JO: 5
-  BR: 5
-  NO: 5
+  EG: 6
+  RO: 5
   MK: 5
-  GR: 5
-  UA: 4
-  ES: 4
-  CN: 4
-  IE: 4
-  RO: 4
+  NO: 5
+  CN: 5
   IS: 4
   SI: 4
-  TW: 4
-  LU: 3
-  BE: 3
-  ZA: 3
-  KR: 3
-  PT: 3
-  OM: 3
-  MT: 3
+  ES: 4
+  IE: 4
   EC: 3
-  PK: 2
-  MH: 2
-  IM: 2
+  MT: 3
+  LU: 3
+  PT: 3
+  BE: 3
+  OM: 3
+  TW: 3
+  KH: 3
+  PE: 2
   ME: 2
   MU: 2
+  MH: 2
   CR: 2
-  BH: 2
-  PR: 2
-  NG: 2
-  PE: 2
-  HR: 2
-  EG: 2
+  IM: 2
+  AZ: 2
+  ZA: 2
   CO: 2
-  AZ: 1
-  DK: 1
-  SA: 1
-  SK: 1
-  PH: 1
-  GE: 1
-  UZ: 1
-  NZ: 1
-  GT: 1
-  CL: 1
-  KH: 1
-  MA: 1
-  ID: 1
   PY: 1
-  KW: 1
+  SK: 1
+  NZ: 1
+  PH: 1
+  MA: 1
+  PR: 1
+  HR: 1
+  UZ: 1
+  NG: 1
+  CL: 1
+  GT: 1
+  GE: 1
+  DK: 1
+  BH: 1
 
 By Protocol:
-  vless: 4311
-  hysteria: 1464
-  vmess: 623
-  ss: 589
-  trojan: 161
+  vless: 4310
+  hysteria: 1488
+  ss: 724
+  vmess: 637
+  trojan: 166
   wireguard: 2

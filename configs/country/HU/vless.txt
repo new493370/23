@@ -1,5 +1,5 @@
 # HU - VLESS Configurations
-# Updated: 2026-01-06 10:03:19
+# Updated: 2026-01-06 13:59:53
 # Count: 15
 # Country Code: HU
 
@@ -13,8 +13,8 @@ vless://291a2db3-04b5-4089-af90-adb5d1ce05ff@79.127.133.77:8443?security=reality
 vless://291a2db3-04b5-4089-af90-adb5d1ce05ff@79.127.133.77:8443?security=reality&type=tcp&sni=tradingview.com&fp=chrome&flow=xtls-rprx-vision&sid=f4b4a6365558ea2e&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&encryption=none#ARISTA🔥
 vless://291a2db3-04b5-4089-af90-adb5d1ce05ff@79.127.133.79:8443?security=reality&encryption=none&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&host=v2rayNplus.io&headerType=none&fp=chrome&spx=/---v2rayNplus---v2rayNplus---v2rayNplus---v2rayNplus---&type=tcp&flow=xtls-rprx-vision&sni=tradingview.com&sid=f4b4a6365558ea2e#ARISTA🔥
 vless://291a2db3-04b5-4089-af90-adb5d1ce05ff@79.127.133.79:8443?security=reality&type=tcp&sni=tradingview.com&fp=chrome&flow=xtls-rprx-vision&sid=f4b4a6365558ea2e&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&encryption=none#ARISTA🔥
-vless://292e75fc-5a8a-40c4-b937-407c2400a42e@217.13.104.101:3443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=api-maps.yandex.ru#ARISTA🔥
 vless://4371ad14-b981-4699-bedf-83fb79bde3e6@217.13.104.134:443?security=reality&encryption=none&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=hu.jojack.ru&sid=e55fd8f9c9a9a0ca#ARISTA🔥
+vless://292e75fc-5a8a-40c4-b937-407c2400a42e@217.13.104.101:3443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=api-maps.yandex.ru#ARISTA🔥
 vless://292e75fc-5a8a-40c4-b937-407c2400a42e@217.13.111.70:3443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&sid=6ba85179e30d4fc2#ARISTA🔥
 vless://292e75fc-5a8a-40c4-b937-407c2400a42e@217.13.111.70:3443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&sid=6ba85179e30d4fc2#ARISTA🔥
 vless://292e75fc-5a8a-40c4-b937-407c2400a42e@217.13.104.101:3443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=api-maps.yandex.ru#ARISTA🔥

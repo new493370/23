@@ -1,93 +1,96 @@
 # IP-Based Configurations Summary
-# Updated: 2026-01-06 07:14:39
+# Updated: 2026-01-06 10:03:19
 
-Total IP-based configs: 3798
+Total IP-based configs: 4227
 
 IP-Based Configs by Country:
-  RU: 681
-  DE: 482
-  UNKNOWN: 409
-  US: 328
-  GB: 237
-  NL: 218
-  FR: 173
-  PL: 157
-  CA: 131
-  FI: 92
-  MD: 81
+  RU: 689
+  DE: 478
+  UNKNOWN: 407
+  US: 330
+  GB: 261
+  NL: 241
+  VN: 227
+  FR: 176
+  PL: 148
+  CA: 139
+  FI: 94
+  MD: 78
   IR: 77
-  SE: 58
-  HK: 52
-  AE: 49
-  CY: 44
-  TR: 36
-  LT: 36
-  JP: 35
-  VN: 35
-  SG: 31
-  IN: 27
-  LV: 23
-  KZ: 23
-  EE: 20
-  AT: 20
-  HU: 16
-  CH: 15
-  IT: 13
-  AU: 13
-  SC: 10
+  SE: 61
+  HK: 56
+  AE: 53
+  LT: 52
+  CY: 46
+  JP: 46
+  SG: 40
+  TR: 39
+  IN: 35
+  KZ: 30
+  LV: 22
+  AT: 21
+  EE: 21
+  HU: 17
+  AU: 15
+  BR: 15
+  CH: 14
+  SC: 12
+  IT: 12
+  UA: 12
+  SA: 12
+  JO: 11
+  GR: 11
+  MY: 10
+  TH: 10
+  ES: 10
+  IL: 10
+  MX: 9
+  CZ: 9
+  PK: 9
   BG: 9
-  TH: 9
-  CZ: 8
-  MX: 8
+  KR: 9
+  AR: 8
+  AM: 7
+  KW: 7
   BA: 6
-  AM: 6
   AL: 6
-  UA: 5
+  EG: 6
+  IM: 5
   NO: 5
-  AR: 5
+  MT: 5
+  RO: 5
   MK: 5
-  CN: 5
-  GR: 5
+  SI: 5
+  CN: 4
+  BE: 4
   IE: 4
-  JO: 4
-  MY: 4
-  ES: 4
-  BR: 4
-  RO: 4
-  SI: 4
   IS: 4
+  OM: 4
   TW: 4
-  ME: 3
-  OM: 3
-  KR: 3
-  PT: 3
-  BE: 3
   LU: 3
-  MT: 3
+  MU: 3
+  PT: 3
+  PE: 3
+  PR: 3
   EC: 3
-  MU: 2
-  CR: 2
-  MH: 2
-  IM: 2
+  KH: 3
   ZA: 2
-  PK: 2
-  PE: 2
+  ME: 2
+  AZ: 2
+  DK: 2
+  NZ: 2
+  CR: 2
+  HR: 2
+  PY: 2
   CO: 2
-  CL: 1
+  SK: 1
   PH: 1
+  MH: 1
+  GE: 1
   UZ: 1
   BH: 1
-  DK: 1
-  SK: 1
   GT: 1
-  GE: 1
-  AZ: 1
-  NZ: 1
-  SA: 1
+  CL: 1
   NG: 1
-  HR: 1
-  PR: 1
   MA: 1
-  PY: 1
-  KW: 1
-  EG: 1
+  ID: 1

@@ -1,11 +1,12 @@
 # CA - TROJAN Configurations
-# Updated: 2026-01-06 04:09:31
-# Count: 6
+# Updated: 2026-01-06 07:14:39
+# Count: 7
 # Country Code: CA
 
-trojan://6pRjKQJ0CWyFtG.9@198.57.27.27:12990?security=tls&sni=diningtable.electricbanana.click&type=tcp&headerType=none&path=/#ARISTA🔥
-trojan://6pRjKQJ0CWyFtG.9@198.57.27.27:12990?security=tls&sni=diningtable.electricbanana.click&path=/#ARISTA🔥
-trojan://6pRjKQJ0CWyFtG.9@198.57.27.27:12990?security=tls&sni=diningtable.electricbanana.click&fp=chrome&type=tcp&headerType=none#ARISTA🔥
-trojan://6pRjKQJ0CWyFtG.9@198.57.27.27:12990?security=tls&sni=diningtable.electricbanana.click&fp=chrome&allowInsecure=1&type=tcp&headerType=none#ARISTA🔥
 trojan://.ie4rghJuMkcf0oF@38.96.254.102:18509?security=tls&sni=shoppingmall.electricbanana.click&path=/#ARISTA🔥
 trojan://6pRjKQJ0CWyFtG.9@198.57.27.27:12990?security=tls&sni=diningtable.electricbanana.click&type=tcp&headerType=none#ARISTA🔥
+trojan://6pRjKQJ0CWyFtG.9@198.57.27.27:12990?security=tls&sni=diningtable.electricbanana.click&fp=chrome&allowInsecure=1&type=tcp&headerType=none#ARISTA🔥
+trojan://6pRjKQJ0CWyFtG.9@198.57.27.27:12990?security=tls&sni=diningtable.electricbanana.click&fp=chrome&type=tcp&headerType=none#ARISTA🔥
+trojan://6pRjKQJ0CWyFtG.9@198.57.27.27:12990?security=tls&sni=diningtable.electricbanana.click&path=/#ARISTA🔥
+trojan://6pRjKQJ0CWyFtG.9@198.57.27.27:12990?security=tls&sni=diningtable.electricbanana.click&type=tcp&headerType=none&path=/#ARISTA🔥
+trojan://chslToBpxJ@209.200.246.248:22086/?type=grpc&serviceName=&authority=&security=reality&pbk=Bo-0prp3Nlf3NX9egy-iCjLBONYo9j2lniXaEtET3ns&fp=chrome&sni=www.cloudflare.com&sid=4f69441f911943&spx=%2F#ARISTA🔥

@@ -1,8 +1,8 @@
 # BG - VLESS Configurations
-# Updated: 2026-01-07 10:01:47
+# Updated: 2026-01-07 14:03:58
 # Count: 3
 # Country Code: BG
 
 vless://04cf10a3-2268-4c8c-a756-e0953ee9410d@46.253.4.214:8080?encryption=none&security=none&type=tcp&headerType=http&host=box.ponisha.ir#ARISTA🔥
-vless://309fa273-6579-4cb2-9143-7cad50401eba@146.19.80.229:443?security=reality&encryption=none&pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=7cad5040#ARISTA🔥
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.6.149:8880/?type=grpc&encryption=none#ARISTA🔥
+vless://309fa273-6579-4cb2-9143-7cad50401eba@146.19.80.229:443?security=reality&encryption=none&pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=7cad5040#ARISTA🔥

@@ -1,11 +1,10 @@
 # All Configurations for AU
-# Updated: 2026-01-07 07:10:54
-# Total Count: 14
+# Updated: 2026-01-07 10:01:47
+# Total Count: 13
 # Country Code: AU
 
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@103.169.142.28:443?security=tls&sni=zdyi.kpcloud.eu.org&type=ws&path=%2Fblue#ARISTA🔥
 vless://309fa273-6579-4cb2-9143-7cad50401eba@45.15.185.69:8443?security=reality&encryption=none&pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=7cad5040#ARISTA🔥
-vmess://eyJ2IjoiMiIsInBzIjoiQVJJU1RB8J+UpSIsImFkZCI6IjU0LjIwNi4xOTIuOSIsInBvcnQiOiIxNjQwNyIsImlkIjoiMDhmNDUwMjgtMWRiNi00ZTkzLWJmNTEtZDM0NGI2YzcxZTE5IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIiLCJwYXRoIjoiIiwidGxzIjoiIiwic25pIjoiIiwiYWxwbiI6IiIsImZwIjoiIiwiaW5zZWN1cmUiOiIwIn0=
+vless://c799d2d8-7ad1-4e42-94b6-f9a50a0ab0c7@82.115.13.63:43912?security=reality&allowInsecure=0&encryption=none&type=tcp&sni=www.cloudflare.com&sid=0123456789abcdef&fp=chrome&pbk=s0JyZwSWWQLCYzANXXJhlKlbpof65SiAtcIDBoylHGQ&spx=/10&headerType=none#ARISTA🔥
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTVnQ2WmlXelJJMVl4ZWlnNHhCWndpSk90NmNlWHdHYQ==@95.111.222.113:443#ARISTA🔥
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@45.15.185.70:990#ARISTA🔥
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@103.75.119.38:990#ARISTA🔥

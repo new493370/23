@@ -1,21 +1,21 @@
 # All Configurations for IT
-# Updated: 2026-01-06 21:51:28
+# Updated: 2026-01-07 04:06:56
 # Total Count: 16
 # Country Code: IT
 
-vless://fc7a34b8-7f83-475f-bca4-7a8f5dc861fb@151.101.242.172:80?host=Germany.ss.ss&type=ws&security=none&path=WEDBAZ%3Fed%3D2048&encryption=none#ARISTA🔥
-vless://fc7a34b8-7f83-475f-bca4-7a8f5dc861fb@151.101.242.172:80?host=Germandiginoe.com&type=ws&security=none&path=WEDBAZ%3Fed%3D2048&encryption=none#ARISTA🔥
-vless://3d4c79ff-a031-4652-b04c-91a8ab0edd44@151.101.241.242:80?encryption=none&type=xhttp&mode=auto&host=shadow66.global.ssl.fastly.net&path=/vpn_proxy66-vpn_proxy66-vpn_proxy66-vpn_proxy66-vpn_proxy66-vpn_proxy66-vpn_proxy66-vpn_proxy66-vpn_proxy66-vpn_proxy66-vpn_proxy66-vpn_proxy66-vpn_proxy66-vpn_proxy66-vpn_proxy66-vpn_proxy66-vpn_proxy66-vpn_proxy66?ed%3D2650#ARISTA🔥
-vless://turboo-server@146.75.55.82:80?mode=auto&path=%2F&security=none&encryption=none&host=turboo-server-bot.com&type=xhttp#ARISTA🔥
-vless://854eea7a-c834-4f62-9e17-ae63d1086f36@89.150.48.171:443/?type=tcp&encryption=none&flow=&sni=pt1vless.instavpn.ru&fp=chrome&security=reality&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&sid=868419504747f6de#ARISTA🔥
-vless://db0f2cb6-a263-48d2-89bc-4237c81e0aca@146.75.55.82:80?security=none&type=ws&headerType=&path=%2Fdownload%3Fed%3D2560&host=ana.ir#ARISTA🔥
-vless://051b4552-b516-485c-b4a0-fe18ab4ec7ee@80.211.139.106:651?mode=gun&security=reality&encryption=none&authority=&pbk=H2pJZSjdIazQ9BxTgd9li6XWWj2TaXPfXEZWrL5yS34&fp=firefox&type=grpc&serviceName=&sni=stackoverflow.com&sid=86ba053c74aaba8e#ARISTA🔥
-vless://72f4411f-9872-48ab-9779-dbbce3a83f21@141.227.140.106:47270?mode=gun&security=none&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#ARISTA🔥
-vless://7d27c544-135d-41a2-bd84-713b8af4f3c2@31.14.135.127:7035?path=%2F&security=none&encryption=none&host=filimo.com&type=ws#ARISTA🔥
 vmess://eyJhZGQiOiIxMDkuMTIyLjIwOS43OCIsImFpZCI6IjAiLCJob3N0IjoiIiwiaWQiOiIyMjUzMWIzZi01NjBjLTQ3ODktOWI1OC0wMmViZWM0ZjMxYWMiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjEwMDMiLCJwcyI6IkFSSVNUQfCflKUiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoibm9uZSIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
-trojan://OdgHycGphesfLmPMYolUF@172.238.229.254:14051?security=tls&headerType=none&type=tcp&sni=eh.vk.com#ARISTA🔥
+vless://72f4411f-9872-48ab-9779-dbbce3a83f21@141.227.140.106:47270?mode=gun&security=none&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#ARISTA🔥
+vless://turboo-server@146.75.55.82:80?mode=auto&path=%2F&security=none&encryption=none&host=turboo-server-bot.com&type=xhttp#ARISTA🔥
+vless://051b4552-b516-485c-b4a0-fe18ab4ec7ee@80.211.139.106:651?mode=gun&security=reality&encryption=none&authority=&pbk=H2pJZSjdIazQ9BxTgd9li6XWWj2TaXPfXEZWrL5yS34&fp=firefox&type=grpc&serviceName=&sni=stackoverflow.com&sid=86ba053c74aaba8e#ARISTA🔥
+vless://fc7a34b8-7f83-475f-bca4-7a8f5dc861fb@151.101.242.172:80?host=Germandiginoe.com&type=ws&security=none&path=WEDBAZ%3Fed%3D2048&encryption=none#ARISTA🔥
+vless://db0f2cb6-a263-48d2-89bc-4237c81e0aca@146.75.55.82:80?security=none&type=ws&headerType=&path=%2Fdownload%3Fed%3D2560&host=ana.ir#ARISTA🔥
+vless://7d27c544-135d-41a2-bd84-713b8af4f3c2@31.14.135.127:7035?path=%2F&security=none&encryption=none&host=filimo.com&type=ws#ARISTA🔥
+vless://fc7a34b8-7f83-475f-bca4-7a8f5dc861fb@151.101.242.172:80?host=Germany.ss.ss&type=ws&security=none&path=WEDBAZ%3Fed%3D2048&encryption=none#ARISTA🔥
+vless://3d4c79ff-a031-4652-b04c-91a8ab0edd44@151.101.241.242:80?encryption=none&type=xhttp&mode=auto&host=shadow66.global.ssl.fastly.net&path=/vpn_proxy66-vpn_proxy66-vpn_proxy66-vpn_proxy66-vpn_proxy66-vpn_proxy66-vpn_proxy66-vpn_proxy66-vpn_proxy66-vpn_proxy66-vpn_proxy66-vpn_proxy66-vpn_proxy66-vpn_proxy66-vpn_proxy66-vpn_proxy66-vpn_proxy66-vpn_proxy66?ed%3D2650#ARISTA🔥
+vless://854eea7a-c834-4f62-9e17-ae63d1086f36@89.150.48.171:443/?type=tcp&encryption=none&flow=&sni=pt1vless.instavpn.ru&fp=chrome&security=reality&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&sid=868419504747f6de#ARISTA🔥
 trojan://OdgHycGphesfLmPMYolUF@172.238.229.254:14051?security=tls&headerType=none&type=tcp&sni=api.avito.ru#ARISTA🔥
+trojan://OdgHycGphesfLmPMYolUF@172.238.229.254:14051?security=tls&headerType=none&type=tcp&sni=eh.vk.com#ARISTA🔥
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@176.126.83.158:990#ARISTA🔥
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTd1RTaFhZU1FkNDA0RklTczhORmVK@38.180.195.193:443#ARISTA🔥
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRNHQ4VDdoRVlZM21EMkZuNHdueHlLNFgzNUFVenZSOA@176.126.83.121:443#ARISTA🔥
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@212.102.54.45:990#ARISTA🔥
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRNHQ4VDdoRVlZM21EMkZuNHdueHlLNFgzNUFVenZSOA@176.126.83.121:443#ARISTA🔥
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTd1RTaFhZU1FkNDA0RklTczhORmVK@38.180.195.193:443#ARISTA🔥

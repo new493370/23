@@ -1,11 +1,11 @@
 # All Configurations for NO
-# Updated: 2026-01-06 21:51:28
+# Updated: 2026-01-07 04:06:56
 # Total Count: 6
 # Country Code: NO
 
 vless://84f66368-8a37-468e-ae95-5622255fd4db@217.170.199.132:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=azure.com&fp=chrome&security=reality&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&sid=#ARISTA🔥
+trojan://a5inYFE=JGV89+hjxIqgDp1tcWBd6@80.173.230.196:26279?security=tls&headerType=none&fp=chrome&type=tcp&sni=io.ozone.ru#ARISTA🔥
+trojan://RPyW62_b9aH.ztJKeArou@83.143.87.9:18581?security=tls&headerType=none&type=tcp&sni=m.vk.com#ARISTA🔥
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1OTVITEYzZkhVdXcwTWNNNTF0cHZQeWdTSUIxdWY0RA==@107.174.114.71:443#ARISTA🔥
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1OTVITEYzZkhVdXcwTWNNNTF0cHZQeWdTSUIxdWY0RA@107.174.114.71:443#ARISTA🔥
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@185.213.23.63:990#ARISTA🔥
-trojan://RPyW62_b9aH.ztJKeArou@83.143.87.9:18581?security=tls&headerType=none&type=tcp&sni=m.vk.com#ARISTA🔥
-trojan://a5inYFE=JGV89+hjxIqgDp1tcWBd6@80.173.230.196:26279?security=tls&headerType=none&fp=chrome&type=tcp&sni=io.ozone.ru#ARISTA🔥

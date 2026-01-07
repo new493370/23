@@ -1,6 +1,6 @@
 # US - TROJAN Configurations
-# Updated: 2026-01-07 14:03:58
-# Count: 8
+# Updated: 2026-01-07 16:01:46
+# Count: 6
 # Country Code: US
 
 trojan://71409d3e488548e8bb076d229778f008@38.99.82.225:443?security=tls&headerType=none&type=tcp#ARISTA🔥
@@ -9,5 +9,3 @@ trojan://25IYE1_dhFCBi6omM3qf9@144.202.8.250:23239?security=tls&headerType=none&
 trojan://oeEC2cXUJRlQaToKGL91iNr8A%3DZM3@209.222.17.236:25134?security=tls&headerType=none&fp=chrome&type=tcp&sni=api-maps.yandex.ru#ARISTA🔥
 trojan://5dcqVXE%3DHhI.O%2BBMwAQJv@45.76.28.186:19557?security=tls&headerType=none&type=tcp&sni=eh.vk.com#ARISTA🔥
 trojan://l9lTBt.P8x2LOHCsnhNRq@45.76.62.85:14090?security=tls&headerType=none&type=tcp&sni=eh.vk.com#ARISTA🔥
-trojan://3437698@8.39.125.38:2083?path=%2F%3Fed%3D2560&security=tls&host=rough-violet-b842.heydari-cis64.workers.dev&fp=random&type=ws&sni=rough-violet-b842.heydari-cis64.workers.dev#ARISTA🔥
-trojan://3437698@8.35.211.15:8443?path=%2F%3Fed%3D2560&security=tls&host=rough-violet-b842.heydari-cis64.workers.dev&fp=random&type=ws&sni=rough-violet-b842.heydari-cis64.workers.dev#ARISTA🔥

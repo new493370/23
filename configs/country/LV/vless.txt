@@ -1,10 +1,10 @@
 # LV - VLESS Configurations
-# Updated: 2026-01-07 14:03:58
+# Updated: 2026-01-07 16:01:46
 # Count: 20
 # Country Code: LV
 
-vless://d0dd95b5-a063-4a67-c05c-265d08531e4c@91.197.0.224:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=microsoft.com&fp=chrome&security=reality&pbk=x3azUw_JKB7nAKTWfCXaHf2XtKEpuH5XfLBhCTWieSE&sid=2d123271#ARISTA🔥
 vless://0cc9d390-42ee-461e-94ae-e4370883dc48@77.73.238.191:29505?security=&type=ws&path=/&encryption=none#ARISTA🔥
+vless://d0dd95b5-a063-4a67-c05c-265d08531e4c@91.197.0.224:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=microsoft.com&fp=chrome&security=reality&pbk=x3azUw_JKB7nAKTWfCXaHf2XtKEpuH5XfLBhCTWieSE&sid=2d123271#ARISTA🔥
 vless://TelegramChannel:daredevill_404@31.56.117.172:20569?type=xhttp&encryption=none&path=%2F%40daredevill_404&host=&mode=auto&security=none#ARISTA🔥
 vless://843a1bd1-d63b-4b54-ba31-4803ac40f527@213.165.63.67:443?security=reality&encryption=none&pbk=HyWLL5SIz0ik1ziUvs049CbRwz8pADomc6x-2OeM1i4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=7f11ee6d084c91d9#ARISTA🔥
 vless://e977d854-33f3-4345-abee-bf3fa9a6d880@37.233.82.140:40478/?type=tcp&encryption=none&flow=&sni=yahoo.com&fp=chrome&security=reality&pbk=lcJ0LSh015XRfz5-7wB_hln3-bq5ZatFgPugSUCrdR0&sid=3c#ARISTA🔥

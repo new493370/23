@@ -1,8 +1,6 @@
 # ES - TROJAN Configurations
-# Updated: 2026-01-07 14:03:58
-# Count: 3
+# Updated: 2026-01-07 16:01:46
+# Count: 1
 # Country Code: ES
 
 trojan://trojan@109.234.211.66:8443?path=%2F&security=tls&host=store.timimi.dpdns.org&type=ws&sni=store.timimi.dpdns.org#ARISTA🔥
-trojan://2262242d-1b1c-481c-b60d-cde0e6a48bb2@185.251.80.0:443?type=grpc&mode=gun&serviceName=MhTmxpkpKWUvzLtY5bR0&security=tls&fp=chrome&sni=filma.video-fun-new.com.de&alpn=h2#ARISTA🔥
-trojan://2262242d-1b1c-481c-b60d-cde0e6a48bb2@185.251.80.0:443?type=ws&host=filma.video-fun-new.com.de&path=/MhTmxpkpcD3E2KuHxT&security=tls&fp=chrome&sni=filma.video-fun-new.com.de&alpn=http/1.1#ARISTA🔥

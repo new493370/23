@@ -1,15 +1,13 @@
 # All Configurations for ES
-# Updated: 2026-01-07 14:03:58
-# Total Count: 10
+# Updated: 2026-01-07 16:01:46
+# Total Count: 8
 # Country Code: ES
 
+vless://613725ab-ca86-4d54-852e-a0bf45e812de@83.147.18.219:443?security=reality&encryption=none&pbk=UgCLC1JdwUh-hgpvSfndN1tuH98620gziTq2UB0gOjI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=allison.kosmolet.xyz&sid=a369bfe440aba1a2#ARISTA🔥
 vless://93f1de92-bb07-43de-bfa6-a754b21f7768@185.238.228.253:443/?type=ws&encryption=none&host=sub1.ipsycho.pro&path=%2FY6Gomkc3jMn08ptOW19FvL&security=tls&sni=sub1.ipsycho.pro&alpn=http%2F1.1&fp=chrome#ARISTA🔥
 vless://977cf430-e251-4b5f-8bc4-c974fdec0df9@217.71.204.148:2096?encryption=none&security=reality&sni=WWW.speedtest.net,Speedtest.net&fp=chrome&pbk=ueUB3nxbexEGsLstcIG5w84Tqz9IiHYdVQMdy6aPO0E&sid=f8baf4dd88f32724&type=xhttp#ARISTA🔥
 vless://613725ab-ca86-4d54-852e-a0bf45e812de@83.147.18.219:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=allison.kosmolet.xyz&fp=chrome&security=reality&pbk=UgCLC1JdwUh-hgpvSfndN1tuH98620gziTq2UB0gOjI&sid=a369bfe440aba1a2#ARISTA🔥
 vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@185.251.80.238:2096?encryption=none&security=tls&sni=sni.111000.cc.cd&type=ws&host=sni.111000.cc.cd&path=/?ed=2560&Telegram🇨🇳@WangCai2#ARISTA🔥
-vless://2262242d-1b1c-481c-b60d-cde0e6a48bb2@185.251.80.0:443?encryption=none&type=ws&host=filma.video-fun-new.com.de&path=/Mv3kv92GcD3E2KuHxT&security=tls&fp=chrome&sni=filma.video-fun-new.com.de&alpn=http/1.1#ARISTA🔥
 vless://2262242d-1b1c-481c-b60d-cde0e6a48bb2@185.251.80.0:80?encryption=none&type=ws&host=filma.video-fun-new.com.de&path=/Mv3kv92GcD3E2KuHxT&security=none#ARISTA🔥
 trojan://trojan@109.234.211.66:8443?path=%2F&security=tls&host=store.timimi.dpdns.org&type=ws&sni=store.timimi.dpdns.org#ARISTA🔥
-trojan://2262242d-1b1c-481c-b60d-cde0e6a48bb2@185.251.80.0:443?type=grpc&mode=gun&serviceName=MhTmxpkpKWUvzLtY5bR0&security=tls&fp=chrome&sni=filma.video-fun-new.com.de&alpn=h2#ARISTA🔥
-trojan://2262242d-1b1c-481c-b60d-cde0e6a48bb2@185.251.80.0:443?type=ws&host=filma.video-fun-new.com.de&path=/MhTmxpkpcD3E2KuHxT&security=tls&fp=chrome&sni=filma.video-fun-new.com.de&alpn=http/1.1#ARISTA🔥
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@37.143.130.203:990#ARISTA🔥

@@ -1,8 +1,8 @@
 # AU - VLESS Configurations
-# Updated: 2026-01-07 16:01:46
+# Updated: 2026-01-07 19:10:42
 # Count: 3
 # Country Code: AU
 
-vless://c799d2d8-7ad1-4e42-94b6-f9a50a0ab0c7@82.115.13.63:43912?security=reality&allowInsecure=0&encryption=none&type=tcp&sni=www.cloudflare.com&sid=0123456789abcdef&fp=chrome&pbk=s0JyZwSWWQLCYzANXXJhlKlbpof65SiAtcIDBoylHGQ&spx=/10&headerType=none#ARISTA🔥
 vless://309fa273-6579-4cb2-9143-7cad50401eba@45.15.185.69:8443?security=reality&encryption=none&pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=7cad5040#ARISTA🔥
+vless://c799d2d8-7ad1-4e42-94b6-f9a50a0ab0c7@82.115.13.63:43912?security=reality&allowInsecure=0&encryption=none&type=tcp&sni=www.cloudflare.com&sid=0123456789abcdef&fp=chrome&pbk=s0JyZwSWWQLCYzANXXJhlKlbpof65SiAtcIDBoylHGQ&spx=/10&headerType=none#ARISTA🔥
 vless://c5c9d8ec-6c95-4f84-a395-de41ef895f34@37.9.54.98:443/?type=tcp&encryption=none&flow=&sni=download.cdn.yandex.net&fp=chrome&security=reality&pbk=jlnKFP7eXy5fFjmH1HD8_3A-AKbraZvJMwPE03BRuhQ&sid=9d8307f6#ARISTA🔥

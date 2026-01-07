@@ -1,8 +1,13 @@
 # CA - TROJAN Configurations
-# Updated: 2026-01-07 04:06:56
-# Count: 3
+# Updated: 2026-01-07 07:10:54
+# Count: 8
 # Country Code: CA
 
 trojan://6pRjKQJ0CWyFtG.9@198.57.27.27:12990?security=tls&sni=diningtable.electricbanana.click&type=tcp&headerType=none#ARISTA🔥
 trojan://chslToBpxJ@209.200.246.248:22086/?type=grpc&serviceName=&authority=&security=reality&pbk=Bo-0prp3Nlf3NX9egy-iCjLBONYo9j2lniXaEtET3ns&fp=chrome&sni=www.cloudflare.com&sid=4f69441f911943&spx=%2F#ARISTA🔥
-trojan://.ie4rghJuMkcf0oF@38.96.254.102:18509?security=tls&sni=shoppingmall.electricbanana.click&path=/#ARISTA🔥
+trojan://6pRjKQJ0CWyFtG.9@198.57.27.27:12990?security=tls&sni=diningtable.electricbanana.click&fp=chrome&type=tcp&headerType=none&path=/#ARISTA🔥
+trojan://5a2c16f9@172.64.147.211:2096?path=/Telegram🇨🇳WangCai2&security=tls&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=snippets.kkii.eu.org#ARISTA🔥
+trojan://bIa-DailY_cOnFIgs@104.17.97.5:2053?#ARISTA🔥
+trojan://5a2c16f9@172.64.147.211:2096?path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3WangCai2&security=tls&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=snippets.kkii.eu.org#ARISTA🔥
+trojan://f2191442-1436-3d79-801e-80d8de896c73@104.21.66.223:443?sni=jp2-july.88888802.xyz#ARISTA🔥
+trojan://bIa-DailY_cOnFIgs@104.17.97.5:2053#ARISTA🔥

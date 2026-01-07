@@ -1,18 +1,18 @@
 # CH - VLESS Configurations
-# Updated: 2026-01-07 04:06:56
+# Updated: 2026-01-07 07:10:54
 # Count: 13
 # Country Code: CH
 
-vless://19f264ac-e41f-459d-b717-29dfe0bbaf85@83.228.229.189:31259?type=xhttp&encryption=none&path=%2F&host=cdnjs.cloudflare.com&mode=auto&security=none#ARISTA🔥
-vless://db389496-326b-41f4-9069-8e902920b500@213.176.18.99:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=telegavpn.com&fp=&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA&sid=#ARISTA🔥
-vless://dc03b842-ed59-42a6-9386-efd4cae372aa@213.176.18.99:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=telegavpn.com&fp=&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA&sid=#ARISTA🔥
+vless://0a21d713-6e6f-4274-8b84-464019325513@208.69.78.5:443/?type=grpc&encryption=none&flow=&serviceName=ecb7f0f50489f81cd1983a56&sni=www.microsoft.com&fp=chrome&security=reality&pbk=vMBfs89AZ02R1ggA45SqOFLfe6rJQ0_mLBpsV97k3zA&sid=9c8d68d581a08ea5#ARISTA🔥
 vless://dce1e7b5-60ab-4446-bb95-97e1234df5d6@141.11.164.233:11366?security=none&encryption=none&headerType=none&type=tcp#ARISTA🔥
 vless://feae6dd7-8adc-423b-eda7-7eb4a5289b54@141.11.164.233:11366?type=tcp&encryption=none&security=none#ARISTA🔥
-vless://idTel-Hqv2rayNG@84.234.31.28:443?security=reality&encryption=none&pbk=FtDr_UhjnVUI0icGx9L4isHVQTNOl_cGsFEDSWigM28&headerType=none&fp=safari&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=refersion.com&sid=7c4ea43b6c6f#ARISTA🔥
-vless://34b28d15-f76c-4b38-9450-543c49ed59f6@84.234.30.84:36226?security=none&encryption=none&host=JouRNaloFbIgdATA.SpRinGeropEn.coM.&headerType=http&type=tcp#ARISTA🔥
 vless://d7f13b84-bc35-4632-9ca9-e0de57999bea@37.156.46.188:8529?flow=&type=tcp&headerType=none&security=tls&sni=tc7.speedx3net.ir&alpn=http/1.1,h2&fp=firefox&allowInsecure=0#ARISTA🔥
-vless://0a21d713-6e6f-4274-8b84-464019325513@208.69.78.5:443/?type=grpc&encryption=none&flow=&serviceName=ecb7f0f50489f81cd1983a56&sni=www.microsoft.com&fp=chrome&security=reality&pbk=vMBfs89AZ02R1ggA45SqOFLfe6rJQ0_mLBpsV97k3zA&sid=9c8d68d581a08ea5#ARISTA🔥
-vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@185.18.250.238:2096?path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2&security=tls&encryption=none&insecure=0&host=sni.111000.cc.cd&fp=chrome&type=ws&allowInsecure=0&sni=sni.111000.cc.cd#ARISTA🔥
 vless://0a21d713-6e6f-4274-8b84-464019325513@208.69.78.5:443?type=grpc&encryption=none&serviceName=ecb7f0f50489f81cd1983a56&sni=www.microsoft.com&fp=chrome&security=reality&pbk=vMBfs89AZ02R1ggA45SqOFLfe6rJQ0_mLBpsV97k3zA&sid=9c8d68d581a08ea5#ARISTA🔥
 vless://c5fdf480-3942-4fc9-9e73-f6899c24bda6@83.228.210.214:443?security=reality&encryption=none&pbk=NQtYh_DzWbKDGV3sOdYUbYS7OQqAF-lG42J-rOm_OH0&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=ok.ru&sid=41f38b2355acf7bc#ARISTA🔥
+vless://3d1e1961-35c4-499f-be54-3540516fcbac@185.18.250.61:80?encryption=none&security=none&type=xhttp&host=soft98.ir.digikala.com.nobitex.com.www.speedtest.net.vigilante.ir&path=%2FDailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs%3Fed%3D80&mode=packet-up#ARISTA🔥
+vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@185.18.250.238:2096?path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2&security=tls&encryption=none&insecure=0&host=sni.111000.cc.cd&fp=chrome&type=ws&allowInsecure=0&sni=sni.111000.cc.cd#ARISTA🔥
+vless://idTel-Hqv2rayNG@84.234.31.28:443?security=reality&encryption=none&pbk=FtDr_UhjnVUI0icGx9L4isHVQTNOl_cGsFEDSWigM28&headerType=none&fp=safari&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=refersion.com&sid=7c4ea43b6c6f#ARISTA🔥
+vless://db389496-326b-41f4-9069-8e902920b500@213.176.18.99:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=telegavpn.com&fp=&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA&sid=#ARISTA🔥
+vless://dc03b842-ed59-42a6-9386-efd4cae372aa@213.176.18.99:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=telegavpn.com&fp=&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA&sid=#ARISTA🔥
 vless://1b07b61e-7c71-75fa-f97d-f4a82c66cfb5@185.218.204.203:47009?security=reality&encryption=none&pbk=tr79fhd6jVvu8d-Rp9gCEO8XtMyNpusiu3rLmIiKEnU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=sun6-21.userapi.com&sid=e21f2248d3f24140#ARISTA🔥
+vless://19f264ac-e41f-459d-b717-29dfe0bbaf85@83.228.229.189:31259?type=xhttp&encryption=none&path=%2F&host=cdnjs.cloudflare.com&mode=auto&security=none#ARISTA🔥

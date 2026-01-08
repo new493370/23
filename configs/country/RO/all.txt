@@ -1,9 +1,11 @@
 # All Configurations for RO
-# Updated: 2026-01-08 07:09:19
-# Total Count: 4
+# Updated: 2026-01-08 10:02:25
+# Total Count: 6
 # Country Code: RO
 
-trojan://ZJU29smXwp@45.85.118.0:2053?path=%2F&security=tls&host=k.teama.tk&type=ws&sni=web2.teama.tk#ARISTA🔥
-trojan://ZJU29smXwp@45.85.118.88:2053?path=%2F&security=tls&host=k.teama.tk&type=ws&sni=omid.teama.tk#ARISTA🔥
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphMDJmYjYwZDVjZjQwMGM2@45.82.102.245:11201#ARISTA🔥
+vmess://eyJhZGQiOiI0NS44NS4xMTguODMiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImNjLnYyamV5LmZ1biIsImlkIjoiNjA2NmFiZjEtY2RiMS00ODE4LWQzNWEtN2M4ZTBlZTkwMzIwIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiIyMDUyIiwicHMiOiJBUklTVEHwn5SlIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.126.237.38:990#ARISTA🔥
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxMWU1MjBjY2JlNzM2NWVi@45.82.102.204:11201#ARISTA🔥
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphMDJmYjYwZDVjZjQwMGM2@45.82.102.245:11201#ARISTA🔥
+trojan://ZJU29smXwp@45.85.118.88:2053?path=%2F&security=tls&host=k.teama.tk&type=ws&sni=omid.teama.tk#ARISTA🔥
+trojan://ZJU29smXwp@45.85.118.0:2053?path=%2F&security=tls&host=k.teama.tk&type=ws&sni=web2.teama.tk#ARISTA🔥

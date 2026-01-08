@@ -1,5 +1,5 @@
 # GitHub TROJAN Configurations
-# Updated: 2026-01-08 04:07:41
+# Updated: 2026-01-08 07:09:19
 # Count: 82
 # Source: GitHub Repositories
 
@@ -64,8 +64,8 @@ trojan://trojan@ip.sb:8443?path=/&security=tls&host=fofang.pages.dev&type=ws&sni
 trojan://xtA6WF92Itmhm9jfvXUH1MDVL@free-de-3.undef.network:443?type=ws&host=free-de-3.undef.network&path=/f2fc2a1f&security=tls&sni=free-de-3.undef.network#ARISTA🔥
 trojan://xtA6WF92Itmhm9jfvXUH1MDVL@free-de-3.undef.network:443?security=tls&sni=free-de-3.undef.network#ARISTA🔥
 trojan://zWFjJENcljZm@usa.visa.com:443?type=ws&host=vahidqaz-7o61u7.vahidqaz.workers.dev&path=/?ed=2560&security=tls&sni=vahidqaz-7o61u7.vahidqaz.workers.dev&allowInsecure=1&fp=chrome#ARISTA🔥
-trojan://da943f80-91e6-46df-b7ba-c6ecf28e0171@blueivy.qzz.io:443?path=%2F192.252.182.52%3A7602&security=tls&host=blueivy.qzz.io&type=ws&sni=blueivy.qzz.io#ARISTA🔥
 trojan://xtA6WF92Itmhm9jfvXUH1MDVL@free-de-3.undef.network:443?path=%2Ff2fc2a1f&security=tls&host=free-de-3.undef.network&type=ws&sni=free-de-3.undef.network#ARISTA🔥
+trojan://da943f80-91e6-46df-b7ba-c6ecf28e0171@blueivy.qzz.io:443?path=%2F192.252.182.52%3A7602&security=tls&host=blueivy.qzz.io&type=ws&sni=blueivy.qzz.io#ARISTA🔥
 trojan://1e32fe52198848788f029c2ec244f347@212.192.14.227:9443/?type=tcp&sni=ya.ru&fp=random&security=reality&pbk=GooqN94J-NNbWxkVsDb7NIQW4xXhkMGByk58ihKwX1Q&sid=aabbccdd#ARISTA🔥
 trojan://5a2c16f9@172.64.147.211:2096?path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3WangCai2&security=tls&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=snippets.kkii.eu.org#ARISTA🔥
 trojan://bIa-DailY_cOnFIgs@104.17.97.5:2053#ARISTA🔥

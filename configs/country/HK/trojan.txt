@@ -1,8 +1,8 @@
 # HK - TROJAN Configurations
-# Updated: 2026-01-08 04:07:42
+# Updated: 2026-01-08 07:09:19
 # Count: 3
 # Country Code: HK
 
+trojan://381f2e86233720eacda26d50e9aa26da@58.152.110.104:443/?type=tcp&security=tls&sni=www.nintendogames.net#ARISTA🔥
 trojan://7367d04e-4c59-4dff-a50e-12e730a09891@155.117.228.70:26193?security=tls&headerType=none&type=tcp#ARISTA🔥
 trojan://019a8c1f-3d28-74e8-8a8e-40045d7ec77f@38.207.160.35:443/?type=tcp&security=tls&sni=www.bilibili.com&allowInsecure=1#ARISTA🔥
-trojan://381f2e86233720eacda26d50e9aa26da@58.152.110.104:443/?type=tcp&security=tls&sni=www.nintendogames.net#ARISTA🔥

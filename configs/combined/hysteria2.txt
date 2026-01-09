@@ -1,30 +1,30 @@
 # Combined HYSTERIA2 Configurations
-# Updated: 2026-01-09 14:08:09
-# Count: 156
-# Sources: Telegram (22) + GitHub (138)
+# Updated: 2026-01-09 16:04:21
+# Count: 171
+# Sources: Telegram (22) + GitHub (153)
 
-hy2://dongtaiwang.com@51.158.54.46:44550/?insecure=1&sni=bing.com#ARISTA🔥
-hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir#ARISTA🔥
-hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@206.71.158.40:35000?obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi&sni=api.kermanshahi.org&insecure=0#ARISTA🔥
-hysteria2://Telegram--%3E%40Ln2Ray@gavazn.lnmarketplace.net:45000?obfs=salamander&obfs-password=Telegram--%3E@Ln2Ray&sni=gavazn.55994421.xyz&insecure=0#ARISTA🔥
-hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@77.90.41.197:35000?security=tls&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=1&sni=api.kermanshahi.org#ARISTA🔥
-hysteria2://freehomesvpnchannel3@channel2.saghetalaie.homes:46914?security=tls&obfs=salamander&obfs-password=%26O%2328YB5qK%215t%23U&insecure=1&sni=www.google.com#ARISTA🔥
 hysteria2://e343471a-aad3-40da-9dea-72cc8c7dce5f@193.123.76.84:443?security=tls&insecure=1&mport=35000-39000&sni=www.apple.com#ARISTA🔥
-hysteria2://gLkkfesaSD@156.226.175.33:40308?fastopen=0&insecure=1&obfs=salamander&obfs-password=Jdb392b3j838dkdn3j%24%24ueh#ARISTA🔥
+hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@77.90.41.197:35000?security=tls&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=1&sni=api.kermanshahi.org#ARISTA🔥
+hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir#ARISTA🔥
+hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@77.90.41.197:35000?security=tls&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=1&sni=api.kermanshahi.org#ARISTA🔥
+hysteria2://Yet-Another-Public-Config-1@206.71.158.37:36600?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir#ARISTA🔥
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@206.71.158.40:35000?security=tls&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=1&sni=api.kermanshahi.org#ARISTA🔥
 hysteria2://0a93714f-7944-4cb1-a955-c602db605e85@teq.dport.top:33658?security=tls&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA%3D%3D&insecure=1&sni=teq.dport.top#ARISTA🔥
-hysteria2://Yet-Another-Public-Config-1@206.71.158.37:36600?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir#ARISTA🔥
-hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@77.90.41.197:35000?security=tls&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=1&sni=api.kermanshahi.org#ARISTA🔥
+hysteria2://dongtaiwang.com@[2001:bc8:32d7:302::11]:20088?security=tls&insecure=1&sni=apple.com#ARISTA🔥
+hysteria2://b96e7c07-78eb-40a1-89ad-de3d33dac98b@[2001:470:1f15:728:6a5a:ce2:7583:1]:10015?security=tls&insecure=1#ARISTA🔥
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@5.175.249.174:35000?sni=api.kermanshahi.org&insecure=0&allowInsecure=0&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi#ARISTA🔥
 hy2://e7965e64-e001-4e8c-8273-39c61ff4a094@sg3.oomz.ru:30000/?insecure=1&sni=bing.com#ARISTA🔥
 hy2://a305ac08-d136-11ee-b6db-f23c91cfbbc9@ffc60249-t53wg0-t92wi1-1qkeg.hk2.hyhuawei.com:443/?sni=ffc60249-t53wg0-t92wi1-1qkeg.hk2.hyhuawei.com#ARISTA🔥
-hysteria2://dongtaiwang.com@[2001:bc8:32d7:302::11]:20088?security=tls&insecure=1&sni=apple.com#ARISTA🔥
-hysteria2://b96e7c07-78eb-40a1-89ad-de3d33dac98b@[2001:470:1f15:728:6a5a:ce2:7583:1]:10015?security=tls&insecure=1#ARISTA🔥
+hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@206.71.158.40:35000?obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi&sni=api.kermanshahi.org&insecure=0#ARISTA🔥
+hysteria2://Telegram--%3E%40Ln2Ray@gavazn.lnmarketplace.net:45000?obfs=salamander&obfs-password=Telegram--%3E@Ln2Ray&sni=gavazn.55994421.xyz&insecure=0#ARISTA🔥
+hysteria2://freehomesvpnchannel3@channel2.saghetalaie.homes:46914?security=tls&obfs=salamander&obfs-password=%26O%2328YB5qK%215t%23U&insecure=1&sni=www.google.com#ARISTA🔥
+hysteria2://gLkkfesaSD@156.226.175.33:40308?fastopen=0&insecure=1&obfs=salamander&obfs-password=Jdb392b3j838dkdn3j%24%24ueh#ARISTA🔥
+hysteria2://Telegram--%3E%40Ln2Ray@gavazn.lnmarketplace.net:45000?security=tls&obfs=salamander&obfs-password=Telegram--%3E%40Ln2Ray&insecure=1&sni=gavazn.55994421.xyz#ARISTA🔥
 hysteria2://SNItest@37.18.14.169:443?security=tls&insecure=1&sni=megafon.ru#ARISTA🔥
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@206.71.158.41:35000?security=tls&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=1&sni=jnir.pichondan.com#ARISTA🔥
-hysteria2://Telegram--%3E%40Ln2Ray@gavazn.lnmarketplace.net:45000?security=tls&obfs=salamander&obfs-password=Telegram--%3E%40Ln2Ray&insecure=1&sni=gavazn.55994421.xyz#ARISTA🔥
 hysteria2://afc8e385-dc0f-4b26-a5ed-b0fbf08b9df6@tr.xn--9kqx4sc0n.shop:21325?security=tls&insecure=0#ARISTA🔥
 hy2://71504eaf-29ac-4190-89d1-dd9ce2c9ee14@[2001:bc8:1640:50eb:dc00:ff:fe57:dd6f]:443/?mport=50000-60000&insecure=1&sni=Ab.ac&obfs=salamander&obfs-password=FnFgQIckcMRtKq7i#ARISTA🔥
+hy2://dongtaiwang.com@51.158.54.46:44550/?insecure=1&sni=bing.com#ARISTA🔥
 hysteria2://12929592-a7bd-41eb-ab4d-d804f76c4ff9@5.83.150.108:54365/?sni=imafake.locker&fp=chrome#ARISTA🔥
 hysteria2://12929592-a7bd-41eb-ab4d-d804f76c4ff9@74.117.196.232:57677/?sni=imafake.locker&fp=chrome#ARISTA🔥
 hysteria2://254551f6-ec28-4938-ad0e-0aa4aa1965ec@5.83.150.108:54365/?sni=imafake.locker&fp=chrome#ARISTA🔥
@@ -152,10 +152,25 @@ hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@falankefu1.nezhasu.com:443?sni=
 hysteria2://e42a38c4-4bea-42d6-90f1-3076e12f8c51@lsus3.lansecs.top:58338?sni=lsus3.lansecs.top&insecure=1#ARISTA🔥
 hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@lundun1.nezhasu.com:443?sni=lundun1.nezhasu.com&insecure=1&mport=50000-65535#ARISTA🔥
 hysteria2://dongtaiwang.com@208.87.243.187:22222?security=tls&insecure=1&sni=www.bing.com#ARISTA🔥
-hysteria2://28203f97-65eb-4fef-bbd2-caff4570f51b@hl.kaixincloud.top:27200?sni=hl.kaixincloud.top&mport=27200-28000#ARISTA🔥
-hysteria2://f1a9b898-9b73-4ca9-ae68-b28fd0eb2971@xjp.kaixincloud.top:25200?sni=xjp.kaixincloud.top&mport=25200-26200#ARISTA🔥
-hysteria2://39821423-11bb-4fb4-a521-7ce2e99dc342@xjp.kaixincloud.top:25200?sni=xjp.kaixincloud.top&mport=25200-26200#ARISTA🔥
+hysteria2://3b475934-cb2a-4d96-b260-5e50cca5d430@74.117.196.232:40849/?sni=imafake.locker&fp=chrome#ARISTA🔥
+hysteria2://f1a513d2-c32a-49dc-8e64-d4f8a2f1e001@74.117.196.232:40849/?sni=imafake.locker&fp=chrome#ARISTA🔥
+hysteria2://b2da9920-b0a7-4354-9e26-3833ab8d00d0@74.117.196.232:40849/?sni=imafake.locker&fp=chrome#ARISTA🔥
+hysteria2://c6e0562f-7ad1-40fb-a255-26194b2de84a@74.117.196.232:40849/?sni=imafake.locker&fp=chrome#ARISTA🔥
+hysteria2://e343471a-aad3-40da-9dea-72cc8c7dce5f@152.69.220.212:443?security=tls&insecure=1&mport=35000-39000&sni=api.push.apple.com#ARISTA🔥
+hysteria2://54a0bf6d-f2b5-4b2a-942c-798fb129527e@74.117.196.232:40849/?sni=imafake.locker&fp=chrome#ARISTA🔥
+hysteria2://35f332d0-0b05-4cc6-91cb-ec0d4465055f@74.117.196.232:40849/?sni=imafake.locker&fp=chrome#ARISTA🔥
+hysteria2://254551f6-ec28-4938-ad0e-0aa4aa1965ec@74.117.196.232:40849/?sni=imafake.locker&fp=chrome#ARISTA🔥
+hysteria2://c50f9480-2e1d-40db-9458-630e79636663@74.117.196.232:40849/?sni=imafake.locker&fp=chrome#ARISTA🔥
+hysteria2://b01d1e26-2f84-48da-88a1-1d06a77857f3@74.117.196.232:40849/?sni=imafake.locker&fp=chrome#ARISTA🔥
+hysteria2://S1XZDIaoUX@193.108.112.6:50163?insecure=1&obfs=salamander&obfs-password=Parsashonam#ARISTA🔥
+hysteria2://e343471a-aad3-40da-9dea-72cc8c7dce5f@146.56.164.36:443?security=tls&insecure=1&mport=35000-39000&sni=api.push.apple.com#ARISTA🔥
+hysteria2://9631096d-3032-4942-9446-bdf12665682b@74.117.196.232:40849/?sni=imafake.locker&fp=chrome#ARISTA🔥
+hysteria2://fa8f8911-2e9b-494e-9a8d-f80239ee2214@74.117.196.232:40849/?sni=imafake.locker&fp=chrome#ARISTA🔥
+hysteria2://Telegram-->@Ln2Ray@206.71.158.23:45000?security=tls&obfs=salamander&obfs-password=Telegram-->@V2rayBaaz&insecure=0&sni=gavazn.55994421.xyz#ARISTA🔥
+hysteria2://4ec66d81-9565-4d8e-ae58-2bacfde95f48@74.117.196.232:40849/?sni=imafake.locker&fp=chrome#ARISTA🔥
+hysteria2://12929592-a7bd-41eb-ab4d-d804f76c4ff9@74.117.196.232:40849/?sni=imafake.locker&fp=chrome#ARISTA🔥
+hysteria2://6d600864-32da-49fd-baf4-7df051762454@74.117.196.232:40849/?sni=imafake.locker&fp=chrome#ARISTA🔥
+hysteria2://3786e67a-41eb-4b92-b31e-417e89493b93@74.117.196.232:40849/?sni=imafake.locker&fp=chrome#ARISTA🔥
+hysteria2://c09f13ce-2cca-49b6-ad1e-597566cc89c6@74.117.196.232:40849/?sni=imafake.locker&fp=chrome#ARISTA🔥
 hysteria2://xtGIM7iEx9@91.107.190.166:8443?insecure=1&obfs=salamander&obfs-password=KLSADFIU43%23%24&sni=dash.cloudflare.com#ARISTA🔥
-hysteria2://a516b408-e06d-4278-9e6d-5271571ecab5@51.75.118.149:20248?insecure=1&sni=dash.cloudflare.com#ARISTA🔥
-hysteria2://126e3ca3-90ef-421d-bb74-a958fd91beeb@us1.kaixincloud.top:25200?sni=us1.kaixincloud.top&mport=25200-26200#ARISTA🔥
-hysteria2://Telegram-->@Ln2Ray@206.71.158.23:45000?security=tls&obfs=salamander&obfs-password=Telegram-->@Ln2Ray&insecure=0&sni=gavazn.55994421.xyz#ARISTA🔥
+hysteria2://27104fae-f047-4993-902a-9368d8a3e9bc@74.117.196.232:40849/?sni=imafake.locker&fp=chrome#ARISTA🔥

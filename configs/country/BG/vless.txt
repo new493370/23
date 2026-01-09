@@ -1,7 +1,6 @@
 # BG - VLESS Configurations
-# Updated: 2026-01-09 10:02:26
-# Count: 2
+# Updated: 2026-01-09 14:08:10
+# Count: 1
 # Country Code: BG
 
-vless://d49b76ff-de4c-4efb-84a1-8fe649748c94@95.164.3.121:443#ARISTA🔥
 vless://04cf10a3-2268-4c8c-a756-e0953ee9410d@46.253.4.214:8080?encryption=none&security=none&type=tcp&headerType=http&host=box.ponisha.ir#ARISTA🔥

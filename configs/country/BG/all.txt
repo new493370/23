@@ -1,10 +1,10 @@
 # All Configurations for BG
-# Updated: 2026-01-09 04:09:02
+# Updated: 2026-01-09 07:14:34
 # Total Count: 7
 # Country Code: BG
 
-vless://d49b76ff-de4c-4efb-84a1-8fe649748c94@95.164.3.121:443#ARISTA🔥
 vless://04cf10a3-2268-4c8c-a756-e0953ee9410d@46.253.4.214:8080?encryption=none&security=none&type=tcp&headerType=http&host=box.ponisha.ir#ARISTA🔥
+vless://d49b76ff-de4c-4efb-84a1-8fe649748c94@95.164.3.121:443#ARISTA🔥
 vmess://eyJ2IjoiMiIsInBzIjoiQVJJU1RB8J+UpSIsImFkZCI6IjQ2LjI1My40LjIxNCIsInBvcnQiOiI4MDgwIiwiaWQiOiI3ZmQ1OWMwNC0wMjA3LTQ1ZTYtYTlkZS1iOGU3ZDk1NGJkMzciLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJodHRwIiwiaG9zdCI6ImJveC5wb25pc2hhLmlyIiwicGF0aCI6Ii8iLCJ0bHMiOiIiLCJzbmkiOiIiLCJhbHBuIjoiIiwiZnAiOiIifQ==
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwUW1uQzAzSk9iYlBoZGg1RkJKSGdENmpuVExjaHNSQQ==@95.164.116.33:443#ARISTA🔥
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTRGFGSVNyM0dmbTZZa0JTU3JGSUV3d1dqRUVVN1hibw==@95.164.10.228:443#ARISTA🔥

@@ -1,14 +1,14 @@
 # IT - VLESS Configurations
-# Updated: 2026-01-08 21:52:15
+# Updated: 2026-01-09 04:09:02
 # Count: 9
 # Country Code: IT
 
-vless://854eea7a-c834-4f62-9e17-ae63d1086f36@89.150.48.171:443/?type=tcp&encryption=none&flow=&sni=pt1vless.instavpn.ru&fp=chrome&security=reality&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&sid=868419504747f6de#ARISTA🔥
 vless://051b4552-b516-485c-b4a0-fe18ab4ec7ee@80.211.139.106:651?mode=gun&security=reality&encryption=none&pbk=H2pJZSjdIazQ9BxTgd9li6XWWj2TaXPfXEZWrL5yS34&fp=firefox&type=grpc&sni=stackoverflow.com&sid=86ba053c74aaba8e#ARISTA🔥
 vless://051b4552-b516-485c-b4a0-fe18ab4ec7ee@80.211.139.106:651?mode=gun&security=reality&encryption=none&authority=&pbk=H2pJZSjdIazQ9BxTgd9li6XWWj2TaXPfXEZWrL5yS34&fp=firefox&type=grpc&serviceName=&sni=stackoverflow.com&sid=86ba053c74aaba8e#ARISTA🔥
 vless://f78e701b-dd93-49ce-94a0-706df52094db@146.75.55.82:80?path=%2FGaMeOpTiMiZeR%3Fed%3D2015&security=none&encryption=none&host=pashmak.shop&type=ws#ARISTA🔥
 vless://7d27c544-135d-41a2-bd84-713b8af4f3c2@31.14.135.127:7035?path=%2F&security=none&encryption=none&host=filimo.com&type=ws#ARISTA🔥
-vless://f78e701b-dd93-49ce-94a0-706df52094db@146.75.55.82:80?security=none&allowInsecure=0&encryption=none&type=ws&host=pashmak.shop&path=/GaMeOpTiMiZeR?ed%3D2015#ARISTA🔥
-vless://turboo-server@146.75.55.82:80?mode=auto&path=%2F&security=none&encryption=none&host=turboo-server-bot.com&type=xhttp#ARISTA🔥
-vless://fc7a34b8-7f83-475f-bca4-7a8f5dc861fb@151.101.242.172:80?host=Germandiginoe.com&type=ws&security=none&path=WEDBAZ%3Fed%3D2048&encryption=none#ARISTA🔥
 vless://fc7a34b8-7f83-475f-bca4-7a8f5dc861fb@151.101.242.172:80?host=Germany.ss.ss&type=ws&security=none&path=WEDBAZ%3Fed%3D2048&encryption=none#ARISTA🔥
+vless://fc7a34b8-7f83-475f-bca4-7a8f5dc861fb@151.101.242.172:80?host=Germandiginoe.com&type=ws&security=none&path=WEDBAZ%3Fed%3D2048&encryption=none#ARISTA🔥
+vless://turboo-server@146.75.55.82:80?mode=auto&path=%2F&security=none&encryption=none&host=turboo-server-bot.com&type=xhttp#ARISTA🔥
+vless://f78e701b-dd93-49ce-94a0-706df52094db@146.75.55.82:80?security=none&allowInsecure=0&encryption=none&type=ws&host=pashmak.shop&path=/GaMeOpTiMiZeR?ed%3D2015#ARISTA🔥
+vless://854eea7a-c834-4f62-9e17-ae63d1086f36@89.150.48.171:443/?type=tcp&encryption=none&flow=&sni=pt1vless.instavpn.ru&fp=chrome&security=reality&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&sid=868419504747f6de#ARISTA🔥

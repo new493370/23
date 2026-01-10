@@ -1,8 +1,8 @@
 # PL - TROJAN Configurations
-# Updated: 2026-01-10 09:52:46
+# Updated: 2026-01-10 13:55:58
 # Count: 3
 # Country Code: PL
 
-trojan://vwhoUdVRNtFBKstJd1gpuA@45.144.51.35:7390?security=none&headerType=none&type=tcp#ARISTA🔥
-trojan://zL7CpPYxhvFtYqm2yAbHrw@45.144.51.35:7390?security=none&headerType=none&type=tcp#ARISTA🔥
 trojan://zL7CpPYxhvFtYqm2yAbHrw@45.144.51.35:7390?security=none&type=tcp&headerType=none&path=/#ARISTA🔥
+trojan://zL7CpPYxhvFtYqm2yAbHrw@45.144.51.35:7390?security=none&headerType=none&type=tcp#ARISTA🔥
+trojan://vwhoUdVRNtFBKstJd1gpuA@45.144.51.35:7390?security=none&headerType=none&type=tcp#ARISTA🔥

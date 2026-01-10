@@ -1,20 +1,17 @@
 # GitHub TROJAN Configurations
-# Updated: 2026-01-10 13:55:57
-# Count: 135
+# Updated: 2026-01-10 15:51:47
+# Count: 132
 # Source: GitHub Repositories
 
 trojan://ZblhWr0mqMakCPg.N@212.193.18.144:36158/?type=tcp&security=tls&sni=api.avito.ru&allowInsecure=1&fp=chrome#ARISTA🔥
-trojan://M%3DvdPVIuNS389OQ6iqbAn-5G@172.236.171.37:28042/?type=tcp&security=tls&sni=www.fuzzyfeelergauge.click#ARISTA🔥
-trojan://M%3DvdPVIuNS389OQ6iqbAn-5G@172.236.171.37:28042?security=tls&headerType=none&type=tcp&sni=www.fuzzyfeelergauge.click#ARISTA🔥
 trojan://humanity@www.calmlunch.com:443?path=%2Fassignment&security=tls&insecure=1&host=www.calmlunch.com&type=ws&allowInsecure=1&sni=www.calmlunch.com#ARISTA🔥
 trojan://humanity@www.calmlunch.com:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#ARISTA🔥
 trojan://humanity@www.calmlunch.com:443?path=%2Fassignment&security=tls&host=www.calmlunch.com&type=ws&sni=www.calmlunch.com#ARISTA🔥
 trojan://zWFjJENcljZm@usa.visa.com:443?path=%2F%3Fed%3D2560&security=tls&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=vahidqaz-7o61u7.vahidqaz.workers.dev#ARISTA🔥
 trojan://87d1bfd4-574e-4c96-ad42-0426f27461ff@cf.090227.xyz:443?path=%2F&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=_acme-challenge.2go.cloudns.be#ARISTA🔥
+trojan://3437698@162.159.45.104:8443?path=%2F%3Fed%3D2560&security=tls&host=rough-violet-b842.heydari-cis64.workers.dev&fp=random&type=ws&sni=rough-violet-b842.heydari-cis64.workers.dev#ARISTA🔥
 trojan://87d1bfd4-574e-4c96-ad42-0426f27461ff@cf.090227.xyz:443?path=%2F%3Fed%3D2048HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN&security=tls&fp=chrome&type=ws&sni=_acme-challenge.2go.cloudns.be#ARISTA🔥
 trojan://3437698@104.19.39.165:2053?path=%2F%3Fed%3D2560&security=tls&host=rough-violet-b842.heydari-cis64.workers.dev&fp=random&type=ws&sni=rough-violet-b842.heydari-cis64.workers.dev#ARISTA🔥
-trojan://3437698@162.159.45.104:8443?path=%2F%3Fed%3D2560&security=tls&host=rough-violet-b842.heydari-cis64.workers.dev&fp=random&type=ws&sni=rough-violet-b842.heydari-cis64.workers.dev#ARISTA🔥
-trojan://3437698@162.159.153.166:443?path=%2F%3Fed%3D2560&security=tls&host=rough-violet-b842.heydari-cis64.workers.dev&fp=random&type=ws&sni=rough-violet-b842.heydari-cis64.workers.dev#ARISTA🔥
 trojan://3437698@172.67.70.2:443?path=%2F%3Fed%3D2560&security=tls&host=rough-violet-b842.heydari-cis64.workers.dev&fp=random&type=ws&sni=rough-violet-b842.heydari-cis64.workers.dev#ARISTA🔥
 trojan://3437698@104.18.45.158:443?path=%2F%3Fed%3D2560&security=tls&host=rough-violet-b842.heydari-cis64.workers.dev&fp=random&type=ws&sni=rough-violet-b842.heydari-cis64.workers.dev#ARISTA🔥
 trojan://87d1bfd4-574e-4c96-ad42-0426f27461ff@cf.090227.xyz:443?path=%2F%3Fed&security=tls&type=ws&sni=_acme-challenge.2go.cloudns.be#ARISTA🔥
@@ -134,7 +131,7 @@ trojan://oeEC2cXUJRlQaToKGL91iNr8A%3DZM3@209.222.17.236:25134?security=tls&heade
 trojan://5dcqVXE%3DHhI.O%2BBMwAQJv@45.76.28.186:19557?security=tls&headerType=none&type=tcp&sni=eh.vk.com#ARISTA🔥
 trojan://l9lTBt.P8x2LOHCsnhNRq@45.76.62.85:14090?security=tls&headerType=none&type=tcp&sni=eh.vk.com#ARISTA🔥
 trojan://Z3PEQ5hMBdqF7H41g9LyaxpGD1rn@38.60.168.10:26390?security=tls&headerType=none&type=tcp&sni=m.vk.com#ARISTA🔥
-trojan://61d8077bfb174e171b8283f155a555ad@160.16.72.33:3076?allowInsecure=1&sni=www.nintendogames.net#ARISTA🔥
-trojan://BxceQaOe@58.152.30.149:443?allowInsecure=1&sni=t.me%2Fripaojiedian#ARISTA🔥
+trojan://61d8077bfb174e171b8283f155a555ad@160.16.150.76:544?allowInsecure=1&sni=www.nintendogames.net#ARISTA🔥
+trojan://469c8135-8aea-4c7f-8ec2-c5fdfa980b48@tuntro000.instconn.com:443?allowInsecure=1&sni=hkip5.686911.xyz#ARISTA🔥
+trojan://61d8077bfb174e171b8283f155a555ad@160.16.72.33:3076?allowInsecure=0&sni=www.nintendogames.net#ARISTA🔥
 trojan://61d8077bfb174e171b8283f155a555ad@112.118.116.123:443?allowInsecure=0&sni=www.nintendogames.net#ARISTA🔥
-trojan://tSk5LQoJr7F.WnRsUM4hT@45.15.140.107:19106?security=tls&headerType=none&type=tcp&sni=binaryboots.algorithmblanket.click#ARISTA🔥

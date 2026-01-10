@@ -1,12 +1,12 @@
 # All Configurations for RO
-# Updated: 2026-01-10 07:05:00
+# Updated: 2026-01-10 09:52:46
 # Total Count: 7
 # Country Code: RO
 
-vless://01973bf7-048a-4dc6-a82b-2fa3be7046a5@45.85.119.44:2083?mode=gun&security=tls&encryption=none&type=grpc&serviceName=dagh.mojavadd.space&sni=dagh.mojavadd.space#ARISTA🔥
-vmess://eyJhZGQiOiI0NS44NS4xMTguNDciLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImFyc2QuYXJzYWxhbnYzLnNicyIsImlkIjoiODkwMDZkMTMtMWI0ZS00YzgzLWMzYzYtN2VmM2ZlYjRlN2UxIiwibmV0Ijoid3MiLCJwYXRoIjoiL215IiwicG9ydCI6IjQ0MyIsInBzIjoiQVJJU1RB8J+UpSIsInNjeSI6ImF1dG8iLCJzbmkiOiJhcnNkLmFyc2FsYW52My5zYnMiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==
-trojan://ZJU29smXwp@45.85.118.0:2053?path=%2F&security=tls&host=k.teama.tk&type=ws&sni=web2.teama.tk#ARISTA🔥
 trojan://ZJU29smXwp@45.85.118.88:2053?path=%2F&security=tls&host=k.teama.tk&type=ws&sni=omid.teama.tk#ARISTA🔥
+trojan://ZJU29smXwp@45.85.118.0:2053?path=%2F&security=tls&host=k.teama.tk&type=ws&sni=web2.teama.tk#ARISTA🔥
+vmess://eyJhZGQiOiI0NS44NS4xMTguNDciLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImFyc2QuYXJzYWxhbnYzLnNicyIsImlkIjoiODkwMDZkMTMtMWI0ZS00YzgzLWMzYzYtN2VmM2ZlYjRlN2UxIiwibmV0Ijoid3MiLCJwYXRoIjoiL215IiwicG9ydCI6IjQ0MyIsInBzIjoiQVJJU1RB8J+UpSIsInNjeSI6ImF1dG8iLCJzbmkiOiJhcnNkLmFyc2FsYW52My5zYnMiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==
+vless://01973bf7-048a-4dc6-a82b-2fa3be7046a5@45.85.119.44:2083?mode=gun&security=tls&encryption=none&type=grpc&serviceName=dagh.mojavadd.space&sni=dagh.mojavadd.space#ARISTA🔥
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphMDJmYjYwZDVjZjQwMGM2@45.82.102.245:11201#ARISTA🔥
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxMWU1MjBjY2JlNzM2NWVi@45.82.102.204:11201#ARISTA🔥
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.126.237.38:990#ARISTA🔥

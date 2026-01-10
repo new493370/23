@@ -1,8 +1,8 @@
 # NO - VLESS Configurations
-# Updated: 2026-01-09 21:48:56
+# Updated: 2026-01-10 04:02:26
 # Count: 3
 # Country Code: NO
 
 vless://1c7d5c64-e1fa-44e3-b5f5-267ddde86b7e@148.135.195.220:443?security=reality&alpn=h2&encryption=none&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=msn.com#ARISTA🔥
-vless://84f66368-8a37-468e-ae95-5622255fd4db@217.170.199.132:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=azure.com&fp=chrome&security=reality&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&sid=#ARISTA🔥
 vless://1c7d5c64-e1fa-44e3-b5f5-267ddde86b7e@148.135.195.220:443?security=reality&amp;alpn=h2&amp;encryption=none&amp;pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=msn.com#ARISTA🔥
+vless://84f66368-8a37-468e-ae95-5622255fd4db@217.170.199.132:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=azure.com&fp=chrome&security=reality&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&sid=#ARISTA🔥

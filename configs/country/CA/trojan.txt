@@ -1,22 +1,22 @@
 # CA - TROJAN Configurations
-# Updated: 2026-01-09 21:48:56
+# Updated: 2026-01-10 04:02:26
 # Count: 20
 # Country Code: CA
 
-trojan://chslToBpxJ@209.200.246.248:22086/?type=grpc&serviceName=&authority=&security=reality&pbk=Bo-0prp3Nlf3NX9egy-iCjLBONYo9j2lniXaEtET3ns&fp=chrome&sni=www.cloudflare.com&sid=4f69441f911943&spx=%2F#ARISTA🔥
-trojan://3437698@162.159.153.166:443?path=/?ed=2560&security=tls&host=rough-violet-b842.heydari-cis64.workers.dev&fp=random&type=ws&sni=rough-violet-b842.heydari-cis64.workers.dev#ARISTA🔥
-trojan://3437698@104.19.39.165:2053?path=/?ed=2560&security=tls&host=rough-violet-b842.heydari-cis64.workers.dev&fp=random&type=ws&sni=rough-violet-b842.heydari-cis64.workers.dev#ARISTA🔥
-trojan://6pRjKQJ0CWyFtG.9@198.57.27.27:12990?security=tls&sni=diningtable.electricbanana.click&type=tcp&headerType=none#ARISTA🔥
-trojan://trojan@104.26.12.31:8443?security=tls&sni=fofang.pages.dev&allowInsecure=1&type=tcp#ARISTA🔥
-trojan://f52d0a04-94ad-4f9e-9945-4c3d43374e36@104.18.42.163:2096?path=%2Fhttp%3A%2F%2F45.32.19.198%3A30005&security=tls&alpn=h3&fp=chrome&type=ws&sni=ts888.yumige.dpdns.org#ARISTA🔥
-trojan://f52d0a04-94ad-4f9e-9945-4c3d43374e36@104.18.42.163:2096?path=%2Fhttp%3A%2F%2F45.32.19.198%3A30005%2F&security=tls&alpn=h3&fp=edge&type=ws&sni=ts888.yumige.dpdns.org#ARISTA🔥
 trojan://5a2c16f9@172.64.147.168:2096?path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3WangCai2&security=tls&fp=chrome&type=ws&sni=snippets.kkii.eu.org#ARISTA🔥
+trojan://trojan@104.26.12.31:8443?security=tls&sni=fofang.pages.dev&allowInsecure=1&type=tcp#ARISTA🔥
+trojan://3437698@172.67.70.2:443?path=/?ed=2560&security=tls&host=rough-violet-b842.heydari-cis64.workers.dev&fp=random&type=ws&sni=rough-violet-b842.heydari-cis64.workers.dev#ARISTA🔥
+trojan://f52d0a04-94ad-4f9e-9945-4c3d43374e36@104.18.42.163:2096?path=%2Fhttp%3A%2F%2F45.32.19.198%3A30005&security=tls&alpn=h3&fp=chrome&type=ws&sni=ts888.yumige.dpdns.org#ARISTA🔥
+trojan://6pRjKQJ0CWyFtG.9@198.57.27.27:12990?security=tls&sni=diningtable.electricbanana.click&type=tcp&headerType=none#ARISTA🔥
+trojan://chslToBpxJ@209.200.246.248:22086/?type=grpc&serviceName=&authority=&security=reality&pbk=Bo-0prp3Nlf3NX9egy-iCjLBONYo9j2lniXaEtET3ns&fp=chrome&sni=www.cloudflare.com&sid=4f69441f911943&spx=%2F#ARISTA🔥
 trojan://3437698@104.19.39.165:2053?path=%2F%3Fed%3D2560&security=tls&host=rough-violet-b842.heydari-cis64.workers.dev&fp=random&type=ws&sni=rough-violet-b842.heydari-cis64.workers.dev#ARISTA🔥
 trojan://3437698@162.159.153.166:443?path=%2F%3Fed%3D2560&security=tls&host=rough-violet-b842.heydari-cis64.workers.dev&fp=random&type=ws&sni=rough-violet-b842.heydari-cis64.workers.dev#ARISTA🔥
 trojan://3437698@172.67.70.2:443?path=%2F%3Fed%3D2560&security=tls&host=rough-violet-b842.heydari-cis64.workers.dev&fp=random&type=ws&sni=rough-violet-b842.heydari-cis64.workers.dev#ARISTA🔥
 trojan://3437698@104.18.45.158:443?path=%2F%3Fed%3D2560&security=tls&host=rough-violet-b842.heydari-cis64.workers.dev&fp=random&type=ws&sni=rough-violet-b842.heydari-cis64.workers.dev#ARISTA🔥
 trojan://3437698@104.18.45.158:443?path=/?ed=2560&security=tls&host=rough-violet-b842.heydari-cis64.workers.dev&fp=random&type=ws&sni=rough-violet-b842.heydari-cis64.workers.dev#ARISTA🔥
-trojan://3437698@172.67.70.2:443?path=/?ed=2560&security=tls&host=rough-violet-b842.heydari-cis64.workers.dev&fp=random&type=ws&sni=rough-violet-b842.heydari-cis64.workers.dev#ARISTA🔥
+trojan://3437698@104.19.39.165:2053?path=/?ed=2560&security=tls&host=rough-violet-b842.heydari-cis64.workers.dev&fp=random&type=ws&sni=rough-violet-b842.heydari-cis64.workers.dev#ARISTA🔥
+trojan://3437698@162.159.153.166:443?path=/?ed=2560&security=tls&host=rough-violet-b842.heydari-cis64.workers.dev&fp=random&type=ws&sni=rough-violet-b842.heydari-cis64.workers.dev#ARISTA🔥
+trojan://f52d0a04-94ad-4f9e-9945-4c3d43374e36@104.18.42.163:2096?path=%2Fhttp%3A%2F%2F45.32.19.198%3A30005%2F&security=tls&alpn=h3&fp=edge&type=ws&sni=ts888.yumige.dpdns.org#ARISTA🔥
 trojan://5a2c16f9@172.64.147.211:2096?path=/Telegram🇨🇳WangCai2&security=tls&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=snippets.kkii.eu.org#ARISTA🔥
 trojan://6pRjKQJ0CWyFtG.9@198.57.27.27:12990?security=tls&sni=diningtable.electricbanana.click&path=/#ARISTA🔥
 trojan://bIa-DailY_cOnFIgs@104.17.97.5:2053?#ARISTA🔥

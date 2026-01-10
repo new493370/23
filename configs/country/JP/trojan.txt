@@ -1,5 +1,5 @@
 # JP - TROJAN Configurations
-# Updated: 2026-01-10 19:02:25
+# Updated: 2026-01-10 21:45:43
 # Count: 28
 # Country Code: JP
 
@@ -29,5 +29,5 @@ trojan://381f2e86233720eacda26d50e9aa26da@202.181.103.246:4006?security=tls&sni=
 trojan://61d8077bfb174e171b8283f155a555ad@160.16.87.174:3901?sni=www.nintendogames.net&path=/#ARISTA🔥
 trojan://61d8077bfb174e171b8283f155a555ad@160.16.87.174:4006?sni=www.nintendogames.net&path=/#ARISTA🔥
 trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@202.181.103.246:1334?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=www.nintendogames.net#ARISTA🔥
-trojan://61d8077bfb174e171b8283f155a555ad@160.16.150.76:544?allowInsecure=1&sni=www.nintendogames.net#ARISTA🔥
-trojan://61d8077bfb174e171b8283f155a555ad@160.16.72.33:3076?allowInsecure=0&sni=www.nintendogames.net#ARISTA🔥
+trojan://61d8077bfb174e171b8283f155a555ad@160.16.150.76:544?security=tls&sni=www.nintendogames.net#ARISTA🔥
+trojan://61d8077bfb174e171b8283f155a555ad@160.16.72.33:3076?security=tls&sni=www.nintendogames.net#ARISTA🔥

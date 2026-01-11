@@ -1,9 +1,10 @@
 # GB - TROJAN Configurations
-# Updated: 2026-01-10 21:45:43
-# Count: 4
+# Updated: 2026-01-11 04:30:03
+# Count: 5
 # Country Code: GB
 
-trojan://vwhoUdVRNtFBKstJd1gpuA@209.97.191.29:7392?security=none&headerType=none&type=tcp#ARISTA🔥
 trojan://zL7CpPYxhvFtYqm2yAbHrw@209.97.191.29:7392?security=none&headerType=none&type=tcp#ARISTA🔥
+trojan://vwhoUdVRNtFBKstJd1gpuA@209.97.191.29:7392?security=none&headerType=none&type=tcp#ARISTA🔥
 trojan://tpCznR-P5%3DjZUb%23c@66.245.193.152:17126?security=tls&headerType=none&type=tcp&sni=ctaldikgfyw.uefahpgsyz.click#ARISTA🔥
-trojan://zL7CpPYxhvFtYqm2yAbHrw@209.97.191.29:7392?security=none&type=tcp&headerType=none&path=/#ARISTA🔥
+trojan://iisy37abxoj8ha_cb5fpxkkm-wsfv@209.250.224.246:24293?security=tls&insecure=1&allowInsecure=1&type=tcp&headerType=none#ARISTA🔥
+trojan://iisy37abxoj8ha_cb5fpxkkm-wsfv@108.61.175.83:24293?security=tls&insecure=1&allowInsecure=1&type=tcp&headerType=none#ARISTA🔥

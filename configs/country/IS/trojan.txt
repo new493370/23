@@ -1,7 +1,10 @@
 # IS - TROJAN Configurations
-# Updated: 2026-01-10 21:45:43
-# Count: 2
+# Updated: 2026-01-11 04:30:03
+# Count: 5
 # Country Code: IS
 
 trojan://qmBSKnAl6LYi9%3Dz23Rs.Z@37.235.49.209:28099?type=tcp&security=tls&sni=celestialcorset.crystalhamster.click&allowInsecure=1#ARISTA🔥
-trojan://iCfh96DEJn3%3DQRbzF.Tdl@212.192.214.46:18069?security=tls&headerType=none&type=tcp&sni=www.vk.com#ARISTA🔥
+trojan://icfh96dejn3%3Dqrbzf.tdl@212.192.214.46:18069?security=tls&sni=www.vk.com&insecure=1&allowInsecure=1&type=tcp&headerType=none#ARISTA🔥
+trojan://ctv.9pddct-wybbrg1qlxi5ujuaej@167.17.185.172:10889?security=tls&sni=web.max.ru&insecure=1&allowInsecure=1&type=tcp&headerType=none#ARISTA🔥
+trojan://ctv.9pddct-wybbrg1qlxi5ujuaej@167.17.185.169:10889?security=tls&sni=ya.ru&insecure=1&allowInsecure=1&type=tcp&headerType=none#ARISTA🔥
+trojan://ctv.9pddct-wybbrg1qlxi5ujuaej@167.17.185.152:10889?security=tls&sni=ozon.ru&insecure=1&allowInsecure=1&type=tcp&headerType=none#ARISTA🔥

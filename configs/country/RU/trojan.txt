@@ -1,9 +1,9 @@
 # RU - TROJAN Configurations
-# Updated: 2026-01-11 15:50:13
+# Updated: 2026-01-11 19:04:16
 # Count: 4
 # Country Code: RU
 
 trojan://1e32fe52198848788f029c2ec244f347@212.192.14.227:9443?type=tcp&sni=ya.ru&fp=random&security=reality&pbk=GooqN94J-NNbWxkVsDb7NIQW4xXhkMGByk58ihKwX1Q&sid=aabbccdd#ARISTA🔥
 trojan://1e32fe52198848788f029c2ec244f347@212.192.14.227:9443/?type=tcp&sni=ya.ru&fp=random&security=reality&pbk=GooqN94J-NNbWxkVsDb7NIQW4xXhkMGByk58ihKwX1Q&sid=aabbccdd#ARISTA🔥
-trojan://oufbc3vs2rymn8_br-p7quol@45.129.3.220:10668?security=tls&sni=www.vk.com&insecure=1&allowInsecure=1&type=tcp&headerType=none#ARISTA🔥
-trojan://oufbc3vs2rymn8_br-p7quol@45.129.3.220:10668?security=tls&insecure=1&allowInsecure=1&type=tcp&headerType=none#ARISTA🔥
+trojan://oUFBC3Vs2rYmN8_bR-P7quoL@45.129.3.220:10668?security=tls&headerType=none&type=tcp&sni=www.vk.com#ARISTA🔥
+trojan://oUFBC3Vs2rYmN8_bR-P7quoL@45.135.134.198:10668?security=tls&headerType=none&type=tcp&sni=api-maps.yandex.ru#ARISTA🔥

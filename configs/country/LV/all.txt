@@ -1,10 +1,8 @@
 # All Configurations for LV
-# Updated: 2026-01-11 04:30:03
+# Updated: 2026-01-11 07:10:34
 # Total Count: 28
 # Country Code: LV
 
-vless://TelegramChannel:daredevill_404@31.56.117.172:20569?type=xhttp&encryption=none&path=%2F%40daredevill_404&host=&mode=auto&security=none#ARISTA🔥
-vless://9936ae5c-91cd-4c8a-80e9-5118a209a7e4@188.253.21.106:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=yahoo.com&fp=chrome&pbk=4jvlknuuas4h0cq1j_s4sauxqq579d7wr1sgbjmh-ws&sid=73d3fec4&type=tcp&headerType=none#ARISTA🔥
 vless://18664eed-9d0f-475b-a5d6-0842239a6b1d@62.192.174.198:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=gosuslugi.ru&fp=chrome&pbk=hklk62c3szw51gytorrnplo0v6kxosd_acd0j4rtkzo&sid=2ee3a5b4ed37e2&type=tcp&headerType=none#ARISTA🔥
 vless://06babfd1-1af2-4db4-a485-cdf404ce80a9@62.192.174.198:47256?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.unicreditbank.ru&fp=qq&pbk=hklk62c3szw51gytorrnplo0v6kxosd_acd0j4rtkzo&sid=9d32c1&type=tcp&headerType=none#ARISTA🔥
 vless://eadadf0e-1f5b-4b20-ba42-fcab4b469739@62.192.174.198:15322?encryption=none&flow=xtls-rprx-vision&security=reality&sni=m.vk.com&fp=chrome&pbk=hklk62c3szw51gytorrnplo0v6kxosd_acd0j4rtkzo&sid=80792d6c0f&type=tcp&headerType=none#ARISTA🔥
@@ -13,21 +11,23 @@ vless://4d164eae-b9fc-467f-91ca-f381610de096@185.77.231.80:16991?encryption=none
 vless://2a428848-ede7-4fb2-9e8d-92bb5158814e@185.77.231.80:54969?encryption=none&flow=xtls-rprx-vision&security=reality&sni=alfabank.ru&fp=chrome&pbk=j1hixqsnihblasuxtltwyuupiaeye8mwma2evyfzbfq&sid=00e7&type=tcp&headerType=none#ARISTA🔥
 vless://52b32247-4747-41de-b816-ba750a5e8bd1@185.77.231.80:20814?encryption=none&flow=xtls-rprx-vision&security=reality&sni=download.max.ru&fp=chrome&pbk=j1hixqsnihblasuxtltwyuupiaeye8mwma2evyfzbfq&sid=00e7&type=tcp&headerType=none#ARISTA🔥
 vless://b02262ee-d4e8-44c5-b08b-2dba07d1eec7@185.77.231.80:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.ozon.ru&fp=chrome&pbk=j1hixqsnihblasuxtltwyuupiaeye8mwma2evyfzbfq&sid=1a&type=tcp&headerType=none#ARISTA🔥
-vless://9938f679-8cdd-48bf-b669-9acf7e99ec35@185.77.231.80:80?encryption=none&flow=xtls-rprx-vision&security=reality&sni=counter.yadro.ru&fp=chrome&pbk=j1hixqsnihblasuxtltwyuupiaeye8mwma2evyfzbfq&sid=1a&type=tcp&headerType=none#ARISTA🔥
-vless://2b215723-1fc5-4206-b0bd-65c44130cec6@185.77.231.80:51187?encryption=none&flow=xtls-rprx-vision&security=reality&sni=vk.com&fp=chrome&pbk=j1hixqsnihblasuxtltwyuupiaeye8mwma2evyfzbfq&sid=00e7&type=tcp&headerType=none#ARISTA🔥
 vless://06babfd1-1af2-4db4-a485-cdf404ce80a9@62.192.174.198:47256?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.unicreditbank.ru&fp=chrome&pbk=hklk62c3szw51gytorrnplo0v6kxosd_acd0j4rtkzo&sid=9d32c1&type=tcp&headerType=none#ARISTA🔥
-vless://0cc9d390-42ee-461e-94ae-e4370883dc48@77.73.238.191:29505?security=&type=ws&path=/&encryption=none#ARISTA🔥
 vless://843a1bd1-d63b-4b54-ba31-4803ac40f527@213.165.63.67:443?security=reality&encryption=none&pbk=HyWLL5SIz0ik1ziUvs049CbRwz8pADomc6x-2OeM1i4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=7f11ee6d084c91d9#ARISTA🔥
-vless://eadadf0e-1f5b-4b20-ba42-fcab4b469739@62.192.174.198:15322?security=reality&encryption=none&pbk=HkLK62c3szw51gYtORRnPlO0v6kxOSd_aCd0J4rTKzo&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=m.vk.com&sid=80792d6c0f#ARISTA🔥
-vless://e977d854-33f3-4345-abee-bf3fa9a6d880@37.233.82.140:40478/?type=tcp&encryption=none&flow=&sni=yahoo.com&fp=chrome&security=reality&pbk=lcJ0LSh015XRfz5-7wB_hln3-bq5ZatFgPugSUCrdR0&sid=3c#ARISTA🔥
+vless://06babfd1-1af2-4db4-a485-cdf404ce80a9@62.192.174.198:47256?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.unicreditbank.ru&fp=chrome&security=reality&pbk=HkLK62c3szw51gYtORRnPlO0v6kxOSd_aCd0J4rTKzo&sid=9d32c1#ARISTA🔥
 vless://9936ae5c-91cd-4c8a-80e9-5118a209a7e4@188.253.21.106:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=yahoo.com&fp=firefox&pbk=4jvlknuuas4h0cq1j_s4sauxqq579d7wr1sgbjmh-ws&sid=73d3fec4&type=tcp&headerType=none#ARISTA🔥
 vless://43135731-165e-4064-872e-7e9447fbebfb@188.253.16.31:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=yahoo.com&fp=edge&pbk=kx1pfrasrflf1ra1tcjujnoak-4spievdsfaps1dal8&sid=e33013f4&type=tcp&headerType=none#ARISTA🔥
 vless://a8c099ce-04d8-43d2-8100-34e72f7beba4@188.253.16.31:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=yahoo.com&fp=edge&pbk=kx1pfrasrflf1ra1tcjujnoak-4spievdsfaps1dal8&sid=e33013f4&type=tcp&headerType=none#ARISTA🔥
 vless://43135731-165e-4064-872e-7e9447fbebfb@188.253.16.31:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=yahoo.com&fp=firefox&pbk=kx1pfrasrflf1ra1tcjujnoak-4spievdsfaps1dal8&sid=e33013f4&type=tcp&headerType=none#ARISTA🔥
 vless://a8c099ce-04d8-43d2-8100-34e72f7beba4@188.253.16.31:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=yahoo.com&fp=chrome&pbk=kx1pfrasrflf1ra1tcjujnoak-4spievdsfaps1dal8&sid=e33013f4&type=tcp&headerType=none#ARISTA🔥
 vless://247a22e1-0795-4852-9bdd-a65ac1078034@188.253.21.106:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=yahoo.com&fp=chrome&pbk=4jvlknuuas4h0cq1j_s4sauxqq579d7wr1sgbjmh-ws&sid=73d3fec4&type=tcp&headerType=none#ARISTA🔥
-vless://06babfd1-1af2-4db4-a485-cdf404ce80a9@62.192.174.198:47256?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.unicreditbank.ru&fp=chrome&security=reality&pbk=HkLK62c3szw51gYtORRnPlO0v6kxOSd_aCd0J4rTKzo&sid=9d32c1#ARISTA🔥
 vless://247a22e1-0795-4852-9bdd-a65ac1078034@188.253.21.106:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=yahoo.com&fp=firefox&pbk=4jvlknuuas4h0cq1j_s4sauxqq579d7wr1sgbjmh-ws&sid=73d3fec4&type=tcp&headerType=none#ARISTA🔥
 vless://932fbc77-4dff-4607-8b69-50d6580331a3@188.253.17.126:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ign.com&fp=chrome&pbk=sbvkoemjk0silbwg4akybg5ml5kzwwb-ed4eee7ynrc&sid=6ba85179e30d4fc2&type=tcp&headerType=none#ARISTA🔥
 vless://43135731-165e-4064-872e-7e9447fbebfb@188.253.16.31:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=yahoo.com&fp=chrome&pbk=kx1pfrasrflf1ra1tcjujnoak-4spievdsfaps1dal8&sid=e33013f4&type=tcp&headerType=none#ARISTA🔥
+vless://9936ae5c-91cd-4c8a-80e9-5118a209a7e4@188.253.21.106:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=yahoo.com&fp=chrome&pbk=4jvlknuuas4h0cq1j_s4sauxqq579d7wr1sgbjmh-ws&sid=73d3fec4&type=tcp&headerType=none#ARISTA🔥
+vless://0cc9d390-42ee-461e-94ae-e4370883dc48@77.73.238.191:29505?security=&type=ws&path=/&encryption=none#ARISTA🔥
+vless://e977d854-33f3-4345-abee-bf3fa9a6d880@37.233.82.140:40478/?type=tcp&encryption=none&flow=&sni=yahoo.com&fp=chrome&security=reality&pbk=lcJ0LSh015XRfz5-7wB_hln3-bq5ZatFgPugSUCrdR0&sid=3c#ARISTA🔥
+vless://TelegramChannel:daredevill_404@31.56.117.172:20569?type=xhttp&encryption=none&path=%2F%40daredevill_404&host=&mode=auto&security=none#ARISTA🔥
+vless://eadadf0e-1f5b-4b20-ba42-fcab4b469739@62.192.174.198:15322?security=reality&encryption=none&pbk=HkLK62c3szw51gYtORRnPlO0v6kxOSd_aCd0J4rTKzo&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=m.vk.com&sid=80792d6c0f#ARISTA🔥
+vless://9938f679-8cdd-48bf-b669-9acf7e99ec35@185.77.231.80:80?encryption=none&flow=xtls-rprx-vision&security=reality&sni=counter.yadro.ru&fp=chrome&pbk=j1hixqsnihblasuxtltwyuupiaeye8mwma2evyfzbfq&sid=1a&type=tcp&headerType=none#ARISTA🔥
+vless://2b215723-1fc5-4206-b0bd-65c44130cec6@185.77.231.80:51187?encryption=none&flow=xtls-rprx-vision&security=reality&sni=vk.com&fp=chrome&pbk=j1hixqsnihblasuxtltwyuupiaeye8mwma2evyfzbfq&sid=00e7&type=tcp&headerType=none#ARISTA🔥
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@89.46.238.35:989#ARISTA🔥

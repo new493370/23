@@ -1,9 +1,9 @@
 # RU - TROJAN Configurations
-# Updated: 2026-01-11 09:56:40
+# Updated: 2026-01-11 13:54:21
 # Count: 4
 # Country Code: RU
 
-trojan://oufbc3vs2rymn8_br-p7quol@45.129.3.220:10668?security=tls&insecure=1&allowInsecure=1&type=tcp&headerType=none#ARISTA🔥
-trojan://oufbc3vs2rymn8_br-p7quol@45.129.3.220:10668?security=tls&sni=www.vk.com&insecure=1&allowInsecure=1&type=tcp&headerType=none#ARISTA🔥
-trojan://1e32fe52198848788f029c2ec244f347@212.192.14.227:9443/?type=tcp&sni=ya.ru&fp=random&security=reality&pbk=GooqN94J-NNbWxkVsDb7NIQW4xXhkMGByk58ihKwX1Q&sid=aabbccdd#ARISTA🔥
 trojan://1e32fe52198848788f029c2ec244f347@212.192.14.227:9443?type=tcp&sni=ya.ru&fp=random&security=reality&pbk=GooqN94J-NNbWxkVsDb7NIQW4xXhkMGByk58ihKwX1Q&sid=aabbccdd#ARISTA🔥
+trojan://1e32fe52198848788f029c2ec244f347@212.192.14.227:9443/?type=tcp&sni=ya.ru&fp=random&security=reality&pbk=GooqN94J-NNbWxkVsDb7NIQW4xXhkMGByk58ihKwX1Q&sid=aabbccdd#ARISTA🔥
+trojan://oufbc3vs2rymn8_br-p7quol@45.129.3.220:10668?security=tls&sni=www.vk.com&insecure=1&allowInsecure=1&type=tcp&headerType=none#ARISTA🔥
+trojan://oufbc3vs2rymn8_br-p7quol@45.129.3.220:10668?security=tls&insecure=1&allowInsecure=1&type=tcp&headerType=none#ARISTA🔥

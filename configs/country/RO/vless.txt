@@ -1,6 +1,7 @@
 # RO - VLESS Configurations
-# Updated: 2026-01-11 21:44:20
-# Count: 1
+# Updated: 2026-01-12 04:30:16
+# Count: 2
 # Country Code: RO
 
 vless://01973bf7-048a-4dc6-a82b-2fa3be7046a5@45.85.119.44:2083?mode=gun&security=tls&encryption=none&type=grpc&serviceName=dagh.mojavadd.space&sni=dagh.mojavadd.space#ARISTA🔥
+vless://fa91291a-7234-49fd-be27-34141258b159@45.85.118.241:443?mode=multi&security=tls&encryption=none&type=grpc&serviceName=tTcZC0WxEj-vlgrpc&sni=join-to-oxnet-ch-network-cdfake.userargo1723.cf#ARISTA🔥

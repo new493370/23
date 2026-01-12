@@ -1,11 +1,12 @@
 # CH - VLESS Configurations
-# Updated: 2026-01-12 19:10:28
-# Count: 6
+# Updated: 2026-01-12 21:50:29
+# Count: 7
 # Country Code: CH
 
-vless://c5fdf480-3942-4fc9-9e73-f6899c24bda6@83.228.210.214:443?security=reality&encryption=none&pbk=NQtYh_DzWbKDGV3sOdYUbYS7OQqAF-lG42J-rOm_OH0&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=ok.ru&sid=41f38b2355acf7bc#ARISTA🔥
-vless://idTel-Hqv2rayNG@84.234.31.28:443?security=reality&encryption=none&pbk=FtDr_UhjnVUI0icGx9L4isHVQTNOl_cGsFEDSWigM28&headerType=none&fp=safari&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=refersion.com&sid=7c4ea43b6c6f#ARISTA🔥
-vless://dce1e7b5-60ab-4446-bb95-97e1234df5d6@141.11.164.233:11366?security=none&encryption=none&headerType=none&type=tcp#ARISTA🔥
 vless://511aebec-bd2b-46fd-9587-f29517cc1ffc@213.176.18.99:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=telegavpn.com&fp=&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA&sid=#ARISTA🔥
 vless://19723f5e-a40c-4256-88ab-79c794cfdebc@213.176.18.99:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=telegavpn.com&fp=&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA&sid=#ARISTA🔥
+vless://c5fdf480-3942-4fc9-9e73-f6899c24bda6@83.228.210.214:443?security=reality&encryption=none&pbk=NQtYh_DzWbKDGV3sOdYUbYS7OQqAF-lG42J-rOm_OH0&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=ok.ru&sid=41f38b2355acf7bc#ARISTA🔥
+vless://0a21d713-6e6f-4274-8b84-464019325513@208.69.78.5:443?security=reality&encryption=none&sni=www.microsoft.com&fp=chrome&pbk=vMBfs89AZ02R1ggA45SqOFLfe6rJQ0_mLBpsV97k3zA&sid=9c8d68d581a08ea5&type=grpc&serviceName=ecb7f0f50489f81cd1983a56&path=/#ARISTA🔥
 vless://4d2e16a5-a0f8-4189-a851-5780693d71b3@179.43.184.243:443?security=reality&encryption=none&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&sid=31#ARISTA🔥
+vless://dce1e7b5-60ab-4446-bb95-97e1234df5d6@141.11.164.233:11366?security=none&encryption=none&headerType=none&type=tcp#ARISTA🔥
+vless://idTel-Hqv2rayNG@84.234.31.28:443?security=reality&encryption=none&pbk=FtDr_UhjnVUI0icGx9L4isHVQTNOl_cGsFEDSWigM28&headerType=none&fp=safari&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=refersion.com&sid=7c4ea43b6c6f#ARISTA🔥

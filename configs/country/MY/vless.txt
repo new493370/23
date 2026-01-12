@@ -1,8 +1,8 @@
 # MY - VLESS Configurations
-# Updated: 2026-01-12 10:05:57
+# Updated: 2026-01-12 14:06:32
 # Count: 3
 # Country Code: MY
 
-vless://309fa273-6579-4cb2-9143-7cad50401eba@45.89.107.200:8443?security=reality&encryption=none&pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=7cad5040#ARISTA🔥
 vless://309fa273-6579-4cb2-9143-7cad50401eba@45.89.107.200:8443?security=reality&encryption=none&pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=7cad5040#ARISTA🔥
 vless://4d2e16a5-a0f8-4189-a851-5780693d71b3@101.99.91.209:443?security=reality&encryption=none&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&sid=31#ARISTA🔥
+vless://309fa273-6579-4cb2-9143-7cad50401eba@45.89.107.200:8443?security=reality&encryption=none&pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=7cad5040#ARISTA🔥

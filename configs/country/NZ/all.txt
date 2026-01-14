@@ -1,8 +1,9 @@
 # All Configurations for NZ
-# Updated: 2026-01-14 01:27:31
-# Total Count: 3
+# Updated: 2026-01-14 04:17:06
+# Total Count: 4
 # Country Code: NZ
 
-trojan://tSk5LQoJr7F.WnRsUM4hT@45.15.140.107:19106?type=tcp&security=tls&sni=binaryboots.algorithmblanket.click#ARISTA🔥
-trojan://tSk5LQoJr7F.WnRsUM4hT@45.15.140.107:19106?security=tls&sni=binaryboots.algorithmblanket.click&type=tcp&headerType=none&path=/#ARISTA🔥
 trojan://tSk5LQoJr7F.WnRsUM4hT@45.15.140.107:19106?security=tls&headerType=none&type=tcp&sni=binaryboots.algorithmblanket.click#ARISTA🔥
+trojan://tSk5LQoJr7F.WnRsUM4hT@45.15.140.107:19106?security=tls&sni=binaryboots.algorithmblanket.click&type=tcp&path=/#ARISTA🔥
+trojan://tSk5LQoJr7F.WnRsUM4hT@45.15.140.107:19106?security=tls&sni=binaryboots.algorithmblanket.click&type=tcp&headerType=none&path=/#ARISTA🔥
+trojan://tSk5LQoJr7F.WnRsUM4hT@45.15.140.107:19106?type=tcp&security=tls&sni=binaryboots.algorithmblanket.click#ARISTA🔥

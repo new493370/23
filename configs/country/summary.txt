@@ -1,36 +1,36 @@
 # Country Classification Summary
-# Updated: 2026-01-14 04:17:06
+# Updated: 2026-01-14 06:37:02
 
-Total configs processed: 6183
-IP-based configs: 4193
-Domain-based configs: 1941
+Total configs processed: 6207
+IP-based configs: 4198
+Domain-based configs: 1959
 
 IP-Based Configs by Country:
-  RU: 773
-  DE: 558
-  UNKNOWN: 383
-  US: 336
-  GB: 222
+  RU: 771
+  DE: 555
+  UNKNOWN: 384
+  US: 341
+  GB: 220
   NL: 219
-  FR: 192
-  PL: 164
-  CA: 141
-  VN: 103
-  FI: 93
+  FR: 193
+  PL: 165
+  CA: 145
+  VN: 105
+  FI: 92
   IR: 89
   JP: 77
-  SE: 58
-  HK: 57
+  SE: 60
+  HK: 56
   MD: 53
   AE: 48
-  SG: 45
   CY: 44
-  TR: 40
-  LT: 32
-  HU: 32
+  SG: 44
+  TR: 41
   LV: 32
+  HU: 32
   IN: 31
-  KZ: 28
+  LT: 31
+  KZ: 29
   EE: 19
   BR: 17
   AT: 16
@@ -40,62 +40,60 @@ IP-Based Configs by Country:
   AU: 12
   SC: 12
   GR: 12
-  RO: 12
   UA: 11
   IL: 11
+  RO: 10
   PK: 9
-  CH: 9
-  NO: 8
-  JO: 8
+  NO: 9
   TH: 8
-  EG: 7
+  CH: 8
+  JO: 8
   IS: 7
+  EG: 7
   KW: 7
+  CN: 6
+  BG: 6
   MX: 6
   AR: 6
-  BG: 6
   ES: 5
-  MK: 5
   CZ: 5
-  KR: 5
-  CN: 5
   IM: 5
-  PT: 4
-  MT: 4
+  MK: 5
+  KR: 5
   AM: 4
-  KH: 4
-  AL: 4
-  NZ: 4
-  SI: 4
   IE: 4
-  TW: 3
-  UZ: 3
+  AL: 4
+  MT: 4
+  SI: 4
+  NZ: 4
+  PT: 4
+  KH: 4
+  BE: 3
   LU: 3
-  CO: 2
-  PE: 2
+  UZ: 3
+  TW: 3
   ZA: 2
-  BE: 2
-  PR: 2
   SK: 2
-  EC: 1
-  MA: 1
-  NG: 1
-  AZ: 1
+  PE: 2
+  CO: 2
+  PR: 2
   BA: 1
-  ID: 1
-  CL: 1
-  MU: 1
-  BD: 1
   MH: 1
+  MU: 1
+  GE: 1
   HR: 1
   OM: 1
-  GT: 1
-  GE: 1
+  CL: 1
+  AZ: 1
+  NG: 1
+  MA: 1
+  EC: 1
+  ID: 1
 
 By Protocol:
-  vless: 4294
-  ss: 820
-  vmess: 631
-  trojan: 239
-  hysteria: 149
+  vless: 4301
+  ss: 822
+  vmess: 632
+  trojan: 237
+  hysteria: 164
   wireguard: 1

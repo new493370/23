@@ -1,49 +1,50 @@
 # IP-Based Configurations Summary
-# Updated: 2026-01-14 21:27:36
+# Updated: 2026-01-15 01:24:53
 
-Total IP-based configs: 4111
+Total IP-based configs: 4114
 
 IP-Based Configs by Country:
-  RU: 777
-  DE: 519
-  UNKNOWN: 384
-  US: 322
-  GB: 218
-  NL: 218
-  FR: 191
+  RU: 781
+  DE: 516
+  UNKNOWN: 386
+  US: 321
+  NL: 219
+  GB: 216
+  FR: 186
   PL: 167
   CA: 153
-  IR: 93
-  FI: 89
-  VN: 89
-  JP: 64
+  IR: 89
+  FI: 88
+  VN: 88
+  JP: 67
   SE: 59
-  HK: 53
+  HK: 55
   MD: 50
   AE: 47
-  SG: 45
-  CY: 44
+  SG: 46
+  CY: 43
   TR: 41
-  HU: 32
-  LV: 31
+  HU: 33
   IN: 31
+  LV: 31
   LT: 31
-  KZ: 29
+  KZ: 28
   EE: 19
-  IT: 18
+  IT: 17
   BR: 17
   MY: 16
-  AT: 14
-  SA: 13
-  AU: 13
+  AT: 15
   UA: 13
+  RO: 13
+  SA: 13
+  AU: 12
   SC: 12
   GR: 12
   IL: 11
   PK: 9
-  RO: 8
-  NO: 8
   JO: 8
+  CN: 8
+  NO: 8
   CH: 7
   BG: 7
   KW: 7
@@ -51,34 +52,32 @@ IP-Based Configs by Country:
   IS: 6
   MX: 6
   AR: 6
-  CN: 5
+  KR: 6
+  AL: 5
   TH: 5
   ES: 5
-  CZ: 5
   IM: 5
   MK: 5
-  KR: 5
-  AM: 4
-  BE: 4
+  CZ: 5
   IE: 4
-  AL: 4
-  MT: 4
+  BE: 4
   SI: 4
+  AM: 4
+  MT: 4
   PT: 4
   KH: 4
   LU: 3
   UZ: 3
   ZA: 2
-  GE: 2
   SK: 2
+  GE: 2
   PR: 2
   CO: 2
   TW: 2
-  BD: 1
   BA: 1
-  MH: 1
-  MU: 1
   NZ: 1
+  MU: 1
+  MH: 1
   OM: 1
   AZ: 1
   PE: 1

@@ -1,7 +1,7 @@
 # FI - TROJAN Configurations
-# Updated: 2026-01-16 09:31:29
+# Updated: 2026-01-16 12:43:13
 # Count: 2
 # Country Code: FI
 
-trojan://ZblhWr0mqMakCPg.N@212.193.18.144:36158?security=tls&headerType=none&type=tcp&sni=api.avito.ru#ARISTA🔥
 trojan://ZblhWr0mqMakCPg.N@212.193.18.144:36158/?type=tcp&security=tls&sni=api.avito.ru&allowInsecure=1&fp=chrome#ARISTA🔥
+trojan://ZblhWr0mqMakCPg.N@212.193.18.144:36158?security=tls&headerType=none&type=tcp&sni=api.avito.ru#ARISTA🔥

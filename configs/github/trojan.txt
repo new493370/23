@@ -1,6 +1,6 @@
 # GitHub TROJAN Configurations
-# Updated: 2026-01-16 06:36:34
-# Count: 129
+# Updated: 2026-01-16 09:31:28
+# Count: 127
 # Source: GitHub Repositories
 
 trojan://ZblhWr0mqMakCPg.N@212.193.18.144:36158/?type=tcp&security=tls&sni=api.avito.ru&allowInsecure=1&fp=chrome#ARISTA🔥
@@ -127,8 +127,6 @@ trojan://ZblhWr0mqMakCPg.N@212.193.18.144:36158?security=tls&headerType=none&typ
 trojan://oUFBC3Vs2rYmN8_bR-P7quoL@45.135.134.198:10668?security=tls&headerType=none&type=tcp&sni=api-maps.yandex.ru#ARISTA🔥
 trojan://cTv.9PDdCt-wybBrG1qlxI5UJuaEj@167.17.185.152:10889?security=tls&headerType=none&type=tcp&sni=ozon.ru#ARISTA🔥
 trojan://cTv.9PDdCt-wybBrG1qlxI5UJuaEj@167.17.185.169:10889?security=tls&headerType=none&type=tcp&sni=ya.ru#ARISTA🔥
-trojan://telegram-id-privatevpns@63.182.2.148:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#ARISTA🔥
-trojan://61d8077bfb174e171b8283f155a555ad@58.152.110.111:443?security=tls&sni=www.nintendogames.net#ARISTA🔥
+trojan://telegram-id-privatevpns@35.158.18.102:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#ARISTA🔥
 trojan://BxceQaOe@58.152.53.219:443?allowInsecure=1&sni=t.me%2Fripaojiedian#ARISTA🔥
-trojan://61d8077bfb174e171b8283f155a555ad@160.16.124.55:544?security=tls&sni=www.nintendogames.net#ARISTA🔥
-trojan://61d8077bfb174e171b8283f155a555ad@153.121.45.139:3076?security=tls&sni=www.nintendogames.net#ARISTA🔥
+trojan://4843e94d205f3893f588255a591abe94@160.16.132.38:544?security=tls&sni=www.nintendogames.net#ARISTA🔥

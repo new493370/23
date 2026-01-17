@@ -1,9 +1,10 @@
 # GitHub TROJAN Configurations
-# Updated: 2026-01-17 15:26:53
-# Count: 127
+# Updated: 2026-01-17 18:32:12
+# Count: 129
 # Source: GitHub Repositories
 
 trojan://ZblhWr0mqMakCPg.N@212.193.18.144:36158/?type=tcp&security=tls&sni=api.avito.ru&allowInsecure=1&fp=chrome#ARISTA🔥
+trojan://humanity@www.calmlunch.com:443?path=%2Fassignment&security=tls&insecure=1&host=www.calmlunch.com&type=ws&allowInsecure=1&sni=www.calmlunch.com#ARISTA🔥
 trojan://humanity@www.calmlunch.com:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#ARISTA🔥
 trojan://humanity@www.calmlunch.com:443?path=%2Fassignment&security=tls&host=www.calmlunch.com&type=ws&sni=www.calmlunch.com#ARISTA🔥
 trojan://zWFjJENcljZm@usa.visa.com:443?path=%2F%3Fed%3D2560&security=tls&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=vahidqaz-7o61u7.vahidqaz.workers.dev#ARISTA🔥
@@ -123,10 +124,11 @@ trojan://ZblhWr0mqMakCPg.N@212.193.18.144:36158?security=tls&headerType=none&typ
 trojan://oUFBC3Vs2rYmN8_bR-P7quoL@45.135.134.198:10668?security=tls&headerType=none&type=tcp&sni=api-maps.yandex.ru#ARISTA🔥
 trojan://cTv.9PDdCt-wybBrG1qlxI5UJuaEj@167.17.185.152:10889?security=tls&headerType=none&type=tcp&sni=ozon.ru#ARISTA🔥
 trojan://cTv.9PDdCt-wybBrG1qlxI5UJuaEj@167.17.185.169:10889?security=tls&headerType=none&type=tcp&sni=ya.ru#ARISTA🔥
+trojan://telegram-id-privatevpns@15.236.27.89:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#ARISTA🔥
 trojan://BxceQaOe@58.152.110.50:443?allowInsecure=1&sni=t.me%2Fripaojiedian#ARISTA🔥
 trojan://telegram-id-privatevpns@35.156.113.72:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#ARISTA🔥
-trojan://BxceQaOe@58.152.53.219:443?allowInsecure=1&sni=58.152.53.219#ARISTA🔥
+trojan://BxceQaOe@58.152.53.219:443?allowInsecure=1&sni=t.me%2Fripaojiedian#ARISTA🔥
 trojan://30077070-596e-48ea-9400-14c8ed07bd97@tuntro003.instconn.com:443?security=tls&sni=login-staticjpc.jasmine-douyin.top#ARISTA🔥
-trojan://4843e94d205f3893f588255a591abe94@160.16.130.21:544?security=tls&sni=www.nintendogames.net#ARISTA🔥
+trojan://4843e94d205f3893f588255a591abe94@160.16.132.38:544?security=tls&sni=www.nintendogames.net#ARISTA🔥
 trojan://30077070-596e-48ea-9400-14c8ed07bd97@tuntro000.instconn.com:443?security=tls&sni=hkip5.686911.xyz#ARISTA🔥
 trojan://4843e94d205f3893f588255a591abe94@160.16.87.174:3076?allowInsecure=0&sni=www.nintendogames.net#ARISTA🔥

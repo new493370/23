@@ -1,9 +1,7 @@
 # All Configurations for BE
-# Updated: 2026-01-17 01:20:17
-# Total Count: 4
+# Updated: 2026-01-17 04:04:36
+# Total Count: 2
 # Country Code: BE
 
 vless://582c84b9-25e9-48ae-826b-e1bdafca3730@98.142.254.3:25117?security=none&encryption=none&headerType=none&type=tcp#ARISTA🔥
-vless://2a3a16fe-9e53-46b7-83e1-e6590898f548@113.30.152.46:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=telegavpn.com&fp=&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA&sid=#ARISTA🔥
 vless://f613ad02-b561-4c7b-bcd4-f0007411aeb3@113.30.152.46:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=telegavpn.com&fp=&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA&sid=#ARISTA🔥
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNMG1RN3pjd0x4YTdmU1UzVjBNRTkyUXg3bkhveDdDRg==@113.30.152.46:8080#ARISTA🔥

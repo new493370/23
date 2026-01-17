@@ -1,17 +1,16 @@
 # HK - VLESS Configurations
-# Updated: 2026-01-17 04:04:36
-# Count: 12
+# Updated: 2026-01-17 06:32:12
+# Count: 11
 # Country Code: HK
 
-vless://1e0f493a-6251-4436-b986-2a76da21d4d6@46.8.226.192:443?security=none&encryption=none&headerType=none&type=tcp#ARISTA🔥
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@47.76.37.57:2096?security=tls&sni=ve.ylks.xyz&type=ws&path=/#ARISTA🔥
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@156.238.18.246:2095?path=%2F&security=none&encryption=none&host=redw.pooriam.ir&type=ws#ARISTA🔥
 vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@43.154.124.136:26666?encryption=none&security=tls&sni=sni.111000.cc.cd&type=ws&host=sni.111000.cc.cd&path=/?ed=2560&Telegram🇨🇳@WangCai2#ARISTA🔥
-vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@118.141.64.192:36619?encryption=none&security=tls&sni=sni.111000.cc.cd&type=ws&host=sni.111000.cc.cd&path=/?ed=2560&Telegram🇨🇳@WangCai2#ARISTA🔥
-vless://2c503f75-1dc8-4c0c-ba07-a11a9d085840@103.219.193.54:47365/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.microsoft.com&fp=chrome&security=reality&pbk=OS3kmYquxfONWW-d97YxQU_kH-Vc-sy2ehpvtS02LTI&sid=ee95bdc46f0b8e14#ARISTA🔥
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@47.238.52.240:80?security=tls&sni=cfed.tgzdyz2.top&type=ws&host=cfed.tgzdyz2.top&path=%2FTG%40ZDYZ2%3Fed%3D2560&fp=random#ARISTA🔥
 vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@223.16.138.113:10201?encryption=none&security=tls&sni=sni.111000.cc.cd&type=ws&host=sni.111000.cc.cd&path=/?ed=2560&Telegram🇨🇳@WangCai2#ARISTA🔥
 vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@202.85.53.54:7000?encryption=none&security=tls&sni=sni.111000.cc.cd&type=ws&host=sni.111000.cc.cd&path=/?ed=2560&Telegram🇨🇳@WangCai2#ARISTA🔥
-vless://daredevill_404@46.8.78.214:56094?type=xhttp&encryption=none&path=%2F%40daredevill_404%40daredevill_404%40daredevill_404&host=&mode=auto&security=none#ARISTA🔥
+vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@118.141.64.192:36619?encryption=none&security=tls&sni=sni.111000.cc.cd&type=ws&host=sni.111000.cc.cd&path=/?ed=2560&Telegram🇨🇳@WangCai2#ARISTA🔥
 vless://46e274b0-8033-4011-b1a0-9d05c3531a79@27.0.232.191:443?mode=auto&path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&type=xhttp&sni=hkg.tunnelguard.ru#ARISTA🔥
 vless://824dc1b1-e35b-4121-ad73-9acaf13d6410@47.76.27.185:443?path=%2F824dc1b1-e35b-4121-ad73-9acaf13d6410&security=tls&encryption=none&host=n1761184282.74qxv.top&fp=chrome&type=ws&sni=n1761184282.74qxv.top#ARISTA🔥
+vless://2c503f75-1dc8-4c0c-ba07-a11a9d085840@103.219.193.54:47365/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.microsoft.com&fp=chrome&security=reality&pbk=OS3kmYquxfONWW-d97YxQU_kH-Vc-sy2ehpvtS02LTI&sid=ee95bdc46f0b8e14#ARISTA🔥
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@47.76.37.57:2096?security=tls&sni=ve.ylks.xyz&type=ws&path=/#ARISTA🔥
+vless://daredevill_404@46.8.78.214:56094?type=xhttp&encryption=none&path=%2F%40daredevill_404%40daredevill_404%40daredevill_404&host=&mode=auto&security=none#ARISTA🔥
+vless://1e0f493a-6251-4436-b986-2a76da21d4d6@46.8.226.192:443?security=none&encryption=none&headerType=none&type=tcp#ARISTA🔥

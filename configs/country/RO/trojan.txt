@@ -1,7 +1,8 @@
 # RO - TROJAN Configurations
-# Updated: 2026-01-18 18:29:33
-# Count: 2
+# Updated: 2026-01-18 21:21:53
+# Count: 3
 # Country Code: RO
 
-trojan://ZJU29smXwp@45.85.118.0:2053?path=%2F&security=tls&host=k.teama.tk&type=ws&sni=web2.teama.tk#ARISTA🔥
 trojan://ZJU29smXwp@45.85.118.88:2053?path=%2F&security=tls&host=k.teama.tk&type=ws&sni=omid.teama.tk#ARISTA🔥
+trojan://ZJU29smXwp@45.85.118.0:2053?path=%2F&security=tls&host=k.teama.tk&type=ws&sni=web2.teama.tk#ARISTA🔥
+trojan://d0d07c22-d97e-4877-9702-f164af5990fc@45.85.118.88:443?path=%2Ftrojanws%3Fed%3D2048&security=tls&host=cdir-0227.wlfvip.shop&type=ws&sni=cdir-0227.wlfvip.shop#ARISTA🔥

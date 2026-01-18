@@ -1,6 +1,6 @@
 # HK - VLESS Configurations
-# Updated: 2026-01-18 15:23:14
-# Count: 11
+# Updated: 2026-01-18 18:29:33
+# Count: 10
 # Country Code: HK
 
 vless://1e0f493a-6251-4436-b986-2a76da21d4d6@46.8.226.192:443?security=none&encryption=none&headerType=none&type=tcp#ARISTA🔥
@@ -13,4 +13,3 @@ vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@223.16.138.113:10201?encryption=non
 vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@43.154.124.136:26666?encryption=none&security=tls&sni=sni.111000.cc.cd&type=ws&host=sni.111000.cc.cd&path=/?ed=2560&Telegram🇨🇳@WangCai2#ARISTA🔥
 vless://824dc1b1-e35b-4121-ad73-9acaf13d6410@47.76.27.185:443?path=%2F824dc1b1-e35b-4121-ad73-9acaf13d6410&security=tls&encryption=none&host=n1761184282.74qxv.top&fp=chrome&type=ws&sni=n1761184282.74qxv.top#ARISTA🔥
 vless://46e274b0-8033-4011-b1a0-9d05c3531a79@27.0.232.191:443?mode=auto&path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&type=xhttp&sni=hkg.tunnelguard.ru#ARISTA🔥
-vless://d7dd3a35-b68b-4992-b319-a85b8a1fc8e5@47.238.35.50:2053?security=tls&sni=dns68.putata.eu.org&type=ws&host=dns68.putata.eu.org#ARISTA🔥

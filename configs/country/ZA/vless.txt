@@ -1,6 +1,7 @@
 # ZA - VLESS Configurations
-# Updated: 2026-01-19 12:44:50
-# Count: 1
+# Updated: 2026-01-19 15:30:51
+# Count: 2
 # Country Code: ZA
 
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@102.177.176.213:8880?security=none&encryption=none&type=ws&host=jp.laoyoutiao.link&path=/#ARISTA🔥
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@160.123.255.185:443?security=tls&sni=kke.ylks.xyz&type=ws&path=/?proxyip#ARISTA🔥

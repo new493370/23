@@ -1,14 +1,13 @@
 # JP - VLESS Configurations
-# Updated: 2026-01-20 01:25:31
-# Count: 27
+# Updated: 2026-01-20 04:17:42
+# Count: 26
 # Country Code: JP
 
-vless://ebd8539d-e249-4a39-8f90-e8585e8cc35e@116.80.44.144:27724?security=reality&encryption=none&pbk=rYH4wPTVzSwtpXgI3U7YxppIP6oudD-425vT7pyhj1w&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.yahoo.co.jp#ARISTA🔥
-vless://e258977b-e413-4718-a3af-02d75492c349@141.147.144.109:443/?type=ws&encryption=none&flow=&host=ww23.sgxaniu.qzz.io&path=%2F%3Fed%3D2560&security=tls&sni=ww23.sgxaniu.qzz.io&allowInsecure=1#ARISTA🔥
-vless://2c487d9d-25a1-4b79-aed1-086b8c3082ca@178.239.124.30:56482?security=reality&encryption=none&pbk=W9BjX6YmCIVsjhKMlz233Yoe0xcf0SVHfvPKqbf3vCg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cloudcircus.jp#ARISTA🔥
-vless://f64cdd9d-57c3-45b2-e999-c46006719646@161.248.63.15:41579/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.icloud.com&fp=chrome&security=reality&pbk=3W_eKpL975AF7oI-mkgVtf2iK954luxwaT6C41re0RI&sid=2efb6c97c1#ARISTA🔥
-vless://7509f896-2115-4420-b487-501c9103bebd@45.251.240.213:34237?security=tls&sni=ccs.443888.xyz&type=ws&path=%2Fvless%3Fed#ARISTA🔥
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@172.84.92.108:42304?security=tls&sni=jpx.ylks01.eu.org&type=ws&host=jpx.ylks01.eu.org&path=/&fp=chrome#ARISTA🔥
+vless://ebd8539d-e249-4a39-8f90-e8585e8cc35e@116.80.44.144:27724?security=reality&encryption=none&pbk=rYH4wPTVzSwtpXgI3U7YxppIP6oudD-425vT7pyhj1w&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.yahoo.co.jp#ARISTA🔥
+vless://2c487d9d-25a1-4b79-aed1-086b8c3082ca@178.239.124.30:56482?security=reality&encryption=none&pbk=W9BjX6YmCIVsjhKMlz233Yoe0xcf0SVHfvPKqbf3vCg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cloudcircus.jp#ARISTA🔥
+vless://7509f896-2115-4420-b487-501c9103bebd@45.251.240.213:34237?security=tls&sni=ccs.443888.xyz&type=ws&path=%2Fvless%3Fed#ARISTA🔥
+vless://f64cdd9d-57c3-45b2-e999-c46006719646@161.248.63.15:41579/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.icloud.com&fp=chrome&security=reality&pbk=3W_eKpL975AF7oI-mkgVtf2iK954luxwaT6C41re0RI&sid=2efb6c97c1#ARISTA🔥
 vless://0ab02f6d-3304-44f1-915b-7ed8fc5751fa@139.162.82.185:443?security=reality&flow=xtls-rprx-vision&pbk=Qj72gbWEZOJshMegmLtOrLUf4bIAQFpJPtCy_pBfcRU&fp=chrome&sni=www.cisco.com&type=tcp&headerType=none&host=www.cisco.com&path=/#ARISTA🔥
 vless://11d29ec6-be66-4f59-97c6-7cff836ea318@138.2.50.155:44073?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.icloud.com&fp=chrome&security=reality&pbk=Z3ZGnAOdKkzJ07gR_7_0k9_iTTFP6paDOrqx1rN2LU4#ARISTA🔥
 vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@103.53.81.195:36515?encryption=none&security=tls&sni=sni.111000.cc.cd&type=ws&host=sni.111000.cc.cd&path=/?ed=2560&Telegram🇨🇳@WangCai2#ARISTA🔥

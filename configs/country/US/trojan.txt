@@ -1,9 +1,9 @@
 # US - TROJAN Configurations
-# Updated: 2026-01-21 01:27:20
+# Updated: 2026-01-21 04:13:54
 # Count: 4
 # Country Code: US
 
-trojan://iWnFtzMiac@205.185.115.223:19258/?type=grpc&serviceName=&authority=&security=reality&pbk=q_lg6VnOGhN_Ow5gHtZoDv_mJp-8W7m51N6vKamsMXk&fp=chrome&sni=cloudflare.com&sid=6d7efa97b2&spx=%2F#ARISTA🔥
 trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@23.186.200.107:11011?security=tls&headerType=none&type=tcp&sni=wus01.weyaf9sdoh2h.space#ARISTA🔥
 trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@23.186.200.108:11012?security=tls&headerType=none&type=tcp&sni=wus02.weyaf9sdoh2h.space#ARISTA🔥
+trojan://iWnFtzMiac@205.185.115.223:19258/?type=grpc&serviceName=&authority=&security=reality&pbk=q_lg6VnOGhN_Ow5gHtZoDv_mJp-8W7m51N6vKamsMXk&fp=chrome&sni=cloudflare.com&sid=6d7efa97b2&spx=%2F#ARISTA🔥
 trojan://71409d3e488548e8bb076d229778f008@38.99.82.225:443?security=tls&headerType=none&type=tcp#ARISTA🔥

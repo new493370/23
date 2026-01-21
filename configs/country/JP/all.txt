@@ -1,6 +1,6 @@
 # All Configurations for JP
-# Updated: 2026-01-21 15:38:36
-# Total Count: 90
+# Updated: 2026-01-21 18:48:43
+# Total Count: 86
 # Country Code: JP
 
 vless://2c487d9d-25a1-4b79-aed1-086b8c3082ca@178.239.124.30:56482?security=reality&encryption=none&pbk=W9BjX6YmCIVsjhKMlz233Yoe0xcf0SVHfvPKqbf3vCg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cloudcircus.jp#ARISTA🔥
@@ -76,9 +76,7 @@ trojan://4843e94d205f3893f588255a591abe94@160.16.87.174:1933?security=tls&sni=ww
 trojan://4843e94d205f3893f588255a591abe94@160.16.87.174:3076?security=tls&sni=www.nintendogames.net&path=/#ARISTA🔥
 trojan://4843e94d205f3893f588255a591abe94@160.16.87.174:4006?security=tls&sni=www.nintendogames.net&path=/#ARISTA🔥
 trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@202.181.103.246:1334?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=www.nintendogames.net#ARISTA🔥
-trojan://4843e94d205f3893f588255a591abe94@153.121.45.139:3423?allowInsecure=0&sni=www.nintendogames.net#ARISTA🔥
 trojan://4843e94d205f3893f588255a591abe94@153.121.65.107:544?allowInsecure=0&sni=www.nintendogames.net#ARISTA🔥
-trojan://4843e94d205f3893f588255a591abe94@153.121.45.139:3076?allowInsecure=0&sni=www.nintendogames.net#ARISTA🔥
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDVANDMuMjA2LjIxOS4xNDA6NDQz#ARISTA🔥
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.240:443#ARISTA🔥
 ss://YWVzLTEyOC1nY206MTAwODY=@153.121.43.183:10087#ARISTA🔥
@@ -91,5 +89,3 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozMDNhYzY1ZTMwZjI4YjBi@154.205.139.9:11205#AR
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYTE9ydkxXa0NCQkJ4THFTRWU5UzhsbkM1UExzTmZSaA@103.75.118.125:443#ARISTA🔥
 ss://YWVzLTI1Ni1nY206dkVZK0V0c3YvS1RFTTN2cQ@167.17.179.87:8388#ARISTA🔥
 ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@172.105.199.111:8080#ARISTA🔥
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@185.172.113.101:808#ARISTA🔥
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@185.172.113.101:812#ARISTA🔥

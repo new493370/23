@@ -1,10 +1,11 @@
 # IN - VLESS Configurations
-# Updated: 2026-01-21 15:38:36
-# Count: 11
+# Updated: 2026-01-21 18:48:43
+# Count: 12
 # Country Code: IN
 
 vless://d3daa900-0377-4575-9ebc-c4d88cb8486c@45.88.183.158:44629?security=&type=tcp&encryption=none#ARISTA🔥
 vless://08704c01-7edb-454a-98a2-328ccb9936fa@45.88.183.156:12794?security=&type=tcp&encryption=none#ARISTA🔥
+vless://3f688b2a-373a-4be1-846d-b159404b73b2@45.89.105.24:4443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=github.com&fp=chrome&security=reality&pbk=5XB_N3ATilH-6tp_MXht-84_y5YaJnx_Z7MbuY2otHE&sid=aa7e96542880027a#ARISTA🔥
 vless://08704c01-7edb-454a-98a2-328ccb9936fa@45.88.183.156:12794?security=none&encryption=none&headerType=none&type=tcp#ARISTA🔥
 vless://adab9268-f742-407b-8cbc-cf0b643c5e9f@103.111.115.161:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.microsoft.com&fp=chrome&security=reality&pbk=fdw3RhTEan_ZYiBDFzP6bP2cBBWHiE0z0gu85JH38GE&sid=1e28103829cd69b6#ARISTA🔥
 vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@103.245.228.238:2096?encryption=none&security=tls&sni=sni.111000.cc.cd&type=ws&host=sni.111000.cc.cd&path=/?ed=2560&Telegram🇨🇳@WangCai2#ARISTA🔥

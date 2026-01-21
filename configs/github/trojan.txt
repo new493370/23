@@ -1,5 +1,5 @@
 # GitHub TROJAN Configurations
-# Updated: 2026-01-20 21:25:57
+# Updated: 2026-01-21 01:27:20
 # Count: 176
 # Source: GitHub Repositories
 
@@ -173,9 +173,9 @@ trojan://ZblhWr0mqMakCPg.N@212.193.18.144:36158?security=tls&sni=api.avito.ru&in
 trojan://cTv.9PDdCt-wybBrG1qlxI5UJuaEj@167.17.185.152:10889?security=tls&sni=ozon.ru&insecure=1&allowInsecure=1&type=tcp&headerType=none#ARISTA🔥
 trojan://cTv.9PDdCt-wybBrG1qlxI5UJuaEj@167.17.185.169:10889?security=tls&sni=ya.ru&insecure=1&allowInsecure=1&type=tcp&headerType=none#ARISTA🔥
 trojan://d51abb35-94a4-4529-9244-2808beaa4624@de.yiciyuanquicken.online:35837?allowInsecure=0&sni=de.yiciyuanquicken.online#ARISTA🔥
-trojan://x.8ur1QiCyzlRHXeaB5UwoDfgZ04s@45.32.158.138:20994?security=tls&headerType=none&type=tcp&sni=ads.x5.ru#ARISTA🔥
-trojan://4843e94d205f3893f588255a591abe94@160.16.70.180:3423?security=tls&sni=www.nintendogames.net#ARISTA🔥
+trojan://30077070-596e-48ea-9400-14c8ed07bd97@tuntro006.instconn.com:443?security=tls&sni=torontorm1.686911.xyz#ARISTA🔥
+trojan://4843e94d205f3893f588255a591abe94@153.121.45.139:3423?allowInsecure=0&sni=www.nintendogames.net#ARISTA🔥
 trojan://30077070-596e-48ea-9400-14c8ed07bd97@tuntro011.instconn.com:40130?security=tls&sni=cntwbta.686911.xyz#ARISTA🔥
-trojan://BxceQaOe@52.195.11.229:2595?allowInsecure=1&sni=t.me%252Fripaojiedian#ARISTA🔥
-trojan://4843e94d205f3893f588255a591abe94@160.16.150.76:544?security=tls&sni=www.nintendogames.net#ARISTA🔥
-trojan://4843e94d205f3893f588255a591abe94@160.16.87.174:3076?security=tls&sni=www.nintendogames.net#ARISTA🔥
+trojan://4843e94d205f3893f588255a591abe94@153.121.45.139:544?allowInsecure=0&sni=www.nintendogames.net#ARISTA🔥
+trojan://30077070-596e-48ea-9400-14c8ed07bd97@tuntro000.instconn.com:443?security=tls&sni=hkip5.686911.xyz#ARISTA🔥
+trojan://4843e94d205f3893f588255a591abe94@153.121.45.139:3076?allowInsecure=1&sni=www.nintendogames.net#ARISTA🔥

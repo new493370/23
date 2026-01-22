@@ -1,6 +1,7 @@
 # AM - VLESS Configurations
-# Updated: 2026-01-22 15:34:36
-# Count: 1
+# Updated: 2026-01-22 18:34:41
+# Count: 2
 # Country Code: AM
 
+vless://12345678-1234-1234-1234-123456789123@188.164.158.61:2096?&security=tls&sni=vless.hubp.de&type=ws&headerType=none&host=vless.hubp.de&path=%2Fsnippets#ARISTA🔥
 vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@188.164.159.158:2096?security=tls&type=ws&path=/?ed=2560&Telegram🇨🇳+@WangCai2&host=sni.111000.de5.net&sni=sni.111000.de5.net&fp=chrome&encryption=none#ARISTA🔥

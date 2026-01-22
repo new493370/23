@@ -1,6 +1,6 @@
 # GitHub TROJAN Configurations
-# Updated: 2026-01-22 06:38:18
-# Count: 183
+# Updated: 2026-01-22 09:36:57
+# Count: 184
 # Source: GitHub Repositories
 
 trojan://ZblhWr0mqMakCPg.N@212.193.18.144:36158/?type=tcp&security=tls&sni=api.avito.ru&allowInsecure=1&fp=chrome#ARISTA🔥
@@ -183,6 +183,7 @@ trojan://iCfh96DEJn3%3DQRbzF.Tdl@212.192.214.46:18069?security=tls&sni=www.vk.co
 trojan://ZblhWr0mqMakCPg.N@212.193.18.144:36158?security=tls&sni=api.avito.ru&insecure=1&allowInsecure=1&type=tcp&headerType=none#ARISTA🔥
 trojan://cTv.9PDdCt-wybBrG1qlxI5UJuaEj@167.17.185.152:10889?security=tls&sni=ozon.ru&insecure=1&allowInsecure=1&type=tcp&headerType=none#ARISTA🔥
 trojan://cTv.9PDdCt-wybBrG1qlxI5UJuaEj@167.17.185.169:10889?security=tls&sni=ya.ru&insecure=1&allowInsecure=1&type=tcp&headerType=none#ARISTA🔥
-trojan://telegram-id-privatevpns@51.44.124.96:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#ARISTA🔥
-trojan://x.8ur1QiCyzlRHXeaB5UwoDfgZ04s@45.32.158.138:20994?allowInsecure=0&sni=ads.x5.ru#ARISTA🔥
+trojan://x.8ur1QiCyzlRHXeaB5UwoDfgZ04s@45.32.158.138:20994?security=tls&headerType=none&type=tcp&sni=ads.x5.ru#ARISTA🔥
+trojan://BxceQaOe@58.152.53.219:443?allowInsecure=0&sni=t.me%252Fripaojiedian#ARISTA🔥
 trojan://4843e94d205f3893f588255a591abe94@153.121.65.107:544?allowInsecure=0&sni=www.nintendogames.net#ARISTA🔥
+trojan://30077070-596e-48ea-9400-14c8ed07bd97@tuntro000.instconn.com:443?security=tls&sni=hkip5.686911.xyz#ARISTA🔥

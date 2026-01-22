@@ -1,11 +1,12 @@
 # US - TROJAN Configurations
-# Updated: 2026-01-22 04:15:07
-# Count: 6
+# Updated: 2026-01-22 06:38:18
+# Count: 7
 # Country Code: US
 
+trojan://87d1bfd4-574e-4c96-ad42-0426f27461ff@8.6.112.0:443?path=%2F&security=tls&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=_acme-challenge.2go.cloudns.be#ARISTA🔥
+trojan://telegram-id-directvpn@44.198.54.79:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#ARISTA🔥
+trojan://iWnFtzMiac@205.185.115.223:19258/?type=grpc&serviceName=&authority=&security=reality&pbk=q_lg6VnOGhN_Ow5gHtZoDv_mJp-8W7m51N6vKamsMXk&fp=chrome&sni=cloudflare.com&sid=6d7efa97b2&spx=%2F#ARISTA🔥
 trojan://DPaEhASbrF@8.6.112.0:8443?mode=auto&path=%2F%40vip_fragment_v2ray&security=tls&alpn=h2%2Chttp%2F1.1&insecure=0&host=de01.u3er1.ir.&fp=chrome&type=xhttp&allowInsecure=0&sni=de01.u3er1.ir#ARISTA🔥
 trojan://71409d3e488548e8bb076d229778f008@38.99.82.225:443?security=tls&headerType=none&type=tcp#ARISTA🔥
-trojan://iWnFtzMiac@205.185.115.223:19258/?type=grpc&serviceName=&authority=&security=reality&pbk=q_lg6VnOGhN_Ow5gHtZoDv_mJp-8W7m51N6vKamsMXk&fp=chrome&sni=cloudflare.com&sid=6d7efa97b2&spx=%2F#ARISTA🔥
-trojan://87d1bfd4-574e-4c96-ad42-0426f27461ff@8.6.112.0:443?path=%2F&security=tls&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=_acme-challenge.2go.cloudns.be#ARISTA🔥
 trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@23.186.200.108:11012?security=tls&headerType=none&type=tcp&sni=wus02.weyaf9sdoh2h.space#ARISTA🔥
 trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@23.186.200.107:11011?security=tls&headerType=none&type=tcp&sni=wus01.weyaf9sdoh2h.space#ARISTA🔥

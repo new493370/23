@@ -1,9 +1,9 @@
 # All Configurations for RO
-# Updated: 2026-01-23 16:09:07
+# Updated: 2026-01-23 18:34:00
 # Total Count: 4
 # Country Code: RO
 
-vless://fa91291a-7234-49fd-be27-34141258b159@45.85.118.241:443?path=%2FtTcZC0WxEj%2Fvlessws&security=tls&encryption=none&host=join-to-oxnet-ch-network-cdfake.userargo1723.cf&type=ws&sni=join-to-oxnet-ch-network-cdfake.userargo1723.cf#ARISTA🔥
-trojan://ZJU29smXwp@45.85.118.0:2053?path=%2F&security=tls&host=k.teama.tk&type=ws&sni=web2.teama.tk#ARISTA🔥
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxMWU1MjBjY2JlNzM2NWVi@45.82.102.204:11201#ARISTA🔥
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphMDJmYjYwZDVjZjQwMGM2@45.82.102.245:11201#ARISTA🔥
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxMWU1MjBjY2JlNzM2NWVi@45.82.102.204:11201#ARISTA🔥
+trojan://ZJU29smXwp@45.85.118.0:2053?path=%2F&security=tls&host=k.teama.tk&type=ws&sni=web2.teama.tk#ARISTA🔥
+vless://fa91291a-7234-49fd-be27-34141258b159@45.85.118.241:443?path=%2FtTcZC0WxEj%2Fvlessws&security=tls&encryption=none&host=join-to-oxnet-ch-network-cdfake.userargo1723.cf&type=ws&sni=join-to-oxnet-ch-network-cdfake.userargo1723.cf#ARISTA🔥

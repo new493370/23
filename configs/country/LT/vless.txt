@@ -1,15 +1,16 @@
 # LT - VLESS Configurations
-# Updated: 2026-01-23 12:45:20
-# Count: 10
+# Updated: 2026-01-23 13:28:24
+# Count: 11
 # Country Code: LT
 
-vless://95abaefc-7861-417a-81b7-166cb788ce1a@5.199.173.116:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=apple.com&fp=chrome&security=reality&pbk=9ajY_OBOn5CCPnCJTPjxg6J3IWE8uJYAiWQvG9CBGjU&sid=00684d2eae2cdd16#ARISTA🔥
-vless://ca5ab635-fbaa-4ff2-8283-3954b92ae477@93.115.25.42:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=tradingview.com&fp=chrome&security=reality&pbk=L3X1eh1Jq_6PKJ6LlwjgiWq0XNaDOqCVKgIElJ5nkVA&sid=2cfb5a0ae8ab0cb0#ARISTA🔥
-vless://2456f90c-5183-476d-b069-16ae74ce120f@45.146.201.253:2096?encryption=none&type=ws&path=%2F&security=tls&sni=fast01.0860852.xyz#ARISTA🔥
-vless://95abaefc-7861-417a-81b7-166cb788ce1a@5.199.162.232:2083/?type=grpc&encryption=none&flow=&serviceName=UpdateService&sni=apple.com&fp=chrome&security=reality&pbk=J6NuOlIq3ypdTFc1TMhDDKmF8BWPnNWZq1EkxD7K-lQ&sid=6da16b1335651b38#ARISTA🔥
-vless://ca5ab635-fbaa-4ff2-8283-3954b92ae477@93.115.25.42:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=tradingview.com&fp=chrome&pbk=L3X1eh1Jq_6PKJ6LlwjgiWq0XNaDOqCVKgIElJ5nkVA&sid=2cfb5a0ae8ab0cb0&type=tcp&headerType=none#ARISTA🔥
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.52:8880?security=none&type=grpc#ARISTA🔥
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.55:8880/?type=grpc&encryption=none#ARISTA🔥
 vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@45.146.201.251:443?path=/Telegram-VPNman---Telegram-VPNMAAN---Telegram-VPNman---Telegram-VPNMAAN---Telegram-VPNMAAN---Telegram-VPNMAAN---Telegram-VPNMAAN&security=tls&encryption=none&insecure=0&host=sni.111000.cc.Cd&fp=firefox&type=ws&allowInsecure=0&sni=sni.111000.cc.Cd#ARISTA🔥
-vless://5f05f5c4-13a6-4e67-85f1-93b32bf85e52@46.29.234.92:29550?security=reality&encryption=none&pbk=aPVIbZXEkHpPedX9ix1r8Km2ZV1MgpuBjN0Qxkwx1zA&headerType=none&fp=chrome&spx=%2F---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&type=tcp&sni=yandex.ru&sid=8160d3d997cdf7be#ARISTA🔥
+vless://ca5ab635-fbaa-4ff2-8283-3954b92ae477@93.115.25.42:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=tradingview.com&fp=chrome&pbk=L3X1eh1Jq_6PKJ6LlwjgiWq0XNaDOqCVKgIElJ5nkVA&sid=2cfb5a0ae8ab0cb0&type=tcp&headerType=none#ARISTA🔥
+vless://ca5ab635-fbaa-4ff2-8283-3954b92ae477@93.115.25.42:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=tradingview.com&fp=chrome&security=reality&pbk=L3X1eh1Jq_6PKJ6LlwjgiWq0XNaDOqCVKgIElJ5nkVA&sid=2cfb5a0ae8ab0cb0#ARISTA🔥
+vless://95abaefc-7861-417a-81b7-166cb788ce1a@5.199.162.232:2083/?type=grpc&encryption=none&flow=&serviceName=UpdateService&sni=apple.com&fp=chrome&security=reality&pbk=J6NuOlIq3ypdTFc1TMhDDKmF8BWPnNWZq1EkxD7K-lQ&sid=6da16b1335651b38#ARISTA🔥
+vless://95abaefc-7861-417a-81b7-166cb788ce1a@5.199.173.116:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=apple.com&fp=chrome&security=reality&pbk=9ajY_OBOn5CCPnCJTPjxg6J3IWE8uJYAiWQvG9CBGjU&sid=00684d2eae2cdd16#ARISTA🔥
 vless://ca5ab635-fbaa-4ff2-8283-3954b92ae477@93.115.25.42:8443?security=reality&encryption=none&pbk=L3X1eh1Jq_6PKJ6LlwjgiWq0XNaDOqCVKgIElJ5nkVA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tradingview.com&sid=2cfb5a0ae8ab0cb0#ARISTA🔥
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.52:8880?security=none&type=grpc#ARISTA🔥
+vless://5f05f5c4-13a6-4e67-85f1-93b32bf85e52@46.29.234.92:29550?security=reality&encryption=none&pbk=aPVIbZXEkHpPedX9ix1r8Km2ZV1MgpuBjN0Qxkwx1zA&headerType=none&fp=chrome&spx=%2F---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&type=tcp&sni=yandex.ru&sid=8160d3d997cdf7be#ARISTA🔥
+vless://2456f90c-5183-476d-b069-16ae74ce120f@45.146.201.253:2096?encryption=none&type=ws&path=%2F&security=tls&sni=fast01.0860852.xyz#ARISTA🔥
+vless://bb411e79-299b-4ed6-b392-222349ef202e@91.244.197.228:443?encryption=none&security=reality&sni=fonts.gstatic.com&fp=chrome&pbk=xk27dpm8_4gt7Nnfv0rpTM09azWTAV6kh9B9UNj7Mho&type=tcp&headerType=none#ARISTA🔥

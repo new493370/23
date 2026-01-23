@@ -23,7 +23,16 @@ class TelegramConfigExtractor:
         })
         
         self.channels = [
-        "https://t.me/s/V2rayNG_Cila",
+           "https://t.me/s/proxy_mardomkhiaban",
+           "https://t.me/s/textplanetorg", 
+           "https://t.me/s/starlinkvatan",
+           "https://t.me/s/duckvp_n",
+           "https://t.me/s/shankamil",
+           "https://t.me/s/chat_nakone",
+           "https://t.me/s/irproxy",
+           "https://t.me/s/KnightShield",
+           "https://t.me/s/MARAMBASHI1",
+            "https://t.me/s/V2rayNG_Cila",
             "https://t.me/s/king_v2raay",
             "https://t.me/s/shahincrafto",
             "https://t.me/s/DailyV2Config",
@@ -870,7 +879,7 @@ def main():
     
     try:
         extractor = TelegramConfigExtractor()
-        categories, total_count, failed_channels = extractor.process_channels(limit_per_channel=15)
+        categories, total_count, failed_channels = extractor.process_channels(limit_per_channel=5)
         saved_count = extractor.save_results(categories, total_count)
         
         print(f"\n✅ PROCESSING COMPLETE")

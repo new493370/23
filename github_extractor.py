@@ -19,7 +19,10 @@ SOURCES = [
     "https://cdn.jsdelivr.net/gh/Firmfox/Proxify@main/v2ray_configs/seperated_by_protocol/other.txt",
     "https://cdn.jsdelivr.net/gh/begugla0/nashvpn@main/hysteria2.txt",
     "https://cdn.jsdelivr.net/gh/LowiKLive/BypassWhitelistRu@main/WhiteList-Bypass_Ru.txt",
-    "https://cdn.jsdelivr.net/gh/roosterkid/openproxylist@main/V2RAY_RAW.txt"
+    "https://cdn.jsdelivr.net/gh/roosterkid/openproxylist@main/V2RAY_RAW.txt",
+    "https://raw.githubusercontent.com/Mahdi0024/ProxyCollector/master/sub/proxies.txt",
+    "https://raw.githubusercontent.com/V2RAYCONFIGSPOOL/V2RAY_SUB/refs/heads/main/v2ray_configs_no5.txt",
+    "https://raw.githubusercontent.com/parvinxs/Submahsanetxsparvin/refs/heads/main/Sub.mahsa.xsparvin"
 ]
 
 class GitHubConfigExtractor:

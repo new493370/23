@@ -1,7 +1,9 @@
 # IE - VLESS Configurations
-# Updated: 2026-01-23 18:34:00
-# Count: 2
+# Updated: 2026-01-23 21:26:12
+# Count: 4
 # Country Code: IE
 
-vless://e258977b-e413-4718-a3af-02d75492c349@50.7.4.108:443?path=%2F&security=tls&encryption=none&insecure=0&host=ww23.sgxaniu.qzz.io&fp=chrome&type=ws&allowInsecure=0&sni=ww23.sgxaniu.qzz.io#ARISTA🔥
+vless://e258977b-e413-4718-a3af-02d75492c349@50.7.4.108:443?path=%2F&security=tls&encryption=none&host=ww23.sgxaniu.qzz.io&fp=chrome&type=ws&sni=ww23.sgxaniu.qzz.io#ARISTA🔥
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@54.217.139.89:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#ARISTA🔥
+vless://e258977b-e413-4718-a3af-02d75492c349@50.7.4.108:443?path=%2F&security=tls&encryption=none&insecure=0&host=ww23.sgxaniu.qzz.io&fp=chrome&type=ws&allowInsecure=0&sni=ww23.sgxaniu.qzz.io#ARISTA🔥
+vless://e258977b-e413-4718-a3af-02d75492c349@50.7.4.108:443?path=%2F&security=tls&encryption=none&insecure=0&host=ww23.sgxaniu.qzz.io%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&fp=chrome&type=ws&allowInsecure=0&sni=ww23.sgxaniu.qzz.io#ARISTA🔥

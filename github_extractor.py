@@ -10,8 +10,6 @@ import os
 
 SOURCES = [
     "https://raw.githubusercontent.com/Mosifree/-FREE2CONFIG/refs/heads/main/Reality",
-    "https://cdn.jsdelivr.net/gh/Rayan-Config/C-Sub@main/configs/proxy.txt",
-    "https://cdn.jsdelivr.net/gh/MahsaNetConfigTopic/config@main/xray_final.txt",
     "https://cdn.jsdelivr.net/gh/4n0nymou3/multi-proxy-config-fetcher@main/configs/proxy_configs.txt",
     "https://cdn.jsdelivr.net/gh/miladtahanian/V2RayCFGDumper@main/config.txt",
     "https://cdn.jsdelivr.net/gh/parvinxs/Submahsanetxsparvin@main/Sub.mahsa.xsparvin",
@@ -22,7 +20,8 @@ SOURCES = [
     "https://cdn.jsdelivr.net/gh/roosterkid/openproxylist@main/V2RAY_RAW.txt",
     "https://raw.githubusercontent.com/Mahdi0024/ProxyCollector/master/sub/proxies.txt",
     "https://raw.githubusercontent.com/V2RAYCONFIGSPOOL/V2RAY_SUB/refs/heads/main/v2ray_configs_no5.txt",
-    "https://raw.githubusercontent.com/parvinxs/Submahsanetxsparvin/refs/heads/main/Sub.mahsa.xsparvin"
+    "https://raw.githubusercontent.com/parvinxs/Submahsanetxsparvin/refs/heads/main/Sub.mahsa.xsparvin",
+    "https://cdn.jsdelivr.net/gh/LimeHi/LimeVPN@main/LimeVPN.txt"
 ]
 
 class GitHubConfigExtractor:

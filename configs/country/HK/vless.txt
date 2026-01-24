@@ -1,12 +1,12 @@
 # HK - VLESS Configurations
-# Updated: 2026-01-24 06:36:45
+# Updated: 2026-01-24 09:26:07
 # Count: 7
 # Country Code: HK
 
-vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@43.154.124.136:26666?encryption=none&security=tls&sni=sni.111000.cc.cd&type=ws&host=sni.111000.cc.cd&path=/?ed=2560&Telegram🇨🇳@WangCai2#ARISTA🔥
-vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@118.141.64.192:36619?encryption=none&security=tls&sni=sni.111000.cc.cd&type=ws&host=sni.111000.cc.cd&path=/?ed=2560&Telegram🇨🇳@WangCai2#ARISTA🔥
-vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@202.85.53.54:7000?encryption=none&security=tls&sni=sni.111000.cc.cd&type=ws&host=sni.111000.cc.cd&path=/?ed=2560&Telegram🇨🇳@WangCai2#ARISTA🔥
 vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@223.16.138.113:10201?encryption=none&security=tls&sni=sni.111000.cc.cd&type=ws&host=sni.111000.cc.cd&path=/?ed=2560&Telegram🇨🇳@WangCai2#ARISTA🔥
+vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@43.154.124.136:26666?encryption=none&security=tls&sni=sni.111000.cc.cd&type=ws&host=sni.111000.cc.cd&path=/?ed=2560&Telegram🇨🇳@WangCai2#ARISTA🔥
+vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@202.85.53.54:7000?encryption=none&security=tls&sni=sni.111000.cc.cd&type=ws&host=sni.111000.cc.cd&path=/?ed=2560&Telegram🇨🇳@WangCai2#ARISTA🔥
 vless://46e274b0-8033-4011-b1a0-9d05c3531a79@27.0.232.191:443?encryption=none&security=tls&sni=hkg.tunnelguard.ru&alpn=h2%2Chttp%2F1.1&insecure=1&allowInsecure=1&type=xhttp&path=%2F&mode=auto#ARISTA🔥
 vless://824dc1b1-e35b-4121-ad73-9acaf13d6410@47.76.27.185:443?encryption=none&security=tls&sni=n1761184282.74qxv.top&fp=chrome&insecure=1&allowInsecure=1&type=ws&host=n1761184282.74qxv.top&path=%2F824dc1b1-e35b-4121-ad73-9acaf13d6410#ARISTA🔥
+vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@118.141.64.192:36619?encryption=none&security=tls&sni=sni.111000.cc.cd&type=ws&host=sni.111000.cc.cd&path=/?ed=2560&Telegram🇨🇳@WangCai2#ARISTA🔥
 vless://daredevill_404@46.8.78.214:56094?type=xhttp&encryption=none&path=%2F%40daredevill_404%40daredevill_404%40daredevill_404&host=&mode=auto&security=none#ARISTA🔥

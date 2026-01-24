@@ -1,40 +1,40 @@
 # Combined TROJAN Configurations
-# Updated: 2026-01-24 04:07:29
-# Count: 222
-# Sources: Telegram (32) + GitHub (201)
+# Updated: 2026-01-24 06:36:45
+# Count: 224
+# Sources: Telegram (32) + GitHub (203)
 
+trojan://humanity@www.calmlunch.com:443?path=%2Fassignment&security=tls&host=www.calmlunch.com&type=ws&sni=www.calmlunch.com#ARISTA🔥
+trojan://OVsFRZT5jG@172.67.191.189:443?path=%2F&security=tls&host=web.teama.tk&type=ws&sni=web.teama.tk#ARISTA🔥
+trojan://ZJU29smXwp@172.67.191.189:2053?path=%2F&security=tls&host=k.teama.tk&type=ws&sni=web2.teama.tk#ARISTA🔥
+trojan://ZJU29smXwp@172.67.68.87:2053?path=%2F&security=tls&host=k.teama.tk&type=ws&sni=Web2.teama.tk#ARISTA🔥
+trojan://ZJU29smXwp@45.85.118.0:2053?path=%2F&security=tls&host=k.teama.tk&type=ws&sni=web2.teama.tk#ARISTA🔥
+trojan://TurbooServer@cdn.turbooserver.com:80?path=%2Fed%3D25&security=none&host=jone-turboo-server.com&type=ws#ARISTA🔥
+trojan://TurbooServer@cdn1.turbooserver.com:80?path=%2Fed&security=none&host=turboo-server.online&type=ws#ARISTA🔥
+trojan://f40d74b6-6092-4a32-bde1-0eec5db90de0@xiaozhu1.kkieo555.cn:41274?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1#ARISTA🔥
 trojan://telegram-id-directvpn@3.76.159.25:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#ARISTA🔥
 trojan://telegram-id-directvpn@13.37.174.80:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#ARISTA🔥
 trojan://telegram-id-directvpn@35.181.110.226:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#ARISTA🔥
 trojan://telegram-id-directvpn@63.181.195.69:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#ARISTA🔥
 trojan://telegram-id-directvpn@13.36.35.251:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#ARISTA🔥
-trojan://f40d74b6-6092-4a32-bde1-0eec5db90de0@xiaozhu1.kkieo555.cn:41274?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1#ARISTA🔥
-trojan://telegram-id-privatevpns@3.76.159.25:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#ARISTA🔥
+trojan://iWnFtzMiac@205.185.115.223:19258/?type=grpc&serviceName=&authority=&security=reality&pbk=q_lg6VnOGhN_Ow5gHtZoDv_mJp-8W7m51N6vKamsMXk&fp=chrome&sni=cloudflare.com&sid=6d7efa97b2&spx=%2F#ARISTA🔥
+trojan://IXoJvZ7SJb@de.scpnb.top:44792/?type=grpc&serviceName=&authority=&security=reality&pbk=HuKTPB5e7tzLiGoYPhPRFgHE_1VJNaroU-TTRA9xAyI&fp=chrome&sni=cloudflare.com&sid=95&spx=%2F#ARISTA🔥
+trojan://chslToBpxJ@209.200.246.248:22086/?type=grpc&serviceName=&authority=&security=reality&pbk=Bo-0prp3Nlf3NX9egy-iCjLBONYo9j2lniXaEtET3ns&fp=chrome&sni=www.cloudflare.com&sid=4f69441f911943&spx=%2F#ARISTA🔥
 trojan://telegram-id-privatevpns@13.37.174.80:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#ARISTA🔥
 trojan://telegram-id-privatevpns@35.181.110.226:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#ARISTA🔥
 trojan://telegram-id-privatevpns@63.181.195.69:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#ARISTA🔥
 trojan://telegram-id-privatevpns@13.36.35.251:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#ARISTA🔥
-trojan://iWnFtzMiac@205.185.115.223:19258/?type=grpc&serviceName=&authority=&security=reality&pbk=q_lg6VnOGhN_Ow5gHtZoDv_mJp-8W7m51N6vKamsMXk&fp=chrome&sni=cloudflare.com&sid=6d7efa97b2&spx=%2F#ARISTA🔥
-trojan://IXoJvZ7SJb@de.scpnb.top:44792/?type=grpc&serviceName=&authority=&security=reality&pbk=HuKTPB5e7tzLiGoYPhPRFgHE_1VJNaroU-TTRA9xAyI&fp=chrome&sni=cloudflare.com&sid=95&spx=%2F#ARISTA🔥
-trojan://chslToBpxJ@209.200.246.248:22086/?type=grpc&serviceName=&authority=&security=reality&pbk=Bo-0prp3Nlf3NX9egy-iCjLBONYo9j2lniXaEtET3ns&fp=chrome&sni=www.cloudflare.com&sid=4f69441f911943&spx=%2F#ARISTA🔥
-trojan://telegram-id-privatevpns@3.70.33.164:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#ARISTA🔥
-trojan://OVsFRZT5jG@172.67.191.189:443?path=%2F&security=tls&host=web.teama.tk&type=ws&sni=web.teama.tk#ARISTA🔥
-trojan://ZJU29smXwp@172.67.191.189:2053?path=%2F&security=tls&host=k.teama.tk&type=ws&sni=web2.teama.tk#ARISTA🔥
-trojan://ZJU29smXwp@172.67.68.87:2053?path=%2F&security=tls&host=k.teama.tk&type=ws&sni=Web2.teama.tk#ARISTA🔥
-trojan://ZJU29smXwp@45.85.118.0:2053?path=%2F&security=tls&host=k.teama.tk&type=ws&sni=web2.teama.tk#ARISTA🔥
+trojan://telegram-id-privatevpns@63.179.77.17:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#ARISTA🔥
+trojan://6a5cb4b7-8dad-3077-b21c-6f47e8dfb9af@iplc.xiaohouzi.club:20011?allowInsecure=1&peer=supaz012.xiaohouzi.club#ARISTA🔥
+trojan://019a8c1f-3d28-74e8-8a8e-40045d7ec77f@38.207.160.35:443/?type=tcp&security=tls&sni=www.bilibili.com&allowInsecure=1#ARISTA🔥
+trojan://59a62e95-6262-4ba1-8027-c642b7c72713@green2.cdntencentmusic.com:31101/?type=tcp&security=tls&sni=green2.cdntencentmusic.com#ARISTA🔥
+trojan://vpn_connects@comando.fisifisi.com:80?type=ws&host=takashi1.vpconc.com&path=/ed&security=none#ARISTA🔥
+trojan://vpn_connects@comando.fisifisi.com:80?type=ws&path=%2F&host=kamoo.kamandora1.org&security=none#ARISTA🔥
 trojan://telegram-id-v2rayvpnchannel@13.36.202.63:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#ARISTA🔥
 trojan://telegram-id-v2rayvpnchannel@3.76.159.25:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#ARISTA🔥
 trojan://telegram-id-v2rayvpnchannel@13.37.174.80:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#ARISTA🔥
 trojan://telegram-id-v2rayvpnchannel@35.181.110.226:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#ARISTA🔥
 trojan://telegram-id-v2rayvpnchannel@63.181.195.69:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#ARISTA🔥
-trojan://019a8c1f-3d28-74e8-8a8e-40045d7ec77f@38.207.160.35:443/?type=tcp&security=tls&sni=www.bilibili.com&allowInsecure=1#ARISTA🔥
-trojan://59a62e95-6262-4ba1-8027-c642b7c72713@green2.cdntencentmusic.com:31101/?type=tcp&security=tls&sni=green2.cdntencentmusic.com#ARISTA🔥
-trojan://6a5cb4b7-8dad-3077-b21c-6f47e8dfb9af@iplc.xiaohouzi.club:20011?allowInsecure=1&peer=supaz012.xiaohouzi.club#ARISTA🔥
-trojan://vpn_connects@comando.fisifisi.com:80?type=ws&host=takashi1.vpconc.com&path=/ed&security=none#ARISTA🔥
-trojan://vpn_connects@comando.fisifisi.com:80?type=ws&path=%2F&host=kamoo.kamandora1.org&security=none#ARISTA🔥
-trojan://humanity@www.calmlunch.com:443?path=%2Fassignment&security=tls&host=www.calmlunch.com&type=ws&sni=www.calmlunch.com#ARISTA🔥
-trojan://TurbooServer@cdn.turbooserver.com:80?path=%2Fed%3D25&security=none&host=jone-turboo-server.com&type=ws#ARISTA🔥
-trojan://TurbooServer@cdn1.turbooserver.com:80?path=%2Fed&security=none&host=turboo-server.online&type=ws#ARISTA🔥
+trojan://telegram-id-privatevpns@3.70.33.164:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#ARISTA🔥
 trojan://02948bde80594712b974368035f294dd@88.214.24.235:9443?security=reality&amp;pbk=au0aQ5QVdLNbzMShbL9Anhi5hOPXMNJVBhbkuFP7Sk0&amp;headerType=none&amp;fp=random&amp;type=tcp&amp;sni=apple.com&amp;sid=aabbccdd#ARISTA🔥
 trojan://02948bde80594712b974368035f294dd@88.214.24.235:9443?security=reality&pbk=au0aQ5QVdLNbzMShbL9Anhi5hOPXMNJVBhbkuFP7Sk0&host=/@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-?ed=2560&headerType=none&fp=random&type=tcp&sni=apple.com&sid=aabbccdd#ARISTA🔥
 trojan://09007daa-a345-4ec2-b3e8-37068855f877@green2.cdntencentmusic.com:31103?sni=green2.cdntencentmusic.com&path=/#ARISTA🔥
@@ -140,7 +140,6 @@ trojan://telegram-id-directvpn@13.39.200.50:22223?security=tls&alpn=http/1.1&hea
 trojan://TurbooServer@cdn.turbooserver.com:80?type=ws&host=jone-turboo-server.com&path=/ed%3D25&security=none#ARISTA🔥
 trojan://trojan@162.159.152.4:8443?path=%2F%3Fed&security=tls&serviseName=@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray&insecure=0&host=azadnet-f03.pages.dev&fp=chrome&type=ws&allowInsecure=0&sni=azadnet-f03.pages.dev#ARISTA🔥
 trojan://telegram-id-privatevpns@3.70.150.185:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#ARISTA🔥
-trojan://telegram-id-privatevpns@63.179.77.17:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#ARISTA🔥
 trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@23.186.200.107:11011?security=tls&headerType=none&type=tcp&sni=wus01.weyaf9sdoh2h.space#ARISTA🔥
 trojan://0b78da11-9e69-4bd6-a95f-27ca81c43d0d@xiaozhu1.kkieo555.cn:41275?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1#ARISTA🔥
 trojan://telegram-id-privatevpns@13.36.116.248:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#ARISTA🔥
@@ -149,6 +148,7 @@ trojan://telegram-id-privatevpns@15.236.163.176:22222?security=tls&alpn=http/1.1
 trojan://xtA6WF92Itmhm9jfvXUH1MDVL@free-de-3.undef.network:443?path=%2Ff2fc2a1f&security=tls&host=free-de-3.undef.network&type=ws&sni=free-de-3.undef.network#ARISTA🔥
 trojan://2AAF5UEsSd@37.27.249.93:20000?type=tcp&security=none#ARISTA🔥
 trojan://telegram-id-directvpn@63.179.77.17:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#ARISTA🔥
+trojan://telegram-id-privatevpns@3.76.159.25:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#ARISTA🔥
 trojan://telegram-id-directvpn@51.44.124.96:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#ARISTA🔥
 trojan://telegram-id-directvpn@3.65.79.146:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#ARISTA🔥
 trojan://telegram-id-directvpn@18.196.155.223:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#ARISTA🔥
@@ -225,3 +225,5 @@ trojan://e77009cf-13db-4014-87d1-800bcfa9e173@green2.cdntencentmusic.com:31103?s
 trojan://5c762006-ed60-4b35-b8fe-4520adeac906@green2.cdntencentmusic.com:31103?sni=green2.cdntencentmusic.com&path=%2f#ARISTA🔥
 trojan://d8b3841a-ece7-4ce7-b2f9-30fc909cbeea@green2.cdntencentmusic.com:31103?sni=green2.cdntencentmusic.com&path=%2f#ARISTA🔥
 trojan://3d6feccc-ce86-4bf9-b943-207df9818ad5@green2.cdntencentmusic.com:31103?sni=green2.cdntencentmusic.com&path=%2f#ARISTA🔥
+trojan://cTv.9PDdCt-wybBrG1qlxI5UJuaEj@167.17.185.152:10889?allowInsecure=1&sni=ozon.ru#ARISTA🔥
+trojan://ZblhWr0mqMakCPg.N@212.193.18.144:36158?allowInsecure=1#ARISTA🔥

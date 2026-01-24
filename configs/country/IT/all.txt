@@ -1,16 +1,16 @@
 # All Configurations for IT
-# Updated: 2026-01-24 12:41:12
+# Updated: 2026-01-24 15:24:16
 # Total Count: 13
 # Country Code: IT
 
-vless://1cc1fa50-ad16-4e22-81a0-e416f7a35f60@83.136.107.171:443?security=reality&serviseName=@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray&alpn=h2&encryption=none&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=aws.com#ARISTA🔥
+vless://1cc1fa50-ad16-4e22-81a0-e416f7a35f60@83.136.107.171:443?security=reality&alpn=h2&encryption=none&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=aws.com#ARISTA🔥
 vless://eda2c296-a990-4d41-bbdf-f9c96b9579cd@84.17.58.152:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=tradingview.com&fp=chrome&security=reality&pbk=_CjW0Khlrr5z5oc9Oy6-w2ZEanz-zMBktVn5EOX9oTM&sid=6419bed7fd0a2cff#ARISTA🔥
+vless://051b4552-b516-485c-b4a0-fe18ab4ec7ee@80.211.139.106:651?mode=gun&security=reality&encryption=none&authority=&pbk=H2pJZSjdIazQ9BxTgd9li6XWWj2TaXPfXEZWrL5yS34&fp=firefox&type=grpc&serviceName=&sni=stackoverflow.com&sid=86ba053c74aaba8e#ARISTA🔥
+vless://turboo-server@146.75.55.82:80?mode=auto&path=%2F&security=none&encryption=none&host=turboo-server-bot.com&type=xhttp#ARISTA🔥
 vless://fc7a34b8-7f83-475f-bca4-7a8f5dc861fb@151.101.242.172:80?host=Germany.ss.ss&type=ws&security=none&path=WEDBAZ%3Fed%3D2048&encryption=none#ARISTA🔥
 vless://fc7a34b8-7f83-475f-bca4-7a8f5dc861fb@151.101.242.172:80?host=Germandiginoe.com&type=ws&security=none&path=WEDBAZ%3Fed%3D2048&encryption=none#ARISTA🔥
 vless://854eea7a-c834-4f62-9e17-ae63d1086f36@89.150.48.171:443/?type=tcp&encryption=none&flow=&sni=pt1vless.instavpn.ru&fp=chrome&security=reality&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&sid=868419504747f6de#ARISTA🔥
-vless://turboo-server@146.75.55.82:80?mode=auto&path=%2F&security=none&encryption=none&host=turboo-server-bot.com&type=xhttp#ARISTA🔥
-vless://1cc1fa50-ad16-4e22-81a0-e416f7a35f60@83.136.107.171:443?security=reality&alpn=h2&encryption=none&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=aws.com#ARISTA🔥
-vless://051b4552-b516-485c-b4a0-fe18ab4ec7ee@80.211.139.106:651?mode=gun&security=reality&encryption=none&authority=&pbk=H2pJZSjdIazQ9BxTgd9li6XWWj2TaXPfXEZWrL5yS34&fp=firefox&type=grpc&serviceName=&sni=stackoverflow.com&sid=86ba053c74aaba8e#ARISTA🔥
+vless://1cc1fa50-ad16-4e22-81a0-e416f7a35f60@83.136.107.171:443?security=reality&serviseName=@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray&alpn=h2&encryption=none&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=aws.com#ARISTA🔥
 vmess://eyJhZGQiOiIxMDkuMTIyLjIwOS43OCIsImFpZCI6IjAiLCJob3N0IjoiIiwiaWQiOiIyMjUzMWIzZi01NjBjLTQ3ODktOWI1OC0wMmViZWM0ZjMxYWMiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjEwMDMiLCJwcyI6IkFSSVNUQfCflKUiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoibm9uZSIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 trojan://OdgHycGphesfLmPMYolUF@172.238.229.254:14051?security=tls&amp;headerType=none&amp;type=tcp&amp;sni=api.avito.ru#ARISTA🔥
 trojan://OdgHycGphesfLmPMYolUF@172.238.229.254:14051?security=tls&headerType=none&type=tcp&sni=api.avito.ru#ARISTA🔥

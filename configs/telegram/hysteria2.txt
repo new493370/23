@@ -1,8 +1,8 @@
 # Telegram HYSTERIA2 Configurations
-# Updated: 2026-01-25 15:24:20
+# Updated: 2026-01-25 18:33:32
 # Count: 3
 # Source: Telegram Channels
 
-hysteria2://Yet-Another-Public-Config-1@206.71.158.37:36400?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir#ARISTA🔥
-hysteria2://d49bed26-af38-4618-ab89-1f7f24890f1d@us2.anliangjifei.top:50536,50000-55000/?insecure=1&sni=apps.apple.com#ARISTA🔥
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35200?sni=YAPC-1.afshin.ir&insecure=1&allowInsecure=1&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#ARISTA🔥
+hysteria2://d49bed26-af38-4618-ab89-1f7f24890f1d@us2.anliangjifei.top:50536,50000-55000/?insecure=1&sni=apps.apple.com#ARISTA🔥
+hysteria2://Yet-Another-Public-Config-1@206.71.158.37:36400?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir#ARISTA🔥

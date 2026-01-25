@@ -1,11 +1,11 @@
 # Combined HYSTERIA2 Configurations
-# Updated: 2026-01-25 15:24:21
+# Updated: 2026-01-25 18:33:35
 # Count: 154
 # Sources: Telegram (3) + GitHub (152)
 
-hysteria2://Yet-Another-Public-Config-1@206.71.158.37:36400?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir#ARISTA🔥
-hysteria2://d49bed26-af38-4618-ab89-1f7f24890f1d@us2.anliangjifei.top:50536,50000-55000/?insecure=1&sni=apps.apple.com#ARISTA🔥
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35200?sni=YAPC-1.afshin.ir&insecure=1&allowInsecure=1&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#ARISTA🔥
+hysteria2://d49bed26-af38-4618-ab89-1f7f24890f1d@us2.anliangjifei.top:50536,50000-55000/?insecure=1&sni=apps.apple.com#ARISTA🔥
+hysteria2://Yet-Another-Public-Config-1@206.71.158.37:36400?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir#ARISTA🔥
 hysteria2://17cdeb6c-f046-11ee-bdac-f23c93141fad@6adab57e-t53wg0-tdvgqe-2gok.la.shifen.uk:1743?security=tls&insecure=0&sni=6adab57e-t53wg0-tdvgqe-2gok.la.shifen.uk#ARISTA🔥
 hysteria2://17cdeb6c-f046-11ee-bdac-f23c93141fad@c37b0be5n-t3kyo0-t3lvgh-2gok.la.shifen.uk:1743?insecure=1&sni=c37b0be5-t3kyo0-t3lvgh-2gok.la.shifen.uk#ARISTA🔥
 hysteria2://17cdeb6c-f046-11ee-bdac-f23c93141fad@c37b0be5n-t3kyo0-t3lvgh-2gok.la.shifen.uk:1743?security=tls&insecure=0&sni=c37b0be5-t3kyo0-t3lvgh-2gok.la.shifen.uk#ARISTA🔥

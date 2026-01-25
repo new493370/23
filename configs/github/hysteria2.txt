@@ -1,6 +1,6 @@
 # GitHub HYSTERIA2 Configurations
-# Updated: 2026-01-24 21:25:59
-# Count: 152
+# Updated: 2026-01-25 01:32:08
+# Count: 97
 # Source: GitHub Repositories
 
 hysteria2://17cdeb6c-f046-11ee-bdac-f23c93141fad@6adab57e-t53wg0-tdvgqe-2gok.la.shifen.uk:1743?security=tls&insecure=0&sni=6adab57e-t53wg0-tdvgqe-2gok.la.shifen.uk#ARISTA🔥
@@ -94,64 +94,9 @@ hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@falankefu1.nezhasu.com:443?sni=
 hysteria2://e42a38c4-4bea-42d6-90f1-3076e12f8c51@lsus3.lansecs.top:58338?sni=lsus3.lansecs.top&insecure=1#ARISTA🔥
 hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@lundun1.nezhasu.com:443?sni=lundun1.nezhasu.com&insecure=1&mport=50000-65535#ARISTA🔥
 hysteria2://dongtaiwang.com@208.87.243.187:22222?security=tls&insecure=1&sni=www.bing.com#ARISTA🔥
-hysteria2://285958f6-57ea-4dd0-bc35-2786fd9d9695@us2.anliangjifei.top:53798?insecure=1&sni=apps.apple.com#ARISTA🔥
-hysteria2://a3ff73f3-e1e2-4003-a075-0b6a4bb84c41@us2.anliangjifei.top:53990?insecure=1&sni=apps.apple.com#ARISTA🔥
-hysteria2://92112a64-e8d4-4000-b7cf-375d8d5b30d5@us2.anliangjifei.top:54506?insecure=1&sni=apps.apple.com&mport=50000-55000#ARISTA🔥
-hysteria2://f73b56a8-4b81-4fb5-8aca-bf4ccb6baba1@us2.anliangjifei.top:52728?insecure=1&sni=apps.apple.com#ARISTA🔥
-hysteria2://784c365c-04d2-41cf-9619-ca75c8220d1c@us2.anliangjifei.top:54992?insecure=1&sni=apps.apple.com&mport=50000-55000#ARISTA🔥
-hysteria2://4d76ac5c-5d69-4c1c-8a80-39ab59cfaf9d@us2.anliangjifei.top:54629?insecure=1&sni=apps.apple.com&mport=50000-55000#ARISTA🔥
-hysteria2://7a1c76d2-3541-4dbd-b17b-0a1380c847e8@us2.anliangjifei.top:54325?insecure=1&sni=apps.apple.com&mport=50000-55000#ARISTA🔥
-hysteria2://38e6e915-2096-4105-a45b-d5501547f171@us2.anliangjifei.top:54687?insecure=1&sni=apps.apple.com#ARISTA🔥
-hysteria2://461e576e-8d2c-4e47-a979-dc948314dfe6@us2.anliangjifei.top:54584?insecure=1&sni=apps.apple.com&mport=50000-55000#ARISTA🔥
-hysteria2://9ebc8e2f-c243-45ab-bfe7-ba9b5bbe5c07@us2.anliangjifei.top:52178?insecure=1&sni=apps.apple.com&mport=50000-55000#ARISTA🔥
-hysteria2://4c0267cf-1d67-4fab-b6f9-903249251c7c@us2.anliangjifei.top:51380?insecure=1&sni=apps.apple.com&mport=50000-55000#ARISTA🔥
-hysteria2://cb4a41c8-7a2f-41f2-8e52-fe7627ac8cff@us2.anliangjifei.top:53069?insecure=1&sni=apps.apple.com#ARISTA🔥
-hysteria2://9ebc8e2f-c243-45ab-bfe7-ba9b5bbe5c07@us2.anliangjifei.top:50906?insecure=1&sni=apps.apple.com&mport=50000-55000#ARISTA🔥
-hysteria2://194bd895-7e81-4c78-9092-a7cc416f818e@us2.anliangjifei.top:52791?insecure=1&sni=apps.apple.com&mport=50000-55000#ARISTA🔥
-hysteria2://e579dffa-d0b7-4253-9fc8-0623102abbf4@us2.anliangjifei.top:51322?insecure=1&sni=apps.apple.com&mport=50000-55000#ARISTA🔥
-hysteria2://2bf726d0-231c-495d-9e9d-6c7f0f8ed1a9@us2.anliangjifei.top:53364?insecure=1&sni=apps.apple.com&mport=50000-55000#ARISTA🔥
-hysteria2://940da41f-a4f0-4d7f-a547-a5ffb03c36a1@us2.anliangjifei.top:53390?insecure=1&sni=apps.apple.com&mport=50000-55000#ARISTA🔥
-hysteria2://df61b57f-d90a-4cdc-b48f-c4e3b99f2f12@us2.anliangjifei.top:52020?insecure=1&sni=apps.apple.com&mport=50000-55000#ARISTA🔥
-hysteria2://310faa69-b42b-4b84-861a-a14332c570b2@us2.anliangjifei.top:52341?insecure=1&sni=apps.apple.com#ARISTA🔥
-hysteria2://4da9c023-945f-4fe3-a43a-9367f46f7959@us2.anliangjifei.top:51459?insecure=1&sni=apps.apple.com#ARISTA🔥
-hysteria2://2bf726d0-231c-495d-9e9d-6c7f0f8ed1a9@us2.anliangjifei.top:50194?insecure=1&sni=apps.apple.com&mport=50000-55000#ARISTA🔥
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35200?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=0&sni=YAPC-1.afshin.ir#ARISTA🔥
-hysteria2://75584725-f76a-4cf7-86fd-2102e27f7a7b@us2.anliangjifei.top:53383?insecure=1&sni=apps.apple.com#ARISTA🔥
-hysteria2://88ce98fd-fc30-4136-b944-4b2e8989b0de@us2.anliangjifei.top:53749?insecure=1&sni=apps.apple.com&mport=50000-55000#ARISTA🔥
-hysteria2://278fd9dd-ecc9-46dd-89ff-f3f14ee47e38@us2.anliangjifei.top:53226?insecure=1&sni=apps.apple.com&mport=50000-55000#ARISTA🔥
-hysteria2://0ddc6c64-e6bf-4f4a-8287-8974f6070e1e@us2.anliangjifei.top:54829?insecure=1&sni=apps.apple.com#ARISTA🔥
-hysteria2://278fd9dd-ecc9-46dd-89ff-f3f14ee47e38@us2.anliangjifei.top:51739?insecure=1&sni=apps.apple.com&mport=50000-55000#ARISTA🔥
-hysteria2://74fa0b9a-020f-45dc-bf88-561399b44d4a@us2.anliangjifei.top:54350?insecure=1&sni=apps.apple.com&mport=50000-55000#ARISTA🔥
-hysteria2://99915cc0-c31c-47d8-ac5d-96e4305e4d3b@us2.anliangjifei.top:54703?insecure=1&sni=apps.apple.com&mport=50000-55000#ARISTA🔥
-hysteria2://be7c955a-d882-42ba-974c-6d99f29968c4@us2.anliangjifei.top:52831?insecure=1&sni=apps.apple.com#ARISTA🔥
-hysteria2://211e1326-6da2-4c75-a17d-f4dce405096c@us2.anliangjifei.top:50837?insecure=1&sni=apps.apple.com#ARISTA🔥
-hysteria2://f73b56a8-4b81-4fb5-8aca-bf4ccb6baba1@us2.anliangjifei.top:51770?insecure=1&sni=apps.apple.com#ARISTA🔥
-hysteria2://2f7dfbee-bebf-4129-bc5e-3db41bb05414@us2.anliangjifei.top:50171?insecure=1&sni=apps.apple.com&mport=50000-55000#ARISTA🔥
-hysteria2://c3dc8d26-ab2b-11ec-a8bf-f23c91cfbbc9@72b99e3a-t6pb40-t8wh4m-1hpo0.hk1.hyhuawei.com:443?security=tls&insecure=0&sni=72b99e3a-t6pb40-t8wh4m-1hpo0.hk1.hyhuawei.com#ARISTA🔥
-hysteria2://f87021a1-c36b-4682-b117-5fce8b3ac308@us2.anliangjifei.top:51117?insecure=1&sni=apps.apple.com#ARISTA🔥
-hysteria2://007f72b0-d0b3-4155-8901-719fe756194a@us2.anliangjifei.top:52311?insecure=1&sni=apps.apple.com&mport=50000-55000#ARISTA🔥
-hysteria2://688c967f-900e-4b66-b8ec-f592f1386254@us2.anliangjifei.top:51355?insecure=1&sni=apps.apple.com#ARISTA🔥
-hysteria2://6aacacde-f6c4-485a-9aac-cc2c48cd9ee7@us2.anliangjifei.top:50283?insecure=1&sni=apps.apple.com#ARISTA🔥
-hysteria2://19220bf4-0327-41cb-b53e-0038f8cb3ecc@us2.anliangjifei.top:53954?insecure=1&sni=apps.apple.com#ARISTA🔥
-hysteria2://6cb4bb40-6f46-44ed-9ea6-1edf9d95cd9c@us2.anliangjifei.top:53062?insecure=1&sni=apps.apple.com#ARISTA🔥
-hysteria2://12f506d7-dc45-4780-91c0-68efd900f025@us2.anliangjifei.top:53757?insecure=1&sni=apps.apple.com&mport=50000-55000#ARISTA🔥
-hysteria2://ecb6e5f2-ce29-4a86-9ee8-69a990c17be2@us2.anliangjifei.top:51108?insecure=1&sni=apps.apple.com&mport=50000-55000#ARISTA🔥
+hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35200?sni=YAPC-1.afshin.ir&insecure=1&allowInsecure=1&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#ARISTA🔥
 hysteria2://linux.do@[2a01:4f9:4b:f378::1]:13599?security=tls&insecure=1&sni=www.bing.com#ARISTA🔥
-hysteria2://f85c0538-58e5-426a-a25d-770e751c73c3@us2.anliangjifei.top:53423?insecure=1&sni=apps.apple.com&mport=50000-55000#ARISTA🔥
-hysteria2://f9e70ea5-fc4f-4b01-9b91-18d6c0094a16@us2.anliangjifei.top:53787?insecure=1&sni=apps.apple.com&mport=50000-55000#ARISTA🔥
-hysteria2://2aaf511f-a243-43a0-96da-35ef0e1e0d3b@us2.anliangjifei.top:52919?insecure=1&sni=apps.apple.com#ARISTA🔥
-hysteria2://e4cc44b5-cc32-4bca-a359-285dcc00d8ee@us2.anliangjifei.top:51138?insecure=1&sni=apps.apple.com#ARISTA🔥
-hysteria2://bab5505c-1cd4-4b57-8f58-7ab290700438@us2.anliangjifei.top:52919?insecure=1&sni=apps.apple.com#ARISTA🔥
-hysteria2://4da9c023-945f-4fe3-a43a-9367f46f7959@us2.anliangjifei.top:54949?insecure=1&sni=apps.apple.com#ARISTA🔥
-hysteria2://4ebc7c2e-2092-40b5-af12-57884417df54@us2.anliangjifei.top:50176?insecure=1&sni=apps.apple.com&mport=50000-55000#ARISTA🔥
-hysteria2://68c238d0-4159-4f0d-a38a-9dfc7b3eef24@us2.anliangjifei.top:51294?insecure=1&sni=apps.apple.com#ARISTA🔥
+hysteria2://c3dc8d26-ab2b-11ec-a8bf-f23c91cfbbc9@72b99e3a-t6pb40-t8wh4m-1hpo0.hk1.hyhuawei.com:443?security=tls&insecure=0&sni=72b99e3a-t6pb40-t8wh4m-1hpo0.hk1.hyhuawei.com#ARISTA🔥
 hysteria2://freehomesvpnchannel3@channel1.saghetalaie.homes:46914?security=tls&obfs=salamander&obfs-password=&O#ARISTA🔥
-hysteria2://310faa69-b42b-4b84-861a-a14332c570b2@us2.anliangjifei.top:54311?insecure=1&sni=apps.apple.com#ARISTA🔥
-hysteria2://6e75bd9d-3ed9-4e1c-b221-8298ee81efcc@us2.anliangjifei.top:51184?insecure=1&sni=apps.apple.com&mport=50000-55000#ARISTA🔥
-hysteria2://ba4a9189-8a2d-4d19-8bac-3d801ebbef5d@us2.anliangjifei.top:51403?insecure=1&sni=apps.apple.com&mport=50000-55000#ARISTA🔥
-hysteria2://29b4f992-c46e-4a9b-b0ab-fcd57a484a05@us2.anliangjifei.top:54287?insecure=1&sni=apps.apple.com#ARISTA🔥
-hysteria2://59eb0301-8b4b-43af-b2e3-59c6f0767950@us2.anliangjifei.top:50934?insecure=1&sni=apps.apple.com#ARISTA🔥
-hysteria2://0ddc6c64-e6bf-4f4a-8287-8974f6070e1e@us2.anliangjifei.top:51277?insecure=1&sni=apps.apple.com#ARISTA🔥
-hysteria2://4186b5f7-ea74-4b38-9b2b-6dc72cb0633d@us2.anliangjifei.top:50653?insecure=1&sni=apps.apple.com&mport=50000-55000#ARISTA🔥
-hysteria2://07ba5a82-bc43-4c23-ac24-662a2ed277cc@us2.anliangjifei.top:51414?insecure=1&sni=apps.apple.com&mport=50000-55000#ARISTA🔥
 hy2://Yet-Another-Public-Config-1@206.71.158.37:36400?sni=YAPC-1.afshin.ir&path=%2f&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&allow_insecure=1#ARISTA🔥

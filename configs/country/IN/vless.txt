@@ -1,14 +1,14 @@
 # IN - VLESS Configurations
-# Updated: 2026-01-25 06:36:42
+# Updated: 2026-01-25 09:29:31
 # Count: 9
 # Country Code: IN
 
 vless://1edafc20-cffb-4921-bb2b-f00ce9864c5c@45.88.183.157:23803?security=&encryption=none&headerType=none&type=tcp#ARISTA🔥
-vless://0d93b787-b66b-4696-a036-a0f549764f69@103.243.232.218:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=id.fasti.win&fp=chrome&pbk=-YTGWg5DjsLDyaDfr1D83kiUK22LVcrK3yC53lqqigs&sid=feedbacc&type=tcp&headerType=none#ARISTA🔥
-vless://3771f08a-544c-499c-8546-75b3a758138d@139.84.175.101:8443?security=reality&encryption=none&pbk=eRmm_Hd5QMAbs6dKIpTIfrjbRq5U9g9nqh3B36tuRTk&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=www.refresion.com&sid=47b3283a0909d8#ARISTA🔥
-vless://1edafc20-cffb-4921-bb2b-f00ce9864c5c@45.88.183.157:23803?encryption=none&headerType=none&type=tcp#ARISTA🔥
 vless://51905fd3-29de-4b4e-b351-83542f1d5390@104.22.33.78:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=Bia.alLhub.Ltd&type=ws&sni=Bia.alLhub.Ltd#ARISTA🔥
 vless://309fa273-6579-4cb2-9143-7cad50401eba@45.88.183.100:8443?security=reality&encryption=none&pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=7cad5040#ARISTA🔥
 vless://309fa273-6579-4cb2-9143-7cad50401eba@45.88.183.100:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY&sid=7cad5040&type=tcp&headerType=none#ARISTA🔥
+vless://0d93b787-b66b-4696-a036-a0f549764f69@103.243.232.218:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=id.fasti.win&fp=chrome&pbk=-YTGWg5DjsLDyaDfr1D83kiUK22LVcrK3yC53lqqigs&sid=feedbacc&type=tcp&headerType=none#ARISTA🔥
+vless://3771f08a-544c-499c-8546-75b3a758138d@139.84.175.101:8443?security=reality&encryption=none&pbk=eRmm_Hd5QMAbs6dKIpTIfrjbRq5U9g9nqh3B36tuRTk&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=www.refresion.com&sid=47b3283a0909d8#ARISTA🔥
 vless://08704c01-7edb-454a-98a2-328ccb9936fa@45.88.183.156:12794?security=none&encryption=none&headerType=none&type=tcp#ARISTA🔥
 vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@103.245.228.238:2096?encryption=none&security=tls&sni=sni.111000.cc.cd&type=ws&host=sni.111000.cc.cd&path=/?ed=2560&Telegram🇨🇳@WangCai2#ARISTA🔥
+vless://1edafc20-cffb-4921-bb2b-f00ce9864c5c@45.88.183.157:23803?encryption=none&headerType=none&type=tcp#ARISTA🔥

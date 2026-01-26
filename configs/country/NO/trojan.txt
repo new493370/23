@@ -1,9 +1,10 @@
 # NO - TROJAN Configurations
-# Updated: 2026-01-26 12:46:40
-# Count: 4
+# Updated: 2026-01-26 15:33:29
+# Count: 5
 # Country Code: NO
 
 trojan://wp9IsiY82uQhcmgNC1eoBM@80.173.231.254:12420?security=tls&headerType=none&type=tcp&sni=www.semanticstaplegun.click#ARISTA🔥
+trojan://wp9IsiY82uQhcmgNC1eoBM@80.173.231.254:12420?security=tls&sni=www.semanticstaplegun.click&path=/#ARISTA🔥
 trojan://wp9IsiY82uQhcmgNC1eoBM@80.173.231.254:12420?security=tls&sni=www.semanticstaplegun.click&type=tcp&path=/#ARISTA🔥
 trojan://wp9IsiY82uQhcmgNC1eoBM@80.173.231.254:12420?security=tls&sni=www.semanticstaplegun.click&path=%2f#ARISTA🔥
-trojan://wp9IsiY82uQhcmgNC1eoBM@80.173.231.254:12420?security=tls&sni=www.semanticstaplegun.click&type=tcp&path=%2f#ARISTA🔥
+trojan://wp9IsiY82uQhcmgNC1eoBM@80.173.231.254:12420?security=tls&sni=www.semanticstaplegun.click&type=tcp&headerType=none&path=%2f#ARISTA🔥

@@ -1,6 +1,6 @@
 # All Configurations for JP
-# Updated: 2026-01-26 12:46:40
-# Total Count: 89
+# Updated: 2026-01-26 15:33:29
+# Total Count: 79
 # Country Code: JP
 
 vmess://eyJhZGQiOiIxMzEuMTg2LjYzLjg5IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJoay5uYmVlLnBwLnVhIiwiaWQiOiI0YmYwNzVmNS00ZDVlLTRkMzktZjVhYi1iMzJhODYyNTBmMGUiLCJuZXQiOiJ3cyIsInBhdGgiOiIvYWEiLCJwb3J0IjoiMTE2NTUiLCJwcyI6IkFSSVNUQfCflKUiLCJzY3kiOiJhdXRvIiwic25pIjoiaGsubmJlZS5wcC51YSIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
@@ -35,9 +35,11 @@ trojan://869e9086806483ca4744a4cb0f3d6e16@160.16.106.99:544?security=tls&sni=www
 trojan://869e9086806483ca4744a4cb0f3d6e16@160.16.106.99:544?sni=www.nintendogames.net&path=/#ARISTA🔥
 trojan://869e9086806483ca4744a4cb0f3d6e16@160.16.124.17:3076?security=tls&sni=www.nintendogames.net&path=/#ARISTA🔥
 trojan://869e9086806483ca4744a4cb0f3d6e16@160.16.124.17:3076?sni=www.nintendogames.net&path=/#ARISTA🔥
+trojan://869e9086806483ca4744a4cb0f3d6e16@160.16.130.21:4006?security=tls&sni=www.nintendogames.net&path=/#ARISTA🔥
 trojan://869e9086806483ca4744a4cb0f3d6e16@160.16.130.21:5076?security=tls&sni=www.nintendogames.net&path=/#ARISTA🔥
 trojan://869e9086806483ca4744a4cb0f3d6e16@160.16.130.21:5076?sni=www.nintendogames.net&path=/#ARISTA🔥
 trojan://869e9086806483ca4744a4cb0f3d6e16@160.16.72.205:544?security=tls&sni=www.nintendogames.net&path=/#ARISTA🔥
+trojan://869e9086806483ca4744a4cb0f3d6e16@160.16.72.205:544?sni=www.nintendogames.net&path=/#ARISTA🔥
 trojan://869e9086806483ca4744a4cb0f3d6e16@160.16.81.84:5076?security=tls&sni=www.nintendogames.net&path=/#ARISTA🔥
 trojan://869e9086806483ca4744a4cb0f3d6e16@160.16.81.84:5076?security=tls&sni=www.nintendogames.net&type=tcp&path=/#ARISTA🔥
 trojan://869e9086806483ca4744a4cb0f3d6e16@160.16.81.84:5076?sni=www.nintendogames.net&path=/#ARISTA🔥
@@ -55,32 +57,22 @@ trojan://869e9086806483ca4744a4cb0f3d6e16@160.16.89.176:5076?sni=www.nintendogam
 trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@202.181.103.246:1334?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=www.nintendogames.net#ARISTA🔥
 trojan://869e9086806483ca4744a4cb0f3d6e16@160.16.132.38:3423?allowInsecure=0&sni=www.nintendogames.net#ARISTA🔥
 trojan://869e9086806483ca4744a4cb0f3d6e16@160.16.72.33:544?allowInsecure=0&sni=www.nintendogames.net#ARISTA🔥
-trojan://869e9086806483ca4744a4cb0f3d6e16@160.16.89.176:1933?security=tls&sni=www.nintendogames.net&type=tcp&path=%2f#ARISTA🔥
-trojan://869e9086806483ca4744a4cb0f3d6e16@160.16.89.176:1933?security=tls&sni=www.nintendogames.net&path=%2f#ARISTA🔥
-trojan://869e9086806483ca4744a4cb0f3d6e16@160.16.89.176:1933?sni=www.nintendogames.net&path=%2f#ARISTA🔥
-trojan://869e9086806483ca4744a4cb0f3d6e16@160.16.105.192:1933?sni=www.nintendogames.net&path=%2f#ARISTA🔥
-trojan://869e9086806483ca4744a4cb0f3d6e16@160.16.105.192:1933?security=tls&sni=www.nintendogames.net&path=%2f#ARISTA🔥
-trojan://869e9086806483ca4744a4cb0f3d6e16@160.16.72.205:544?sni=www.nintendogames.net&path=%2f#ARISTA🔥
-trojan://869e9086806483ca4744a4cb0f3d6e16@160.16.106.99:544?security=tls&sni=www.nintendogames.net&path=%2f#ARISTA🔥
+trojan://869e9086806483ca4744a4cb0f3d6e16@153.121.51.29:4006?security=tls&sni=www.nintendogames.net&type=tcp&path=%2f#ARISTA🔥
 trojan://869e9086806483ca4744a4cb0f3d6e16@160.16.130.21:4006?security=tls&sni=www.nintendogames.net&path=%2f#ARISTA🔥
-trojan://869e9086806483ca4744a4cb0f3d6e16@160.16.106.99:544?security=tls&sni=www.nintendogames.net&type=tcp&path=%2f#ARISTA🔥
-trojan://869e9086806483ca4744a4cb0f3d6e16@160.16.89.176:3076?sni=www.nintendogames.net&path=%2f#ARISTA🔥
-trojan://869e9086806483ca4744a4cb0f3d6e16@160.16.89.176:3076?security=tls&sni=www.nintendogames.net&type=tcp&path=%2f#ARISTA🔥
-trojan://869e9086806483ca4744a4cb0f3d6e16@160.16.89.176:3076?security=tls&sni=www.nintendogames.net&path=%2f#ARISTA🔥
-trojan://869e9086806483ca4744a4cb0f3d6e16@160.16.124.17:3076?sni=www.nintendogames.net&path=%2f#ARISTA🔥
-trojan://869e9086806483ca4744a4cb0f3d6e16@160.16.106.99:544?sni=www.nintendogames.net&path=%2f#ARISTA🔥
-trojan://869e9086806483ca4744a4cb0f3d6e16@160.16.124.17:3076?security=tls&sni=www.nintendogames.net&path=%2f#ARISTA🔥
+trojan://869e9086806483ca4744a4cb0f3d6e16@160.16.89.176:1933?security=tls&sni=www.nintendogames.net&path=%2f#ARISTA🔥
 trojan://869e9086806483ca4744a4cb0f3d6e16@160.16.72.205:544?security=tls&sni=www.nintendogames.net&path=%2f#ARISTA🔥
-trojan://869e9086806483ca4744a4cb0f3d6e16@160.16.89.176:5076?sni=www.nintendogames.net&path=%2f#ARISTA🔥
-trojan://869e9086806483ca4744a4cb0f3d6e16@160.16.81.84:5076?sni=www.nintendogames.net&path=%2f#ARISTA🔥
-trojan://869e9086806483ca4744a4cb0f3d6e16@160.16.85.33:5076?sni=www.nintendogames.net&path=%2f#ARISTA🔥
-trojan://869e9086806483ca4744a4cb0f3d6e16@160.16.81.84:5076?security=tls&sni=www.nintendogames.net&type=tcp&path=%2f#ARISTA🔥
-trojan://869e9086806483ca4744a4cb0f3d6e16@160.16.85.33:5076?security=tls&sni=www.nintendogames.net&path=%2f#ARISTA🔥
-trojan://869e9086806483ca4744a4cb0f3d6e16@160.16.89.176:5076?security=tls&sni=www.nintendogames.net&path=%2f#ARISTA🔥
-trojan://869e9086806483ca4744a4cb0f3d6e16@160.16.89.176:5076?security=tls&sni=www.nintendogames.net&type=tcp&path=%2f#ARISTA🔥
-trojan://869e9086806483ca4744a4cb0f3d6e16@160.16.130.21:5076?sni=www.nintendogames.net&path=%2f#ARISTA🔥
+trojan://869e9086806483ca4744a4cb0f3d6e16@160.16.124.17:3076?security=tls&sni=www.nintendogames.net&path=%2f#ARISTA🔥
+trojan://869e9086806483ca4744a4cb0f3d6e16@160.16.150.76:3901?security=tls&sni=www.nintendogames.net&type=tcp&path=%2f#ARISTA🔥
+trojan://869e9086806483ca4744a4cb0f3d6e16@160.16.72.33:544?security=tls&sni=www.nintendogames.net&path=%2f#ARISTA🔥
+trojan://869e9086806483ca4744a4cb0f3d6e16@160.16.89.176:3076?security=tls&sni=www.nintendogames.net&path=%2f#ARISTA🔥
 trojan://869e9086806483ca4744a4cb0f3d6e16@160.16.81.84:5076?security=tls&sni=www.nintendogames.net&path=%2f#ARISTA🔥
+trojan://869e9086806483ca4744a4cb0f3d6e16@160.16.89.176:5076?security=tls&sni=www.nintendogames.net&path=%2f#ARISTA🔥
 trojan://869e9086806483ca4744a4cb0f3d6e16@160.16.130.21:5076?security=tls&sni=www.nintendogames.net&path=%2f#ARISTA🔥
+trojan://869e9086806483ca4744a4cb0f3d6e16@160.16.132.38:5076?security=tls&sni=www.nintendogames.net&type=tcp&path=%2f#ARISTA🔥
+trojan://869e9086806483ca4744a4cb0f3d6e16@160.16.132.38:5076?security=tls&sni=www.nintendogames.net&path=%2f#ARISTA🔥
+trojan://869e9086806483ca4744a4cb0f3d6e16@160.16.132.38:4006?security=tls&sni=www.nintendogames.net&path=%2f#ARISTA🔥
+trojan://869e9086806483ca4744a4cb0f3d6e16@160.16.150.76:3901?sni=www.nintendogames.net&path=%2f#ARISTA🔥
+trojan://869e9086806483ca4744a4cb0f3d6e16@160.16.72.33:3901?security=tls&sni=www.nintendogames.net&path=%2f#ARISTA🔥
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYTE9ydkxXa0NCQkJ4THFTRWU5UzhsbkM1UExzTmZSaA==@103.75.118.125:443#ARISTA🔥
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYTE9ydkxXa0NCQkJ4THFTRWU5UzhsbkM1UExzTmZSaA@103.75.118.125:443#ARISTA🔥
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDVANDMuMjA2LjIxOS4xNDA6NDQz#ARISTA🔥
@@ -89,6 +81,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozMDNhYzY1ZTMwZjI4YjBi@154.205.139.9:11202#AR
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozMDNhYzY1ZTMwZjI4YjBi@154.205.139.9:11203#ARISTA🔥
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozMDNhYzY1ZTMwZjI4YjBi@154.205.139.9:11204#ARISTA🔥
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozMDNhYzY1ZTMwZjI4YjBi@154.205.139.9:11205#ARISTA🔥
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@149.22.87.204:443#ARISTA🔥
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@149.22.87.241:443#ARISTA🔥
-ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@172.105.199.111:8080#ARISTA🔥
+ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@172.105.199.111:8080#ARISTA🔥

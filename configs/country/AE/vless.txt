@@ -1,26 +1,26 @@
 # AE - VLESS Configurations
-# Updated: 2026-01-26 22:59:18
+# Updated: 2026-01-26 23:36:46
 # Count: 21
 # Country Code: AE
 
-vless://fdc4e100-9979-47f2-b683-421fb19f7227@93.127.180.124:77?security=none&serviceName=Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH&encryption=none&headerType=none&type=tcp#ARISTA🔥
-vless://1b197700-e6fd-43ea-96ca-488f4c4cd731@93.127.180.128:8443?security=none&serviceName=Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH&encryption=none&headerType=none&type=tcp#ARISTA🔥
-vless://507d5567-1c19-485c-e481-2361a89615dc@185.45.194.29:39571?type=tcp&security=reality&sni=www.digikala.com&pbk=S-g0oP36DShii1uPOnZDSEhp_wQghX6h68PgMivOmD4&flow=xtls-rprx-vision&fp=chrome#ARISTA🔥
-vless://88210b4d-b356-4eaf-f7d7-edeacbd63a11@185.45.194.29:32108?type=tcp&security=reality&sni=www.speedtest.org&pbk=R2gKMF0Tetlnesc1pPkZH9NaOeehw-f5_U9JKG_cLjU&flow=xtls-rprx-vision&fp=chrome#ARISTA🔥
 vless://a9ca2b2a-df16-4be9-9606-6046dc7e674d@93.127.180.143:85?security=none&serviceName=Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH&encryption=none&headerType=none&type=tcp#ARISTA🔥
 vless://a9ca2b2a-df16-4be9-9606-6046dc7e674d@93.127.180.143:2087?security=none&serviceName=Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH&encryption=none&headerType=none&type=tcp#ARISTA🔥
-vless://6889a1d2-fb40-4fe6-ba30-8ff731799394@93.127.180.102:3030?security=none&serviceName=Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH&encryption=none&headerType=none&type=tcp#ARISTA🔥
-vless://174d209e-cba8-095c-0262-62e2ee3214f5@45.88.8.44:80?encryption=none&type=ws&path=/IVApi/NL/1&security=none#ARISTA🔥
-vless://871e1c55-f4e7-4c6a-8d9f-0957f98d1fe5@93.127.180.224:123?security=none&serviceName=Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH&encryption=none&headerType=none&type=tcp#ARISTA🔥
-vless://8d51e92a-7f6f-433c-b946-1ec411e7a759@217.195.200.233:35177?security=none&type=ws&path=/&packetEncoding=xudp&encryption=none#ARISTA🔥
-vless://f47b5d3c-4051-476d-8280-89b1125b4467@154.90.55.174:443?encryption=none&amp;security=reality&amp;flow=xtls-rprx-vision&amp;type=tcp&amp;sni=aws.amazon.com&amp;pbk=wimys8nxAefdZ0dEMJ8v7R8sMjQ2Y-hX6H_p7uQPPDo&amp;fp=chrome#ARISTA🔥
-vless://1b197700-e6fd-43ea-96ca-488f4c4cd731@93.127.180.128:125?security=none&serviceName=Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH&encryption=none&headerType=none&type=tcp#ARISTA🔥
-vless://1b89a394-8b9d-4157-973c-75d43b2987fd@146.75.64.0:80?mode=auto&path=/cdn/assets?&security=none&encryption=none&host=abriconf.global.ssl.fastly.net&type=xhttp#ARISTA🔥
+vless://1b197700-e6fd-43ea-96ca-488f4c4cd731@93.127.180.128:8443?security=none&serviceName=Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH&encryption=none&headerType=none&type=tcp#ARISTA🔥
+vless://507d5567-1c19-485c-e481-2361a89615dc@185.45.194.29:39571?type=tcp&security=reality&sni=www.digikala.com&pbk=S-g0oP36DShii1uPOnZDSEhp_wQghX6h68PgMivOmD4&flow=xtls-rprx-vision&fp=chrome#ARISTA🔥
 vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@31.56.237.246:8443?encryption=none&security=tls&sni=sni.111000.de5.net&insecure=0&allowInsecure=0&type=ws&host=sni.111000.de5.net&path=/?ed=2560&Telegram🇨🇳+@WangCai2#ARISTA🔥
-vless://871e1c55-f4e7-4c6a-8d9f-0957f98d1fe5@93.127.180.224:8586?security=none&encryption=none&headerType=none&type=tcp#ARISTA🔥
-vless://1b89a394-8b9d-4157-973c-75d43b2987fd@146.75.64.0:80?mode=auto&path=%2Fcdn%2Fassets%3F&security=none&encryption=none&host=abriconf.global.ssl.fastly.net&type=xhttp#ARISTA🔥
-vless://174d209e-cba8-095c-0262-62e2ee3214f5@45.88.8.44:80?path=%2FIVApi%2FNL%2F1&security=none&encryption=none&type=ws#ARISTA🔥
-vless://ed82ccaa-4924-41a6-90a1-8facadf38841@93.127.180.123:3030?security=none&serviceName=Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH&encryption=none&headerType=none&type=tcp#ARISTA🔥
+vless://1b197700-e6fd-43ea-96ca-488f4c4cd731@93.127.180.128:125?security=none&serviceName=Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH&encryption=none&headerType=none&type=tcp#ARISTA🔥
+vless://6889a1d2-fb40-4fe6-ba30-8ff731799394@93.127.180.102:3030?security=none&serviceName=Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH&encryption=none&headerType=none&type=tcp#ARISTA🔥
+vless://fdc4e100-9979-47f2-b683-421fb19f7227@93.127.180.124:77?security=none&serviceName=Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH&encryption=none&headerType=none&type=tcp#ARISTA🔥
+vless://88210b4d-b356-4eaf-f7d7-edeacbd63a11@185.45.194.29:32108?type=tcp&security=reality&sni=www.speedtest.org&pbk=R2gKMF0Tetlnesc1pPkZH9NaOeehw-f5_U9JKG_cLjU&flow=xtls-rprx-vision&fp=chrome#ARISTA🔥
+vless://174d209e-cba8-095c-0262-62e2ee3214f5@45.88.8.44:80?encryption=none&type=ws&path=/IVApi/NL/1&security=none#ARISTA🔥
+vless://f47b5d3c-4051-476d-8280-89b1125b4467@154.90.55.174:443?encryption=none&amp;security=reality&amp;flow=xtls-rprx-vision&amp;type=tcp&amp;sni=aws.amazon.com&amp;pbk=wimys8nxAefdZ0dEMJ8v7R8sMjQ2Y-hX6H_p7uQPPDo&amp;fp=chrome#ARISTA🔥
 vless://174d209e-cba8-095c-0262-62e2ee3214f5@45.88.8.44:80?security=none&allowInsecure=0&encryption=none&type=ws&path=/IVApi/NL/1#ARISTA🔥
-vless://4088cb46-66f8-43fa-bf37-6919cdda7830@31.59.168.88:6443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=tradingview.com&security=reality&pbk=EhuKqEHHG-dQPFdT55oVEXAi9-cpGXPcxbpd6lGFoz4&sid=#ARISTA🔥
 vless://6889a1d2-fb40-4fe6-ba30-8ff731799394@93.127.180.102:8880?security=&serviceName=Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH&encryption=none&headerType=&type=tcp#ARISTA🔥
+vless://871e1c55-f4e7-4c6a-8d9f-0957f98d1fe5@93.127.180.224:123?security=none&serviceName=Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH&encryption=none&headerType=none&type=tcp#ARISTA🔥
+vless://1b89a394-8b9d-4157-973c-75d43b2987fd@146.75.64.0:80?mode=auto&path=%2Fcdn%2Fassets%3F&security=none&encryption=none&host=abriconf.global.ssl.fastly.net&type=xhttp#ARISTA🔥
+vless://1b89a394-8b9d-4157-973c-75d43b2987fd@146.75.64.0:80?mode=auto&path=/cdn/assets?&security=none&encryption=none&host=abriconf.global.ssl.fastly.net&type=xhttp#ARISTA🔥
+vless://174d209e-cba8-095c-0262-62e2ee3214f5@45.88.8.44:80?path=%2FIVApi%2FNL%2F1&security=none&encryption=none&type=ws#ARISTA🔥
+vless://8d51e92a-7f6f-433c-b946-1ec411e7a759@217.195.200.233:35177?security=none&type=ws&path=/&packetEncoding=xudp&encryption=none#ARISTA🔥
+vless://4088cb46-66f8-43fa-bf37-6919cdda7830@31.59.168.88:6443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=tradingview.com&security=reality&pbk=EhuKqEHHG-dQPFdT55oVEXAi9-cpGXPcxbpd6lGFoz4&sid=#ARISTA🔥
+vless://871e1c55-f4e7-4c6a-8d9f-0957f98d1fe5@93.127.180.224:8586?security=none&encryption=none&headerType=none&type=tcp#ARISTA🔥
+vless://ed82ccaa-4924-41a6-90a1-8facadf38841@93.127.180.123:3030?security=none&serviceName=Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH&encryption=none&headerType=none&type=tcp#ARISTA🔥

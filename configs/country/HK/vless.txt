@@ -1,14 +1,13 @@
 # HK - VLESS Configurations
-# Updated: 2026-01-26 20:44:43
-# Count: 9
+# Updated: 2026-01-26 21:37:55
+# Count: 8
 # Country Code: HK
 
-vless://4f73a859-657b-4ce0-d38b-821a47608b8c@47.82.91.119:33686?security=none&encryption=none&headerType=none&type=tcp#ARISTA🔥
-vless://daredevill_404@46.8.78.214:56094?type=xhttp&encryption=none&path=%2F%40daredevill_404%40daredevill_404%40daredevill_404&host=&mode=auto&security=none#ARISTA🔥
-vless://e258977b-e413-4718-a3af-02d75492c349@47.57.190.228:8388?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=sg.aniua.qzz.io&type=ws&sni=sg.aniua.qzz.io#ARISTA🔥
-vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@118.141.64.192:36619?encryption=none&security=tls&sni=sni.111000.cc.cd&type=ws&host=sni.111000.cc.cd&path=/?ed=2560&Telegram🇨🇳@WangCai2#ARISTA🔥
-vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@43.154.124.136:26666?encryption=none&security=tls&sni=sni.111000.cc.cd&type=ws&host=sni.111000.cc.cd&path=/?ed=2560&Telegram🇨🇳@WangCai2#ARISTA🔥
+vless://e258977b-e413-4718-a3af-02d75492c349@47.57.190.228:8388?path=%2F%3Fed%3D2560&security=tls&encryption=none&insecure=1&host=sg.aniua.qzz.io&type=ws&allowInsecure=1&sni=sg.aniua.qzz.io#ARISTA🔥
 vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@223.16.138.113:10201?encryption=none&security=tls&sni=sni.111000.cc.cd&type=ws&host=sni.111000.cc.cd&path=/?ed=2560&Telegram🇨🇳@WangCai2#ARISTA🔥
 vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@202.85.53.54:7000?encryption=none&security=tls&sni=sni.111000.cc.cd&type=ws&host=sni.111000.cc.cd&path=/?ed=2560&Telegram🇨🇳@WangCai2#ARISTA🔥
 vless://46e274b0-8033-4011-b1a0-9d05c3531a79@27.0.232.191:443?encryption=none&security=tls&sni=hkg.tunnelguard.ru&alpn=h2%2Chttp%2F1.1&insecure=1&allowInsecure=1&type=xhttp&path=%2F&mode=auto#ARISTA🔥
-vless://92bf4f76-c71b-4b60-8ce6-e47e4f3e3e6f@47.82.74.64:20019?security=none&encryption=none&headerType=none&type=tcp#ARISTA🔥
+vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@118.141.64.192:36619?encryption=none&security=tls&sni=sni.111000.cc.cd&type=ws&host=sni.111000.cc.cd&path=/?ed=2560&Telegram🇨🇳@WangCai2#ARISTA🔥
+vless://daredevill_404@46.8.78.214:56094?type=xhttp&encryption=none&path=%2F%40daredevill_404%40daredevill_404%40daredevill_404&host=&mode=auto&security=none#ARISTA🔥
+vless://e258977b-e413-4718-a3af-02d75492c349@47.57.190.228:8388?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=sg.aniua.qzz.io&type=ws&sni=sg.aniua.qzz.io#ARISTA🔥
+vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@43.154.124.136:26666?encryption=none&security=tls&sni=sni.111000.cc.cd&type=ws&host=sni.111000.cc.cd&path=/?ed=2560&Telegram🇨🇳@WangCai2#ARISTA🔥

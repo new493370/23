@@ -1,8 +1,7 @@
 # FI - TROJAN Configurations
-# Updated: 2026-01-25 21:25:46
-# Count: 3
+# Updated: 2026-01-26 01:33:09
+# Count: 2
 # Country Code: FI
 
-trojan://2AAF5UEsSd@37.27.249.93:20000?type=tcp&security=none#ARISTA🔥
 trojan://ZblhWr0mqMakCPg.N@212.193.18.144:36158?security=tls&sni=api.avito.ru&insecure=1&allowInsecure=1&type=tcp&headerType=none#ARISTA🔥
-trojan://OkYLllkuH5@185.20.138.47:8443?security=reality&pbk=N-zSxT4yxM3vJ3Eybe0PB88tAlZ8gApbzcWydMGY4Tw&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=www.refersion.com&sid=2c087b2d31#ARISTA🔥
+trojan://2AAF5UEsSd@37.27.249.93:20000?type=tcp&security=none#ARISTA🔥

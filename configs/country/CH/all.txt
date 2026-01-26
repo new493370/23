@@ -1,30 +1,29 @@
 # All Configurations for CH
-# Updated: 2026-01-26 01:33:09
-# Total Count: 25
+# Updated: 2026-01-26 04:26:36
+# Total Count: 24
 # Country Code: CH
 
-vless://eade8c20-208a-4d66-b4b1-02c0b65e5c21@45.59.117.126:53436?path=%2F&security=none&encryption=none&type=ws#ARISTA🔥
-vless://4a92cbd1-39c7-4818-9236-dbbb18630c9e@84.234.28.177:8880?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#ARISTA🔥
-vless://14ba01de-0de4-48b4-9327-d6a2f7797764@83.228.225.98:24472?type=ws&path=%2F&host=&security=none#ARISTA🔥
-vless://52e7723a-b840-4498-9e44-b8dc89d67e1f@83.228.227.226:8880?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#ARISTA🔥
+vless://4a92cbd1-39c7-4818-9236-dbbb18630c9e@83.228.227.226:8880?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#ARISTA🔥
 vless://4a92cbd1-39c7-4818-9236-dbbb18630c9e@84.234.28.13:8880?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#ARISTA🔥
 vless://4a92cbd1-39c7-4818-9236-dbbb18630c9e@83.228.230.175:8880?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#ARISTA🔥
-vless://b0dcb060-607e-491a-83a7-03473a0ea658@83.228.195.57:98?type=tcp&security=reality&pbk=0073OfaMCdYfKDJ1lwQBGSdcepJkgD6Pet_u3ffl6Xs&fp=firefox&sni=www.latimes.com&sid=8d&spx=%2F#ARISTA🔥
-vless://4a92cbd1-39c7-4818-9236-dbbb18630c9e@84.234.28.125:8880?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#ARISTA🔥
-vless://c5fdf480-3942-4fc9-9e73-f6899c24bda6@83.228.210.214:443?security=reality&encryption=none&pbk=NQtYh_DzWbKDGV3sOdYUbYS7OQqAF-lG42J-rOm_OH0&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=ok.ru&sid=41f38b2355acf7bc#ARISTA🔥
-vless://4a92cbd1-39c7-4818-9236-dbbb18630c9e@83.228.227.226:8880?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#ARISTA🔥
-vless://eade8c20-208a-4d66-b4b1-02c0b65e5c21@45.59.117.126:53436?security=none&encryption=none&type=ws&path=%2f#ARISTA🔥
-vless://d6b1327d-2bec-4366-a3a1-9b1284f95841@138.124.79.4:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=sun6-21.userapi.com#ARISTA🔥
-vless://4a92cbd1-39c7-4818-9236-dbbb18630c9e@84.234.28.220:8880?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#ARISTA🔥
-vless://d6b1327d-2bec-4366-a3a1-9b1284f95841@138.124.79.9:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=sun6-21.userapi.com&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2&type=tcp&headerType=none#ARISTA🔥
-vless://d6b1327d-2bec-4366-a3a1-9b1284f95841@138.124.79.8:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=sun6-21.userapi.com&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&type=tcp&headerType=none#ARISTA🔥
-vless://d6b1327d-2bec-4366-a3a1-9b1284f95841@138.124.79.4:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=sun6-21.userapi.com&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&type=tcp&headerType=none#ARISTA🔥
-vless://d6b1327d-2bec-4366-a3a1-9b1284f95841@138.124.79.3:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=sun6-21.userapi.com&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2&type=tcp&headerType=none#ARISTA🔥
+vless://52e7723a-b840-4498-9e44-b8dc89d67e1f@83.228.227.226:8880?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#ARISTA🔥
 vless://d4a582d2-0844-47ea-99e5-19a0f8164edf@138.124.62.202:2053?security=reality&encryption=none&pbk=8R3SMMpbYT3N_3SnGfIuuM7xhOCZ6UnUVyaO3TV24gg&headerType=none&fp=firefox&spx=%2F&type=tcp&sni=refersion.com&sid=5e805732#ARISTA🔥
-vless://5b6e9a8d-1559-4abc-96ee-a0b98fad5db9@213.176.18.99:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=telegavpn.com&fp=&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA&sid=#ARISTA🔥
 vless://idTel-Hqv2rayNG@84.234.31.28:443?security=reality&encryption=none&pbk=FtDr_UhjnVUI0icGx9L4isHVQTNOl_cGsFEDSWigM28&headerType=none&fp=safari&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=refersion.com&sid=7c4ea43b6c6f#ARISTA🔥
-vless://7b05219d-9cd5-4bda-8473-7a8d98d562f7@138.124.79.9:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=sun6-21.userapi.com&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&type=tcp&headerType=none#ARISTA🔥
-vless://7b05219d-9cd5-4bda-8473-7a8d98d562f7@138.124.79.8:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=sun6-21.userapi.com&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2&type=tcp&headerType=none#ARISTA🔥
-vless://7b05219d-9cd5-4bda-8473-7a8d98d562f7@138.124.79.4:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=sun6-21.userapi.com&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2&type=tcp&headerType=none#ARISTA🔥
+vless://b0dcb060-607e-491a-83a7-03473a0ea658@83.228.195.57:98?type=tcp&security=reality&pbk=0073OfaMCdYfKDJ1lwQBGSdcepJkgD6Pet_u3ffl6Xs&fp=firefox&sni=www.latimes.com&sid=8d&spx=%2F#ARISTA🔥
+vless://eade8c20-208a-4d66-b4b1-02c0b65e5c21@45.59.117.126:53436?path=%2F&security=none&encryption=none&type=ws#ARISTA🔥
+vless://14ba01de-0de4-48b4-9327-d6a2f7797764@83.228.225.98:24472?type=ws&path=%2F&host=&security=none#ARISTA🔥
+vless://4a92cbd1-39c7-4818-9236-dbbb18630c9e@84.234.28.220:8880?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#ARISTA🔥
+vless://4a92cbd1-39c7-4818-9236-dbbb18630c9e@84.234.28.125:8880?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#ARISTA🔥
+vless://4a92cbd1-39c7-4818-9236-dbbb18630c9e@84.234.28.177:8880?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#ARISTA🔥
+vless://c5fdf480-3942-4fc9-9e73-f6899c24bda6@83.228.210.214:443?security=reality&encryption=none&pbk=NQtYh_DzWbKDGV3sOdYUbYS7OQqAF-lG42J-rOm_OH0&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=ok.ru&sid=41f38b2355acf7bc#ARISTA🔥
 vless://7b05219d-9cd5-4bda-8473-7a8d98d562f7@138.124.79.3:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=sun6-21.userapi.com&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2&type=tcp&headerType=none#ARISTA🔥
+vless://7b05219d-9cd5-4bda-8473-7a8d98d562f7@138.124.79.4:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=sun6-21.userapi.com&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2&type=tcp&headerType=none#ARISTA🔥
+vless://7b05219d-9cd5-4bda-8473-7a8d98d562f7@138.124.79.8:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=sun6-21.userapi.com&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2&type=tcp&headerType=none#ARISTA🔥
+vless://7b05219d-9cd5-4bda-8473-7a8d98d562f7@138.124.79.9:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=sun6-21.userapi.com&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&type=tcp&headerType=none#ARISTA🔥
+vless://d6b1327d-2bec-4366-a3a1-9b1284f95841@138.124.79.3:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=sun6-21.userapi.com&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2&type=tcp&headerType=none#ARISTA🔥
+vless://d6b1327d-2bec-4366-a3a1-9b1284f95841@138.124.79.4:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=sun6-21.userapi.com&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&type=tcp&headerType=none#ARISTA🔥
+vless://d6b1327d-2bec-4366-a3a1-9b1284f95841@138.124.79.8:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=sun6-21.userapi.com&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&type=tcp&headerType=none#ARISTA🔥
+vless://d6b1327d-2bec-4366-a3a1-9b1284f95841@138.124.79.9:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=sun6-21.userapi.com&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2&type=tcp&headerType=none#ARISTA🔥
+vless://d6b1327d-2bec-4366-a3a1-9b1284f95841@138.124.79.4:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=sun6-21.userapi.com#ARISTA🔥
+vless://eade8c20-208a-4d66-b4b1-02c0b65e5c21@45.59.117.126:53436?security=none&encryption=none&type=ws&path=%2f#ARISTA🔥
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBeXlhUGpuS0Z0SjZNU2RVR0cwcFdu@138.124.67.26:443#ARISTA🔥

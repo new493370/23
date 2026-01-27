@@ -1,12 +1,12 @@
 # LV - VLESS Configurations
-# Updated: 2026-01-27 00:00:22
+# Updated: 2026-01-27 02:20:52
 # Count: 7
 # Country Code: LV
 
+vless://43135731-165e-4064-872e-7e9447fbebfb@188.253.16.31:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=yahoo.com&fp=firefox&pbk=KX1PfrASrflF1Ra1TcjujnOAK-4sPiEVDSfAPS1DAl8&sid=e33013f4&type=tcp&headerType=none#ARISTA🔥
 vless://a8c099ce-04d8-43d2-8100-34e72f7beba4@188.253.16.31:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=yahoo.com&fp=chrome&pbk=KX1PfrASrflF1Ra1TcjujnOAK-4sPiEVDSfAPS1DAl8&sid=e33013f4&type=tcp&headerType=none#ARISTA🔥
 vless://43135731-165e-4064-872e-7e9447fbebfb@188.253.16.31:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=yahoo.com&fp=edge&pbk=KX1PfrASrflF1Ra1TcjujnOAK-4sPiEVDSfAPS1DAl8&sid=e33013f4&type=tcp&headerType=none#ARISTA🔥
 vless://a8c099ce-04d8-43d2-8100-34e72f7beba4@188.253.16.31:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=yahoo.com&fp=edge&pbk=KX1PfrASrflF1Ra1TcjujnOAK-4sPiEVDSfAPS1DAl8&sid=e33013f4&type=tcp&headerType=none#ARISTA🔥
+vless://06babfd1-1af2-4db4-a485-cdf404ce80a9@62.192.174.198:47256?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.unicreditbank.ru&fp=chrome&security=reality&pbk=HkLK62c3szw51gYtORRnPlO0v6kxOSd_aCd0J4rTKzo&sid=9d32c1#ARISTA🔥
 vless://43135731-165e-4064-872e-7e9447fbebfb@188.253.16.31:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=yahoo.com&fp=chrome&pbk=KX1PfrASrflF1Ra1TcjujnOAK-4sPiEVDSfAPS1DAl8&sid=e33013f4&type=tcp&headerType=none#ARISTA🔥
 vless://TelegramChannel:daredevill_404@31.56.117.172:20569?type=xhttp&encryption=none&path=%2F%40daredevill_404&host=&mode=auto&security=none#ARISTA🔥
-vless://06babfd1-1af2-4db4-a485-cdf404ce80a9@62.192.174.198:47256?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.unicreditbank.ru&fp=chrome&security=reality&pbk=HkLK62c3szw51gYtORRnPlO0v6kxOSd_aCd0J4rTKzo&sid=9d32c1#ARISTA🔥
-vless://43135731-165e-4064-872e-7e9447fbebfb@188.253.16.31:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=yahoo.com&fp=firefox&pbk=KX1PfrASrflF1Ra1TcjujnOAK-4sPiEVDSfAPS1DAl8&sid=e33013f4&type=tcp&headerType=none#ARISTA🔥

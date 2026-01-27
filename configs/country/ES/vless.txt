@@ -1,12 +1,13 @@
 # ES - VLESS Configurations
-# Updated: 2026-01-27 14:02:01
-# Count: 7
+# Updated: 2026-01-27 14:48:28
+# Count: 8
 # Country Code: ES
 
-vless://613725ab-ca86-4d54-852e-a0bf45e812de@83.147.18.219:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=allison.kosmolet.xyz&fp=chrome&security=reality&pbk=UgCLC1JdwUh-hgpvSfndN1tuH98620gziTq2UB0gOjI&sid=a369bfe440aba1a2#ARISTA🔥
-vless://65a1e22c-d37e-4b92-b6ca-1d09dcd1d441@172.233.116.229:587/?type=tcp&encryption=none&flow=&sni=excoino.com&fp=chrome&security=reality&pbk=HnPEhCDTcZnDejsAiidoOSx2-h0EvJMILj4bv3X1mBc&sid=916e8258c4a01b02#ARISTA🔥
-vless://146e8a2b-283d-4f06-86ec-0608e2478265@84.17.62.67:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=tradingview.com&fp=chrome&security=reality&pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&sid=04bf0403f96e5b4b#ARISTA🔥
-vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@185.251.80.238:2096?encryption=none&security=tls&sni=sni.111000.cc.cd&type=ws&host=sni.111000.cc.cd&path=/?ed=2560&Telegram🇨🇳@WangCai2#ARISTA🔥
 vless://8658dc4f-2b4e-46d7-831d-17a3def93c00@5.22.219.57:30704?security=&encryption=none&host=soft98.ir&headerType=http&type=tcp#ARISTA🔥
-vless://2262242d-1b1c-481c-b60d-cde0e6a48bb2@185.251.80.0:80?encryption=none&type=ws&host=filma.video-fun-new.com.de&path=/Mv3kv92GcD3E2KuHxT&security=none#ARISTA🔥
 vless://91f2e3fa-3047-4010-8c21-7ba9351602a5@199.232.181.234:80?encryption=none&type=xhttp&mode=packet-up&host=freeuse.global.ssl.fastly.net&path=/DailyConfigs&security=none#ARISTA🔥
+vless://2262242d-1b1c-481c-b60d-cde0e6a48bb2@185.251.80.0:80?encryption=none&type=ws&host=filma.video-fun-new.com.de&path=/Mv3kv92GcD3E2KuHxT&security=none#ARISTA🔥
+vless://613725ab-ca86-4d54-852e-a0bf45e812de@83.147.18.219:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=allison.kosmolet.xyz&fp=chrome&security=reality&pbk=UgCLC1JdwUh-hgpvSfndN1tuH98620gziTq2UB0gOjI&sid=a369bfe440aba1a2#ARISTA🔥
+vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@185.251.80.238:2096?encryption=none&security=tls&sni=sni.111000.cc.cd&type=ws&host=sni.111000.cc.cd&path=/?ed=2560&Telegram🇨🇳@WangCai2#ARISTA🔥
+vless://146e8a2b-283d-4f06-86ec-0608e2478265@84.17.62.67:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=tradingview.com&fp=chrome&security=reality&pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&sid=04bf0403f96e5b4b#ARISTA🔥
+vless://65a1e22c-d37e-4b92-b6ca-1d09dcd1d441@172.233.116.229:587/?type=tcp&encryption=none&flow=&sni=excoino.com&fp=chrome&security=reality&pbk=HnPEhCDTcZnDejsAiidoOSx2-h0EvJMILj4bv3X1mBc&sid=916e8258c4a01b02#ARISTA🔥
+vless://8658dc4f-2b4e-46d7-831d-17a3def93c00@5.22.219.57:30704?encryption=none&type=tcp&headerType=http&host=soft98.ir&security=none#ARISTA🔥

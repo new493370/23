@@ -1,7 +1,7 @@
 # PL - TROJAN Configurations
-# Updated: 2026-01-27 23:39:47
+# Updated: 2026-01-27 23:59:28
 # Count: 2
 # Country Code: PL
 
-trojan://42bbf526-5530-470a-aeec-3b919b21c58d@176.105.253.102:8443/?type=ws&host=0000.hkvip.ip-ddns.com&path=%2F%3Fed%3D2560&security=tls&sni=0000.hkvip.ip-ddns.com&allowInsecure=1#ARISTA🔥
 trojan://42bbf526-5530-470a-aeec-3b919b21c58d@176.105.253.102:8443?security=tls&sni=0000.hkvip.ip-ddns.com&insecure=1&allowInsecure=1&type=ws&host=0000.hkvip.ip-ddns.com&path=%2F%3Fed%3D2560#ARISTA🔥
+trojan://42bbf526-5530-470a-aeec-3b919b21c58d@176.105.253.102:8443/?type=ws&host=0000.hkvip.ip-ddns.com&path=%2F%3Fed%3D2560&security=tls&sni=0000.hkvip.ip-ddns.com&allowInsecure=1#ARISTA🔥

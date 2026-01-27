@@ -1,7 +1,7 @@
 # BE - VLESS Configurations
-# Updated: 2026-01-27 06:54:26
+# Updated: 2026-01-27 07:42:07
 # Count: 2
 # Country Code: BE
 
-vless://2dd1a15d-1426-413a-a3b8-a645788bc844@113.30.152.110:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=brus.speedload.online&fp=qq&pbk=J5ITJbg5FQFembAfkogKHHQB6DigsFXQxK7xu-QMWUs&sid=a20d3ed244c76426&type=tcp&headerType=none#ARISTA🔥
 vless://a728a8db-36d3-4bf1-a8ce-870812d9007e@113.30.152.46:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=telegavpn.com&fp=&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA&sid=#ARISTA🔥
+vless://2dd1a15d-1426-413a-a3b8-a645788bc844@113.30.152.110:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=brus.speedload.online&fp=qq&pbk=J5ITJbg5FQFembAfkogKHHQB6DigsFXQxK7xu-QMWUs&sid=a20d3ed244c76426&type=tcp&headerType=none#ARISTA🔥

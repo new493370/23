@@ -1,6 +1,6 @@
 # GitHub TROJAN Configurations
-# Updated: 2026-01-27 13:09:26
-# Count: 235
+# Updated: 2026-01-27 14:02:01
+# Count: 234
 # Source: GitHub Repositories
 
 trojan://02948bde80594712b974368035f294dd@88.214.24.235:9443?security=reality&amp;pbk=au0aQ5QVdLNbzMShbL9Anhi5hOPXMNJVBhbkuFP7Sk0&amp;headerType=none&amp;fp=random&amp;type=tcp&amp;sni=apple.com&amp;sid=aabbccdd#ARISTA🔥
@@ -236,5 +236,4 @@ trojan://fc884373-9a30-4ce8-9add-15f76323d3f9@green2.cdntencentmusic.com:31102?s
 trojan://3f58bbd2-4bac-4c33-9dd9-788d7a35d8bf@green2.cdntencentmusic.com:31102?sni=green2.cdntencentmusic.com&path=%2f#ARISTA🔥
 trojan://6f0d3131-13d9-4832-9f0e-72f48b8ba139@green2.cdntencentmusic.com:31102?security=tls&sni=green2.cdntencentmusic.com&path=%2f#ARISTA🔥
 trojan://nodes-b211f28a@node-id-1.v2sv.top:2083?sni=node-id-1.v2sv.top&path=%2f#ARISTA🔥
-trojan://a5inYFE%3DJGV89+hjxIqgDp1tcWBd6@80.173.230.196:26279?security=tls&type=tcp&headerType=none&path=%2f&allow_insecure=1#ARISTA🔥
 trojan://iCfh96DEJn3%3DQRbzF.Tdl@212.192.214.46:18069/?type=tcp&security=tls&sni=www.vk.com&allowInsecure=1#ARISTA🔥

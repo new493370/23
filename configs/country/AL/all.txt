@@ -1,15 +1,15 @@
 # All Configurations for AL
-# Updated: 2026-01-27 13:09:27
+# Updated: 2026-01-27 14:02:01
 # Total Count: 10
 # Country Code: AL
 
-vless://95abaefc-7861-417a-81b7-166cb788ce1a@185.177.238.18:2083/?type=grpc&encryption=none&flow=&serviceName=UpdateService&sni=apple.com&fp=chrome&security=reality&pbk=J6NuOlIq3ypdTFc1TMhDDKmF8BWPnNWZq1EkxD7K-lQ&sid=6da16b1335651b38#ARISTA🔥
 vless://95abaefc-7861-417a-81b7-166cb788ce1a@185.177.238.144:2083/?type=grpc&encryption=none&flow=&serviceName=UpdateService&sni=apple.com&fp=chrome&security=reality&pbk=J6NuOlIq3ypdTFc1TMhDDKmF8BWPnNWZq1EkxD7K-lQ&sid=6da16b1335651b38#ARISTA🔥
-vless://c38e6142-9223-47ef-84ce-2a84a308cafb@185.177.238.57:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=al.cdn.stun.su&fp=chrome&pbk=su3dq3BDLDkX-jIjq3GyVUXwqzD7CNVYzKtOcO4HQ24&sid=0b18a830a9db0111&type=tcp&headerType=none#ARISTA🔥
-vless://c38e6142-9223-47ef-84ce-2a84a308cafb@185.177.238.57:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=al.cdn.stun.su&fp=chrome&pbk=su3dq3BDLDkX-jIjq3GyVUXwqzD7CNVYzKtOcO4HQ24&sid=c643c0d6e9222005&type=tcp&headerType=none#ARISTA🔥
-vless://c38e6142-9223-47ef-84ce-2a84a308cafb@185.177.238.99:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=al.cdn.stun.su&fp=chrome&pbk=su3dq3BDLDkX-jIjq3GyVUXwqzD7CNVYzKtOcO4HQ24&sid=616dbb46ca288c32&type=tcp&headerType=none#ARISTA🔥
-vless://c38e6142-9223-47ef-84ce-2a84a308cafb@185.177.238.99:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=al.cdn.stun.su&fp=chrome&pbk=su3dq3BDLDkX-jIjq3GyVUXwqzD7CNVYzKtOcO4HQ24&sid=f9de6b567ee0f535&type=tcp&headerType=none#ARISTA🔥
-vless://c38e6142-9223-47ef-84ce-2a84a308cafb@78.159.131.48:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=al.cdn.stun.su&fp=chrome&pbk=su3dq3BDLDkX-jIjq3GyVUXwqzD7CNVYzKtOcO4HQ24&sid=9580d233f02776b7&type=tcp&headerType=none#ARISTA🔥
-vless://c38e6142-9223-47ef-84ce-2a84a308cafb@78.159.131.48:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=al.cdn.stun.su&fp=chrome&pbk=su3dq3BDLDkX-jIjq3GyVUXwqzD7CNVYzKtOcO4HQ24&sid=dd6a855390f95199&type=tcp&headerType=none#ARISTA🔥
+vless://95abaefc-7861-417a-81b7-166cb788ce1a@185.177.238.18:2083/?type=grpc&encryption=none&flow=&serviceName=UpdateService&sni=apple.com&fp=chrome&security=reality&pbk=J6NuOlIq3ypdTFc1TMhDDKmF8BWPnNWZq1EkxD7K-lQ&sid=6da16b1335651b38#ARISTA🔥
 vless://c38e6142-9223-47ef-84ce-2a84a308cafb@185.177.238.99:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=al.cdn.stun.su&fp=chrome&pbk=su3dq3BDLDkX-jIjq3GyVUXwqzD7CNVYzKtOcO4HQ24&sid=f78eee63f41b3ede&type=tcp&headerType=none#ARISTA🔥
+vless://c38e6142-9223-47ef-84ce-2a84a308cafb@78.159.131.48:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=al.cdn.stun.su&fp=chrome&pbk=su3dq3BDLDkX-jIjq3GyVUXwqzD7CNVYzKtOcO4HQ24&sid=dd6a855390f95199&type=tcp&headerType=none#ARISTA🔥
+vless://c38e6142-9223-47ef-84ce-2a84a308cafb@78.159.131.48:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=al.cdn.stun.su&fp=chrome&pbk=su3dq3BDLDkX-jIjq3GyVUXwqzD7CNVYzKtOcO4HQ24&sid=9580d233f02776b7&type=tcp&headerType=none#ARISTA🔥
+vless://c38e6142-9223-47ef-84ce-2a84a308cafb@185.177.238.99:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=al.cdn.stun.su&fp=chrome&pbk=su3dq3BDLDkX-jIjq3GyVUXwqzD7CNVYzKtOcO4HQ24&sid=f9de6b567ee0f535&type=tcp&headerType=none#ARISTA🔥
+vless://c38e6142-9223-47ef-84ce-2a84a308cafb@185.177.238.99:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=al.cdn.stun.su&fp=chrome&pbk=su3dq3BDLDkX-jIjq3GyVUXwqzD7CNVYzKtOcO4HQ24&sid=616dbb46ca288c32&type=tcp&headerType=none#ARISTA🔥
+vless://c38e6142-9223-47ef-84ce-2a84a308cafb@185.177.238.57:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=al.cdn.stun.su&fp=chrome&pbk=su3dq3BDLDkX-jIjq3GyVUXwqzD7CNVYzKtOcO4HQ24&sid=c643c0d6e9222005&type=tcp&headerType=none#ARISTA🔥
+vless://c38e6142-9223-47ef-84ce-2a84a308cafb@185.177.238.57:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=al.cdn.stun.su&fp=chrome&pbk=su3dq3BDLDkX-jIjq3GyVUXwqzD7CNVYzKtOcO4HQ24&sid=0b18a830a9db0111&type=tcp&headerType=none#ARISTA🔥
 vless://c38e6142-9223-47ef-84ce-2a84a308cafb@185.177.238.57:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=al.cdn.stun.su&fp=chrome&pbk=su3dq3BDLDkX-jIjq3GyVUXwqzD7CNVYzKtOcO4HQ24&sid=dfb584388d2927f7&type=tcp&headerType=none#ARISTA🔥

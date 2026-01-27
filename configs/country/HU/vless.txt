@@ -1,18 +1,18 @@
 # HU - VLESS Configurations
-# Updated: 2026-01-27 23:00:40
+# Updated: 2026-01-27 23:39:47
 # Count: 21
 # Country Code: HU
 
-vless://1dcea73b-a19f-4c6f-8878-ba4f4b9bd49a@79.127.133.79:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=tradingview.com&fp=chrome&security=reality&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&sid=f4b4a6365558ea2e#ARISTA🔥
 vless://4371ad14-b981-4699-bedf-83fb79bde3e6@217.13.104.134:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=hu.jojack.ru&fp=chrome&security=reality&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=e55fd8f9c9a9a0ca#ARISTA🔥
-vless://1dcea73b-a19f-4c6f-8878-ba4f4b9bd49a@79.127.133.77:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=tradingview.com&fp=chrome&security=reality&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&sid=f4b4a6365558ea2e#ARISTA🔥
-vless://292e75fc-5a8a-40c4-b937-407c2400a42e@217.13.104.101:3443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&fp=chrome&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#ARISTA🔥
-vless://292e75fc-5a8a-40c4-b937-407c2400a42e@217.13.111.70:3443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2#ARISTA🔥
 vless://4371ad14-b981-4699-bedf-83fb79bde3e6@217.13.104.134:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=hu.jojack.ru&fp=chrome&security=reality&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=e55fd8f9c9a9a0ca#ARISTA🔥
+vless://292e75fc-5a8a-40c4-b937-407c2400a42e@217.13.111.70:3443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2#ARISTA🔥
+vless://292e75fc-5a8a-40c4-b937-407c2400a42e@217.13.104.101:3443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&fp=chrome&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#ARISTA🔥
 vless://b5c74983-8400-4fb3-81a7-d5b3ab559537@217.13.104.148:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=travel.yandex.ru&fp=chrome&security=reality&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=17802e8ff84f12df#ARISTA🔥
-vless://292e75fc-5a8a-40c4-b937-407c2400a42e@217.13.104.101:3443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&fp=chrome&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=#ARISTA🔥
-vless://292e75fc-5a8a-40c4-b937-407c2400a42e@217.13.111.70:3443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2#ARISTA🔥
+vless://1dcea73b-a19f-4c6f-8878-ba4f4b9bd49a@79.127.133.77:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=tradingview.com&fp=chrome&security=reality&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&sid=f4b4a6365558ea2e#ARISTA🔥
+vless://1dcea73b-a19f-4c6f-8878-ba4f4b9bd49a@79.127.133.79:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=tradingview.com&fp=chrome&security=reality&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&sid=f4b4a6365558ea2e#ARISTA🔥
 vless://b5c74983-8400-4fb3-81a7-d5b3ab559537@217.13.104.148:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=travel.yandex.ru&fp=chrome&security=reality&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=17802e8ff84f12df#ARISTA🔥
+vless://292e75fc-5a8a-40c4-b937-407c2400a42e@217.13.111.70:3443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2#ARISTA🔥
+vless://292e75fc-5a8a-40c4-b937-407c2400a42e@217.13.104.101:3443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&fp=chrome&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=#ARISTA🔥
 vless://c38e6142-9223-47ef-84ce-2a84a308cafb@217.13.104.148:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=travel.yandex.ru&fp=chrome&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=3f200574d011010f&type=tcp&headerType=none#ARISTA🔥
 vless://c38e6142-9223-47ef-84ce-2a84a308cafb@217.13.104.148:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=travel.yandex.ru&fp=chrome&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=4b523a98e1bbd15b&type=tcp&headerType=none#ARISTA🔥
 vless://c38e6142-9223-47ef-84ce-2a84a308cafb@217.13.104.149:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=travel.yandex.ru&fp=chrome&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=65ce6cee3941af69&type=tcp&headerType=none#ARISTA🔥

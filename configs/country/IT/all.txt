@@ -1,17 +1,19 @@
 # All Configurations for IT
-# Updated: 2026-01-27 23:00:40
-# Total Count: 13
+# Updated: 2026-01-27 23:39:47
+# Total Count: 15
 # Country Code: IT
 
 vmess://eyJhZGQiOiIxMDkuMTIyLjIwOS43OCIsImFpZCI6IjAiLCJob3N0IjoiIiwiaWQiOiIyMjUzMWIzZi01NjBjLTQ3ODktOWI1OC0wMmViZWM0ZjMxYWMiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjEwMDMiLCJwcyI6IkFSSVNUQfCflKUiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoibm9uZSIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
-vless://eda2c296-a990-4d41-bbdf-f9c96b9579cd@84.17.58.152:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=tradingview.com&fp=chrome&security=reality&pbk=_CjW0Khlrr5z5oc9Oy6-w2ZEanz-zMBktVn5EOX9oTM&sid=6419bed7fd0a2cff#ARISTA🔥
 vless://e05c0ada-bdfc-4dde-941d-f48fcc8c9e54@185.213.20.90:21545?security=none&encryption=none&type=tcp&headerType=none#ARISTA🔥
-vless://e6af2417-0a79-4521-aa2a-de1c2f105188@85.235.149.184:500?encryption=none&security=reality&sni=stackoverflow.com&fp=firefox&pbk=NGrcCvAGrXu9QMiu2QNZy2HBqbvL7j-cFQuTFbE-AjM&sid=bea5eb2fcf6b183c&type=tcp&headerType=none#ARISTA🔥
-vless://f78e701b-dd93-49ce-94a0-706df52094db@146.75.55.82:80?security=none&allowInsecure=0&encryption=none&type=ws&host=pashmak.shop&path=/GaMeOpTiMiZeR?ed%3D2015#ARISTA🔥
 vless://854eea7a-c834-4f62-9e17-ae63d1086f36@89.150.48.171:443?type=tcp&encryption=none&sni=pt1vless.instavpn.ru&fp=chrome&security=reality&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&sid=868419504747f6de#ARISTA🔥
+vless://e6af2417-0a79-4521-aa2a-de1c2f105188@85.235.149.184:500?encryption=none&security=reality&sni=stackoverflow.com&fp=firefox&pbk=NGrcCvAGrXu9QMiu2QNZy2HBqbvL7j-cFQuTFbE-AjM&sid=bea5eb2fcf6b183c&type=tcp&headerType=none#ARISTA🔥
+vless://eda2c296-a990-4d41-bbdf-f9c96b9579cd@84.17.58.152:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=tradingview.com&fp=chrome&security=reality&pbk=_CjW0Khlrr5z5oc9Oy6-w2ZEanz-zMBktVn5EOX9oTM&sid=6419bed7fd0a2cff#ARISTA🔥
 vless://854eea7a-c834-4f62-9e17-ae63d1086f36@89.150.48.171:443/?type=tcp&encryption=none&flow=&sni=pt1vless.instavpn.ru&fp=chrome&security=reality&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&sid=868419504747f6de#ARISTA🔥
+vless://f78e701b-dd93-49ce-94a0-706df52094db@146.75.55.82:80?security=none&allowInsecure=0&encryption=none&type=ws&host=pashmak.shop&path=/GaMeOpTiMiZeR?ed%3D2015#ARISTA🔥
 vless://c38e6142-9223-47ef-84ce-2a84a308cafb@217.12.219.53:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ozon.ru&fp=chrome&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=4a3ad88ff867a295&type=tcp&headerType=none#ARISTA🔥
 vless://c38e6142-9223-47ef-84ce-2a84a308cafb@217.12.219.53:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ozon.ru&fp=chrome&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=d17bd238f23fba92&type=tcp&headerType=none#ARISTA🔥
+vless://c38e6142-9223-47ef-84ce-2a84a308cafb@217.12.219.51:443?security=reality&encryption=none&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ozon.ru&sid=65ce6cee3941af69#ARISTA🔥
+vless://e6af2417-0a79-4521-aa2a-de1c2f105188@85.235.149.184:500/?type=tcp&encryption=none&flow=&sni=stackoverflow.com&fp=firefox&security=reality&pbk=NGrcCvAGrXu9QMiu2QNZy2HBqbvL7j-cFQuTFbE-AjM&sid=bea5eb2fcf6b183c&packetEncoding=xudp#ARISTA🔥
 trojan://OdgHycGphesfLmPMYolUF@172.238.229.254:14051?security=tls&headerType=none&type=tcp&sni=api.avito.ru#ARISTA🔥
 trojan://OdgHycGphesfLmPMYolUF@172.238.229.254:14051?security=tls&amp;headerType=none&amp;type=tcp&amp;sni=api.avito.ru#ARISTA🔥
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@176.126.83.158:990#ARISTA🔥

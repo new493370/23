@@ -1,14 +1,13 @@
 # IT - VLESS Configurations
-# Updated: 2026-01-27 02:20:52
-# Count: 9
+# Updated: 2026-01-27 04:10:15
+# Count: 8
 # Country Code: IT
 
-vless://1cc1fa50-ad16-4e22-81a0-e416f7a35f60@83.136.107.171:443?security=reality&encryption=none&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=aws.com#ARISTA🔥
-vless://fc7a34b8-7f83-475f-bca4-7a8f5dc861fb@151.101.242.172:80?host=Germandiginoe.com&type=ws&security=none&path=WEDBAZ%3Fed%3D2048&encryption=none#ARISTA🔥
-vless://e05c0ada-bdfc-4dde-941d-f48fcc8c9e54@185.213.20.90:21545?security=none&encryption=none&type=tcp&headerType=none#ARISTA🔥
-vless://1cc1fa50-ad16-4e22-81a0-e416f7a35f60@83.136.107.171:443?security=reality&alpn=h2&encryption=none&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=aws.com#ARISTA🔥
-vless://fc7a34b8-7f83-475f-bca4-7a8f5dc861fb@151.101.242.172:80?host=Germany.ss.ss&type=ws&security=none&path=WEDBAZ%3Fed%3D2048&encryption=none#ARISTA🔥
-vless://854eea7a-c834-4f62-9e17-ae63d1086f36@89.150.48.171:443/?type=tcp&encryption=none&flow=&sni=pt1vless.instavpn.ru&fp=chrome&security=reality&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&sid=868419504747f6de#ARISTA🔥
-vless://c38e6142-9223-47ef-84ce-2a84a308cafb@217.12.219.53:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ozon.ru&fp=chrome&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=d17bd238f23fba92&type=tcp&headerType=none#ARISTA🔥
 vless://c38e6142-9223-47ef-84ce-2a84a308cafb@217.12.219.53:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ozon.ru&fp=chrome&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=4a3ad88ff867a295&type=tcp&headerType=none#ARISTA🔥
+vless://c38e6142-9223-47ef-84ce-2a84a308cafb@217.12.219.53:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ozon.ru&fp=chrome&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=d17bd238f23fba92&type=tcp&headerType=none#ARISTA🔥
+vless://fc7a34b8-7f83-475f-bca4-7a8f5dc861fb@151.101.242.172:80?host=Germany.ss.ss&type=ws&security=none&path=WEDBAZ%3Fed%3D2048&encryption=none#ARISTA🔥
+vless://fc7a34b8-7f83-475f-bca4-7a8f5dc861fb@151.101.242.172:80?host=Germandiginoe.com&type=ws&security=none&path=WEDBAZ%3Fed%3D2048&encryption=none#ARISTA🔥
 vless://eda2c296-a990-4d41-bbdf-f9c96b9579cd@84.17.58.152:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=tradingview.com&fp=chrome&security=reality&pbk=_CjW0Khlrr5z5oc9Oy6-w2ZEanz-zMBktVn5EOX9oTM&sid=6419bed7fd0a2cff#ARISTA🔥
+vless://e05c0ada-bdfc-4dde-941d-f48fcc8c9e54@185.213.20.90:21545?security=none&encryption=none&type=tcp&headerType=none#ARISTA🔥
+vless://854eea7a-c834-4f62-9e17-ae63d1086f36@89.150.48.171:443/?type=tcp&encryption=none&flow=&sni=pt1vless.instavpn.ru&fp=chrome&security=reality&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&sid=868419504747f6de#ARISTA🔥
+vless://343cc844-f964-11f0-9840-00163e0951db@91.201.65.220:10004?path=/vpnjantit&security=none&encryption=none&type=ws#ARISTA🔥

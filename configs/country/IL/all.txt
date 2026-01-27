@@ -1,9 +1,10 @@
 # All Configurations for IL
-# Updated: 2026-01-27 22:39:34
-# Total Count: 12
+# Updated: 2026-01-27 23:00:40
+# Total Count: 13
 # Country Code: IL
 
 vless://38b53ad9-1401-4443-95e4-0af56c1cc3d0@185.241.5.151:446/?type=tcp&encryption=none&flow=#ARISTA🔥
+vless://38b53ad9-1401-4443-95e4-0af56c1cc3d0@185.241.5.151:446?security=none&encryption=none&headerType=none&type=tcp#ARISTA🔥
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZWmZVTDlpeEpfSGw4NnZLSzQxQ1dn@185.241.5.151:443#ARISTA🔥
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowOGU0MDkwYmM0NmZkOGE2@163.171.213.47:46281#ARISTA🔥
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowOGU0MDkwYmM0NmZkOGE2@163.171.213.47:46282#ARISTA🔥

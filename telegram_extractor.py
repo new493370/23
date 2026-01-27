@@ -816,7 +816,7 @@ class TelegramConfigExtractor:
         
         return categories
     
-    def process_channels(self, limit_per_channel=5):
+    def process_channels(self, limit_per_channel=15):
         all_configs = []
         configs_per_channel = {}
         failed_channels = []
@@ -901,7 +901,7 @@ def main():
     
     try:
         extractor = TelegramConfigExtractor()
-        categories, total_count, failed_channels = extractor.process_channels(limit_per_channel=5)
+        categories, total_count, failed_channels = extractor.process_channels(limit_per_channel=15)
         saved_count = extractor.save_results(categories, total_count)
         
         print(f"\n✅ PROCESSING COMPLETE")

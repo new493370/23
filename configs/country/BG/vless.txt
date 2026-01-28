@@ -1,8 +1,6 @@
 # BG - VLESS Configurations
-# Updated: 2026-01-28 20:49:37
-# Count: 3
+# Updated: 2026-01-28 21:45:37
+# Count: 1
 # Country Code: BG
 
 vless://d49b76ff-de4c-4efb-84a1-8fe649748c94@95.164.3.121:443#ARISTA🔥
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.6.183:8880?mode=gun&security=none&encryption=none&fp=chrome&type=grpc#ARISTA🔥
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.6.211:8880?mode=gun&security=none&encryption=none&fp=chrome&type=grpc#ARISTA🔥

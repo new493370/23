@@ -1,9 +1,8 @@
 # HK - VLESS Configurations
-# Updated: 2026-01-28 21:45:37
-# Count: 4
+# Updated: 2026-01-28 22:44:31
+# Count: 3
 # Country Code: HK
 
 vless://46e274b0-8033-4011-b1a0-9d05c3531a79@27.0.232.191:443?encryption=none&security=tls&sni=hkg.tunnelguard.ru&alpn=h2%2Chttp%2F1.1&insecure=1&allowInsecure=1&type=xhttp&path=%2F&mode=auto#ARISTA🔥
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@156.238.18.246:2095?path=%2F&security=none&encryption=none&host=redw.pooriam.ir&type=ws#ARISTA🔥
 vless://d4a23188-85b0-4b46-b84b-f1d36d66c03e@43.161.253.78:9527?security=none&type=tcp&path=/#ARISTA🔥
-vless://aec91540-4914-4dcd-d440-dff4a5c41ac6@219.76.130.115:49999?security=reality&flow=xtls-rprx-vision&sni=gamedownloads-rockstargames-com.akamaized.net&type=tcp&fp=chrome&pbk=UtL7E0Gmxj3X5JdcPAutpTRKo7K2hugkR0vwk2XroUM#ARISTA🔥
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@156.238.18.246:2095?path=%2F&security=none&encryption=none&host=redw.pooriam.ir&type=ws#ARISTA🔥

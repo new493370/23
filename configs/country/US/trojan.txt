@@ -1,11 +1,11 @@
 # US - TROJAN Configurations
-# Updated: 2026-01-28 21:45:37
+# Updated: 2026-01-28 22:44:31
 # Count: 6
 # Country Code: US
 
+trojan://humanity@208.103.161.110:443?path=%2Fassignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#ARISTA🔥
+trojan://humanity@208.103.161.110:443?path=/assignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#ARISTA🔥
+trojan://5027e2a4-c4d2-463a-9508-83a2c7d1ad83@216.24.57.250:443?path=/5.223.47.32=443&security=tls&insecure=0&host=afrcloud1.mmv.kr&type=ws&allowInsecure=0&sni=afrcloud1.mmv.kr#ARISTA🔥
 trojan://5027e2a4-c4d2-463a-9508-83a2c7d1ad83@216.24.57.250:443?path=%2F5.223.47.32%3D443&security=tls&insecure=0&host=afrcloud1.mmv.kr&type=ws&allowInsecure=0&sni=afrcloud1.mmv.kr#ARISTA🔥
 trojan://5027e2a4-c4d2-463a-9508-83a2c7d1ad83@216.24.57.250:443?path=%2F5.223.47.32%3D443&security=tls&host=afrcloud1.mmv.kr&type=ws&sni=afrcloud1.mmv.kr#ARISTA🔥
 trojan://71409d3e488548e8bb076d229778f008@38.99.82.225:443?security=tls&headerType=none&type=tcp#ARISTA🔥
-trojan://5027e2a4-c4d2-463a-9508-83a2c7d1ad83@216.24.57.250:443?path=/5.223.47.32=443&security=tls&insecure=0&host=afrcloud1.mmv.kr&type=ws&allowInsecure=0&sni=afrcloud1.mmv.kr#ARISTA🔥
-trojan://humanity@208.103.161.110:443?path=/assignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#ARISTA🔥
-trojan://humanity@208.103.161.110:443?path=%2Fassignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#ARISTA🔥

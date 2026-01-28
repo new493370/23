@@ -1,10 +1,10 @@
 # All Configurations for RO
-# Updated: 2026-01-28 21:45:37
+# Updated: 2026-01-28 22:44:31
 # Total Count: 5
 # Country Code: RO
 
-vless://7de5bee0-4b8f-40dc-86d1-46117101a06b@45.85.118.71:2086?path=%2F%3Fed%3D2086&security=none&encryption=none&host=sjcahbjhdbfvksfhkvbhskkskhvbhfhkvbshksfbfvkhfbkhfbvkfskbvfr.certhost.ir&type=ws#ARISTA🔥
-trojan://ZJU29smXwp@45.85.118.0:2053?path=%2F&security=tls&host=k.teama.tk&type=ws&sni=web2.teama.tk#ARISTA🔥
-trojan://ZJU29smXwp@45.85.118.88:2053?path=%2F&security=tls&host=k.teama.tk&type=ws&sni=omid.teama.tk#ARISTA🔥
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxMWU1MjBjY2JlNzM2NWVi@45.82.102.204:11201#ARISTA🔥
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphMDJmYjYwZDVjZjQwMGM2@45.82.102.245:11201#ARISTA🔥
+vless://7de5bee0-4b8f-40dc-86d1-46117101a06b@45.85.118.71:2086?path=%2F%3Fed%3D2086&security=none&encryption=none&host=sjcahbjhdbfvksfhkvbhskkskhvbhfhkvbshksfbfvkhfbkhfbvkfskbvfr.certhost.ir&type=ws#ARISTA🔥
+trojan://ZJU29smXwp@45.85.118.88:2053?path=%2F&security=tls&host=k.teama.tk&type=ws&sni=omid.teama.tk#ARISTA🔥
+trojan://ZJU29smXwp@45.85.118.0:2053?path=%2F&security=tls&host=k.teama.tk&type=ws&sni=web2.teama.tk#ARISTA🔥

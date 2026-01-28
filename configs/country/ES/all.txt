@@ -1,12 +1,11 @@
 # All Configurations for ES
-# Updated: 2026-01-28 21:45:37
-# Total Count: 7
+# Updated: 2026-01-28 22:44:31
+# Total Count: 6
 # Country Code: ES
 
-vless://613725ab-ca86-4d54-852e-a0bf45e812de@83.147.18.219:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=allison.kosmolet.xyz&fp=chrome&security=reality&pbk=UgCLC1JdwUh-hgpvSfndN1tuH98620gziTq2UB0gOjI&sid=a369bfe440aba1a2#ARISTA🔥
-vless://977cf430-e251-4b5f-8bc4-c974fdec0df9@217.71.204.148:2096?encryption=none&security=reality&sni=WWW.speedtest.net,Speedtest.net&fp=chrome&pbk=ueUB3nxbexEGsLstcIG5w84Tqz9IiHYdVQMdy6aPO0E&sid=f8baf4dd88f32724&type=xhttp#ARISTA🔥
-vless://8658dc4f-2b4e-46d7-831d-17a3def93c00@5.22.219.57:30704?security=none&encryption=none&host=soft98.ir&headerType=http&type=tcp#ARISTA🔥
 vless://2262242d-1b1c-481c-b60d-cde0e6a48bb2@185.251.80.0:80?encryption=none&type=ws&host=filma.video-fun-new.com.de&path=/Mv3kv92GcD3E2KuHxT&security=none#ARISTA🔥
-vless://34e89d4d-ff2e-48a5-8a4a-97a51b824f25@85.137.252.99:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=sso.passport.yandex.ru&fp=chrome&security=reality&pbk=08JSE_05dASJ98eZA_eJ5zHszl7YYtB5KM1N3rW4gWU&sid=2b4091f2#ARISTA🔥
-vless://613725ab-ca86-4d54-852e-a0bf45e812de@83.147.18.219:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=allison.kosmolet.xyz&fp=chrome&security=reality&pbk=UgCLC1JdwUh-hgpvSfndN1tuH98620gziTq2UB0gOjI&sid=a369bfe440aba1a2#ARISTA🔥
 vless://8658dc4f-2b4e-46d7-831d-17a3def93c00@5.22.219.57:30704?encryption=none&security=none&type=tcp&headerType=http&host=soft98.ir#ARISTA🔥
+vless://977cf430-e251-4b5f-8bc4-c974fdec0df9@217.71.204.148:2096?encryption=none&security=reality&sni=WWW.speedtest.net,Speedtest.net&fp=chrome&pbk=ueUB3nxbexEGsLstcIG5w84Tqz9IiHYdVQMdy6aPO0E&sid=f8baf4dd88f32724&type=xhttp#ARISTA🔥
+vless://613725ab-ca86-4d54-852e-a0bf45e812de@83.147.18.219:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=allison.kosmolet.xyz&fp=chrome&security=reality&pbk=UgCLC1JdwUh-hgpvSfndN1tuH98620gziTq2UB0gOjI&sid=a369bfe440aba1a2#ARISTA🔥
+vless://613725ab-ca86-4d54-852e-a0bf45e812de@83.147.18.219:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=allison.kosmolet.xyz&fp=chrome&security=reality&pbk=UgCLC1JdwUh-hgpvSfndN1tuH98620gziTq2UB0gOjI&sid=a369bfe440aba1a2#ARISTA🔥
+vless://8658dc4f-2b4e-46d7-831d-17a3def93c00@5.22.219.57:30704?security=none&encryption=none&host=soft98.ir&headerType=http&type=tcp#ARISTA🔥

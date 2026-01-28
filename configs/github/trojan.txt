@@ -1,6 +1,6 @@
 # GitHub TROJAN Configurations
-# Updated: 2026-01-28 04:05:22
-# Count: 268
+# Updated: 2026-01-28 05:02:28
+# Count: 272
 # Source: GitHub Repositories
 
 trojan://02948bde80594712b974368035f294dd@88.214.24.235:9443?security=reality&amp;pbk=au0aQ5QVdLNbzMShbL9Anhi5hOPXMNJVBhbkuFP7Sk0&amp;headerType=none&amp;fp=random&amp;type=tcp&amp;sni=apple.com&amp;sid=aabbccdd#ARISTA🔥
@@ -270,4 +270,8 @@ trojan://fc884373-9a30-4ce8-9add-15f76323d3f9@green2.cdntencentmusic.com:31102?s
 trojan://3f58bbd2-4bac-4c33-9dd9-788d7a35d8bf@green2.cdntencentmusic.com:31102?sni=green2.cdntencentmusic.com&path=%2f#ARISTA🔥
 trojan://6f0d3131-13d9-4832-9f0e-72f48b8ba139@green2.cdntencentmusic.com:31102?security=tls&sni=green2.cdntencentmusic.com&path=%2f#ARISTA🔥
 trojan://nodes-b211f28a@node-id-1.v2sv.top:2083?sni=node-id-1.v2sv.top&path=%2f#ARISTA🔥
+trojan://BxceQaOe@18.179.118.202:1867?sni=%F0%9F%94%92%20%5BBy%20EbraSha%5D%20trojan-HK%20&allowInsecure=1&fp=chrome#ARISTA🔥
+trojan://qmBSKnAl6LYi9=z23Rs.Z@37.235.49.209:28099?sni=%F0%9F%94%92%20%5BBy%20EbraSha%5D&allowInsecure=1&fp=chrome%20#ARISTA🔥
+trojan://x.8ur1QiCyzlRHXeaB5UwoDfgZ04s@45.32.158.138:20994?sni=%F0%9F%94%92%20%5BBy%20EbraSha%5D%20&allowInsecure=1&fp=chrome#ARISTA🔥
+trojan://x.8ur1QiCyzlRHXeaB5UwoDfgZ04s@45.32.158.138:20994?sni=%F0%9F%94%92%20%5BBy%20EbraSha%5D%20trojan-DE%20&allowInsecure=1&fp=chrome#ARISTA🔥
 trojan://iCfh96DEJn3%3DQRbzF.Tdl@212.192.214.46:18069/?type=tcp&security=tls&sni=www.vk.com&allowInsecure=1#ARISTA🔥

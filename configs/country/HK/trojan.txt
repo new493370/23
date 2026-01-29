@@ -1,6 +1,6 @@
 # HK - TROJAN Configurations
-# Updated: 2026-01-29 20:06:47
-# Count: 9
+# Updated: 2026-01-29 20:48:34
+# Count: 11
 # Country Code: HK
 
 trojan://019a8c1f-3d28-74e8-8a8e-40045d7ec77f@38.207.160.35:443/?type=tcp&security=tls&sni=www.bilibili.com&allowInsecure=1#ARISTA🔥
@@ -9,6 +9,8 @@ trojan://869e9086806483ca4744a4cb0f3d6e16@58.152.110.210:443?security=tls&sni=ww
 trojan://869e9086806483ca4744a4cb0f3d6e16@58.152.110.210:443?security=tls&sni=www.nintendogames.net&type=tcp&headerType=none&path=/#ARISTA🔥
 trojan://869e9086806483ca4744a4cb0f3d6e16@58.152.110.210:443?security=tls&sni=www.nintendogames.net&type=tcp&path=/#ARISTA🔥
 trojan://869e9086806483ca4744a4cb0f3d6e16@58.152.110.210:443?security=tls&sni=www.nintendogames.net#ARISTA🔥
+trojan://BxceQaOe@58.152.53.45:443?allowInsecure=1&sni=t.me%2Fripaojiedian#ARISTA🔥
+trojan://BxceQaOe@219.76.135.98:443?allowInsecure=1&sni=t.me%2Fripaojiedian#ARISTA🔥
 trojan://BxceQaOe@58.152.25.236:443?security=tls&sni=t.me%2fripaojiedian&type=tcp&headerType=none&path=%2f&allow_insecure=1#ARISTA🔥
 trojan://869e9086806483ca4744a4cb0f3d6e16@58.152.110.210:443?sni=www.nintendogames.net&path=%2f#ARISTA🔥
 trojan://869e9086806483ca4744a4cb0f3d6e16@58.152.110.210:443?security=tls&sni=www.nintendogames.net&type=tcp&headerType=none&path=%2f#ARISTA🔥

@@ -1,6 +1,6 @@
 # GitHub TROJAN Configurations
-# Updated: 2026-01-29 15:16:42
-# Count: 195
+# Updated: 2026-01-29 16:13:21
+# Count: 193
 # Source: GitHub Repositories
 
 trojan://02948bde80594712b974368035f294dd@88.214.24.235:9443?security=reality&amp;pbk=au0aQ5QVdLNbzMShbL9Anhi5hOPXMNJVBhbkuFP7Sk0&amp;headerType=none&amp;fp=random&amp;type=tcp&amp;sni=apple.com&amp;sid=aabbccdd#ARISTA🔥
@@ -195,6 +195,4 @@ trojan://869e9086806483ca4744a4cb0f3d6e16@160.16.72.33:3901?sni=www.nintendogame
 trojan://BxceQaOe@58.152.25.236:443?security=tls&sni=t.me%2fripaojiedian&type=tcp&headerType=none&path=%2f&allow_insecure=1#ARISTA🔥
 trojan://869e9086806483ca4744a4cb0f3d6e16@58.152.110.210:443?sni=www.nintendogames.net&path=%2f#ARISTA🔥
 trojan://869e9086806483ca4744a4cb0f3d6e16@58.152.110.210:443?security=tls&sni=www.nintendogames.net&type=tcp&headerType=none&path=%2f#ARISTA🔥
-trojan://Zy6DXTCxtR@sama.asukasimp.com:2087?mode=packet-up&path=%2F&security=tls&insecure=0&host=sni1.feydooomain.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=sni1.feydooomain.ir#ARISTA🔥
-trojan://Zy6DXTCxtR@sama.asukasimp.com:2087?type=xhttp&mode=packet-up&host=sni1.feydooomain.ir&path=/&security=tls&fp=chrome&sni=sni1.feydooomain.ir#ARISTA🔥
-trojan://0c1f44f7-c6e5-452b-8603-f84b2556cbd5@109.230.91.202:443?type=grpc&mode=gun&serviceName=gr1.grtj.sulindac.top&security=tls&sni=gr1.grtj.sulindac.top#ARISTA🔥
+trojan://0c1f44f7-c6e5-452b-8603-f84b2556cbd5@109.230.91.202:443?mode=gun&security=tls&insecure=0&type=grpc&serviceName=gr1.grtj.sulindac.top&allowInsecure=0&sni=gr1.grtj.sulindac.top#ARISTA🔥

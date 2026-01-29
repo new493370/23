@@ -1,9 +1,9 @@
 # IR - TROJAN Configurations
-# Updated: 2026-01-29 15:16:43
+# Updated: 2026-01-29 16:13:21
 # Count: 4
 # Country Code: IR
 
 trojan://0c1f44f7-c6e5-452b-8603-f84b2556cbd5@109.230.91.202:443?mode=gun&security=tls&insecure=0&type=grpc&serviceName=gr1.grtj.sulindac.top&allowInsecure=0&sni=gr1.grtj.sulindac.top#ARISTA🔥
-trojan://0c1f44f7-c6e5-452b-8603-f84b2556cbd5@109.230.91.202:443?type=grpc&mode=gun&serviceName=gr1.grtj.sulindac.top&security=tls&sni=gr1.grtj.sulindac.top#ARISTA🔥
-trojan://0c1f44f7-c6e5-452b-8603-f84b2556cbd5@109.230.91.202:443?security=tls&sni=gr1.grtj.sulindac.top&insecure=0&allowInsecure=0&type=grpc&authority=&serviceName=gr1.grtj.sulindac.top&mode=gun#ARISTA🔥
 trojan://0c1f44f7-c6e5-452b-8603-f84b2556cbd5@109.230.91.202:443?mode=gun&security=tls&type=grpc&serviceName=nl1.grtj.sulindac.top&sni=nl1.grtj.sulindac.top#ARISTA🔥
+trojan://0c1f44f7-c6e5-452b-8603-f84b2556cbd5@109.230.91.202:443?mode=gun&security=tls&type=grpc&serviceName=gr1.grtj.sulindac.top&sni=gr1.grtj.sulindac.top#ARISTA🔥
+trojan://0c1f44f7-c6e5-452b-8603-f84b2556cbd5@109.230.91.202:443?security=tls&sni=gr1.grtj.sulindac.top&insecure=0&allowInsecure=0&type=grpc&authority=&serviceName=gr1.grtj.sulindac.top&mode=gun#ARISTA🔥

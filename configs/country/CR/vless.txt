@@ -1,8 +1,7 @@
-# All Configurations for CR
+# CR - VLESS Configurations
 # Updated: 2026-01-29 22:41:10
-# Total Count: 3
+# Count: 2
 # Country Code: CR
 
-vmess://eyJhZGQiOiIxOTAuOTMuMjQ0LjIwMCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0Ijoib3BmcjEudjJyYXlmcmVlMS54eXoiLCJpZCI6IjQ2MTI2MThjLTI0Y2QtNDM3OS05OTI0LWNmZGYzZDYxZmE1YSIsIm5ldCI6IndzIiwicGF0aCI6Ii9JWUtMRDUzTSIsInBvcnQiOiI0NDMiLCJwcyI6IkFSSVNUQfCflKUiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoidGxzIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
 vless://8d9ccaac-2cb2-4c42-9a2b-0a5a10243031@190.93.244.3:2053?security=tls&encryption=none&insecure=0&host=ity.ecoping2.org&type=ws&allowInsecure=0&sni=ity.ecoping2.org#ARISTA🔥
 vless://8d9ccaac-2cb2-4c42-9a2b-0a5a10243031@190.93.244.3:2053/?security=tls&encryption=none&insecure=0&host=ukr.lumeshop.ir&type=ws&allowInsecure=0&sni=ukr.lumeshop.ir#ARISTA🔥

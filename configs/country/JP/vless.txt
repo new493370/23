@@ -1,8 +1,11 @@
 # JP - VLESS Configurations
-# Updated: 2026-01-28 23:41:21
-# Count: 3
+# Updated: 2026-01-29 02:39:27
+# Count: 6
 # Country Code: JP
 
-vless://11d29ec6-be66-4f59-97c6-7cff836ea318@138.2.50.155:44073?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.icloud.com&fp=chrome&security=reality&pbk=Z3ZGnAOdKkzJ07gR_7_0k9_iTTFP6paDOrqx1rN2LU4#ARISTA🔥
-vless://d6b62381-8d75-4a0c-9946-bf8f40772afe@178.239.126.118:2443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=pizzastrada.jp#ARISTA🔥
 vless://aa7f42cc-616f-4550-9a87-4b85bb409121@139.162.83.106:4399?encryption=none&type=ws&host=vless3.datatestvless.click&path=%2F%3Fed%3D2560&security=tls&sni=vless3.datatestvless.click#ARISTA🔥
+vless://11d29ec6-be66-4f59-97c6-7cff836ea318@138.2.50.155:44073?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.icloud.com&fp=chrome&security=reality&pbk=Z3ZGnAOdKkzJ07gR_7_0k9_iTTFP6paDOrqx1rN2LU4#ARISTA🔥
+vless://86b414b6-966e-4f6d-ab16-32049ef732d3@47.245.38.111:443?encryption=none&security=reality&sni=www.autodesk.com&fp=chrome&pbk=y167aJhpgWWjltY4UCir_uu8Mj__Hkc1W4etD0QXYH4&sid=860705e716cbe6ed&type=tcp&headerType=none#ARISTA🔥
+vless://2dd1a15d-1426-413a-a3b8-a645788bc844@147.45.49.163:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=jap.speedload.online&fp=qq&pbk=J5ITJbg5FQFembAfkogKHHQB6DigsFXQxK7xu-QMWUs&sid=a20d3ed244c76426&type=tcp&headerType=none#ARISTA🔥
+vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@45.129.8.233:48631?encryption=none&security=tls&sni=sni.111000.cc.cd&insecure=1&allowInsecure=1&type=ws&host=sni.111000.cc.cd&path=%2F#ARISTA🔥
+vless://d6b62381-8d75-4a0c-9946-bf8f40772afe@178.239.126.118:2443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=pizzastrada.jp#ARISTA🔥

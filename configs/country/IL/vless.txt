@@ -1,7 +1,7 @@
 # IL - VLESS Configurations
-# Updated: 2026-01-29 11:20:13
+# Updated: 2026-01-29 12:06:59
 # Count: 2
 # Country Code: IL
 
-vless://38b53ad9-1401-4443-95e4-0af56c1cc3d0@185.241.5.151:446/?type=tcp&encryption=none&flow=#ARISTA🔥
 vless://38b53ad9-1401-4443-95e4-0af56c1cc3d0@185.241.5.151:446?encryption=none&security=none&type=tcp&headerType=none#ARISTA🔥
+vless://38b53ad9-1401-4443-95e4-0af56c1cc3d0@185.241.5.151:446/?type=tcp&encryption=none&flow=#ARISTA🔥

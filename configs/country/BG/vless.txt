@@ -1,8 +1,8 @@
 # BG - VLESS Configurations
-# Updated: 2026-01-30 14:19:46
+# Updated: 2026-01-30 15:16:19
 # Count: 3
 # Country Code: BG
 
-vless://829658bf-03c4-4c28-81e9-dd6ea141b2d0@147.78.140.0:8443?path=%2F%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=5jq7fvwpqt5owo2fi198sa6qoxznkzfea7en4m3xroeqrt3u3q.zjde5.de5.net&fp=chrome&type=ws&allowInsecure=0&sni=5jq7fvwpqt5owo2fi198sa6qoxznkzfea7en4m3xroeqrt3u3q.zjde5.de5.net#ARISTA🔥
+vless://829658bf-03c4-4c28-81e9-dd6ea141b2d0@147.78.140.0:8443?path=mehrosaboran%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&insecure=1&host=5jq7fvwpqt5owo2fi198sa6qoxznkzfea7en4m3xroeqrt3u3q.zjde5.de5.net&fp=chrome&type=ws&allowInsecure=1&sni=5jq7fvwpqt5owo2fi198sa6qoxznkzfea7en4m3xroeqrt3u3q.zjde5.de5.net#ARISTA🔥
 vless://829658bf-03c4-4c28-81e9-dd6ea141b2d0@147.78.140.0:8443?security=tls&allowInsecure=0&encryption=none&type=ws&host=5jq7fvwpqt5owo2fi198sa6qoxznkzfea7en4m3xroeqrt3u3q.zjde5.de5.net&path=/?ed%3D2560&sni=5jq7fvwpqt5owo2fi198sa6qoxznkzfea7en4m3xroeqrt3u3q.zjde5.de5.net&fp=chrome&alpn=http/1.1#ARISTA🔥
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@147.78.140.242:443?path=tg%40zdyz2&security=tls&encryption=none&type=ws&sni=cfed.tgzdyz2.top#ARISTA🔥
+vless://829658bf-03c4-4c28-81e9-dd6ea141b2d0@147.78.140.0:8443?path=%2F%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=5jq7fvwpqt5owo2fi198sa6qoxznkzfea7en4m3xroeqrt3u3q.zjde5.de5.net&fp=chrome&type=ws&allowInsecure=0&sni=5jq7fvwpqt5owo2fi198sa6qoxznkzfea7en4m3xroeqrt3u3q.zjde5.de5.net#ARISTA🔥

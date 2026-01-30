@@ -1,8 +1,7 @@
 # IE - VLESS Configurations
-# Updated: 2026-01-30 07:55:16
-# Count: 3
+# Updated: 2026-01-30 08:56:33
+# Count: 2
 # Country Code: IE
 
-vless://2dd1a15d-1426-413a-a3b8-a645788bc844@85.159.229.164:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=irl.speedload.online&fp=qq&pbk=J5ITJbg5FQFembAfkogKHHQB6DigsFXQxK7xu-QMWUs&sid=a20d3ed244c76426&type=tcp&headerType=none#ARISTA🔥
-vless://38cc3dff-5114-429f-9a45-fed484086c47@212.147.231.57:8880?path=%2F&security=&encryption=none&host=divar.ir&type=ws#ARISTA🔥
 vless://6e95243c-544c-4770-b2cd-a5c5cc10211e@50.7.4.108:443?encryption=none&security=tls&sni=DIP.Amperes.Workers.DEV&alpn=http/1.1&allowInsecure=1&type=ws&host=dip.amperes.workers.dev&path=/assets#ARISTA🔥
+vless://2dd1a15d-1426-413a-a3b8-a645788bc844@85.159.229.164:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=irl.speedload.online&fp=qq&pbk=J5ITJbg5FQFembAfkogKHHQB6DigsFXQxK7xu-QMWUs&sid=a20d3ed244c76426&type=tcp&headerType=none#ARISTA🔥

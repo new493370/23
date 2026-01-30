@@ -1,8 +1,9 @@
 # All Configurations for NO
-# Updated: 2026-01-30 20:49:01
-# Total Count: 3
+# Updated: 2026-01-30 21:45:20
+# Total Count: 4
 # Country Code: NO
 
-trojan://wp9IsiY82uQhcmgNC1eoBM@80.173.231.254:12420?security=tls&sni=www.semanticstaplegun.click#ARISTA🔥
 trojan://wp9IsiY82uQhcmgNC1eoBM@80.173.231.254:12420?security=tls&headerType=none&fp=chrome&type=tcp&sni=www.semanticstaplegun.click#ARISTA🔥
+trojan://wp9IsiY82uQhcmgNC1eoBM@80.173.231.254:12420/?type=tcp&security=tls&sni=www.semanticstaplegun.click#ARISTA🔥
+trojan://wp9IsiY82uQhcmgNC1eoBM@80.173.231.254:12420?security=tls&headerType=none&type=tcp&sni=www.semanticstaplegun.click#ARISTA🔥
 vless://84f66368-8a37-468e-ae95-5622255fd4db@217.170.199.132:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=azure.com&fp=chrome&security=reality&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&sid=#ARISTA🔥

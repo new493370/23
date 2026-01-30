@@ -1,6 +1,7 @@
 # SE - TROJAN Configurations
-# Updated: 2026-01-30 16:09:56
-# Count: 1
+# Updated: 2026-01-30 17:03:49
+# Count: 2
 # Country Code: SE
 
 trojan://telegram-id-directvpn@13.53.118.167:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#ARISTA🔥
+trojan://telegram-id-directvpn@13.53.118.167:22222?security=tls&alpn=http%2F1.1&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=trojan.burgerip.co.uk#ARISTA🔥

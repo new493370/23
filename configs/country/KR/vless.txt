@@ -1,8 +1,7 @@
 # KR - VLESS Configurations
-# Updated: 2026-01-30 19:44:39
-# Count: 3
+# Updated: 2026-01-30 20:49:01
+# Count: 2
 # Country Code: KR
 
-vless://3e7f67de-648e-4871-b51a-a225214d41ee@47.80.13.85:443?security=reality&encryption=none&pbk=TRP10HqKUXEQ3O-cfsq93DycfBmbJe9KM36yvSa8Mmw&host=api.company-target.com&headerType=none&fp=chrome&type=tcp&sni=api.company-target.com#ARISTA🔥
+vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@54.180.32.77:443?security=reality&encryption=none&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=wikipedia.org&sid=f5#ARISTA🔥
 vless://3e7f67de-648e-4871-b51a-a225214d41ee@47.80.13.85:443?encryption=none&fp=chrome&headerType=none&host=api.company-target.com&pbk=TRP10HqKUXEQ3O-cfsq93DycfBmbJe9KM36yvSa8Mmw&security=reality&sni=api.company-target.com&type=tcp#ARISTA🔥
-vless://3e7f67de-648e-4871-b51a-a225214d41ee@47.80.13.85:443?encryption=none&security=reality&sni=api.company-target.com&fp=chrome&pbk=TRP10HqKUXEQ3O-cfsq93DycfBmbJe9KM36yvSa8Mmw&type=tcp&headerType=none&host=api.company-target.com#ARISTA🔥

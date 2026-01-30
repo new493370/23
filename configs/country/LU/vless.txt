@@ -1,7 +1,7 @@
 # LU - VLESS Configurations
-# Updated: 2026-01-30 02:37:19
+# Updated: 2026-01-30 04:32:05
 # Count: 2
 # Country Code: LU
 
-vless://1133fb71-5fd0-4cb1-8a2e-28708dd82f31@45.136.117.8:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless-grpc#ARISTA🔥
 vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@188.42.145.238:2096/?type=ws&encryption=none&flow=&host=sni.111000.cc.cd&path=%2F%3FTelegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%2540WangCai2%3D&ed=2560&eh=Sec-WebSocket-Protocol&security=tls&sni=sni.111000.cc.cd#ARISTA🔥
+vless://1133fb71-5fd0-4cb1-8a2e-28708dd82f31@45.136.117.8:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless-grpc#ARISTA🔥

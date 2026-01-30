@@ -1,11 +1,12 @@
 # All Configurations for RO
-# Updated: 2026-01-30 05:44:08
-# Total Count: 6
+# Updated: 2026-01-30 07:07:09
+# Total Count: 7
 # Country Code: RO
 
-vless://7de5bee0-4b8f-40dc-86d1-46117101a06b@45.85.118.71:2086?path=%2F%3Fed%3D2086&security=none&encryption=none&host=sjcahbjhdbfvksfhkvbhskkskhvbhfhkvbshksfbfvkhfbkhfbvkfskbvfr.certhost.ir&type=ws#ARISTA🔥
-vmess://eyJ2IjoiMiIsInBzIjoiQVJJU1RB8J+UpSIsImFkZCI6IjQ1Ljg1LjExOC4yNDUiLCJwb3J0IjoyMDUyLCJpZCI6IjYwNjZhYmYxLWNkYjEtNDgxOC1kMzVhLTdjOGUwZWU5MDMyMCIsImFpZCI6MCwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiJjYy52MmpleS5mdW4iLCJwYXRoIjoiLyIsInRscyI6Im5vbmUifQ==
-trojan://ZJU29smXwp@45.85.118.0:2053?path=%2F&security=tls&host=k.teama.tk&type=ws&sni=web2.teama.tk#ARISTA🔥
-trojan://ZJU29smXwp@45.85.118.88:2053?path=%2F&security=tls&host=k.teama.tk&type=ws&sni=omid.teama.tk#ARISTA🔥
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxMWU1MjBjY2JlNzM2NWVi@45.82.102.204:11201#ARISTA🔥
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphMDJmYjYwZDVjZjQwMGM2@45.82.102.245:11201#ARISTA🔥
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxMWU1MjBjY2JlNzM2NWVi@45.82.102.204:11201#ARISTA🔥
+vless://7de5bee0-4b8f-40dc-86d1-46117101a06b@45.85.118.71:2086?path=%2F%3Fed%3D2086&security=none&encryption=none&host=sjcahbjhdbfvksfhkvbhskkskhvbhfhkvbshksfbfvkhfbkhfbvkfskbvfr.certhost.ir&type=ws#ARISTA🔥
+vmess://eyJhZGQiOiI0NS44NS4xMTkuNDgiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImEzLmlyYW5pYW5jcC5mdW4iLCJpZCI6IjcyZjc2YzM2LTNlM2MtNDViMy1hNjFmLWQ4ZjAxNzM0NTk1OCIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiMjA1MyIsInBzIjoiQVJJU1RB8J+UpSIsInNjeSI6ImF1dG8iLCJzbmkiOiJpcmFuaWFuY3AuZnVuIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
+vmess://eyJ2IjoiMiIsInBzIjoiQVJJU1RB8J+UpSIsImFkZCI6IjQ1Ljg1LjExOC4yNDUiLCJwb3J0IjoyMDUyLCJpZCI6IjYwNjZhYmYxLWNkYjEtNDgxOC1kMzVhLTdjOGUwZWU5MDMyMCIsImFpZCI6MCwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiJjYy52MmpleS5mdW4iLCJwYXRoIjoiLyIsInRscyI6Im5vbmUifQ==
+trojan://ZJU29smXwp@45.85.118.88:2053?path=%2F&security=tls&host=k.teama.tk&type=ws&sni=omid.teama.tk#ARISTA🔥
+trojan://ZJU29smXwp@45.85.118.0:2053?path=%2F&security=tls&host=k.teama.tk&type=ws&sni=web2.teama.tk#ARISTA🔥

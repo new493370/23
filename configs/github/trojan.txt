@@ -1,5 +1,5 @@
 # GitHub TROJAN Configurations
-# Updated: 2026-01-30 21:45:19
+# Updated: 2026-01-30 22:40:12
 # Count: 153
 # Source: GitHub Repositories
 
@@ -131,23 +131,23 @@ trojan://cTv.9PDdCt-wybBrG1qlxI5UJuaEj@167.17.185.152:10889?security=tls&sni=ozo
 trojan://cTv.9PDdCt-wybBrG1qlxI5UJuaEj@167.17.185.169:10889?security=tls&sni=ya.ru&insecure=1&allowInsecure=1&type=tcp&headerType=none#ARISTA🔥
 trojan://QXaBTTNTtFm1cEuSUgQPFnBp2JFFN9@94.103.169.70:8443?security=tls&sni=chat.speedload.ru&fp=qq&alpn=h2%2Chttp%2F1.1&insecure=1&allowInsecure=1&type=tcp&headerType=none#ARISTA🔥
 trojan://QXaBTTNTtFm1cEuSUgQPFnBp2JFFN9@217.12.204.110:8443?security=tls&sni=chat.speedload.ru&fp=qq&alpn=h2%2Chttp%2F1.1&insecure=1&allowInsecure=1&type=tcp&headerType=none#ARISTA🔥
+trojan://BxceQaOe@54.249.137.88:26378?allowInsecure=1&sni=t.me%252Fripaojiedian#ARISTA🔥
 trojan://telegram-id-privatevpns@35.180.200.203:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#ARISTA🔥
 trojan://BxceQaOe@43.207.157.137:2826?allowInsecure=1&sni=t.me%2Fripaojiedian#ARISTA🔥
-trojan://c1d83c0c7d57cead4379ba14a82df69b@160.16.117.182:491?security=tls&sni=www.nintendogames.net#ARISTA🔥
+trojan://c1d83c0c7d57cead4379ba14a82df69b@160.16.124.55:491?security=tls&sni=www.nintendogames.net#ARISTA🔥
 trojan://BxceQaOe@54.249.137.88:1867?allowInsecure=1&sni=t.me%2Fripaojiedian#ARISTA🔥
 trojan://c1d83c0c7d57cead4379ba14a82df69b@58.152.110.210:443?allowInsecure=1&sni=www.nintendogames.net#ARISTA🔥
 trojan://humanity@208.103.161.110:443?path=%2Fassignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#ARISTA🔥
-trojan://BxceQaOe@58.152.53.45:443?sni=t.me%25252Fripaojiedian#ARISTA🔥
+trojan://BxceQaOe@58.152.53.45:443?allowInsecure=1&sni=t.me%2Fripaojiedian#ARISTA🔥
 trojan://nodes-b211f28a@node-tr-1.v2sv.top:2083?security=tls&insecure=0&host=TELEGRAM--JKVPN&headerType=none&type=tcp&allowInsecure=0&sni=node-tr-1.v2sv.top#ARISTA🔥
 trojan://BxceQaOe@219.76.135.98:443?allowInsecure=1&sni=t.me%25252Fripaojiedian#ARISTA🔥
 trojan://humanity@172.64.152.23:443?path=/assignment&security=tls&insecure=0&host=www.multiplydose.com&fp=chrome&type=ws&allowInsecure=0&sni=www.multiplydose.com#ARISTA🔥
-trojan://humanity@188.114.96.3:443?path=%2Fassignment&security=tls&insecure=0&host=www.gossipglove.com&fp=chrome&type=ws&allowInsecure=0&sni=www.gossipglove.com#ARISTA🔥
+trojan://humanity@172.64.152.23:443?path=/assignment&security=tls&host=www.gossipglove.com&fp=chrome&type=ws&sni=www.gossipglove.com#ARISTA🔥
 trojan://x.8ur1QiCyzlRHXeaB5UwoDfgZ04s@45.32.158.138:20994?security=tls&sni=ads.x5.ru#ARISTA🔥
-trojan://wp9IsiY82uQhcmgNC1eoBM@80.173.231.254:12420?security=tls&headerType=none&type=tcp&sni=www.semanticstaplegun.click#ARISTA🔥
+trojan://wp9IsiY82uQhcmgNC1eoBM@80.173.231.254:12420?security=tls&sni=www.semanticstaplegun.click#ARISTA🔥
 trojan://c1d83c0c7d57cead4379ba14a82df69b@153.121.45.139:3423?security=tls&sni=www.nintendogames.net#ARISTA🔥
 trojan://c1d83c0c7d57cead4379ba14a82df69b@160.16.116.227:544?security=tls&sni=www.nintendogames.net#ARISTA🔥
 trojan://c1d83c0c7d57cead4379ba14a82df69b@160.16.117.182:491?security=tls&sni=www.nintendogames.net&path=%2f#ARISTA🔥
-trojan://bpb-trojan@94.140.0.1:443?path=%2Ftr%3Fed%3D2560&security=tls&insecure=0&host=singbox.lu567890.us.kg&fp=chrome&type=ws&allowInsecure=0&sni=singbox.lu567890.us.kg#ARISTA🔥
 trojan://telegram-id-privatevpns@52.47.70.7:22222/?type=tcp&security=tls#ARISTA🔥
 trojan://nodes-b211f28a@node-de-1.v2sv.top:2083/?type=tcp&security=tls&sni=node-de-1.v2sv.top#ARISTA🔥
 trojan://x.8ur1QiCyzlRHXeaB5UwoDfgZ04s@45.32.158.138:20994/?type=tcp&security=tls&sni=%F0%9F%94%92&allowInsecure=1#ARISTA🔥

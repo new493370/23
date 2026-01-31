@@ -1,10 +1,10 @@
 # US - TROJAN Configurations
-# Updated: 2026-01-31 11:37:17
+# Updated: 2026-01-31 11:54:31
 # Count: 6
 # Country Code: US
 
-trojan://71409d3e488548e8bb076d229778f008@38.99.82.225:443?security=tls&headerType=none&type=tcp#ARISTA🔥
 trojan://humanity@208.103.161.110:443?path=%2Fassignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#ARISTA🔥
+trojan://71409d3e488548e8bb076d229778f008@38.99.82.225:443?security=tls&headerType=none&type=tcp#ARISTA🔥
 trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@23.186.200.108:11012?security=tls&headerType=none&type=tcp&sni=wus02.weyaf9sdoh2h.space#ARISTA🔥
 trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@23.186.200.107:11011?security=tls&headerType=none&type=tcp&sni=wus01.weyaf9sdoh2h.space#ARISTA🔥
 trojan://humanity@208.103.161.110:443?path=/assignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#ARISTA🔥

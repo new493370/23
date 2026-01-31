@@ -1,9 +1,8 @@
 # JP - TROJAN Configurations
-# Updated: 2026-01-31 11:37:17
+# Updated: 2026-01-31 11:54:31
 # Count: 10
 # Country Code: JP
 
-trojan://869e9086806483ca4744a4cb0f3d6e16@160.16.89.176:5076/?type=tcp&security=tls&sni=www.nintendogames.net#ARISTA🔥
 trojan://c1d83c0c7d57cead4379ba14a82df69b@160.16.117.182:491?security=tls&sni=www.nintendogames.net&path=%2f#ARISTA🔥
 trojan://c1d83c0c7d57cead4379ba14a82df69b@160.16.116.227:544?security=tls&sni=www.nintendogames.net#ARISTA🔥
 trojan://c1d83c0c7d57cead4379ba14a82df69b@153.121.45.139:3423?security=tls&sni=www.nintendogames.net#ARISTA🔥
@@ -13,3 +12,4 @@ trojan://BxceQaOe@43.207.157.137:2826?allowInsecure=1&sni=t.me%2Fripaojiedian#AR
 trojan://BxceQaOe@54.249.137.88:26378?allowInsecure=1&sni=t.me%252Fripaojiedian#ARISTA🔥
 trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@202.181.103.246:1334?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=www.nintendogames.net#ARISTA🔥
 trojan://c1d83c0c7d57cead4379ba14a82df69b@160.16.117.182:491?security=tls&sni=www.nintendogames.net&path=/#ARISTA🔥
+trojan://869e9086806483ca4744a4cb0f3d6e16@160.16.89.176:5076/?type=tcp&security=tls&sni=www.nintendogames.net#ARISTA🔥

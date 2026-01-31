@@ -1,8 +1,8 @@
 # IE - VLESS Configurations
-# Updated: 2026-01-31 07:16:33
+# Updated: 2026-01-31 08:00:13
 # Count: 3
 # Country Code: IE
 
 vless://6e95243c-544c-4770-b2cd-a5c5cc10211e@50.7.4.108:443?encryption=none&security=tls&sni=DIP.Amperes.Workers.DEV&alpn=http/1.1&type=ws&host=dip.amperes.workers.dev&path=/assets#ARISTA🔥
-vless://2dd1a15d-1426-413a-a3b8-a645788bc844@85.159.229.164:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=irl.speedload.online&fp=qq&pbk=J5ITJbg5FQFembAfkogKHHQB6DigsFXQxK7xu-QMWUs&sid=a20d3ed244c76426&type=tcp&headerType=none#ARISTA🔥
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@54.220.207.127:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#ARISTA🔥
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@34.248.121.249:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#ARISTA🔥

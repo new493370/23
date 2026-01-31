@@ -1,7 +1,8 @@
 # BE - VLESS Configurations
-# Updated: 2026-01-31 08:00:13
-# Count: 2
+# Updated: 2026-01-31 08:46:33
+# Count: 3
 # Country Code: BE
 
-vless://c688ee09-86d0-40d7-b946-d194618c7acd@113.30.152.46:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=telegavpn.com&fp=&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA&sid=#ARISTA🔥
 vless://63c6b80e-e098-4c6b-8102-28af54c03beb@113.30.152.46:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=telegavpn.com&fp=&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA&sid=#ARISTA🔥
+vless://c688ee09-86d0-40d7-b946-d194618c7acd@113.30.152.46:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=telegavpn.com&fp=&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA&sid=#ARISTA🔥
+vless://2dd1a15d-1426-413a-a3b8-a645788bc844@113.30.152.110:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=brus.speedload.online&fp=qq&pbk=J5ITJbg5FQFembAfkogKHHQB6DigsFXQxK7xu-QMWUs&sid=a20d3ed244c76426&type=tcp&headerType=none#ARISTA🔥

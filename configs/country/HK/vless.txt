@@ -1,10 +1,10 @@
 # HK - VLESS Configurations
-# Updated: 2026-01-31 15:39:44
+# Updated: 2026-01-31 15:59:34
 # Count: 5
 # Country Code: HK
 
-vless://admib@8.218.230.193:80?security=none&seed=%40rootface%20telegram%20%F0%9F%91%91%20lets%20hack%20myself.&encryption=none&headerType=none&type=kcp#ARISTA🔥
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@156.238.18.246:2095?path=%2F&security=none&encryption=none&host=redw.pooriam.ir&type=ws#ARISTA🔥
-vless://48198295-b7ba-4b5c-8d85-085d55a6c869@47.76.146.1:2096?security=tls&sni=xini.ylks.link&type=ws&path=/blue#ARISTA🔥
 vless://d4a23188-85b0-4b46-b84b-f1d36d66c03e@43.161.253.78:9527?&type=tcp&headerType=none&path=%2F#ARISTA🔥
 vless://9c79aceb-4649-44ea-9698-b5e9ecf6d6da@85.208.104.42:10001?flow=xtls-rprx-vision&security=reality&encryption=none&sni=www.icloud.com&fp=chrome&pbk=7qP6YKWx5CJXia1qjQoIcD7FRjUBbioaioioI729D34&sid=2afe4310&type=tcp&headerType=none&path=%2f#ARISTA🔥
+vless://admib@8.218.230.193:80?security=none&seed=%40rootface%20telegram%20%F0%9F%91%91%20lets%20hack%20myself.&encryption=none&headerType=none&type=kcp#ARISTA🔥
+vless://48198295-b7ba-4b5c-8d85-085d55a6c869@47.76.146.1:2096?security=tls&sni=xini.ylks.link&type=ws&path=/blue#ARISTA🔥

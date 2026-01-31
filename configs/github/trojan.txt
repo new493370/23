@@ -1,5 +1,5 @@
 # GitHub TROJAN Configurations
-# Updated: 2026-01-31 19:36:05
+# Updated: 2026-01-31 19:57:57
 # Count: 184
 # Source: GitHub Repositories
 
@@ -178,7 +178,7 @@ trojan://humanity@www.calmlunch.com:443?security=tls&sni=www.calmlunch.com&type=
 trojan://humanity@www.calmlunch.com:443?security=tls&sni=www.calmlunch.com&type=ws&host=www.calmlunch.com&path=%2fassignment&allow_insecure=0#ARISTA🔥
 trojan://humanity@www.multiplydose.com:443?security=tls&sni=www.multiplydose.com&fp=chrome&type=ws&path=%2fassignment#ARISTA🔥
 trojan://humanity@www.gossipglove.com:443?security=tls&sni=www.gossipglove.com&fp=chrome&type=ws&path=%2fassignment#ARISTA🔥
-trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#ARISTA🔥
+trojan://c1d83c0c7d57cead4379ba14a82df69b@160.16.124.55:491?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=www.nintendogames.net#ARISTA🔥
 trojan://telegram-id-privatevpns@52.47.70.7:22222/?type=tcp&security=tls#ARISTA🔥
 trojan://nodes-b211f28a@node-de-1.v2sv.top:2083/?type=tcp&security=tls&sni=node-de-1.v2sv.top#ARISTA🔥
 trojan://x.8ur1QiCyzlRHXeaB5UwoDfgZ04s@45.32.158.138:20994/?type=tcp&security=tls&sni=%F0%9F%94%92&allowInsecure=1#ARISTA🔥

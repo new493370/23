@@ -1,9 +1,9 @@
 # UZ - VLESS Configurations
-# Updated: 2026-01-31 10:42:19
+# Updated: 2026-01-31 11:07:33
 # Count: 4
 # Country Code: UZ
 
-vless://06dea0c2-488d-4e6a-a8c3-fb7d4c5a4be8@82.148.2.86:443?encryption=none&type=ws&host=joss.gpj4.web.id&path=%2FFree-VPN-CF-Geo-Project%2F82.148.2.86%3D443&security=tls&fp=randomized&sni=joss.gpj4.web.id#ARISTA🔥
 vless://d9fa5060-431d-4f67-b4e1-ad4533fdf4e4@45.134.218.6:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.google.com&fp=chrome&security=reality&pbk=2fgsbEAn-ALVpjnE4ZTPrzaZY70vVplYwldCnslInE0&sid=86b80f1e713a33ad#ARISTA🔥
 vless://d9fa5060-431d-4f67-b4e1-ad4533fdf4e4@45.134.217.112:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.google.com&fp=chrome&security=reality&pbk=2fgsbEAn-ALVpjnE4ZTPrzaZY70vVplYwldCnslInE0&sid=86b80f1e713a33ad#ARISTA🔥
 vless://d9fa5060-431d-4f67-b4e1-ad4533fdf4e4@45.134.218.6:11443/?type=grpc&encryption=none&flow=&sni=www.google.com&fp=chrome&security=reality&pbk=2fgsbEAn-ALVpjnE4ZTPrzaZY70vVplYwldCnslInE0&sid=86b80f1e713a33ad#ARISTA🔥
+vless://06dea0c2-488d-4e6a-a8c3-fb7d4c5a4be8@82.148.2.86:443?encryption=none&type=ws&host=joss.gpj4.web.id&path=%2FFree-VPN-CF-Geo-Project%2F82.148.2.86%3D443&security=tls&fp=randomized&sni=joss.gpj4.web.id#ARISTA🔥

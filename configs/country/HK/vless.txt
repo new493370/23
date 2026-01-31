@@ -1,8 +1,8 @@
 # HK - VLESS Configurations
-# Updated: 2026-01-31 05:36:13
+# Updated: 2026-01-31 06:12:23
 # Count: 3
 # Country Code: HK
 
+vless://admib@8.218.230.193:80?security=none&seed=%40rootface%20telegram%20%F0%9F%91%91%20lets%20hack%20myself.&encryption=none&headerType=none&type=kcp#ARISTA🔥
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@156.238.18.246:2095?path=%2F&security=none&encryption=none&host=redw.pooriam.ir&type=ws#ARISTA🔥
 vless://46e274b0-8033-4011-b1a0-9d05c3531a79@27.0.232.191:443?encryption=none&security=tls&sni=hkg.tunnelguard.ru&alpn=h2%2Chttp%2F1.1&insecure=1&allowInsecure=1&type=xhttp&path=%2F&mode=auto#ARISTA🔥
-vless://admib@8.218.230.193:80?security=none&seed=%40rootface%20telegram%20%F0%9F%91%91%20lets%20hack%20myself.&encryption=none&headerType=none&type=kcp#ARISTA🔥

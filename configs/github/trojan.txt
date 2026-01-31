@@ -1,6 +1,6 @@
 # GitHub TROJAN Configurations
-# Updated: 2026-01-31 00:06:16
-# Count: 155
+# Updated: 2026-01-31 02:30:52
+# Count: 170
 # Source: GitHub Repositories
 
 trojan://02948bde80594712b974368035f294dd@88.214.24.235:9443?security=reality&amp;pbk=au0aQ5QVdLNbzMShbL9Anhi5hOPXMNJVBhbkuFP7Sk0&amp;headerType=none&amp;fp=random&amp;type=tcp&amp;sni=apple.com&amp;sid=aabbccdd#ARISTA🔥
@@ -147,9 +147,24 @@ trojan://wp9IsiY82uQhcmgNC1eoBM@80.173.231.254:12420?security=tls&headerType=non
 trojan://c1d83c0c7d57cead4379ba14a82df69b@153.121.45.139:3423?security=tls&sni=www.nintendogames.net#ARISTA🔥
 trojan://c1d83c0c7d57cead4379ba14a82df69b@160.16.116.227:544?security=tls&sni=www.nintendogames.net#ARISTA🔥
 trojan://c1d83c0c7d57cead4379ba14a82df69b@160.16.117.182:491?security=tls&sni=www.nintendogames.net&path=%2f#ARISTA🔥
-trojan://87d1bfd4-574e-4c96-ad42-0426f27461ff@mfa.gov.ua:443?path=/&security=tls&host=_acme-challenge.2go.cloudns.be&type=ws&sni=_acme-challenge.2go.cloudns.be#ARISTA🔥
-trojan://d30ab83dbde4480082048fb315bedebd@208.83.232.190:443?encryption=none&security=tls&sni=208.83.232.190&type=raw&headertype=none#ARISTA🔥
-trojan://bpb-trojan@94.140.0.1:443?path=%2Ftr%3Fed%3D2560&security=tls&alpn=h2&insecure=0&host=singbox.lu567890.us.kg&fp=chrome&type=ws&allowInsecure=0&sni=singbox.lu567890.us.kg#ARISTA🔥
+trojan://f1f8c5c7-e043-4b5f-9526-bf9502c69ecd@xiaozhu1.kkieo555.cn:41275?security=tls&insecure=1&allowInsecure=1&type=tcp&headerType=none#ARISTA🔥
+trojan://8df4e607-d589-4187-8214-4de25c59c7d0@xiaozhu1.kkieo555.cn:41275?security=tls&insecure=1&allowInsecure=1&type=tcp&headerType=none#ARISTA🔥
+trojan://3be94f57-f3fe-4b12-934b-683924d14ff5@xiaozhu1.kkieo555.cn:41275?security=tls&insecure=1&allowInsecure=1&type=tcp&headerType=none#ARISTA🔥
+trojan://76c8b76a-ae8b-4452-a003-7b9f21055285@xiaozhu1.kkieo555.cn:41273?security=tls&insecure=1&allowInsecure=1&type=tcp&headerType=none#ARISTA🔥
+trojan://3f5249a9-8e7b-4d55-ab38-3c0626f15d1a@xiaozhu1.kkieo555.cn:41273?security=tls&insecure=1&allowInsecure=1&type=tcp&headerType=none#ARISTA🔥
+trojan://63b21d86-a49c-4936-a634-0b5af3e30433@tuntro011.instconn.com:40130?security=tls&sni=cntwbta.686911.xyz&insecure=0&allowInsecure=0&type=tcp&headerType=none#ARISTA🔥
+trojan://e9cd8ac9-4e7e-4f9d-9e2b-cbd7577408b9@xiaozhu1.kkieo555.cn:41273?security=tls&insecure=1&allowInsecure=1&type=tcp&headerType=none#ARISTA🔥
+trojan://telegram-id-directvpn@15.237.155.10:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#ARISTA🔥
+trojan://a4c1038e-bd7a-4d87-9575-bf173cf0c301@xiaozhu1.kkieo555.cn:41273?security=tls&insecure=1&allowInsecure=1&type=tcp&headerType=none#ARISTA🔥
+trojan://2a0384cc-a36d-4d08-923c-691d3483107d@xiaozhu1.kkieo555.cn:41273?security=tls&insecure=1&allowInsecure=1&type=tcp&headerType=none#ARISTA🔥
+trojan://940ed392-41a8-4000-b6b6-28fb49f69bbd@xiaozhu1.kkieo555.cn:41274?security=tls&insecure=1&allowInsecure=1&type=tcp&headerType=none#ARISTA🔥
+trojan://378b3db2-4eb2-4f66-b567-e87769c0d334@xiaozhu1.kkieo555.cn:41275?security=tls&insecure=1&allowInsecure=1&type=tcp&headerType=none#ARISTA🔥
+trojan://d8752b56-31fa-4fec-8694-b7163212204a@xiaozhu1.kkieo555.cn:41273?security=tls&insecure=1&allowInsecure=1&type=tcp&headerType=none#ARISTA🔥
+trojan://e924e20a-4fa9-477f-953b-2ca792f1d8bf@xiaozhu1.kkieo555.cn:41273?security=tls&insecure=1&allowInsecure=1&type=tcp&headerType=none#ARISTA🔥
+trojan://36ec79bf-7e27-464d-9299-c87bfda6bbba@xiaozhu1.kkieo555.cn:49213?security=tls&insecure=1&allowInsecure=1&type=tcp&headerType=none#ARISTA🔥
+trojan://67094309-a65f-4a43-8c4f-c10ef35947f7@xiaozhu1.kkieo555.cn:41274?security=tls&insecure=1&allowInsecure=1&type=tcp&headerType=none#ARISTA🔥
+trojan://3ca28fac-3fa3-4ee4-be19-41ca7ce062ca@xiaozhu1.kkieo555.cn:41274?security=tls&insecure=1&allowInsecure=1&type=tcp&headerType=none#ARISTA🔥
+trojan://a6028e06-0823-4101-b5dc-f77c92343221@xiaozhu1.kkieo555.cn:41275?security=tls&insecure=1&allowInsecure=1&type=tcp&headerType=none#ARISTA🔥
 trojan://telegram-id-privatevpns@52.47.70.7:22222/?type=tcp&security=tls#ARISTA🔥
 trojan://nodes-b211f28a@node-de-1.v2sv.top:2083/?type=tcp&security=tls&sni=node-de-1.v2sv.top#ARISTA🔥
 trojan://x.8ur1QiCyzlRHXeaB5UwoDfgZ04s@45.32.158.138:20994/?type=tcp&security=tls&sni=%F0%9F%94%92&allowInsecure=1#ARISTA🔥

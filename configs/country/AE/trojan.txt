@@ -1,20 +1,19 @@
 # AE - TROJAN Configurations
-# Updated: 2026-02-01 13:11:49
-# Count: 15
+# Updated: 2026-02-01 14:01:41
+# Count: 14
 # Country Code: AE
 
-trojan://bpb-trojan@94.140.0.1:443?path=%2Ftr%3Fed%3D2560&security=tls&serviseName=@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray&alpn=h2&insecure=0&host=singbox.lu567890.us.kg&fp=chrome&type=ws&allowInsecure=0&sni=singbox.lu567890.us.kg#ARISTA🔥
-trojan://bpb-trojan@94.140.0.1:443?type=ws&security=tls&host=singbox.lu567890.us.kg&path=/tr?ed%3D2560&fp=chrome&sni=singbox.lu567890.us.kg&alpn=h2,http/1.1#ARISTA🔥
-trojan://bpb-trojan@94.140.0.1:443?path=%2Ftr&security=tls&alpn=h2&insecure=0&host=singbox.lu567890.us.kg&fp=chrome&type=ws&allowInsecure=0&sni=singbox.lu567890.us.kg#ARISTA🔥
 trojan://bpb-trojan@94.140.0.1:443?security=tls&sni=singbox.lu567890.us.kg&type=ws&host=singbox.lu567890.us.kg&path=/tr?ed=2560#ARISTA🔥
 trojan://bpb-trojan@94.140.0.1:443?path=/tr--Vpn_Sky--Vpn_Sky--Vpn_Sky--Vpn_Sky--Vpn_Sky--Vpn_Sky--Vpn_Sky--Vpn_Sky--Vpn_Sky--Vpn_Sky--Vpn_Sky--Vpn_Sky--Vpn_Sky--Vpn_Sky--Vpn_Sky--Vpn_Sky--Vpn_Sky--Vpn_Sky--Vpn_Sky--Vpn_Sky--Vpn_Sky--Vpn_Sky--?ed=2560&security=tls&alpn=h2&insecure=0&host=singbox.lu567890.us.kg&fp=chrome&type=ws&allowInsecure=0&sni=singbox.lu567890.us.kg#ARISTA🔥
 trojan://bpb-trojan@94.140.0.1:443?path=/tr?ed=2560&security=tls&insecure=0&host=singbox.lu567890.us.kg&fp=chrome&type=ws&allowInsecure=0&sni=singbox.lu567890.us.kg#ARISTA🔥
-trojan://bpb-trojan@94.140.0.1:443?path=/tr?ed=2560&security=tls&alpn=h2&insecure=0&host=singbox.lu567890.us.kg&fp=chrome&type=ws&allowInsecure=0&sni=singbox.lu567890.us.kg#ARISTA🔥
 trojan://bpb-trojan@94.140.0.1:443?path=/tr?ed=2560&security=tls&host=singbox.lu567890.us.kg&fp=chrome&type=ws&sni=singbox.lu567890.us.kg#ARISTA🔥
-trojan://bpb-trojan@94.140.0.1:443?path=%2Ftr%3Fed%3D2560&security=tls&alpn=h2&insecure=0&host=singbox.lu567890.us.kg&fp=chrome&type=ws&allowInsecure=0&sni=singbox.lu567890.us.kg#ARISTA🔥
+trojan://bpb-trojan@94.140.0.1:443?path=/tr?ed=2560&security=tls&alpn=h2&insecure=0&host=singbox.lu567890.us.kg&fp=chrome&type=ws&allowInsecure=0&sni=singbox.lu567890.us.kg#ARISTA🔥
 trojan://bpb-trojan@94.140.0.1:443?path=%2Ftr%3Fed%3D2560&security=tls&insecure=1&host=singbox.lu567890.us.kg&fp=chrome&type=ws&allowInsecure=1&sni=singbox.lu567890.us.kg#ARISTA🔥
+trojan://bpb-trojan@94.140.0.1:443?security=tls&sni=singbox.lu567890.us.kg&alpn=h2&fp=chrome&type=ws&host=singbox.lu567890.us.kg&path=%2Ftr%3Fed%3D2560#ARISTA🔥
 trojan://bpb-trojan@94.140.0.1:443?type=ws&host=singbox.lu567890.us.kg&path=/tr?ed%3D2560&security=tls&fp=chrome&sni=singbox.lu567890.us.kg#ARISTA🔥
-trojan://bpb-trojan@94.140.0.1:443?path=%2Ftr%3Fed%3D2560&security=tls&alpn=h2&host=singbox.lu567890.us.kg&fp=chrome&type=ws&sni=singbox.lu567890.us.kg#ARISTA🔥
+trojan://bpb-trojan@94.140.0.1:443?path=%2Ftr%3Fed%3D2560&security=tls&alpn=h2&insecure=0&host=singbox.lu567890.us.kg&fp=chrome&type=ws&allowInsecure=0&sni=singbox.lu567890.us.kg#ARISTA🔥
 trojan://bpb-trojan@94.140.0.1:443?path=%2Ftr%3Fed%3D2560&security=tls&insecure=0&host=singbox.lu567890.us.kg&fp=chrome&type=ws&allowInsecure=0&sni=singbox.lu567890.us.kg#ARISTA🔥
 trojan://bpb-trojan@94.140.0.1:443?path=%2Ftr%3Fed%3D2560&security=tls&host=singbox.lu567890.us.kg&fp=chrome&type=ws&sni=singbox.lu567890.us.kg#ARISTA🔥
-trojan://bpb-trojan@94.140.0.1:443?security=tls&sni=singbox.lu567890.us.kg&alpn=h2&fp=chrome&type=ws&host=singbox.lu567890.us.kg&path=%2Ftr%3Fed%3D2560#ARISTA🔥
+trojan://bpb-trojan@94.140.0.1:443?path=%2Ftr%3Fed%3D2560&security=tls&alpn=h2&host=singbox.lu567890.us.kg&fp=chrome&type=ws&sni=singbox.lu567890.us.kg#ARISTA🔥
+trojan://bpb-trojan@94.140.0.1:443?type=ws&security=tls&host=singbox.lu567890.us.kg&path=/tr?ed%3D2560&fp=chrome&sni=singbox.lu567890.us.kg&alpn=h2,http/1.1#ARISTA🔥
+trojan://bpb-trojan@94.140.0.1:443?path=%2Ftr&security=tls&alpn=h2&insecure=0&host=singbox.lu567890.us.kg&fp=chrome&type=ws&allowInsecure=0&sni=singbox.lu567890.us.kg#ARISTA🔥

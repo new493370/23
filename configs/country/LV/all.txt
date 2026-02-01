@@ -1,15 +1,15 @@
 # All Configurations for LV
-# Updated: 2026-02-01 16:06:38
+# Updated: 2026-02-01 16:48:13
 # Total Count: 10
 # Country Code: LV
 
-vless://f4fec1b0-a67e-4967-b9ea-0bd832b57a4d@185.236.22.60:8443?encryption=none&security=reality&sni=sun6-21.userapi.com&fp=chrome&pbk=upDCW94g-pSYQrmXvOrTVYlwBUrSKhYFF9QwrqObdVo&sid=3ca620a7ed5f3196&type=tcp&headerType=none#ARISTA🔥
 vless://TelegramChannel:daredevill_404@31.56.117.172:20569?type=xhttp&encryption=none&path=%2F%40daredevill_404&host=&mode=auto&security=none#ARISTA🔥
+vless://3faffd2e-8901-415a-913c-d65dca1e6ea7@31.56.117.136:443?security=reality&encryption=none&pbk=RhoGmhreM57SAkedZHIms4M7nqCJKZ8i-o-_0itirQ4&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=yahoo.com&sid=434e9b8e71a328ae#ARISTA🔥
 vless://afa7cc47-243c-477b-a526-6262d5b75353@193.68.89.85:15518/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=yabro-wbplugin.edadeal.yandex.ru&fp=chrome&security=reality&pbk=OX-N6M3HbuQEkJzz06aDO6YNEt6nNSfcikNiB0mRRDI&sid=#ARISTA🔥
-vless://beab408c-6aa3-43b9-a1ca-e6fabba5d8e7@5.34.212.49:443?encryption=none&security=reality&sni=yandex.ru&fp=chrome&pbk=QaOOGtsilP-8ZFAM7TGmvKGNUjcstTqodyTB74DoKl8&type=grpc#ARISTA🔥
 vless://0fbf867a-812b-4c0b-89cd-01bcf2e4039a@46.32.186.65:8443?security=reality&encryption=none&pbk=Q7-sRiaAcmlJ_iwqiA46kDKso_r2kJ7X1mrVjL2illo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=6edd537cf27298d1#ARISTA🔥
 vless://0cc9d390-42ee-461e-94ae-e4370883dc48@77.73.238.191:29505?security=&type=ws&path=/&encryption=none#ARISTA🔥
 vless://3faffd2e-8901-415a-913c-d65dca1e6ea7@31.56.117.136:443?encryption=none&security=reality&sni=yahoo.com&fp=chrome&pbk=RhoGmhreM57SAkedZHIms4M7nqCJKZ8i-o-_0itirQ4&sid=434e9b8e71a328ae&spx=/&type=tcp&headerType=none#ARISTA🔥
-vless://3faffd2e-8901-415a-913c-d65dca1e6ea7@31.56.117.136:443?security=reality&encryption=none&pbk=RhoGmhreM57SAkedZHIms4M7nqCJKZ8i-o-_0itirQ4&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=yahoo.com&sid=434e9b8e71a328ae#ARISTA🔥
+vless://beab408c-6aa3-43b9-a1ca-e6fabba5d8e7@5.34.212.49:443?encryption=none&security=reality&sni=yandex.ru&fp=chrome&pbk=QaOOGtsilP-8ZFAM7TGmvKGNUjcstTqodyTB74DoKl8&type=grpc#ARISTA🔥
+vless://f4fec1b0-a67e-4967-b9ea-0bd832b57a4d@185.236.22.60:8443?encryption=none&security=reality&sni=sun6-21.userapi.com&fp=chrome&pbk=upDCW94g-pSYQrmXvOrTVYlwBUrSKhYFF9QwrqObdVo&sid=3ca620a7ed5f3196&type=tcp&headerType=none#ARISTA🔥
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@216.173.70.187:57456#ARISTA🔥
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@89.46.238.35:989#ARISTA🔥

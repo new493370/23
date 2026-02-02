@@ -1,5 +1,5 @@
 # GitHub HYSTERIA2 Configurations
-# Updated: 2026-02-02 17:56:03
+# Updated: 2026-02-02 23:46:50
 # Count: 87
 # Source: GitHub Repositories
 
@@ -89,4 +89,4 @@ hysteria2://2c833c5d-cbcc-4afb-89ba-d17dc39db6f0@75.127.13.83:47974?insecure=1&s
 hysteria2://dongtaiwang.com@2001:bc8:32d7:302::11:20088?security=tls&insecure=1&sni=apple.com#ARISTA🔥
 hysteria2://spectrumvpn%3AnMZwnqdrvnBfEzkQZxujWQk0iTUdwGK9@uk.spectrum.vu:1935?sni=google.com&insecure=1&allowInsecure=1&obfs=salamander&obfs-password=3Lse3bDmcLLlEa77sdYZe0o6kywbTwII#ARISTA🔥
 hy2://a305ac08-d136-11ee-b6db-f23c91cfbbc9@ffc60249-t53wg0-t92wi1-1qkeg.hk2.hyhuawei.com:443?sni=ffc60249-t53wg0-t92wi1-1qkeg.hk2.hyhuawei.com&path=%2f#ARISTA🔥
-hy2://Yet-Another-Public-Config-1@206.71.158.37:36300?obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir#ARISTA🔥
+hysteria2://31701b5dca9592f9d684dae3706161ea@dd.openaccessnode.com:989?security=tls&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-King-Reza-Pahlavi&insecure=0&sni=dd.ircybersec.org#ARISTA🔥

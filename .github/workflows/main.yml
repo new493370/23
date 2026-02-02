@@ -1,4 +1,4 @@
-name: Update Configs Every 30 Min
+name: Update Arista Configs Every 30 Min
 
 on:
   schedule:

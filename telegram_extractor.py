@@ -599,7 +599,30 @@ class TelegramConfigExtractor:
             "https://t.me/s/V2All",
             "https://t.me/s/V2ConfigGB",
             "https://t.me/s/ittechnoland",
-            "https://t.me/s/NET2PROXY"
+            "https://t.me/s/NET2PROXY",
+            "https://t.me/s/Vpn_Sky",
+            "https://t.me/s/Proxy_v2ry",
+            "https://t.me/s/sorenab2",
+            "https://t.me/s/configproxyy",
+            "https://t.me/s/Tweety_Proxy",
+            "https://t.me/s/SPARTAN_YT",
+            "https://t.me/s/v2rayngtn",
+            "https://t.me/s/tazaxy",
+            "https://t.me/s/networld_vpn",
+            "https://t.me/s/V2HUBIR",
+            "https://t.me/s/Leecher56",
+            "https://t.me/s/v2ray313",
+            "https://t.me/s/persianvpnhub",
+            "https://t.me/s/SSRSUB",
+            "https://t.me/s/YeBeKhe",
+            "https://t.me/s/Proxymelimon",
+            "https://t.me/s/Gp_Config",
+            "https://t.me/s/v2ray_unit",
+            "https://t.me/s/npvv2rayn",
+            "https://t.me/s/Abeautifulnumber",
+            "https://t.me/s/v2proxfree",
+            "https://t.me/s/N3TWRK",
+            "https://t.me/s/v2dogs_n"
         ]
         
         self.channels = list(set(self.channels))
@@ -669,7 +692,7 @@ class TelegramConfigExtractor:
                 if len(base_part) % 4 != 0:
                     base_part += '=' * (4 - len(base_part) % 4)
                 try:
-                    decoded = base64.b64decode(base_part).decode('utf-8')
+                    decoded = base64.b64decode(base64_part).decode('utf-8')
                     if '@' in decoded:
                         method_pass, server_part = decoded.split('@', 1)
                         encoded_mp = base64.b64encode(method_pass.encode()).decode()

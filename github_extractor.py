@@ -9,9 +9,10 @@ from urllib.parse import urlparse
 import os
 
 SOURCES = [
+   "https://raw.githubusercontent.com/peweza/PUBLICSUB/refs/heads/main/PewezaVPNPubSUB",
    "https://raw.githubusercontent.com/Rayan-Config/C-Sub/refs/heads/main/configs/proxy.txt#%F0%9F%91%91%20@Rayan_Config%20%20%F0%9F%91%91",
    "https://raw.githubusercontent.com/Mosifree/-FREE2CONFIG/refs/heads/main/Reality",
-  "https://manager.farsonline24.ir/",
+   "https://manager.farsonline24.ir/",
    "https://info.farsonline24.ir/",
    "https://cdn.jsdelivr.net/gh/miladtahanian/V2RayCFGDumper@main/config.txt",
    "https://cdn.jsdelivr.net/gh/parvinxs/Submahsanetxsparvin@main/Sub.mahsa.xsparvin",

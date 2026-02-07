@@ -1,17 +1,10 @@
 # GitHub TROJAN Configurations
-# Updated: 2026-02-07 07:21:42
-# Count: 118
+# Updated: 2026-02-07 08:47:54
+# Count: 112
 # Source: GitHub Repositories
 
-trojan://telegram-id-privatevpns@63.182.112.185:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#ARISTA🔥
-trojan://02948bde80594712b974368035f294dd@88.214.24.235:9443?security=reality&pbk=au0aQ5QVdLNbzMShbL9Anhi5hOPXMNJVBhbkuFP7Sk0&host=/@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-?ed=2560&headerType=none&fp=random&type=tcp&sni=apple.com&sid=aabbccdd#ARISTA🔥
-trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&host=www.calmlunch.com&type=ws&sni=www.calmlunch.com#ARISTA🔥
-trojan://aZsk43TyWBpjt%40A@vpn.qinfen180.cn:443?security=tls&headerType=none&type=tcp&sni=vpn.qinfen180.cn#ARISTA🔥
-trojan://telegram-id-directvpn@63.182.112.185:22223?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#ARISTA🔥
-trojan://telegram-id-privatevpns@63.182.112.185:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#ARISTA🔥
-trojan://5fb072e0ddd631cf66cf752b09210480@160.16.231.103:1276?security=tls&sni=www.nintendogames.net#ARISTA🔥
-trojan://humanity@www.multiplydose.com:443?path=/assignment&security=tls&type=ws#ARISTA🔥
-trojan://qmBSKnAl6LYi9=z23Rs.Z@37.235.49.209:28099?security=tls&sni=celestialcorset.crystalhamster.click#ARISTA🔥
+trojan://c1d83c0c7d57cead4379ba14a82df69b@160.16.72.205:491?security=tls&headerType=none&type=tcp&sni=www.nintendogames.net#ARISTA🔥
+trojan://5a2c16f9@172.64.147.211:2096?path=/Telegram🇨🇳WangCai2&security=tls&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=snippets.kkii.eu.org#ARISTA🔥
 trojan://telegram-id-directvpn@35.177.149.156:22222?allowInsecure=0&sni=trojan.burgerip.co.uk#ARISTA🔥
 trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@23.186.200.107:11011?security=tls&headerType=none&type=tcp&sni=wus01.weyaf9sdoh2h.space#ARISTA🔥
 trojan://telegram-id-privatevpns@63.182.232.106:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#ARISTA🔥
@@ -95,6 +88,7 @@ trojan://a5inYFE%3DJGV89%2BhjxIqgDp1tcWBd6@80.173.230.196:26279?security=tls&ins
 trojan://qmBSKnAl6LYi9%3Dz23Rs.Z@37.235.49.209:28099?security=tls&sni=celestialcorset.crystalhamster.click&insecure=1&allowInsecure=1&type=tcp&headerType=none#ARISTA🔥
 trojan://BxceQaOe@112.120.31.36:443?allowInsecure=1&sni=t.me%2Fripaojiedian#ARISTA🔥
 trojan://iWnFtzMiac@205.185.115.223:19258?security=reality&sni=cloudflare.com&fp=chrome&pbk=q_lg6VnOGhN_Ow5gHtZoDv_mJp-8W7m51N6vKamsMXk&sid=6d7efa97b2&spx=%2F&type=grpc#ARISTA🔥
+trojan://qmBSKnAl6LYi9=z23Rs.Z@37.235.49.209:28099?security=tls&sni=celestialcorset.crystalhamster.click#ARISTA🔥
 trojan://63b21d86-a49c-4936-a634-0b5af3e30433@tuntro010.instconn.com:443?security=tls&sni=frankfurtrm2.686911.xyz#ARISTA🔥
 trojan://7LBbob9IutFObLxLf9Svc1HaV@45.89.111.142:443?security=tls&sni=hl-freedom-1.undef.network#ARISTA🔥
 trojan://BxceQaOe@52.194.222.6:26378?allowInsecure=1&sni=t.me%252Fripaojiedian#ARISTA🔥

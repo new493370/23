@@ -1,14 +1,29 @@
 # GitHub TROJAN Configurations
-# Updated: 2026-02-08 14:42:33
-# Count: 142
+# Updated: 2026-02-08 15:45:35
+# Count: 157
 # Source: GitHub Repositories
 
-trojan://humanity@104.18.32.47:443?path=%2Fassignment&security=tls&fp=chrome&type=ws&sni=www.calmlunch.com#ARISTA🔥
-trojan://uY1afFjtK6uARm-kBUHq4A@216.105.168.58:443?security=none&type=ws&headerType=&path=%2F&host=telegram.org&prefix=%16%03%01%00%C2%A8%01%01#ARISTA🔥
-trojan://humanity@172.64.152.23:443?security=tls&sni=www.creationlong.org&insecure=1&allowInsecure=1&type=ws&host=www.creationlong.org&path=%2Fassignment#ARISTA🔥
-trojan://humanity@104.18.32.47:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#ARISTA🔥
-trojan://telegram-id-privatevpns@13.39.63.241:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#ARISTA🔥
+trojan://854a2ec4-3c8a-4179-95d9-1456e689106d@green2.cdntencentmusic.com:31103?allowInsecure=1&sni=green2.cdntencentmusic.com#ARISTA🔥
+trojan://humanity@172.64.152.23:443?allowInsecure=0&sni=www.gossipglove.com&ws=1&wspath=%2Fassignment#ARISTA🔥
+trojan://a57838d4-ae5f-4c76-bc59-a9f5c898d974@green2.cdntencentmusic.com:31103?allowInsecure=1&sni=green2.cdntencentmusic.com#ARISTA🔥
+trojan://d52ca3b0-3e00-4224-b6f9-a432c7162ff0@green2.cdntencentmusic.com:35501?allowInsecure=1&sni=green2.cdntencentmusic.com#ARISTA🔥
+trojan://2ce584a8-9960-4e1f-a820-30e54822c839@green2.cdntencentmusic.com:31101?allowInsecure=0&sni=green2.cdntencentmusic.com#ARISTA🔥
+trojan://e9c3c22e-2479-4000-9396-df12bf00384d@green2.cdntencentmusic.com:31101?allowInsecure=0&sni=green2.cdntencentmusic.com#ARISTA🔥
+trojan://d166d761-13f5-4cc9-b98c-8c3b2341cf0d@green2.cdntencentmusic.com:31103?allowInsecure=1&sni=green2.cdntencentmusic.com#ARISTA🔥
+trojan://humanity@vip3.kaixincloud.top:443?allowInsecure=1&sni=www.multiplydose.com&ws=1&wspath=%2Fassignment#ARISTA🔥
+trojan://98b419ef-83a2-4d1b-a23d-566b7f24477b@yyyhhjki.taipei101.indevs.in:443?allowInsecure=0&sni=YyYhHjKI.TAIPEi101.INdEVs.in&ws=1&wspath=%2FKlh0x8wtLpTGA5AqzZ2Mj#ARISTA🔥
+trojan://49a0ff5f-8234-44ad-8c02-b5c0534bd337@cdnfire.xiaomispeed.com:22231?allowInsecure=1&sni=cdnfire.xiaomispeed.com#ARISTA🔥
 trojan://humanity@104.18.32.47:443?path=%2Fassignment&security=tls&host=www.multiplydose.com&fp=chrome&type=ws&sni=www.multiplydose.com#ARISTA🔥
+trojan://2500ce78-fbff-46e5-bd84-4fddf5ee8e21@green2.cdntencentmusic.com:31103?allowInsecure=1&sni=green2.cdntencentmusic.com#ARISTA🔥
+trojan://5196aae7-1479-4f3c-978b-68e74977b509@mkouy.99890604.xyz:443?allowInsecure=0&sni=mkouy.99890604.xyz&ws=1&wspath=%2FmSZVb4DmOGWZIKMBivnR3#ARISTA🔥
+trojan://fd503118-ad01-476c-b952-b0610eafe741@green2.cdntencentmusic.com:31101?allowInsecure=0&sni=green2.cdntencentmusic.com#ARISTA🔥
+trojan://b020865b-7404-4894-ba65-a7414b10cda3@mko.bb1.indevs.in:443?allowInsecure=0&sni=mko.bb1.indevs.in&ws=1&wspath=%2FiEIlQmeiFdOPjqSc7fzeJr#ARISTA🔥
+trojan://5fb072e0ddd631cf66cf752b09210480@160.16.89.176:3076?security=tls&sni=www.nintendogames.net#ARISTA🔥
+trojan://humanity@172.64.152.23:443?path=%2Fassignment&amp;security=tls&amp;insecure=0&amp;host=www.gossipglove.com&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=www.gossipglove.com#ARISTA🔥
+trojan://5fb072e0ddd631cf66cf752b09210480@160.16.236.32:3901?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=www.nintendogames.net#ARISTA🔥
+trojan://5fb072e0ddd631cf66cf752b09210480@38.180.107.76:443?security=tls&sni=www.nintendogames.net#ARISTA🔥
+trojan://humanity@www.creationlong.org:443?path=/assignment&security=tls&fp=chrome&type=ws&sni=www.creationlong.org#ARISTA🔥
+trojan://telegram-id-privatevpns@13.39.63.241:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#ARISTA🔥
 trojan://humanity@104.21.40.34:443?path=%2Fassignment&security=tls&insecure=1&host=www.gossipglove.com&type=ws&allowInsecure=1&sni=www.gossipglove.com#ARISTA🔥
 trojan://NISHIKUITAN111@104.24.184.159:443?type=tcp&headerType=none#ARISTA🔥
 trojan://telegram-id-directvpn@52.58.59.127:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#ARISTA🔥

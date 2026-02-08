@@ -1,27 +1,24 @@
 # GitHub TROJAN Configurations
-# Updated: 2026-02-08 13:08:16
-# Count: 138
+# Updated: 2026-02-08 14:04:24
+# Count: 144
 # Source: GitHub Repositories
 
-trojan://5fb072e0ddd631cf66cf752b09210480@38.180.107.76:443?security=tls&sni=www.nintendogames.net&path=%2f#ARISTA🔥
-trojan://5fb072e0ddd631cf66cf752b09210480@38.180.107.76:443?security=tls&sni=www.nintendogames.net&type=tcp&path=%2f#ARISTA🔥
-trojan://5fb072e0ddd631cf66cf752b09210480@38.180.190.13:443?security=tls&sni=www.nintendogames.net&path=%2f#ARISTA🔥
-trojan://5fb072e0ddd631cf66cf752b09210480@38.180.190.13:443?security=tls&sni=www.nintendogames.net&type=tcp&path=%2f#ARISTA🔥
-trojan://2bfe58f7-da1d-45df-ab43-7c665b20ee29@gggbnh.www890604.dpdns.org:443?security=tls&sni=gggbnh.www890604.dpdns.org&type=ws&host=gggbnh.www890604.dpdns.org&path=%2f2cO5FH0xUmT9oqnbBhmKb8nOkg#ARISTA🔥
-trojan://2bfe58f7-da1d-45df-ab43-7c665b20ee29@vvvbbbnhj.taipei102.indevs.in:443?security=tls&sni=vvvbbbnhj.taipei102.indevs.in&type=ws&host=vvvbbbnhj.taipei102.indevs.in&path=%2f2cO5FH0xUmT9oqnbBhmKb8nOkg#ARISTA🔥
-trojan://98b419ef-83a2-4d1b-a23d-566b7f24477b@yyyhhjki.taipei101.indevs.in:443?security=tls&sni=YyYhHjKI.TAIPEi101.INdEVs.in&type=ws&host=YyYhHjKI.TAIPEi101.INdEVs.in&path=%2fKlh0x8wtLpTGA5AqzZ2Mj#ARISTA🔥
-trojan://98b419ef-83a2-4d1b-a23d-566b7f24477b@yyyhhjki.taipei101.indevs.in:443?security=tls&sni=YyYhHjKI.TAIPEi101.INdEVs.in&alpn=http%2f1.1&type=ws&host=YyYhHjKI.TAIPEi101.INdEVs.in&path=%2fKlh0x8wtLpTGA5AqzZ2Mj#ARISTA🔥
-trojan://5fb072e0ddd631cf66cf752b09210480@160.16.116.227:3423?security=tls&sni=www.nintendogames.net&path=%2f#ARISTA🔥
-trojan://5fb072e0ddd631cf66cf752b09210480@160.16.63.16:3423?sni=www.nintendogames.net&path=%2f#ARISTA🔥
-trojan://5fb072e0ddd631cf66cf752b09210480@160.16.130.21:544?sni=www.nintendogames.net&path=%2f#ARISTA🔥
-trojan://humanity@104.18.32.47:443?path=%2Fassignment&security=tls&host=www.multiplydose.com&fp=chrome&type=ws&sni=www.multiplydose.com#ARISTA🔥
+trojan://iwangjie@141.94.68.216:2053?encryption=none&security=tls&sni=nodes.830901.xyz&insecure=1&type=ws&host=nodes.830901.xyz&path=%2F%3Fed%3D2560#ARISTA🔥
+trojan://telegram-id-privatevpns@35.180.9.127:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#ARISTA🔥
+trojan://humanity@www.multiplydose.com:443?path=%2Fassignment&security=tls&fp=chrome&type=ws&sni=www.multiplydose.com#ARISTA🔥
+trojan://humanity@104.18.32.47:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#ARISTA🔥
+trojan://humanity@www.multiplydose.com:443?security=tls&insecure=1&allowInsecure=1&type=ws&path=/assignment#ARISTA🔥
+trojan://76yTlnTIsjCTlmqnUJ5Tzc1rM@hl-freedom-0.undef.network:443?security=tls&sni=hl-freedom-0.undef.network&type=ws&host=hl-freedom-0.undef.network&path=/f2fc2a1f#ARISTA🔥
+trojan://telegram-id-directvpn@13.37.8.71:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#ARISTA🔥
+trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&insecure=0&host=www.gossipglove.com&fp=chrome&type=ws&allowInsecure=0&sni=www.gossipglove.com#ARISTA🔥
+trojan://humanity@172.64.152.23:443?path=/assignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#ARISTA🔥
 trojan://telegram-id-privatevpns@13.39.63.241:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#ARISTA🔥
+trojan://humanity@104.18.32.47:443?path=%2Fassignment&security=tls&host=www.multiplydose.com&fp=chrome&type=ws&sni=www.multiplydose.com#ARISTA🔥
 trojan://humanity@104.21.40.34:443?path=%2Fassignment&security=tls&insecure=1&host=www.gossipglove.com&type=ws&allowInsecure=1&sni=www.gossipglove.com#ARISTA🔥
 trojan://NISHIKUITAN111@104.24.184.159:443?type=tcp&headerType=none#ARISTA🔥
 trojan://telegram-id-directvpn@52.58.59.127:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#ARISTA🔥
 trojan://telegram-id-directvpn@13.39.63.241:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#ARISTA🔥
 trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#ARISTA🔥
-trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&insecure=0&host=www.gossipglove.com&fp=chrome&type=ws&allowInsecure=0&sni=www.gossipglove.com#ARISTA🔥
 trojan://telegram-id-privatevpns@63.182.112.185:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#ARISTA🔥
 trojan://telegram-id-privatevpns@15.237.164.159:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#ARISTA🔥
 trojan://telegram-id-privatevpns@15.236.88.17:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#ARISTA🔥
@@ -39,7 +36,6 @@ trojan://POORIARED@172.67.134.185:443?path=%2FeyJqdW5rIjoiVUl6eXhLZkkwUTJ3ZzkiLC
 trojan://telegram-id-directvpn@13.39.246.81:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#ARISTA🔥
 trojan://NISHIKUITAN111@104.18.31.159:443?type=tcp&headerType=none#ARISTA🔥
 trojan://telegram-id-privatevpns@52.58.59.127:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#ARISTA🔥
-trojan://telegram-id-directvpn@13.37.8.71:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#ARISTA🔥
 trojan://telegram-id-directvpn@15.236.88.17:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#ARISTA🔥
 trojan://KBgnXadFmC@88.99.184.17:40450?type=tcp&security=none#ARISTA🔥
 trojan://telegram-id-privatevpns@13.39.127.100:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#ARISTA🔥
@@ -93,6 +89,10 @@ trojan://iWnFtzMiac@205.185.115.223:19258?security=reality&sni=cloudflare.com&fp
 trojan://5fb072e0ddd631cf66cf752b09210480@54.95.118.21:3373?allowInsecure=1&sni=www.nintendogames.net#ARISTA🔥
 trojan://qmBSKnAl6LYi9=z23Rs.Z@37.235.49.209:28099?security=tls&sni=celestialcorset.crystalhamster.click#ARISTA🔥
 trojan://T9BpZIVMNv@v2.dabache.top:8443?path=/amd&security=tls&host=sweden.vmaxpanel.com&type=ws&sni=sweden.vmaxpanel.com#ARISTA🔥
+trojan://5fb072e0ddd631cf66cf752b09210480@38.180.107.76:443?security=tls&sni=www.nintendogames.net&path=%2f#ARISTA🔥
+trojan://5fb072e0ddd631cf66cf752b09210480@38.180.107.76:443?security=tls&sni=www.nintendogames.net&type=tcp&path=%2f#ARISTA🔥
+trojan://5fb072e0ddd631cf66cf752b09210480@38.180.190.13:443?security=tls&sni=www.nintendogames.net&path=%2f#ARISTA🔥
+trojan://5fb072e0ddd631cf66cf752b09210480@38.180.190.13:443?security=tls&sni=www.nintendogames.net&type=tcp&path=%2f#ARISTA🔥
 trojan://5cccb4da-8aee-4b01-be84-2056265e52dc@kkko9.191288.xyz:443?security=tls&sni=kKko9.191288.xyz&alpn=http%2f1.1&type=ws&host=kkkO9.191288.XyZ&path=%2fhV829BTVzg35A6ueyyZnWd#ARISTA🔥
 trojan://5cccb4da-8aee-4b01-be84-2056265e52dc@bbbnmkl.taiwan2028.indevs.in:443?security=tls&sni=bBbNmKl.TAIwAn2028.IndEvs.In&alpn=http%2f1.1&type=ws&host=BBbnmkL.TaIWAN2028.IndEVs.In&path=%2fhV829BTVzg35A6ueyyZnWd#ARISTA🔥
 trojan://5cccb4da-8aee-4b01-be84-2056265e52dc@mmmk.288288.shop:443?security=tls&sni=Mmmk.288288.shoP&alpn=http%2f1.1&type=ws&host=Mmmk.288288.shoP&path=%2fhV829BTVzg35A6ueyyZnWd#ARISTA🔥
@@ -103,10 +103,16 @@ trojan://5cccb4da-8aee-4b01-be84-2056265e52dc@mmmhu.huangshang.online:443?securi
 trojan://5cccb4da-8aee-4b01-be84-2056265e52dc@mmkk.www890604.dpdns.org:443?security=tls&sni=mMKK.WwW890604.DpdNS.OrG&alpn=http%2f1.1&type=ws&host=mMKK.WWW890604.dPDNS.OrG&path=%2fhV829BTVzg35A6ueyyZnWd#ARISTA🔥
 trojan://5cccb4da-8aee-4b01-be84-2056265e52dc@mmmhu.huangshang.online:443?security=tls&sni=mMMhU.HUangSHANG.onlIne&type=ws&host=mMMhU.HUangSHANG.onlIne&path=%2fhV829BTVzg35A6ueyyZnWd#ARISTA🔥
 trojan://5cccb4da-8aee-4b01-be84-2056265e52dc@mmmhu.huangshang.online:443?security=tls&sni=mMMhU.HUangSHANG.onlIne&alpn=http%2f1.1&type=ws&host=mMMhU.HUangSHANG.onlIne&path=%2fhV829BTVzg35A6ueyyZnWd#ARISTA🔥
+trojan://2bfe58f7-da1d-45df-ab43-7c665b20ee29@gggbnh.www890604.dpdns.org:443?security=tls&sni=gggbnh.www890604.dpdns.org&type=ws&host=gggbnh.www890604.dpdns.org&path=%2f2cO5FH0xUmT9oqnbBhmKb8nOkg#ARISTA🔥
 trojan://2bfe58f7-da1d-45df-ab43-7c665b20ee29@gggbnh.www890604.dpdns.org:443?security=tls&sni=gggbnh.www890604.dpdns.org&alpn=http%2f1.1&type=ws&host=gggbnh.www890604.dpdns.org&path=%2f2cO5FH0xUmT9oqnbBhmKb8nOkg#ARISTA🔥
 trojan://2bfe58f7-da1d-45df-ab43-7c665b20ee29@vvvbbbnhj.taipei102.indevs.in:443?security=tls&sni=vvvbbbnhj.taipei102.indevs.in&alpn=http%2f1.1&type=ws&host=vvvbbbnhj.taipei102.indevs.in&path=%2f2cO5FH0xUmT9oqnbBhmKb8nOkg#ARISTA🔥
+trojan://2bfe58f7-da1d-45df-ab43-7c665b20ee29@vvvbbbnhj.taipei102.indevs.in:443?security=tls&sni=vvvbbbnhj.taipei102.indevs.in&type=ws&host=vvvbbbnhj.taipei102.indevs.in&path=%2f2cO5FH0xUmT9oqnbBhmKb8nOkg#ARISTA🔥
+trojan://98b419ef-83a2-4d1b-a23d-566b7f24477b@yyyhhjki.taipei101.indevs.in:443?security=tls&sni=YyYhHjKI.TAIPEi101.INdEVs.in&type=ws&host=YyYhHjKI.TAIPEi101.INdEVs.in&path=%2fKlh0x8wtLpTGA5AqzZ2Mj#ARISTA🔥
 trojan://98b419ef-83a2-4d1b-a23d-566b7f24477b@ooiuyt.890699.xyz:443?security=tls&sni=OOIuyT.890699.xYZ&type=ws&host=OOIuyT.890699.xYZ&path=%2fKlh0x8wtLpTGA5AqzZ2Mj#ARISTA🔥
 trojan://98b419ef-83a2-4d1b-a23d-566b7f24477b@ooiuyt.890699.xyz:443?security=tls&sni=OOIuyT.890699.xYZ&alpn=http%2f1.1&type=ws&host=OOIuyT.890699.xYZ&path=%2fKlh0x8wtLpTGA5AqzZ2Mj#ARISTA🔥
+trojan://98b419ef-83a2-4d1b-a23d-566b7f24477b@yyyhhjki.taipei101.indevs.in:443?security=tls&sni=YyYhHjKI.TAIPEi101.INdEVs.in&alpn=http%2f1.1&type=ws&host=YyYhHjKI.TAIPEi101.INdEVs.in&path=%2fKlh0x8wtLpTGA5AqzZ2Mj#ARISTA🔥
+trojan://5fb072e0ddd631cf66cf752b09210480@160.16.116.227:3423?security=tls&sni=www.nintendogames.net&path=%2f#ARISTA🔥
+trojan://5fb072e0ddd631cf66cf752b09210480@160.16.63.16:3423?sni=www.nintendogames.net&path=%2f#ARISTA🔥
 trojan://5fb072e0ddd631cf66cf752b09210480@160.16.124.55:3423?sni=www.nintendogames.net&path=%2f#ARISTA🔥
 trojan://5fb072e0ddd631cf66cf752b09210480@160.16.214.104:3423?security=tls&sni=www.nintendogames.net&path=%2f#ARISTA🔥
 trojan://5fb072e0ddd631cf66cf752b09210480@160.16.124.55:3423?security=tls&sni=www.nintendogames.net&path=%2f#ARISTA🔥
@@ -119,6 +125,7 @@ trojan://5fb072e0ddd631cf66cf752b09210480@160.16.70.180:3901?security=tls&sni=ww
 trojan://5fb072e0ddd631cf66cf752b09210480@160.16.236.32:3901?sni=www.nintendogames.net&path=%2f#ARISTA🔥
 trojan://5fb072e0ddd631cf66cf752b09210480@202.181.103.246:3076?security=tls&sni=www.nintendogames.net&type=tcp&path=%2f#ARISTA🔥
 trojan://5fb072e0ddd631cf66cf752b09210480@160.16.70.180:3901?sni=www.nintendogames.net&path=%2f#ARISTA🔥
+trojan://5fb072e0ddd631cf66cf752b09210480@160.16.130.21:544?sni=www.nintendogames.net&path=%2f#ARISTA🔥
 trojan://5fb072e0ddd631cf66cf752b09210480@13.231.53.184:3076?security=tls&sni=www.nintendogames.net&type=tcp&headerType=none&path=%2f&allow_insecure=0#ARISTA🔥
 trojan://5fb072e0ddd631cf66cf752b09210480@202.181.103.246:3076?security=tls&sni=www.nintendogames.net&path=%2f#ARISTA🔥
 trojan://5fb072e0ddd631cf66cf752b09210480@13.231.53.184:3076?sni=www.nintendogames.net&path=%2f#ARISTA🔥
@@ -130,7 +137,6 @@ trojan://7LBbob9IutFObLxLf9Svc1HaV@45.89.111.142:443?security=tls&sni=hl-freedom
 trojan://76yTlnTIsjCTlmqnUJ5Tzc1rM@hl-freedom-0.undef.network:443?security=tls&sni=hl-freedom-0.undef.network&type=ws&host=hl-freedom-0.undef.network&path=%2ff2fc2a1f#ARISTA🔥
 trojan://7LBbob9IutFObLxLf9Svc1HaV@45.89.111.142:443?sni=hl-freedom-1.undef.network&type=ws&path=%2ff2fc2a1f#ARISTA🔥
 trojan://wp9IsiY82uQhcmgNC1eoBM@80.173.231.254:12420?security=tls&sni=www.semanticstaplegun.click&type=tcp&path=%2f#ARISTA🔥
-trojan://humanity@www.multiplydose.com:443?path=%2Fassignment&security=tls&fp=chrome&type=ws&sni=www.multiplydose.com#ARISTA🔥
 trojan://humanity@104.18.32.47:443?path=%2Fassignment&security=tls&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=www.calmlunch.com#ARISTA🔥
 trojan://humanity@www.multiplydose.com:443?path=%2Fassignment&security=tls&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=www.multiplydose.com#ARISTA🔥
 trojan://humanity@172.64.152.23:443?allowInsecure=0&host=www.calmlunch.com&insecure=0&path=%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#ARISTA🔥

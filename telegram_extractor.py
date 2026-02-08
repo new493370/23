@@ -4,11 +4,12 @@ import json
 import hashlib
 import base64
 import uuid
-from datetime import datetime
-from urllib.parse import urlparse
-from bs4 import BeautifulSoup
+import random
 import time
 import os
+from datetime import datetime, timezone, timedelta
+from urllib.parse import urlparse
+from bs4 import BeautifulSoup
 
 class TelegramConfigExtractor:
     def __init__(self):
@@ -639,6 +640,59 @@ class TelegramConfigExtractor:
             r'(tuic://[^\s]+)',
             r'(wireguard://[^\s]+)'
         ]
+        
+        self.dead_cache = {}
+        self.failed_counter = {}
+        self.cache_file = "configs/telegram/dead_cache.json"
+        self.load_dead_cache()
+    
+    def load_dead_cache(self):
+        try:
+            if os.path.exists(self.cache_file):
+                with open(self.cache_file, 'r', encoding='utf-8') as f:
+                    cache_data = json.load(f)
+                    for url, timestamp_str in cache_data.items():
+                        try:
+                            timestamp = datetime.fromisoformat(timestamp_str)
+                            self.dead_cache[url] = timestamp
+                        except:
+                            continue
+        except:
+            self.dead_cache = {}
+    
+    def save_dead_cache(self):
+        try:
+            os.makedirs(os.path.dirname(self.cache_file), exist_ok=True)
+            cache_data = {url: timestamp.isoformat() for url, timestamp in self.dead_cache.items()}
+            with open(self.cache_file, 'w', encoding='utf-8') as f:
+                json.dump(cache_data, f, ensure_ascii=False, indent=2)
+        except:
+            pass
+    
+    def update_dead_cache(self, url):
+        now = datetime.now(timezone.utc)
+        self.failed_counter[url] = self.failed_counter.get(url, 0) + 1
+        
+        if self.failed_counter[url] >= 3:
+            self.dead_cache[url] = now
+            self.save_dead_cache()
+            print(f"  → Added to dead cache (failed {self.failed_counter[url]} times)")
+    
+    def should_skip_channel(self, url):
+        if url in self.dead_cache:
+            last_fail_time = self.dead_cache[url]
+            time_since_fail = datetime.now(timezone.utc) - last_fail_time
+            if time_since_fail < timedelta(hours=24):
+                print(f"  → Skipped (in dead cache, {int(time_since_fail.total_seconds()/3600)}h ago)")
+                return True
+            else:
+                del self.dead_cache[url]
+                del self.failed_counter[url]
+                self.save_dead_cache()
+        return False
+    
+    def adaptive_delay(self):
+        time.sleep(random.uniform(0.4, 1.2))
     
     def fetch_page(self, url):
         try:
@@ -647,6 +701,22 @@ class TelegramConfigExtractor:
             return response.text
         except:
             return ""
+    
+    def get_last_post_time(self, html):
+        try:
+            soup = BeautifulSoup(html, 'html.parser')
+            time_tag = soup.find('time')
+            if not time_tag:
+                return None
+            
+            dt_str = time_tag.get('datetime')
+            if not dt_str:
+                return None
+            
+            post_time = datetime.fromisoformat(dt_str.replace('Z', '+00:00'))
+            return post_time
+        except:
+            return None
     
     def extract_from_html(self, html):
         configs = []
@@ -692,7 +762,7 @@ class TelegramConfigExtractor:
                 if len(base_part) % 4 != 0:
                     base_part += '=' * (4 - len(base_part) % 4)
                 try:
-                    decoded = base64.b64decode(base64_part).decode('utf-8')
+                    decoded = base64.b64decode(base_part).decode('utf-8')
                     if '@' in decoded:
                         method_pass, server_part = decoded.split('@', 1)
                         encoded_mp = base64.b64encode(method_pass.encode()).decode()
@@ -843,6 +913,8 @@ class TelegramConfigExtractor:
         all_configs = []
         configs_per_channel = {}
         failed_channels = []
+        skipped_channels = []
+        dead_cached_skipped = 0
         
         print(f"Processing {len(self.channels)} Telegram channels...")
         
@@ -850,9 +922,29 @@ class TelegramConfigExtractor:
             print(f"[{i}/{len(self.channels)}] {url}")
             
             try:
+                if self.should_skip_channel(url):
+                    dead_cached_skipped += 1
+                    continue
+                
                 html = self.fetch_page(url)
                 if not html:
+                    self.update_dead_cache(url)
                     failed_channels.append(url)
+                    self.adaptive_delay()
+                    continue
+                
+                last_post_time = self.get_last_post_time(html)
+                
+                if not last_post_time:
+                    self.update_dead_cache(url)
+                    skipped_channels.append(url)
+                    self.adaptive_delay()
+                    continue
+                
+                if datetime.now(timezone.utc) - last_post_time > timedelta(days=2):
+                    self.update_dead_cache(url)
+                    skipped_channels.append(url)
+                    self.adaptive_delay()
                     continue
                 
                 raw_configs = self.extract_from_html(html)
@@ -865,12 +957,14 @@ class TelegramConfigExtractor:
                 
                 if valid_configs:
                     configs_per_channel[url] = valid_configs
+                    self.failed_counter[url] = 0
                 
-                time.sleep(0.5)
+                self.adaptive_delay()
                 
             except Exception as e:
+                self.update_dead_cache(url)
                 failed_channels.append(url)
-                time.sleep(1)
+                self.adaptive_delay()
         
         latest_configs = []
         for configs in configs_per_channel.values():
@@ -882,7 +976,7 @@ class TelegramConfigExtractor:
         unique_configs = self.deduplicate(latest_configs)
         categories = self.categorize(unique_configs)
         
-        return categories, len(unique_configs), len(failed_channels)
+        return categories, len(unique_configs), len(failed_channels), len(skipped_channels), dead_cached_skipped
     
     def save_results(self, categories, total_count):
         timestamp = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
@@ -919,18 +1013,20 @@ class TelegramConfigExtractor:
 
 def main():
     print("=" * 60)
-    print("ARISTA TELEGRAM CONFIG EXTRACTOR")
+    print("ARISTA TELEGRAM CONFIG EXTRACTOR v2.0")
     print("=" * 60)
     
     try:
         extractor = TelegramConfigExtractor()
-        categories, total_count, failed_channels = extractor.process_channels(limit_per_channel=15)
+        categories, total_count, failed_channels, skipped_channels, dead_cached_skipped = extractor.process_channels(limit_per_channel=15)
         saved_count = extractor.save_results(categories, total_count)
         
         print(f"\n✅ PROCESSING COMPLETE")
         print(f"Total unique configs: {total_count}")
         print(f"Configs saved: {saved_count}")
         print(f"Failed channels: {failed_channels}")
+        print(f"Skipped inactive channels: {skipped_channels}")
+        print(f"Skipped dead-cached channels: {dead_cached_skipped}")
         
     except Exception as e:
         print(f"\n❌ ERROR: {e}")

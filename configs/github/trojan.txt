@@ -1,17 +1,8 @@
 # GitHub TROJAN Configurations
-# Updated: 2026-02-09 07:01:29
-# Count: 159
+# Updated: 2026-02-09 08:13:50
+# Count: 153
 # Source: GitHub Repositories
 
-trojan://xxoo@146.19.230.241:443?sni=bmi.ir#ARISTA🔥
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.biz.ua:8443#ARISTA🔥
-trojan://04651b15-182b-4d20-8ae1-bdc4e596653d@green2.cdntencentmusic.com:35501#ARISTA🔥
-trojan://telegram-id-privatevpns@63.181.22.229:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#ARISTA🔥
-trojan://bpb-trojan@104.26.4.60:443?ed=2560&eh=Sec-WebSocket-Protocol&host=zamim340.ggff.net&path=%2Ftr&sni=zamim340.ggff.net&type=ws#ARISTA🔥
-trojan://telegram-id-directvpn@63.181.22.229:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#ARISTA🔥
-trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&host=www.calmlunch.com&type=ws&sni=www.calmlunch.com#ARISTA🔥
-trojan://zWFjJENcljZm@usa.visa.com:443?path=%2F%3Fed%3D2560&security=tls&fp=chrome&type=ws&sni=vahidqaz-7o61u7.vahidqaz.workers.dev#ARISTA🔥
-trojan://T9BpZIVMNv@v1.dabache.top:8443?path=/amd&security=tls&host=sweden.vmaxpanel.com&type=ws&sni=sweden.vmaxpanel.com#ARISTA🔥
 trojan://telegram-id-privatevpns@63.181.75.67:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#ARISTA🔥
 trojan://telegram-id-directvpn@63.180.39.147:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#ARISTA🔥
 trojan://telegram-id-directvpn@35.180.9.127:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#ARISTA🔥
@@ -41,6 +32,7 @@ trojan://telegram-id-privatevpns@35.180.9.127:22222?security=tls&alpn=http/1.1&h
 trojan://telegram-id-privatevpns@35.181.179.223:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#ARISTA🔥
 trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@23.186.200.107:11011?security=tls&headerType=none&type=tcp&sni=wus01.weyaf9sdoh2h.space#ARISTA🔥
 trojan://telegram-id-directvpn@52.58.59.127:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#ARISTA🔥
+trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&host=www.calmlunch.com&type=ws&sni=www.calmlunch.com#ARISTA🔥
 trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&insecure=0&host=www.gossipglove.com&fp=chrome&type=ws&allowInsecure=0&sni=www.gossipglove.com#ARISTA🔥
 trojan://telegram-id-directvpn@13.39.127.100:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#ARISTA🔥
 trojan://telegram-id-privatevpns@51.44.43.148:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#ARISTA🔥
@@ -92,6 +84,7 @@ trojan://249454d267254a52ab3c8b7906bc12ab@176.125.240.167:9443?security=reality&
 trojan://BxceQaOe@112.120.31.36:443?security=tls#ARISTA🔥
 trojan://5fb072e0ddd631cf66cf752b09210480@54.95.118.21:3373?allowInsecure=1&sni=www.nintendogames.net#ARISTA🔥
 trojan://qmBSKnAl6LYi9=z23Rs.Z@37.235.49.209:28099?sni=celestialcorset.crystalhamster.click#ARISTA🔥
+trojan://T9BpZIVMNv@v1.dabache.top:8443?path=/amd&security=tls&host=sweden.vmaxpanel.com&type=ws&sni=sweden.vmaxpanel.com#ARISTA🔥
 trojan://7LBbob9IutFObLxLf9Svc1HaV@45.89.111.142:443?security=tls&sni=hl-freedom-1.undef.network#ARISTA🔥
 trojan://5fb072e0ddd631cf66cf752b09210480@38.180.107.76:443?security=tls&sni=www.nintendogames.net&path=%2f#ARISTA🔥
 trojan://5fb072e0ddd631cf66cf752b09210480@38.180.107.76:443?security=tls&sni=www.nintendogames.net&type=tcp&path=%2f#ARISTA🔥
@@ -162,3 +155,4 @@ trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&insecure=1&f
 trojan://humanity@www.gossipglove.com:443?security=tls&sni=www.gossipglove.com&fp=chrome&allowInsecure=0&type=ws&path=/assignment#ARISTA🔥
 trojan://humanity@188.114.96.3:443?path=%2Fassignment&security=tls&insecure=0&host=www.gossipglove.com&fp=chrome&type=ws&allowInsecure=0&sni=www.gossipglove.com#ARISTA🔥
 trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.multiplydose.com#ARISTA🔥
+trojan://87d1bfd4-574e-4c96-ad42-0426f27461ff@join.my.telegram.channel.cmliussss.to.unlock.more.premium.nodes.cf.090227.xyz:443?sni=_acme-challenge.sb.cloudns.biz&type=ws&path=%2F&fp=chrome#ARISTA🔥

@@ -1,11 +1,9 @@
 # Combined HYSTERIA2 Configurations
-# Updated: 2026-02-10 06:57:49
-# Count: 78
-# Sources: Telegram (3) + GitHub (76)
+# Updated: 2026-02-10 08:13:17
+# Count: 106
+# Sources: Telegram (1) + GitHub (106)
 
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@5.175.249.174:35000?security=tls&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=0&sni=api.kermanshahi.org#ARISTA🔥
-hy2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@[2a0c:4ac1:8::121]:35000/?insecure=1&sni=api.kermanshahi.org&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi#ARISTA🔥
-hy2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:35200/?insecure=1&sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#ARISTA🔥
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@135.125.204.154:35000?security=tls&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=0&sni=api.kermanshahi.org#ARISTA🔥
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@[2a0c:4ac1:8::121]:35000?security=tls&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=0&sni=api.kermanshahi.org#ARISTA🔥
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@[2a14:3f87:f001:1a::a]:35000?security=tls&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=0&sni=api.kermanshahi.org#ARISTA🔥
@@ -51,33 +49,63 @@ hysteria2://e42a38c4-4bea-42d6-90f1-3076e12f8c51@lsus3.lansecs.top:58338?sni=lsu
 hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@lundun1.nezhasu.com:443?sni=lundun1.nezhasu.com&insecure=1&mport=50000-65535#ARISTA🔥
 hysteria2://17cdeb6c-f046-11ee-bdac-f23c93141fad@6adab57e-t53wg0-tdvgqe-2gok.la.shifen.uk:1743?security=tls&insecure=0&sni=6adab57e-t53wg0-tdvgqe-2gok.la.shifen.uk#ARISTA🔥
 hysteria2://dongtaiwang.com@208.87.243.187:22222?security=tls&insecure=1&sni=www.bing.com#ARISTA🔥
-hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir#ARISTA🔥
+hysteria2://759bf004-6137-11ec-bd7c-f23c913c8d2b@cb6ccdef-t53wg0-thiwul-1gcq2.hk1.hyhuawei.com:443?sni=cb6ccdef-t53wg0-thiwul-1gcq2.hk1.hyhuawei.com&obfs=none&insecure=1#ARISTA🔥
+hysteria2://28213b50-7ed5-11ee-add6-f23c91369f2d@9184ff75-t57ls0-t7hmka-1plv4.hk2.hyhuawei.com:443?sni=9184ff75-t57ls0-t7hmka-1plv4.hk2.hyhuawei.com&obfs=none&insecure=1#ARISTA🔥
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@5.175.249.174:35000?security=tls&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=0&sni=api.kermanshahi.org#ARISTA🔥
-hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=0&sni=YAPC-1.afshin.ir#ARISTA🔥
-hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@206.71.158.41:35000?security=tls&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=1&sni=jnir.pichondan.com#ARISTA🔥
-hysteria2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:36300?obfs=salamander&obfs-password=Yet-Another-Public-Config-1&sni=YAPC-1.afshin.ir#ARISTA🔥
-hysteria2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:35200?obfs=salamander&obfs-password=Yet-Another-Public-Config-1&sni=YAPC-1.afshin.ir#ARISTA🔥
-hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000?obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir#ARISTA🔥
-hysteria2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:36400?obfs=salamander&obfs-password=Yet-Another-Public-Config-1&sni=YAPC-1.afshin.ir#ARISTA🔥
-hysteria2://Yet-Another-Public-Config-1@206.71.158.37:36400?obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir#ARISTA🔥
-hysteria2://Yet-Another-Public-Config-1@206.71.158.37:36400?insecure=1&sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#ARISTA🔥
-hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35200?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=0&sni=YAPC-1.afshin.ir#ARISTA🔥
-hysteria2://Yet-Another-Public-Config-1@206.71.158.37:36400?sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1#ARISTA🔥
-hysteria2://Yet-Another-Public-Config-1@206.71.158.37:36300?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=0&sni=YAPC-1.afshin.ir#ARISTA🔥
-hysteria2://37afff84-34bd-4db6-b24a-7d73d2ed48ce@107.173.127.166:25000?insecure=1&sni=www.apple.com#ARISTA🔥
-hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@77.90.41.197:35000?security=tls&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=1&sni=api.kermanshahi.org#ARISTA🔥
-hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@5.175.249.174:35000?sni=api.kermanshahi.org&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=0#ARISTA🔥
-hysteria2://dongtaiwang.com@2001:bc8:32d7:302::11:20088?security=tls&insecure=1&sni=apple.com#ARISTA🔥
-hysteria2://dongtaiwang.com@208.87.243.187:22222?insecure=1&sni=www.bing.com#ARISTA🔥
-hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35200?obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir#ARISTA🔥
-hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@206.71.158.41:35000?security=tls&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=1&sni=api.kermanshahi.org#ARISTA🔥
-hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@2a0c:4ac1:8::121:35000?security=tls&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=0&sni=api.kermanshahi.org#ARISTA🔥
-hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@5.175.249.174:35000?security=tls&serviseName=@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=0&sni=api.kermanshahi.org#ARISTA🔥
-hysteria2://Yet-Another-Public-Config-1@2a14:3f87:f001:13::a:36400?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir#ARISTA🔥
-hysteria2://37afff84-34bd-4db6-b24a-7d73d2ed48ce@198.23.130.211:25000?insecure=1&sni=api.push.apple.com#ARISTA🔥
-hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@2a14:3f87:f001:1a::a:35000?security=tls&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=0&sni=api.kermanshahi.org#ARISTA🔥
-hysteria2://80747420-96c4-4a2f-83e6-eea4e46beb09@drhystuichdfy.samanidempire.org:20335?obfs=salamander&obfs-password=U1wBrYQyFm&sni=drhystuichdfy.samanidempire.org&alpn=h3#ARISTA🔥
-hysteria2://ae845cbd-08fb-4346-929a-e28a6f3960a8@hk1.shiyuandian.shop:24591?insecure=1&sni=hk1.shiyuandian.shop#ARISTA🔥
 hysteria2://linux.do@[2a01:4f9:4b:f378::1]:13599?security=tls&insecure=1&sni=www.bing.com#ARISTA🔥
+hysteria2://Yet-Another-Public-Config-1@206.71.158.37:36400?sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1#ARISTA🔥
+hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@2a14:3f87:f001:1a::a:35000?security=tls&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=0&sni=api.kermanshahi.org#ARISTA🔥
+hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=0&sni=YAPC-1.afshin.ir#ARISTA🔥
+hysteria2://40639730-e027-11ea-87ad-f23c913c8d2b@324d9cff-t6ngg0-t9lc3n-z93q.us.hyhuawei.com:443?sni=324d9cff-t6ngg0-t9lc3n-z93q.us.hyhuawei.com&obfs=none&insecure=1#ARISTA🔥
+hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@5.175.249.174:35000?sni=api.kermanshahi.org&insecure=0&allowInsecure=0&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi#ARISTA🔥
+hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@206.71.158.40:35000?security=tls&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=1&sni=api.kermanshahi.org#ARISTA🔥
+hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35200?obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir#ARISTA🔥
+hysteria2://Yet-Another-Public-Config-1@206.71.158.37:36300?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=0&sni=YAPC-1.afshin.ir#ARISTA🔥
+hysteria2://4f4c6876-fcf6-11ef-94aa-f23c913c8d2b@7d0bdd4c-t6ngg0-tbrhck-1thqb.us.hyhuawei.com:443?sni=7d0bdd4c-t6ngg0-tbrhck-1thqb.us.hyhuawei.com&obfs=none&insecure=1#ARISTA🔥
+hysteria2://dongtaiwang.com@2001:bc8:32d7:302::11:20088?security=tls&insecure=1&sni=apple.com#ARISTA🔥
+hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@206.71.158.41:35000?security=tls&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=1&sni=jnir.pichondan.com#ARISTA🔥
+hysteria2://ae845cbd-08fb-4346-929a-e28a6f3960a8@hk1.shiyuandian.shop:24591?insecure=1&sni=hk1.shiyuandian.shop#ARISTA🔥
+hysteria2://51362ab6-b5e6-11ea-ad28-f23c913c8d2b@8ce460ac-t6ngg0-tnkuks-wujn.us.hyhuawei.com:443?sni=8ce460ac-t6ngg0-tnkuks-wujn.us.hyhuawei.com&obfs=none&insecure=1#ARISTA🔥
+hysteria2://Yet-Another-Public-Config-1@%5B2a14:3f87:f001:13::a%5D:35000:443?sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1#ARISTA🔥
+hysteria2://47e91fb6-25b8-df52-bc18-3cdc8548192f@1f0709c5-t6ngg0-t7d1t3-81nv.us.hyhuawei.com:443?sni=1f0709c5-t6ngg0-t7d1t3-81nv.us.hyhuawei.com&obfs=none&insecure=1#ARISTA🔥
+hysteria2://0db758b4-e2ea-4716-bc9f-089bf6a1a30b@zz.9966663.xyz:50017?insecure=1&sni=do-vnyear.9966663.xyz#ARISTA🔥
+hysteria2://c3dc8d26-ab2b-11ec-a8bf-f23c91cfbbc9@72b99e3a-t6pb40-t8wh4m-1hpo0.hk1.hyhuawei.com:443?obfs=none&insecure=1#ARISTA🔥
+hysteria2://a698c4a6-c3c9-11ee-9693-f23c91cfbbc9@f643a7e8-t6ngg0-t74ix0-1m0fq.hk1.hyhuawei.com:443?sni=f643a7e8-t6ngg0-t74ix0-1m0fq.hk1.hyhuawei.com&obfs=none&insecure=1#ARISTA🔥
+hysteria2://4b9ca118-7fab-11eb-bd3a-f23c9164ca5d@fdc3f3be-t6ngg0-tcq5zn-19qpt.us.hyhuawei.com:443?sni=fdc3f3be-t6ngg0-tcq5zn-19qpt.us.hyhuawei.com&obfs=none&insecure=1#ARISTA🔥
+hysteria2://17cdeb6c-f046-11ee-bdac-f23c93141fad@107.167.18.123:1743?sni=c37b0be5-t3kyo0-t3lvgh-2gok.la.shifen.uk&obfs=none&insecure=1#ARISTA🔥
+hysteria2://37afff84-34bd-4db6-b24a-7d73d2ed48ce@198.23.130.211:25000?insecure=1&sni=api.push.apple.com#ARISTA🔥
+hysteria2://Yet-Another-Public-Config-1@2a14:3f87:f001:13::a:36400?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir#ARISTA🔥
+hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@5.175.249.174:35000?sni=api.kermanshahi.org&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=0#ARISTA🔥
+hysteria2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:36300?obfs=salamander&obfs-password=Yet-Another-Public-Config-1&sni=YAPC-1.afshin.ir#ARISTA🔥
+hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@206.71.158.41:35000?security=tls&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=1&sni=api.kermanshahi.org#ARISTA🔥
+hysteria2://dongtaiwang.com@208.87.243.187:22222?insecure=1&sni=www.bing.com#ARISTA🔥
+hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@2a0c:4ac1:8::121:35000?security=tls&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=0&sni=api.kermanshahi.org#ARISTA🔥
+hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir#ARISTA🔥
+hysteria2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:36400?obfs=salamander&obfs-password=Yet-Another-Public-Config-1&sni=YAPC-1.afshin.ir#ARISTA🔥
+hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@206.71.158.41:35000?sni=jnir.pichondan.com&obfs=salamander&obfs-password=%252540JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=1#ARISTA🔥
+hysteria2://0abd5d38-fdf1-11ed-bade-f23c91369f2d@1d4e3b3b-t6ngg0-tedirp-1fli7.us.hyhuawei.com:443?sni=1d4e3b3b-t6ngg0-tedirp-1fli7.us.hyhuawei.com&obfs=none&insecure=1#ARISTA🔥
+hysteria2://520b9126-9870-11ef-81b0-f23c9164ca5d@71477f9c-t53wg0-t95ncr-1slop.hk1.hyhuawei.com:443?sni=71477f9c-t53wg0-t95ncr-1slop.hk1.hyhuawei.com&obfs=none&insecure=1#ARISTA🔥
+hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@77.90.41.197:35000?security=tls&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=1&sni=api.kermanshahi.org#ARISTA🔥
+hysteria2://fd224a6c-addc-11ed-a8bf-f23c91cfbbc9@7751b228-t6pb40-t7xcfs-1ldl3.hk2.hyhuawei.com:443?sni=7751b228-t6pb40-t7xcfs-1ldl3.hk2.hyhuawei.com&obfs=none&insecure=1#ARISTA🔥
+hysteria2://990e8f34-bd4f-11ef-bdb9-f23c91cfbbc9@c189808a-t57ls0-t7uinf-i8ie.us.hyhuawei.com:443?sni=c189808a-t57ls0-t7uinf-i8ie.us.hyhuawei.com&obfs=none&insecure=1#ARISTA🔥
+hysteria2://Yet-Another-Public-Config-1@206.71.158.37:36400?insecure=1&sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#ARISTA🔥
+hysteria2://Yet-Another-Public-Config-1@206.71.158.37:36400?obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir#ARISTA🔥
+hysteria2://b9c9905c-1627-11ec-a0fc-f23c913c8d2b@74cba7ec-t57ls0-t6nlrg-ach1.hk1.hyhuawei.com:443?sni=74cba7ec-t57ls0-t6nlrg-ach1.hk1.hyhuawei.com&obfs=none&insecure=1#ARISTA🔥
+hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@2a0c:4ac1:8::121:35000:443?sni=api.kermanshahi.org&obfs=%252540JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=1#ARISTA🔥
+hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35200?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=0&sni=YAPC-1.afshin.ir#ARISTA🔥
+hysteria2://37afff84-34bd-4db6-b24a-7d73d2ed48ce@107.173.127.166:25000?insecure=1&sni=www.apple.com#ARISTA🔥
+hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000?obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir#ARISTA🔥
+hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35200?sni=YAPC-1.afshin.ir&obfs=Yet-Another-Public-Config-1&insecure=1#ARISTA🔥
+hysteria2://bcc58e88-e147-11ec-b286-f23c91cfbbc9@da6103f9-t6ngg0-tao3bn-ggww.us.hyhuawei.com:443?sni=da6103f9-t6ngg0-tao3bn-ggww.us.hyhuawei.com&obfs=none&insecure=1#ARISTA🔥
+hysteria2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:35200?obfs=salamander&obfs-password=Yet-Another-Public-Config-1&sni=YAPC-1.afshin.ir#ARISTA🔥
+hysteria2://8a5d58a0-c50e-11ef-a46e-f23c913c8d2b@b2eb54a7-t6pb40-t7do2j-1swry.hk2.hyhuawei.com:443?sni=b2eb54a7-t6pb40-t7do2j-1swry.hk2.hyhuawei.com&obfs=none&insecure=1#ARISTA🔥
+hysteria2://5c02ab88-7b9c-11ea-8fc9-f23c913c8d2b@a4cf26ca-t55r40-tcop2n-tl32.us.hyhuawei.com:443?obfs=none&insecure=1#ARISTA🔥
+hysteria2://6d4abac0-86e6-11ef-83cc-f23c913c8d2b@085821b2-t6ngg0-td1l1t-1s824.us.hyhuawei.com:443?sni=085821b2-t6ngg0-td1l1t-1s824.us.hyhuawei.com&obfs=none&insecure=1#ARISTA🔥
+hysteria2://1469e09e-027c-11ec-a0fc-f23c913c8d2b@73260474-t6ngg0-to8xn3-l4nv.us.hyhuawei.com:443?sni=73260474-t6ngg0-to8xn3-l4nv.us.hyhuawei.com&obfs=none&insecure=1#ARISTA🔥
+hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@5.175.249.174:35000?security=tls&serviseName=@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=0&sni=api.kermanshahi.org#ARISTA🔥
+hysteria2://80747420-96c4-4a2f-83e6-eea4e46beb09@drhystuichdfy.samanidempire.org:20335?obfs=salamander&obfs-password=U1wBrYQyFm&sni=drhystuichdfy.samanidempire.org&alpn=h3#ARISTA🔥
+hysteria2://98cedeca-99a0-11ef-bb64-f23c913c8d2b@465e5b71-t53wg0-t6xrvm-1qaek.us.hyhuawei.com:443?sni=465e5b71-t53wg0-t6xrvm-1qaek.us.hyhuawei.com&obfs=none&insecure=1#ARISTA🔥
+hysteria2://6857f1bc-f27b-11ea-87ad-f23c913c8d2b@d2ab175b-t55r40-tgzvop-hns7.us.hyhuawei.com:443?obfs=none&insecure=1#ARISTA🔥
+hysteria2://Yet-Another-Public-Config-1@206.71.158.37:36300?sni=YAPC-1.afshin.ir&obfs=Yet-Another-Public-Config-1&insecure=1#ARISTA🔥
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@5.175.249.174:35000?sni=api.kermanshahi.org&insecure=0&allowInsecure=0&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi#ARISTA🔥
 hy2://Yet-Another-Public-Config-1@206.71.158.37:36400/?insecure=1&sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#ARISTA🔥

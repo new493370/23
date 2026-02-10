@@ -1,48 +1,12 @@
 # GitHub TROJAN Configurations
-# Updated: 2026-02-10 09:23:01
-# Count: 172
+# Updated: 2026-02-10 10:45:43
+# Count: 139
 # Source: GitHub Repositories
 
-trojan://T9BpZIVMNv@sweden.vmaxpanel.com:8443?path=%2Famd&security=tls&fp=chrome&type=ws&sni=sweden.vmaxpanel.com#ARISTA🔥
-trojan://qmBSKnAl6LYi9=z23Rs.Z@37.235.49.209:28099?allowInsecure=1&sni=celestialcorset.crystalhamster.click#ARISTA🔥
-trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&host=www.creationlong.org&type=ws&sni=www.creationlong.org#ARISTA🔥
-trojan://T9BpZIVMNv@sweden.vmaxpanel.com:8443?path=%2Famd&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=sweden.vmaxpanel.com#ARISTA🔥
-trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#ARISTA🔥
-trojan://humanity@172.64.152.23:443?security=tls&sni=www.calmlunch.com&type=ws&host=www.calmlunch.com&path=%2Fassignment#ARISTA🔥
-trojan://humanity@172.64.152.23:443?security=tls&sni=www.creationlong.org&type=ws&host=www.creationlong.org&path=%2Fassignment#ARISTA🔥
-trojan://humanity@104.21.40.34:443?security=tls&sni=www.gossipglove.com&allowInsecure=1&type=ws&host=www.gossipglove.com&path=%2Fassignment#ARISTA🔥
-trojan://BxceQaOe@58.152.18.130:443?security=tls&sni=t.me/ripaojiedian&allowInsecure=1&type=tcp&headerType=none#ARISTA🔥
-trojan://humanity@172.64.152.23:443?security=tls&sni=www.creationlong.org&insecure=0&allowInsecure=0&type=ws&host=www.creationlong.org&path=%2Fassignment#ARISTA🔥
-trojan://humanity@www.host-tracker.com:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.gossipglove.com#ARISTA🔥
-trojan://BxceQaOe@18.163.2.13:3159?sni=t.me%252Fripaojiedian&allowInsecure=1&type=tcp#ARISTA🔥
-trojan://telegram-id-privatevpns@18.195.91.205:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#ARISTA🔥
-trojan://b3a73d16-5d6e-45ad-8a73-314583408ec1@fic.buzzon.shop:443?sni=fic.buzzon.shop&type=ws&path=%2FSpB9iu4m7MqdokB1leJ&alpn=http%2F1.1&fp=chrome#ARISTA🔥
-trojan://5fb072e0ddd631cf66cf752b09210480@160.16.72.33:1933?sni=www.nintendogames.net&type=tcp#ARISTA🔥
-trojan://humanity@www.gossipglove.com:443?sni=www.gossipglove.com&type=ws&path=%2Fassignment&fp=chrome#ARISTA🔥
-trojan://humanity@172.64.152.23:443?sni=www.gossipglove.com&type=ws&path=%2Fassignment&fp=chrome#ARISTA🔥
-trojan://BxceQaOe@54.150.247.142:1691?sni=t.me%2Fripaojiedian&allowInsecure=1&type=tcp#ARISTA🔥
-trojan://BxceQaOe@203.198.123.162:443?sni=t.me%252Fripaojiedian&allowInsecure=1&type=tcp#ARISTA🔥
-trojan://humanity@www.creationlong.org:443?path=%2Fassignment&security=tls&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=www.creationlong.org#ARISTA🔥
-trojan://humanity@www.creationlong.org:443?path=%2Fassignment&security=tls&alpn=h2%2Chttp%2F1.1&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.creationlong.org#ARISTA🔥
-trojan://humanity@188.114.98.0:443?path=%2Fassignment&security=tls&alpn=h2%2Chttp%2F1.1&insecure=0&host=www.creationlong.org&fp=chrome&type=ws&allowInsecure=0&sni=www.creationlong.org#ARISTA🔥
-trojan://humanity@v3.dabache.top:443?path=%2Fassignment%23ShadowProxy66&security=tls&insecure=1&host=www.gossipglove.com&type=ws&allowInsecure=1&sni=www.gossipglove.com#ARISTA🔥
-trojan://humanity@www.multiplydose.com:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.multiplydose.com#ARISTA🔥
-trojan://humanity@www.multiplydose.com:443?sni=www.multiplydose.com&type=ws&path=%2Fassignment&fp=chrome#ARISTA🔥
-trojan://humanity@104.18.32.47:443?sni=www.calmlunch.com&type=ws&path=%2Fassignment&fp=chrome#ARISTA🔥
-trojan://humanity@188.114.96.3:443?sni=www.gossipglove.com&type=ws&path=%2Fassignment&fp=chrome#ARISTA🔥
-trojan://humanity@172.64.152.23:443?sni=www.multiplydose.com&type=ws&path=%2Fassignment&fp=chrome#ARISTA🔥
-trojan://humanity@172.64.152.23:443?sni=www.calmlunch.com&type=ws&path=%2Fassignment&fp=chrome#ARISTA🔥
-trojan://humanity@www.calmlunch.com:443?sni=www.calmlunch.com&allowInsecure=1&type=ws&path=%2Fassignment&fp=chrome#ARISTA🔥
-trojan://humanity@172.64.152.23:443?sni=www.creationlong.org&allowInsecure=1&type=ws&path=%2Fassignment&fp=chrome#ARISTA🔥
-trojan://acadd87c-c8b4-4b6b-989b-64263e4d0329@de2c.buzzon.shop:443?sni=de2c.buzzon.shop&type=ws&path=%2FC7Uxy5S9pAi1VhW5NThds106&alpn=http%2F1.1&fp=chrome#ARISTA🔥
-trojan://humanity@104.18.32.37:443?sni=www.gossipglove.com&type=ws&path=%2Fassignment&fp=chrome#ARISTA🔥
-trojan://humanity@104.18.32.47:443?sni=www.multiplydose.com&allowInsecure=1&type=ws&path=%2Fassignment&fp=chrome#ARISTA🔥
-trojan://telegram-id-directvpn@51.45.13.145:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#ARISTA🔥
-trojan://5fb072e0ddd631cf66cf752b09210480@160.16.116.227:3423?security=tls&sni=www.nintendogames.net#ARISTA🔥
-trojan://acadd87c-c8b4-4b6b-989b-64263e4d0329@de2c.buzzon.shop:443?path=%2FC7Uxy5S9pAi1VhW5NThds106&security=tls&alpn=http%2F1.1&insecure=0&host=de2c.buzzon.shop&fp=chrome&type=ws&allowInsecure=0&sni=de2c.buzzon.shop#ARISTA🔥
-trojan://5fb072e0ddd631cf66cf752b09210480@160.16.236.32:3901?security=tls&sni=www.nintendogames.net#ARISTA🔥
 trojan://humanity@104.18.32.47:443?path=%2Fassignment&security=tls&host=www.multiplydose.com&fp=chrome&type=ws&sni=www.multiplydose.com#ARISTA🔥
 trojan://2AAF5UEsSd@37.27.249.93:20000?type=tcp&security=none#ARISTA🔥
+trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#ARISTA🔥
+trojan://telegram-id-directvpn@51.45.13.145:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#ARISTA🔥
 trojan://telegram-id-directvpn@35.181.136.255:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#ARISTA🔥
 trojan://telegram-id-directvpn@52.58.206.224:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#ARISTA🔥
 trojan://telegram-id-privatevpns@51.44.43.148:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#ARISTA🔥
@@ -167,11 +131,14 @@ trojan://humanity@188.114.96.3:443?path=%2Fassignment&security=tls&insecure=1&ho
 trojan://humanity@188.114.96.3:443?path=%2Fassignment&security=tls&host=www.gossipglove.com&fp=chrome&type=ws&sni=www.gossipglove.com#ARISTA🔥
 trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=www.multiplydose.com#ARISTA🔥
 trojan://humanity@104.18.32.47:443?path=%2Fassignment&security=tls&fp=chrome&type=ws&sni=www.calmlunch.com#ARISTA🔥
+trojan://humanity@172.64.152.23:443?security=tls&sni=www.creationlong.org&insecure=0&allowInsecure=0&type=ws&host=www.creationlong.org&path=%2Fassignment#ARISTA🔥
 trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&fp=chrome&type=ws&sni=www.creationlong.org#ARISTA🔥
 trojan://humanity@www.gossipglove.com:443?security=tls&sni=www.gossipglove.com&fp=chrome&allowInsecure=0&type=ws&path=/assignment#ARISTA🔥
 trojan://humanity@188.114.96.3:443?path=%2Fassignment&security=tls&insecure=0&host=www.gossipglove.com&fp=chrome&type=ws&allowInsecure=0&sni=www.gossipglove.com#ARISTA🔥
 trojan://humanity@172.64.152.23:443?security=tls&sni=www.creationlong.org&allowInsecure=1&type=ws&host=www.creationlong.org&path=%2Fassignment#ARISTA🔥
 trojan://humanity@www.gossipglove.com:443?security=tls&sni=www.gossipglove.com&fp=chrome&allowInsecure=1&type=ws&path=%2Fassignment#ARISTA🔥
 trojan://humanity@www.gossipglove.com:443?path=%2Fassignment&security=tls&type=ws&sni=www.gossipglove.com#ARISTA🔥
+trojan://acadd87c-c8b4-4b6b-989b-64263e4d0329@de2c.buzzon.shop:443?path=%2FC7Uxy5S9pAi1VhW5NThds106&security=tls&alpn=http%2F1.1&insecure=0&host=de2c.buzzon.shop&fp=chrome&type=ws&allowInsecure=0&sni=de2c.buzzon.shop#ARISTA🔥
 trojan://humanity@104.18.32.37:443?security=tls&sni=www.gossipglove.com&fp=chrome&type=ws&path=%2Fassignment#ARISTA🔥
 trojan://humanity@172.64.152.23:443?security=tls&sni=www.multiplydose.com&fp=chrome&type=ws&path=%2Fassignment#ARISTA🔥
+trojan://humanity@104.21.40.34:443?security=tls&sni=www.gossipglove.com&allowInsecure=1&type=ws&host=www.gossipglove.com&path=%2Fassignment#ARISTA🔥

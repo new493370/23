@@ -1,6 +1,6 @@
 # GitHub TROJAN Configurations
-# Updated: 2026-02-11 09:43:59
-# Count: 120
+# Updated: 2026-02-11 10:43:52
+# Count: 122
 # Source: GitHub Repositories
 
 trojan://b3a73d16-5d6e-45ad-8a73-314583408ec1@fic.buzzon.shop:443?path=%2FSpB9iu4m7MqdokB1leJ&security=tls&alpn=http%2F1.1&insecure=0&host=fic.buzzon.shop&fp=chrome&type=ws&allowInsecure=0&sni=fic.buzzon.shop#ARISTA🔥
@@ -122,4 +122,6 @@ trojan://acadd87c-c8b4-4b6b-989b-64263e4d0329@de2c.buzzon.shop:443?path=%2FC7Uxy
 trojan://humanity@104.18.32.37:443?security=tls&sni=www.gossipglove.com&fp=chrome&type=ws&path=%2Fassignment#ARISTA🔥
 trojan://humanity@172.64.152.23:443?security=tls&sni=www.multiplydose.com&fp=chrome&type=ws&path=%2Fassignment#ARISTA🔥
 trojan://humanity@104.21.40.34:443?security=tls&sni=www.gossipglove.com&allowInsecure=1&type=ws&host=www.gossipglove.com&path=%2Fassignment#ARISTA🔥
-trojan://humanity@188.114.98.0:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.multiplydose.com#ARISTA🔥
+trojan://ee4395a5-8dff-4264-897b-20a69b6598a2@green2.cdntencentmusic.com:31102?allowInsecure=1&sni=green2.cdntencentmusic.com#ARISTA🔥
+trojan://44ea2794-2072-4b49-9321-29833cb60e75@green2.cdntencentmusic.com:31102?allowInsecure=1&sni=green2.cdntencentmusic.com#ARISTA🔥
+trojan://fd7401aa-a563-4d4d-8ad4-a8c4325aba71@green2.cdntencentmusic.com:31102?allowInsecure=1&sni=green2.cdntencentmusic.com#ARISTA🔥

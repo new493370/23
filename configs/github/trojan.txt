@@ -1,9 +1,16 @@
 # GitHub TROJAN Configurations
-# Updated: 2026-02-11 14:13:06
-# Count: 107
+# Updated: 2026-02-11 15:14:42
+# Count: 113
 # Source: GitHub Repositories
 
-trojan://telegram-id-privatevpns@13.39.0.222:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#ARISTA🔥
+trojan://86c379d8-0565-4a8b-a636-ca80bd42a131@green2.cdntencentmusic.com:31102?allowInsecure=1&sni=green2.cdntencentmusic.com#ARISTA🔥
+trojan://44ea2794-2072-4b49-9321-29833cb60e75@green2.cdntencentmusic.com:31102?allowInsecure=1&sni=green2.cdntencentmusic.com#ARISTA🔥
+trojan://2cf2817d-5a08-477f-b5c8-02c10dc84c63@green2.cdntencentmusic.com:31101?allowInsecure=0&sni=green2.cdntencentmusic.com#ARISTA🔥
+trojan://91be2fb5-5543-49af-90d0-52923cceb0be@green2.cdntencentmusic.com:31102?allowInsecure=1&sni=green2.cdntencentmusic.com#ARISTA🔥
+trojan://3fcdd9b4-f5c5-4170-a5fd-97d0a4cb7e9a@green2.cdntencentmusic.com:35501?allowInsecure=1&sni=green2.cdntencentmusic.com#ARISTA🔥
+trojan://0bed90a0-bfc9-4e64-b7dc-165806dd4de0@green2.cdntencentmusic.com:31101?allowInsecure=0&sni=green2.cdntencentmusic.com#ARISTA🔥
+trojan://BxceQaOe@203.198.123.162:443?allowInsecure=1&sni=t.me%2Fripaojiedian#ARISTA🔥
+trojan://64f12f30-4b9e-4993-9016-900b8781c98b@green2.cdntencentmusic.com:31101?allowInsecure=0&sni=green2.cdntencentmusic.com#ARISTA🔥
 trojan://b3a73d16-5d6e-45ad-8a73-314583408ec1@fic.buzzon.shop:443?path=%2FSpB9iu4m7MqdokB1leJ&security=tls&alpn=http%2F1.1&insecure=0&host=fic.buzzon.shop&fp=chrome&type=ws&allowInsecure=0&sni=fic.buzzon.shop#ARISTA🔥
 trojan://telegram-id-directvpn@35.180.72.19:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#ARISTA🔥
 trojan://telegram-id-privatevpns@35.181.136.255:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#ARISTA🔥
@@ -87,7 +94,6 @@ trojan://ZblhWr0mqMakCPg.N@212.193.18.144:36158?security=tls&sni=api.avito.ru&in
 trojan://a5inYFE%3DJGV89%2BhjxIqgDp1tcWBd6@80.173.230.196:26279?security=tls&insecure=1&allowInsecure=1&type=tcp&headerType=none#ARISTA🔥
 trojan://qmBSKnAl6LYi9%3Dz23Rs.Z@37.235.49.209:28099?security=tls&sni=celestialcorset.crystalhamster.click&insecure=1&allowInsecure=1&type=tcp&headerType=none#ARISTA🔥
 trojan://BxceQaOe@58.152.18.130:443?allowInsecure=1&sni=t.me%2Fripaojiedian#ARISTA🔥
-trojan://BxceQaOe@203.198.123.162:443?allowInsecure=1&sni=t.me%2Fripaojiedian#ARISTA🔥
 trojan://BxceQaOe@43.198.233.56:381?security=tls&amp;insecure=1&amp;headerType=none&amp;type=tcp&amp;allowInsecure=1&amp;sni=t.me%252Fripaojiedian#ARISTA🔥
 trojan://BxceQaOe@43.199.47.199:3292?security=tls&amp;insecure=1&amp;headerType=none&amp;type=tcp&amp;allowInsecure=1&amp;sni=t.me%2Fripaojiedian#ARISTA🔥
 trojan://BxceQaOe@18.163.2.13:3159?allowInsecure=1&sni=t.me%2Fripaojiedian#ARISTA🔥

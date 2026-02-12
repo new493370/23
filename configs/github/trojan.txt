@@ -1,12 +1,11 @@
 # GitHub TROJAN Configurations
-# Updated: 2026-02-12 09:09:48
+# Updated: 2026-02-12 10:13:55
 # Count: 105
 # Source: GitHub Repositories
 
-trojan://T9BpZIVMNv@sweden.vmaxpanel.com:8443/?type=ws&path=%2Famd&security=tls&allowInsecure=1#ARISTA🔥
-trojan://humanity@188.114.98.0:443?path=%2Fassignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#ARISTA🔥
-trojan://Puj01Rc8UcA9IzcFcYOs8KMOhCz6aX2Q@188.114.97.3:443?path=%2FtjwsLhx0SFASG4l9FERJ1g&security=tls&insecure=1&host=mfyousheng.nl.eu.org&type=ws&allowInsecure=1&sni=mfyousheng.nl.eu.org#ARISTA🔥
-trojan://humanity@172.67.180.92:443?path=%2Fassignment&security=tls&insecure=1&host=www.multiplydose.com&fp=chrome&type=ws&allowInsecure=1&sni=www.multiplydose.com#ARISTA🔥
+trojan://telegram-id-privatevpns@18.195.71.56:22222?type=tcp&security=tls&path=%2F#ARISTA🔥
+trojan://telegram-id-directvpn@35.181.139.200:22223?security=tls&sni=trojan.burgerip.co.uk&alpn=http%2F1.1&allowInsecure=1&type=tcp&headerType=none#ARISTA🔥
+trojan://telegram-id-directvpn@18.195.71.56:22223?type=tcp&security=tls&sni=trojan.burgerip.co.uk&path=%2F#ARISTA🔥
 trojan://telegram-id-directvpn@35.181.88.119:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#ARISTA🔥
 trojan://telegram-id-privatevpns@18.195.91.205:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#ARISTA🔥
 trojan://telegram-id-privatevpns@35.181.139.200:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#ARISTA🔥
@@ -49,6 +48,7 @@ trojan://telegram-id-privatevpns@13.39.0.222:22222?security=tls&alpn=http/1.1&he
 trojan://telegram-id-privatevpns@3.122.189.42:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#ARISTA🔥
 trojan://humanity@104.18.32.47:443?path=%2Fassignment&security=tls&host=www.multiplydose.com&fp=chrome&type=ws&sni=www.multiplydose.com#ARISTA🔥
 trojan://telegram-id-directvpn@3.75.40.40:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#ARISTA🔥
+trojan://humanity@188.114.98.0:443?path=%2Fassignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#ARISTA🔥
 trojan://telegram-id-directvpn@35.180.72.19:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#ARISTA🔥
 trojan://telegram-id-directvpn@52.28.70.176:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#ARISTA🔥
 trojan://telegram-id-directvpn@52.28.55.17:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#ARISTA🔥

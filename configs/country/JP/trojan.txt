@@ -1,8 +1,7 @@
 # JP - TROJAN Configurations
-# Updated: 2026-02-13 21:10:20
-# Count: 6
+# Updated: 2026-02-13 21:54:52
+# Count: 5
 
-trojan://BxceQaOe@13.113.192.229:2595?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=t.me%252Fripaojiedian#ARISTA🔥
 trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@202.181.103.246:1334?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=www.nintendogames.net#ARISTA🔥
 trojan://9372cb81c7b0ad903f91f2f8a4d3f02b@153.121.39.240:3901?security=tls&sni=www.nintendogames.net&type=tcp&path=%2f#ARISTA🔥
 trojan://9372cb81c7b0ad903f91f2f8a4d3f02b@160.16.57.238:400?security=tls&sni=www.nintendogames.net&type=tcp&path=%2f#ARISTA🔥

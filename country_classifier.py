@@ -8,8 +8,9 @@ import tempfile
 import subprocess
 from datetime import datetime, timedelta
 from urllib.parse import urlparse, parse_qs
-from concurrent.futures import ThreadPoolExecutor, as_completed
+from concurrent.futures import ThreadPoolExecutor, as_completed, TimeoutError
 import base64
+import time
 
 try:
     import geoip2.database
@@ -17,29 +18,130 @@ try:
 except ImportError:
     GEOIP_AVAILABLE = False
 
+class DNSTimeoutError(Exception):
+    pass
+
+class IPAPIClient:
+    def __init__(self):
+        self.cache = {}
+        self.cache_file = "configs/country/ipapi_cache.json"
+        self.load_cache()
+        
+    def load_cache(self):
+        try:
+            if os.path.exists(self.cache_file):
+                with open(self.cache_file, 'r', encoding='utf-8') as f:
+                    self.cache = json.load(f)
+        except:
+            self.cache = {}
+    
+    def save_cache(self):
+        try:
+            os.makedirs(os.path.dirname(self.cache_file), exist_ok=True)
+            with open(self.cache_file, 'w', encoding='utf-8') as f:
+                json.dump(self.cache, f, ensure_ascii=False, indent=2)
+        except:
+            pass
+    
+    def get_country(self, ip):
+        if ip in self.cache:
+            cache_time = datetime.fromisoformat(self.cache[ip]['timestamp'])
+            if datetime.now() - cache_time < timedelta(days=30):
+                return self.cache[ip]['country']
+        
+        try:
+            import urllib.request
+            import json
+            
+            url = f"http://ip-api.com/json/{ip}?fields=status,countryCode"
+            with urllib.request.urlopen(url, timeout=5) as response:
+                data = json.loads(response.read().decode())
+                if data.get('status') == 'success':
+                    country = data.get('countryCode', 'XX')
+                    self.cache[ip] = {
+                        'country': country,
+                        'timestamp': datetime.now().isoformat()
+                    }
+                    return country
+        except:
+            pass
+        
+        try:
+            url = f"https://ipapi.co/{ip}/country/"
+            with urllib.request.urlopen(url, timeout=5) as response:
+                country = response.read().decode().strip()
+                if country and len(country) == 2:
+                    self.cache[ip] = {
+                        'country': country,
+                        'timestamp': datetime.now().isoformat()
+                    }
+                    return country
+        except:
+            pass
+        
+        return None
+
 class RealServerDetector:
     def __init__(self, classifier):
         self.classifier = classifier
+        self.cdn_domains = self.load_cdn_domains()
         self.cdn_ranges = self.load_cdn_ranges()
+        self.strict_cdn_ranges = self.load_strict_cdn_ranges()
         
+    def load_cdn_domains(self):
+        return {
+            'cloudflare.com', 'cloudflare.net', 'cloudflarecdn.com',
+            'cloudfront.net', 'aws.amazon.com', 'amazonaws.com',
+            'akamai.net', 'akamaiedge.net', 'akamaitechnologies.com',
+            'fastly.net', 'fastly.com', 'edgecastcdn.net',
+            'azureedge.net', 'azure.com', 'windows.net',
+            'googleapis.com', 'gstatic.com', 'googleusercontent.com',
+            'cdn77.org', 'cdn77.com', 'stackpathdns.com',
+            'hscdn.net', 'cdngateway.net', 'kinxcdn.com',
+            'bitgravity.com', 'incapdns.net', 'impervadns.net',
+            'nocookie.net', 'tastatic.com', 'v2ex.co',
+            'github.io', 'github.com', 'raw.githubusercontent.com',
+            'jsdelivr.net', 'cdn.jsdelivr.net', 'unpkg.com',
+            'bootstrapcdn.com', 'cloudflare-ipfs.com',
+            'apple.com', 'apple-dns.net', 'itunes.apple.com'
+        }
+    
     def load_cdn_ranges(self):
         return [
             "104.16.0.0/12", "172.64.0.0/13", "131.0.72.0/22",
-            "146.75.0.0/16", "151.101.0.0/16", "23.235.32.0/20", 
-            "43.249.72.0/22", "34.192.0.0/10", "52.0.0.0/8",
-            "35.190.0.0/17", "13.32.0.0/15", "13.35.0.0/16",
+            "146.75.0.0/16", "151.101.0.0/16", "23.235.32.0/20"
+        ]
+    
+    def load_strict_cdn_ranges(self):
+        return [
+            "104.16.0.0/12", "172.64.0.0/13", "131.0.72.0/22",
+            "146.75.0.0/16", "151.101.0.0/16", "23.235.32.0/20"
+        ]
+    
+    def is_likely_cdn_ip(self, ip, strict_mode=False):
+        try:
+            ip_obj = ipaddress.ip_address(ip)
+            if ip_obj.version == 4:
+                ranges = self.strict_cdn_ranges if strict_mode else self.cdn_ranges
+                for net in ranges:
+                    if ip_obj in ipaddress.ip_network(net):
+                        return True
+        except:
+            pass
+        return False
+    
+    def is_known_hosting_provider(self, ip):
+        hosting_ranges = [
+            "52.0.0.0/8", "13.32.0.0/15", "13.35.0.0/16",
             "13.224.0.0/14", "13.249.0.0/16", "18.64.0.0/14",
             "18.154.0.0/15", "18.238.0.0/15", "54.192.0.0/12",
             "99.84.0.0/16", "204.246.0.0/16", "205.251.0.0/16"
         ]
-    
-    def is_likely_cdn_ip(self, ip):
         try:
             ip_obj = ipaddress.ip_address(ip)
-            if ip_obj.version == 4:
-                for net in self.cdn_ranges:
-                    if ip_obj in ipaddress.ip_network(net):
-                        return True
+            for net in hosting_ranges:
+                if ip_obj in ipaddress.ip_network(net):
+                    return True
         except:
             pass
         return False
@@ -52,15 +154,27 @@ class RealServerDetector:
         
         if parsed.get('type') == 'vmess':
             cfg = parsed.get('dict', {})
-            for key in ['add', 'host', 'sni', 'peer']:
+            for key in ['add', 'host', 'sni', 'peer', 'servername', 'fp']:
                 if key in cfg and cfg[key]:
                     candidates.append(cfg[key])
+        
+        if parsed.get('type') in ['vless', 'trojan']:
+            original = parsed.get('original', '')
+            try:
+                if '?' in original:
+                    query_part = original.split('?', 1)[1].split('#')[0]
+                    qs = parse_qs(query_part)
+                    for key in ['sni', 'host', 'peer', 'servername', 'fp']:
+                        if key in qs:
+                            candidates.extend(qs[key])
+            except:
+                pass
         
         original = parsed.get('original', '')
         try:
             parsed_url = urlparse(original.replace('#', '?'))
             qs = parse_qs(parsed_url.query)
-            for key in ['sni', 'host', 'peer', 'servername']:
+            for key in ['sni', 'host', 'peer', 'servername', 'fp']:
                 if key in qs:
                     candidates.extend(qs[key])
         except:
@@ -74,6 +188,16 @@ class RealServerDetector:
         
         return clean
     
+    def resolve_domain_with_timeout(self, domain, timeout=5):
+        try:
+            with ThreadPoolExecutor(max_workers=1) as executor:
+                future = executor.submit(self.classifier.resolve_domain, domain)
+                return future.result(timeout=timeout)
+        except TimeoutError:
+            return []
+        except:
+            return []
+    
     def get_real_server_ip(self, parsed):
         hosts = self.extract_real_hosts(parsed)
         
@@ -81,6 +205,8 @@ class RealServerDetector:
             host = self.classifier.extract_domain(host)
             
             if self.classifier.is_valid_ip(host):
+                if self.is_known_hosting_provider(host):
+                    return host
                 if not self.is_likely_cdn_ip(host):
                     return host
                 continue
@@ -88,10 +214,21 @@ class RealServerDetector:
             if self.classifier.is_cdn_domain(host):
                 continue
             
-            ips = self.classifier.resolve_domain(host)
+            ips = self.resolve_domain_with_timeout(host, timeout=3)
             for ip in ips:
-                if not self.is_private_ip(ip) and not self.is_likely_cdn_ip(ip):
-                    return ip
+                if not self.is_private_ip(ip):
+                    if self.is_known_hosting_provider(ip):
+                        return ip
+                    if not self.is_likely_cdn_ip(ip):
+                        return ip
+        
+        for host in hosts[:2]:
+            host = self.classifier.extract_domain(host)
+            if not self.classifier.is_valid_ip(host) and not self.classifier.is_cdn_domain(host):
+                ips = self.resolve_domain_with_timeout(host, timeout=2)
+                for ip in ips:
+                    if not self.is_private_ip(ip):
+                        return ip
         
         return None
     
@@ -105,9 +242,10 @@ class RealServerDetector:
     def get_real_country(self, parsed):
         ip = self.get_real_server_ip(parsed)
         if not ip:
-            return 'XX'
+            return None
         
-        return self.classifier.get_country_from_ip(ip)
+        country = self.classifier.get_country_from_ip(ip)
+        return country
 
 class CountryClassifier:
     def __init__(self):
@@ -118,6 +256,7 @@ class CountryClassifier:
         self.country_cache = {}
         self.ip_country_cache = {}
         self.cache_file = "configs/country/dns_cache.json"
+        self.ipapi_client = IPAPIClient()
         self.load_cache()
         self.init_geoip()
         self.real_detector = RealServerDetector(self)
@@ -182,6 +321,8 @@ class CountryClassifier:
             
             with open(self.cache_file, 'w', encoding='utf-8') as f:
                 json.dump(cache_data, f, ensure_ascii=False, indent=2)
+            
+            self.ipapi_client.save_cache()
         except:
             pass
     
@@ -256,29 +397,33 @@ class CountryClassifier:
                 except:
                     continue
             
-            self.dns_cache[domain] = ips[:3]
-            return ips[:3]
+            self.dns_cache[domain] = ips[:5]
+            return ips[:5]
         except:
             self.dns_cache[domain] = []
             return []
     
     def get_country_from_ip(self, ip):
-        if not self.geoip_reader:
-            return 'XX'
-        
         if ip in self.ip_country_cache:
             return self.ip_country_cache[ip]
         
-        try:
-            response = self.geoip_reader.country(ip)
-            if response.country.iso_code:
-                country = response.country.iso_code
-                self.ip_country_cache[ip] = country
-                return country
-            return 'XX'
-        except:
-            self.ip_country_cache[ip] = 'XX'
-            return 'XX'
+        if self.geoip_reader:
+            try:
+                response = self.geoip_reader.country(ip)
+                if response.country.iso_code:
+                    country = response.country.iso_code
+                    self.ip_country_cache[ip] = country
+                    return country
+            except:
+                pass
+        
+        ipapi_country = self.ipapi_client.get_country(ip)
+        if ipapi_country:
+            self.ip_country_cache[ip] = ipapi_country
+            return ipapi_country
+        
+        self.ip_country_cache[ip] = 'XX'
+        return 'XX'
     
     def get_country_for_host(self, host):
         host = self.extract_domain(host)
@@ -310,6 +455,11 @@ class CountryClassifier:
                 config_dict['ps'] = 'ARISTA🔥'
             
             host = config_dict.get('add', '')
+            if not host and 'host' in config_dict:
+                host = config_dict['host']
+            if not host and 'sni' in config_dict:
+                host = config_dict['sni']
+            
             port = config_dict.get('port', '')
             
             return {
@@ -329,25 +479,42 @@ class CountryClassifier:
             
             without_proto = config_str[8:]
             
+            host = None
+            port = '443'
+            sni = None
+            
             if '@' in without_proto:
                 uuid_part, rest = without_proto.split('@', 1)
                 
                 if '?' in rest:
                     host_port, params = rest.split('?', 1)
+                    qs = parse_qs(params)
+                    if 'sni' in qs:
+                        sni = qs['sni'][0]
+                    if 'host' in qs:
+                        host = qs['host'][0]
                 else:
                     host_port, params = rest, ''
                 
                 if ':' in host_port:
-                    host, port = host_port.split(':', 1)
-                    port = port.split('/')[0].split('#')[0]
+                    h, p = host_port.split(':', 1)
+                    if not host:
+                        host = h
+                    port = p.split('/')[0].split('#')[0]
                 else:
-                    host, port = host_port, '443'
+                    if not host:
+                        host = host_port
                 
+                if sni and not host:
+                    host = sni
+            
+            if host:
                 return {
                     'type': 'vless',
                     'host': host,
                     'port': port,
-                    'original': config_str
+                    'original': config_str,
+                    'sni': sni
                 }
             else:
                 return None
@@ -361,25 +528,42 @@ class CountryClassifier:
             
             without_proto = config_str[9:]
             
+            host = None
+            port = '443'
+            sni = None
+            
             if '@' in without_proto:
                 password, rest = without_proto.split('@', 1)
                 
                 if '?' in rest:
                     host_port, params = rest.split('?', 1)
+                    qs = parse_qs(params)
+                    if 'sni' in qs:
+                        sni = qs['sni'][0]
+                    if 'host' in qs:
+                        host = qs['host'][0]
                 else:
                     host_port, params = rest, ''
                 
                 if ':' in host_port:
-                    host, port = host_port.split(':', 1)
-                    port = port.split('/')[0].split('#')[0]
+                    h, p = host_port.split(':', 1)
+                    if not host:
+                        host = h
+                    port = p.split('/')[0].split('#')[0]
                 else:
-                    host, port = host_port, '443'
+                    if not host:
+                        host = host_port
                 
+                if sni and not host:
+                    host = sni
+            
+            if host:
                 return {
                     'type': 'trojan',
                     'host': host,
                     'port': port,
-                    'original': config_str
+                    'original': config_str,
+                    'sni': sni
                 }
             return None
         except:
@@ -502,12 +686,16 @@ class CountryClassifier:
         parsed = self.parse_config(config_str)
         if not parsed:
             return None, 'XX'
-
+        
         country = self.real_detector.get_real_country(parsed)
-
-        if country == 'XX':
+        
+        if not country or country == 'XX':
+            if 'host' in parsed and parsed['host']:
+                country = self.get_country_for_host(parsed['host'])
+        
+        if not country or country == 'XX':
             return None, 'XX'
-
+        
         return parsed, country
     
     def process_file(self, input_file, source_name):
@@ -527,7 +715,7 @@ class CountryClassifier:
         
         print(f"  Processing {len(configs)} configs from {source_name}...")
         
-        with ThreadPoolExecutor(max_workers=10) as executor:
+        with ThreadPoolExecutor(max_workers=20) as executor:
             future_to_config = {}
             for config in configs:
                 future = executor.submit(self.classify_config, config)
@@ -541,13 +729,15 @@ class CountryClassifier:
                     print(f"    Progress: {processed}/{len(configs)}")
                 
                 try:
-                    parsed, country = future.result()
-                    if parsed and country:
+                    parsed, country = future.result(timeout=10)
+                    if parsed and country and country != 'XX':
                         if country not in results:
                             results[country] = []
                         results[country].append(config)
                     else:
                         failed += 1
+                except TimeoutError:
+                    failed += 1
                 except Exception as e:
                     failed += 1
         

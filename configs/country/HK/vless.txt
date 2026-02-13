@@ -1,0 +1,14 @@
+# HK - VLESS Configurations
+# Updated: 2026-02-13 19:28:00
+# Count: 10
+
+vless://9c79aceb-4649-44ea-9698-b5e9ecf6d6da@156.224.78.8:10001/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.icloud.com&fp=chrome&security=reality&pbk=D_kMOsg1KCtT0tudPFVDXGuEcSqZGtUYqBB-BiIxmls&sid=f7223dab#ARISTA🔥
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@202.85.53.54:7000?path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%AE%F0%9F%87%B7%20%40ShadowProxy66&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#ARISTA🔥
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@47.76.218.163:443/?type=ws&encryption=none&flow=&host=sni.111000.dynv6.net&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&security=tls&sni=sni.111000.dynv6.net&allowInsecure=1&fp=chrome#ARISTA🔥
+vless://f32a99e8-05dd-478a-82c0-7688848121bd@8.218.146.204:8080?type=ws&host=mkhy.daozhang.link&path=%2F%3Fed%3D2048#ARISTA🔥
+vless://f32a99e8-05dd-478a-82c0-7688848121bd@8.218.85.128:8080?type=ws&host=mkhy.daozhang.link&path=%2F%3Fed%3D2048#ARISTA🔥
+vless://2e82cda5-e020-4c63-8271-e58a00831447@hk4.miyazono-kaori.com:443?security=reality&encryption=none&pbk=6GIENB8z0Fpm9Yf7IFKqLhOBUFX3Qv8QbRK0XGl4NwE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.ikea.com.hk&sid=de392136#ARISTA🔥
+vless://824dc1b1-e35b-4121-ad73-9acaf13d6410@n1761184282.74qxv.top:443?encryption=none&security=tls&sni=n1761184282.74qxv.top&type=ws&host=n1761184282.74qxv.top&path=%2F824dc1b1-e35b-4121-ad73-9acaf13d6410#ARISTA🔥
+vless://c1251645-c50b-4139-b403-84d9e743f2fa@hk01-vlr01.tcp-reset-club.net:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=hls-svod.itunes.apple.com&fp=chrome&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=86e999a2cdc2&spx=%2F&type=tcp&headerType=none#ARISTA🔥
+vless://f1fc0a00-c9cc-45ef-97c3-7014d9f94b8a@185.242.234.252:14201?path=%2f#ARISTA🔥
+vless://9c79aceb-4649-44ea-9698-b5e9ecf6d6da@85.208.104.42:10001?flow=xtls-rprx-vision&security=reality&encryption=none&sni=www.icloud.com&fp=chrome&pbk=7qP6YKWx5CJXia1qjQoIcD7FRjUBbioaioioI729D34&sid=2afe4310&type=tcp&headerType=none&path=%2f#ARISTA🔥

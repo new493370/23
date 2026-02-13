@@ -1,8 +1,7 @@
 # MY - VLESS Configurations
-# Updated: 2026-02-13 20:19:02
-# Count: 5
+# Updated: 2026-02-13 20:49:27
+# Count: 4
 
-vless://ae023534-3788-44d3-b7ae-7076c01a9849@my01-vlr01.tcp-reset-club.net:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=86e999a2cdc2&sni=hls-svod.itunes.apple.com#ARISTA🔥
 vless://e108f3eb-4d3a-4e20-a09b-7008e333bc23@101.99.91.209:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=hls-svod.itunes.apple.com&fp=chrome&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=175d&type=tcp&headerType=none#ARISTA🔥
 vless://3e7f67de-648e-4871-b51a-a225214d41ee@47.254.207.127:443?encryption=none&security=reality&sni=cdn.userway.org&fp=chrome&pbk=TRP10HqKUXEQ3O-cfsq93DycfBmbJe9KM36yvSa8Mmw&sid=7266e6&type=tcp&headerType=none#ARISTA🔥
 vless://c1251645-c50b-4139-b403-84d9e743f2fa@my01-vlr01.tcp-reset-club.net:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=hls-svod.itunes.apple.com&fp=chrome&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=e499f276e7bd6420&spx=%2F&type=tcp&headerType=none#ARISTA🔥

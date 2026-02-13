@@ -1,12 +1,12 @@
 # SE - VLESS Configurations
-# Updated: 2026-02-13 22:57:44
+# Updated: 2026-02-13 23:51:32
 # Count: 23
 
 vless://31701b5d-ca95-92f9-d684-dae3706161ea@81.230.148.47:50?encryption=none&type=tcp#ARISTA🔥
 vless://891300bc-11b2-4b24-8056-b329b098888b@borik-crash.org:443?security=reality&encryption=none&pbk=8Bz3fNBZ5es7DVPlw8FRzufcncR6auyV_FJFFAKT-WE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=readthedocs.org&sid=a1590469acbe31#ARISTA🔥
-vless://7824420e-0129-4b28-b7a6-4fe8fd745388@node12.telegavpn.org:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=node12.telegavpn.org&fp=&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA&sid=#ARISTA🔥
+vless://f631168d-d92e-47f9-819e-46ed51b58218@z2nuvh3-ns63ma.185.vkproxy.com:40443?type=tcp&security=reality&sni=eh.vk.com&fp=chrome&flow=xtls-rprx-vision&pbk=DG904eM7xGecwV_nhjX73c-7g_fGEv8BgjbeAmTE8Bs&sid=505c94b8c65afb0a#ARISTA🔥
 vless://f6036ea2-911e-4287-93fb-d3ac2b21135b@node12.telegavpn.org:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=node12.telegavpn.org&fp=&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA&sid=#ARISTA🔥
-vless://1234@ip.xqnetwork.ir:2053?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=swe.pingxbaz.com&fp=chrome&type=ws&sni=swe.pingxbaz.com#ARISTA🔥
+vless://7824420e-0129-4b28-b7a6-4fe8fd745388@node12.telegavpn.org:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=node12.telegavpn.org&fp=&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA&sid=#ARISTA🔥
 vless://b2201fe6-4781-4dcc-bacf-a57f95e2a177@185.146.173.82:2082?path=/Free#ARISTA🔥
 vless://31701b5d-ca95-92f9-d684-dae3706161ea@dd.openaccessnode.com:50?security=&encryption=none&headerType=&type=tcp#ARISTA🔥
 vless://31701b5d-ca95-92f9-d684-dae3706161ea@dd.openaccessnode.com:504?mode=gun&security=reality&encryption=none&pbk=aNLPNNyjIC7QYLe7MpF4nxxHhO421dBSZaQgsDd1szs&fp=chrome&type=grpc&serviceName=JNIR&sni=nobitex.ir&sid=1d64e9805b4f9ae3#ARISTA🔥

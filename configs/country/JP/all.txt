@@ -1,18 +1,18 @@
 # JP - All Configurations
-# Updated: 2026-02-13 19:52:49
+# Updated: 2026-02-13 20:19:02
 # Total Count: 25
 
 vmess://eyJ2IjoiMiIsInBzIjoiQVJJU1RB8J+UpSIsImFkZCI6IjM1Ljc5LjE2Ni44IiwicG9ydCI6IjQ0NTczIiwidHlwZSI6Im5vbmUiLCJpZCI6IjA5YWNmOWYzLTNiOTAtNGRiZS05YzQ3LTE2YTU4YmMxYmY2MiIsImFpZCI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsImhvc3QiOiIiLCJ0bHMiOiIifQ==
-vmess://eyJhZGQiOiJuMTc0NDQ1NDQ5OC5saWU1ZC5jeW91IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJuMTc0NDQ1NDQ5OC5saWU1ZC5jeW91IiwiaWQiOiJjZDI2YWJjYS0wZDg0LTQzZDAtOGY2OS05YzExNDNiNTY5ZTkiLCJpbnNlY3VyZSI6IjEiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjQ0MyIsInBzIjoiQVJJU1RB8J+UpSIsInNjeSI6ImF1dG8iLCJzbmkiOiJuMTc0NDQ1NDQ5OC5saWU1ZC5jeW91IiwidGxzIjoidGxzIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
 vmess://eyJhZGQiOiJuMTc0NDQ1NDUwMS40dTltYS5pY3UiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Im4xNzQ0NDU0NTAxLjR1OW1hLmljdSIsImlkIjoiYmVkN2I3NDMtNmJmOC00NmEyLWIzNDYtYzYwZTYwOTE5MjIwIiwiaW5zZWN1cmUiOiIxIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiI0NDMiLCJwcyI6IkFSSVNUQfCflKUiLCJzY3kiOiJhdXRvIiwic25pIjoibjE3NDQ0NTQ1MDEuNHU5bWEuaWN1IiwidGxzIjoidGxzIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
+vmess://eyJhZGQiOiJuMTc0NDQ1NDQ5OC5saWU1ZC5jeW91IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJuMTc0NDQ1NDQ5OC5saWU1ZC5jeW91IiwiaWQiOiJjZDI2YWJjYS0wZDg0LTQzZDAtOGY2OS05YzExNDNiNTY5ZTkiLCJpbnNlY3VyZSI6IjEiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjQ0MyIsInBzIjoiQVJJU1RB8J+UpSIsInNjeSI6ImF1dG8iLCJzbmkiOiJuMTc0NDQ1NDQ5OC5saWU1ZC5jeW91IiwidGxzIjoidGxzIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
 vless://dcf0b94b-3d1a-4486-a8c8-edb04976e9f6@43.163.241.110:39112?security=none&encryption=none&host=Varzesh3.com&headerType=none&type=tcp#ARISTA🔥
 vless://05dc09d5-5c56-454b-a34e-6ef743d91e1a@109.61.109.79:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=3JGwSDrfkiCPdU3rvQP5m0z4Ag_UB_2w8Qq3VMXmo28&security=reality&sid=abc323&sni=sun6-22.userapi.com&type=tcp#ARISTA🔥
-vless://a11ab9c5-4155-430b-9efc-7a7122531382@japan.geodema.network:443?security=reality&encryption=none&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=japan.geodema.network&sid=1ed136481e0ede74#ARISTA🔥
 vless://d706bf16-124a-417b-aaa0-0d6d5efd58fd@38.60.212.251:29059?security=reality&encryption=none&pbk=V_eMkcHXf237wGyfggMHHRvQqw51rW1UJPEIw_T2IE4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=mensura.cdn-apple.com&sid=6ba85179e30d4fc2#ARISTA🔥
+vless://a11ab9c5-4155-430b-9efc-7a7122531382@japan.geodema.network:443?security=reality&encryption=none&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=japan.geodema.network&sid=1ed136481e0ede74#ARISTA🔥
 vless://d6b62381-8d75-4a0c-9946-bf8f40772afe@178.239.126.118:2443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=pizzastrada.jp#ARISTA🔥
 vless://aa7f42cc-616f-4550-9a87-4b85bb409121@139.162.83.106:4399?encryption=none&type=ws&host=vless3.datatestvless.click&path=%2F%3Fed%3D2560&security=tls&sni=vless3.datatestvless.click#ARISTA🔥
 vless://5c183802-747d-4d2f-a6f1-aff2d5d78401@47.74.6.60:443?security=reality&amp;encryption=none&amp;pbk=DNdTBHyztOVJOBJQX91YXEhNkWbSAntqUoTFBHc6Clw&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=cdn77.api.userway.org&amp;sid=6ba85179e30d4fc2#ARISTA🔥
-trojan://BxceQaOe@13.113.192.229:2595?sni=t.me%252Fripaojiedian&allowInsecure=1&fp=chrome#ARISTA🔥
+trojan://BxceQaOe@13.113.192.229:2595?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=t.me%252Fripaojiedian#ARISTA🔥
 trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@202.181.103.246:1334?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=www.nintendogames.net#ARISTA🔥
 trojan://9372cb81c7b0ad903f91f2f8a4d3f02b@153.121.39.240:3901?security=tls&sni=www.nintendogames.net&type=tcp&path=%2f#ARISTA🔥
 trojan://9372cb81c7b0ad903f91f2f8a4d3f02b@160.16.57.238:400?security=tls&sni=www.nintendogames.net&type=tcp&path=%2f#ARISTA🔥

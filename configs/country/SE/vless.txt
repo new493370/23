@@ -1,16 +1,13 @@
 # SE - VLESS Configurations
-# Updated: 2026-02-13 19:52:49
-# Count: 44
+# Updated: 2026-02-13 20:19:02
+# Count: 41
 
 vless://891300bc-11b2-4b24-8056-b329b098888b@borik-crash.org:443?security=reality&encryption=none&pbk=8Bz3fNBZ5es7DVPlw8FRzufcncR6auyV_FJFFAKT-WE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=readthedocs.org&sid=a1590469acbe31#ARISTA🔥
-vless://391c3f25-b29e-46df-aea3-5246f1c59162@185.146.173.95:2095?type=ws&host=all5.savagev2ray.site&path=%2FTelegram%20-%20%40XvProxy%20-%20Telegram%20-%20%40XvProxy#ARISTA🔥
-vless://31701b5d-ca95-92f9-d684-dae3706161ea@81.230.148.47:50?encryption=none&type=tcp#ARISTA🔥
-vless://7824420e-0129-4b28-b7a6-4fe8fd745388@node12.telegavpn.org:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=node12.telegavpn.org&fp=&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA&sid=#ARISTA🔥
+vless://31701b5d-ca95-92f9-d684-dae3706161ea@dd.openaccessnode.com:504?encryption=none&security=reality&sni=nobitex.ir&fp=chrome&pbk=aNLPNNyjIC7QYLe7MpF4nxxHhO421dBSZaQgsDd1szs&sid=1d64e9805b4f9ae3&type=grpc&authority=&serviceName=JNIR&mode=gun#ARISTA🔥
 vless://f6036ea2-911e-4287-93fb-d3ac2b21135b@node12.telegavpn.org:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=node12.telegavpn.org&fp=&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA&sid=#ARISTA🔥
-vless://171cedc2-c5bf-41cc-99b2-2cde1856a9bd@frcloud.w3bschool.ir:32016?security=reality&encryption=none&pbk=zsj7iO3Wo8BiajXZXfo9XCgn30FfOd47iMmKFaQEzlY&headerType=none&fp=firefox&type=tcp&sni=google.com&sid=2a1dbf3db2f9822e#ARISTA🔥
-vless://171cedc2-c5bf-41cc-99b2-2cde1856a9bd@decloud.w3bschool.ir:2650?security=none&encryption=none&host=excoino.com&headerType=http&type=tcp#ARISTA🔥
-vless://00a26afd-093b-47f5-a396-dbe994325a45@185.146.173.37:2095?path=%2F&security=none&encryption=none&host=V2ray-_-_-_-_-_-_-_-_-ShhProxy.TelegramChannelJoinBede.com.&type=ws#ARISTA🔥
-vless://Telegram-ipV2Ray-xqw@185.146.173.58:2052?path=/Telegram-ipV2Ray?ed%3D2048&security=none&encryption=none&host=Ch.2.V2rayV2ray-_-_-V2ray.irantech.Org.&type=ws#ARISTA🔥
+vless://31701b5d-ca95-92f9-d684-dae3706161ea@81.230.148.47:50?encryption=none&type=tcp#ARISTA🔥
+vless://%50%61%72%73%61%73%68%6F%6E%61%6D-300@185.146.173.39:8880?type=httpupgrade&path=%2F%50%61%72%73%61%73%68%6F%6E%61%6D-%50%61%72%73%61%73%68%6F%6E%61%6D-%50%61%72%73%61%73%68%6F%6E%61%6D%2F%3Fed%3D2056&host=De.%50%61%72%73%61%73%68%6F%6E%61%6D.CfD.&security=none#ARISTA🔥
+vless://12f6dc16-7a28-44b9-90f0-678afcd41a04@185.146.173.134:80?path=%2FASATeam-ASATeam.motorcycles.Elmahstyle.ir%3Fed&security=none&encryption=none&host=V2ray.motorcycles.Elmahstyle.ir&type=ws#ARISTA🔥
 vless://Telegram-NUFiLTER@185.146.173.58:2095?path=/telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER%3Fed%3D2048&security=none&encryption=none&host=emshab.bklink.iR.&type=ws#ARISTA🔥
 vless://DIGiV2RAY-@185.146.173.59:80?path=%2FDigiv2ray-&security=none&encryption=none&host=digi--v2raycncfs.RadioTeHran.oRG.&type=ws#ARISTA🔥
 vless://Telegram-ipV2Ray-zew@185.146.173.58:80?type=ws&path=/Telegram-ipV2Ray?ed%3D2048&host=16.ftp.debian.org.www.speedtest.net.免费上网68.Site.&security=none#ARISTA🔥

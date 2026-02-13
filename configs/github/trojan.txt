@@ -1,8 +1,13 @@
 # GitHub TROJAN Configurations
-# Updated: 2026-02-13 17:38:08
-# Count: 185
+# Updated: 2026-02-13 18:19:52
+# Count: 190
 # Source: GitHub Repositories
 
+trojan://iWnFtzMiac@205.185.115.223:19258/?type=grpc&sni=cloudflare.com&fp=chrome&security=reality&pbk=q_lg6VnOGhN_Ow5gHtZoDv_mJp-8W7m51N6vKamsMXk&sid=6d7efa97b2#ARISTA🔥
+trojan://2bfe58f7-da1d-45df-ab43-7c665b20ee29@gggbnh7.www890604.dpdns.org:443?security=tls&sni=gggbnh7.www890604.dpdns.org&alpn=http/1.1&type=ws&host=gggbnh7.www890604.dpdns.org&path=/2cO5FH0xUmT9oqnbBhmKb8nOkg#ARISTA🔥
+trojan://humanity@104.18.32.47:443?path=%2Fassignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.calmlunch.com#ARISTA🔥
+trojan://9372cb81c7b0ad903f91f2f8a4d3f02b@153.121.39.240:3901?security=tls&insecure=0&headerType=&type=tcp&allowInsecure=0&sni=www.nintendogames.net#ARISTA🔥
+trojan://5027e2a4-c4d2-463a-9508-83a2c7d1ad83@216.24.57.250:443?security=tls&insecure=0&headerType=&type=tcp&allowInsecure=0&sni=afrcloud1.mmv.kr#ARISTA🔥
 trojan://telegram-id-privatevpns@35.181.139.200:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#ARISTA🔥
 trojan://OdgHycGphesfLmPMYolUF@172.238.229.254:14051?security=tls&headerType=none&type=tcp&sni=api.avito.ru#ARISTA🔥
 trojan://telegram-id-directvpn@3.72.188.159:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#ARISTA🔥

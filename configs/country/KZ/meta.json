@@ -1,9 +1,9 @@
 {
   "country": "KZ",
-  "total_configs": 36,
+  "total_configs": 34,
   "by_protocol": {
-    "vless": 28,
-    "ss": 8
+    "vless": 27,
+    "ss": 7
   },
-  "updated": "2026-02-13 21:54:52"
+  "updated": "2026-02-13 22:57:44"
 }

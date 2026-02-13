@@ -1,8 +1,6 @@
 # AU - VLESS Configurations
-# Updated: 2026-02-13 21:54:52
-# Count: 4
+# Updated: 2026-02-13 22:57:44
+# Count: 2
 
-vless://540345a8-e6b5-49a2-b4dd-1cf348cea8b2@hi4.afraseda.ir:2053?mode=auto&path=%2F%3Fed%3D2048&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=myopen.tencan.ir#ARISTA🔥
-vless://540345a8-e6b5-49a2-b4dd-1cf348cea8b2@hi4.afraseda.ir:2053?mode=auto&path=/?ed=2048&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=myopen.tencan.ir#ARISTA🔥
 vless://c5c9d8ec-6c95-4f84-a395-de41ef895f34@37.9.54.98:443/?type=tcp&encryption=none&flow=&sni=download.cdn.yandex.net&fp=chrome&security=reality&pbk=jlnKFP7eXy5fFjmH1HD8_3A-AKbraZvJMwPE03BRuhQ&sid=9d8307f6#ARISTA🔥
 vless://df384b0f-d6c7-4242-a3ed-87d7d0c7ee86@levelprome.esportplusnews.top:2087?security=reality&encryption=none&pbk=9IeD-froYyVDWzt6W6jmyLpnTKYZfxGDTdY8wddkByk&headerType=none&fp=chrome&spx=/&type=tcp&sni=www.apple.com&sid=9e79f8#ARISTA🔥

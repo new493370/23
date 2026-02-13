@@ -1,10 +1,11 @@
 # ES - All Configurations
-# Updated: 2026-02-13 21:54:52
-# Total Count: 6
+# Updated: 2026-02-13 22:57:44
+# Total Count: 7
 
-vless://6f2ddffb-ef31-4e5b-af04-c87458203630@tunnyl.ru:8443?security=reality&encryption=none&pbk=JIEpMViq_q_8PBG4NYKXrSlaGeQMuahbAaa7Qrh3LX0&headerType=none&fp=ios&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=38cd424d5ba6441d#ARISTA🔥
+vless://72fb3bd4-75dd-488a-9af7-c391321ecfcc@velsanto.online:8443?security=reality&encryption=none&pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tradingview.com&sid=04bf0403f96e5b4b#ARISTA🔥
+vless://72fb3bd4-75dd-488a-9af7-c391321ecfcc@velsanto.online:8443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=tradingview.com&fp=chrome&security=reality&pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&sid=04bf0403f96e5b4b#ARISTA🔥
+vless://3be95058-e4e5-40e2-b51c-db1e6313cb7c@s3.plan-vpn.ru:443?security=reality&encryption=none&pbk=jWqot3VkePiX8XYqgBNokg55WJJ5nTis3XzX6p2uaWQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=s3.plan-vpn.ru&sid=7e348aa57a53b203#ARISTA🔥
 vless://613725ab-ca86-4d54-852e-a0bf45e812de@83.147.18.219:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=allison.kosmolet.xyz&fp=chrome&security=reality&pbk=UgCLC1JdwUh-hgpvSfndN1tuH98620gziTq2UB0gOjI&sid=a369bfe440aba1a2#ARISTA🔥
 vless://704145ac-10c0-4cd9-b945-fd0e4e6ddc22@tunnyl.ru:443?security=reality&encryption=none&pbk=llUN5iiAQwwKwiAp7zCwfU8wNz7F4lg__e9Qdv_gkWs&headerType=none&fp=random&spx=%2F&type=tcp&sni=google.com&sid=0f1d6a#ARISTA🔥
 vless://72fb3bd4-75dd-488a-9af7-c391321ecfcc@velsanto.online:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=tradingview.com&fp=chrome&pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&sid=04bf0403f96e5b4b&type=tcp&headerType=none#ARISTA🔥
 vless://72fb3bd4-75dd-488a-9af7-c391321ecfcc@velsanto.online:8443?flow=xtls-rprx-vision&security=reality&encryption=none&sni=tradingview.com&fp=chrome&pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&sid=04bf0403f96e5b4b&type=tcp&path=%2f#ARISTA🔥
-vless://72fb3bd4-75dd-488a-9af7-c391321ecfcc@velsanto.online:8443?security=reality&encryption=none&pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tradingview.com&sid=04bf0403f96e5b4b#ARISTA🔥

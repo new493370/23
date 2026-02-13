@@ -1,9 +1,7 @@
 # IN - VLESS Configurations
-# Updated: 2026-02-13 19:28:00
-# Count: 7
+# Updated: 2026-02-13 19:52:49
+# Count: 5
 
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@134.195.137.107:22473?path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#ARISTA🔥
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@98.70.26.236:443?security=tls&type=ws&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&host=sni.111000.indevs.in&sni=sni.111000.indevs.in&fp=chrome&encryption=none#ARISTA🔥
 vless://08704c01-7edb-454a-98a2-328ccb9936fa@45.88.183.156:12794?security=none&encryption=none&headerType=none&type=tcp#ARISTA🔥
 vless://1edafc20-cffb-4921-bb2b-f00ce9864c5c@45.88.183.157:23803?security=&encryption=none&headerType=none&type=tcp#ARISTA🔥
 vless://a7a9f670-44c0-45a9-8047-69db0203c142@incdn1.suio.me:443?encryption=none&security=tls&sni=incdn1.suio.me&insecure=1&allowInsecure=1&type=tcp&headerType=none#ARISTA🔥

@@ -1,13 +1,14 @@
 # ES - All Configurations
-# Updated: 2026-02-13 19:28:00
-# Total Count: 9
+# Updated: 2026-02-13 19:52:49
+# Total Count: 10
 
-vless://c963ea66-7107-4351-8ded-f54a2658bb84@199.232.33.8:80?mode=packet-up&security=none&encryption=none&host=foxfox.global.ssl.fastly.net.&type=xhttp#ARISTA🔥
 vless://a992c7a6-832b-4243-a294-d34783d0294c@185.238.228.46:443?path=%2Fv2rayroad&security=tls&encryption=none&host=hotchoclate.graphapp.ir&fp=chrome&type=ws&sni=hotchoclate.graphapp.ir#ARISTA🔥
+vless://c963ea66-7107-4351-8ded-f54a2658bb84@199.232.33.8:80?mode=packet-up&security=none&encryption=none&host=foxfox.global.ssl.fastly.net.&type=xhttp#ARISTA🔥
 vless://613725ab-ca86-4d54-852e-a0bf45e812de@83.147.18.219:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=allison.kosmolet.xyz&fp=chrome&security=reality&pbk=UgCLC1JdwUh-hgpvSfndN1tuH98620gziTq2UB0gOjI&sid=a369bfe440aba1a2#ARISTA🔥
 vless://704145ac-10c0-4cd9-b945-fd0e4e6ddc22@tunnyl.ru:443?security=reality&encryption=none&pbk=llUN5iiAQwwKwiAp7zCwfU8wNz7F4lg__e9Qdv_gkWs&headerType=none&fp=random&spx=%2F&type=tcp&sni=google.com&sid=0f1d6a#ARISTA🔥
 vless://2262242d-1b1c-481c-b60d-cde0e6a48bb2@185.251.80.0:80?encryption=none&type=ws&host=filma.video-fun-new.com.de&path=/Mv3kv92GcD3E2KuHxT&security=none#ARISTA🔥
 vless://fea633c3-cacf-41d7-951a-a04b578b0dcf@bountyhunter.fonixapp.org:18092?security=reality&encryption=none&pbk=MJ40ajh3_flpAxxkkNgKzvaYqM8E5c9qBRPb-41arVI&host=telegram----v_ngfree----telegram----v_ngfree----telegram----v_ngfree----telegram----v_ngfree----telegram----v_ngfree----telegram----v_ngfree----telegram----v_ngfree----telegram----v_ngfree----telegram----v_ngfree----&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ilovepdf.com&sid=13ec7fe402#ARISTA🔥
+vless://72fb3bd4-75dd-488a-9af7-c391321ecfcc@velsanto.online:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=tradingview.com&fp=chrome&pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&sid=04bf0403f96e5b4b&type=tcp&headerType=none#ARISTA🔥
 vless://72fb3bd4-75dd-488a-9af7-c391321ecfcc@velsanto.online:8443?flow=xtls-rprx-vision&security=reality&encryption=none&sni=tradingview.com&fp=chrome&pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&sid=04bf0403f96e5b4b&type=tcp&path=%2f#ARISTA🔥
 vless://72fb3bd4-75dd-488a-9af7-c391321ecfcc@velsanto.online:8443?security=reality&encryption=none&pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tradingview.com&sid=04bf0403f96e5b4b#ARISTA🔥
-vless://72fb3bd4-75dd-488a-9af7-c391321ecfcc@velsanto.online:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=tradingview.com&fp=chrome&pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&sid=04bf0403f96e5b4b&type=tcp&headerType=none#ARISTA🔥
+vless://a992c7a6-832b-4243-a294-d34783d0294c@185.238.228.46:443?path=%2Fv2rayroad&security=tls&encryption=none&insecure=0&host=hotchoclate.graphapp.ir&fp=chrome&type=ws&allowInsecure=0&sni=hotchoclate.graphapp.ir#ARISTA🔥

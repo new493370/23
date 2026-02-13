@@ -1,10 +1,10 @@
 # CA - VLESS Configurations
-# Updated: 2026-02-13 19:28:00
+# Updated: 2026-02-13 19:52:49
 # Count: 6
 
 vless://e2be0db4-4110-42eb-bca1-ba8df0897319@198.50.119.86:8080/?type=ws&encryption=none&flow=&host=telewebion.com&path=%2F39427%2FNextlife#ARISTA🔥
 vless://a2c96a8e-0dec-49f3-945b-efb6353c11e8@n2vpn-helper.projectis.ir:2096?path=%2F%40n2vpn&security=tls&encryption=none&host=n2vpn.projectis.ir&fp=chrome&type=ws&sni=n2vpn.projectis.ir#ARISTA🔥
-vless://ad769f8d-9e20-45b7-9a8a-de11641b6590@68.183.205.118:443?path=%2Ffarasati1&security=reality&encryption=none&pbk=as04WkYoj-P4vEjJFXB3LeA_Rkt7Ud4pV2oTZ3bZwQg&fp=chrome&spx=%2F&type=xhttp&sni=www.wikipedia.org&sid=1c213fd68e13#ARISTA🔥
 vless://bf92bdef-ab8d-4481-8798-2d39023357b2@us.intfreed.ru:443?security=reality&encryption=none&pbk=JxwG7rAbNCd_C82p9K69AZDWh51fri2nm3wLHHrfyiw&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=us.video.intfreed.ru&sid=7755e972daf8eec8#ARISTA🔥
+vless://ad769f8d-9e20-45b7-9a8a-de11641b6590@68.183.205.118:443?path=%2Ffarasati1&security=reality&encryption=none&pbk=as04WkYoj-P4vEjJFXB3LeA_Rkt7Ud4pV2oTZ3bZwQg&fp=chrome&spx=%2F&type=xhttp&sni=www.wikipedia.org&sid=1c213fd68e13#ARISTA🔥
 vless://309fa273-6579-4cb2-9143-7cad50401eba@85.208.108.136:8443?flow=xtls-rprx-vision&security=reality&encryption=none&sni=www.cloudflare.com&fp=chrome&pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY&sid=7cad5040&type=tcp&path=%2f#ARISTA🔥
 vless://96e7c283-a291-45a7-af82-b05f30846d46@ca-dp-01.com:8443?flow=xtls-rprx-vision&security=reality&encryption=none&sni=tradingview.com&fp=random&pbk=pPi-WO8qQFFZ9UJWNLW9YClbjcoAAZWJQ2_FM3Kjhz8&sid=500aec9e9e5e2212&type=tcp&path=%2f#ARISTA🔥

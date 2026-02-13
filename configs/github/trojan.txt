@@ -1,9 +1,12 @@
 # GitHub TROJAN Configurations
-# Updated: 2026-02-13 19:26:39
-# Count: 186
+# Updated: 2026-02-13 19:51:18
+# Count: 189
 # Source: GitHub Repositories
 
-trojan://BxceQaOe@58.152.53.45:443?type=tcp&security=tls&fp=random&allowInsecure=1#ARISTA🔥
+trojan://humanity@www.multiplydose.com:443?sni=www.multiplydose.com&type=ws&path=%2Fassignment&fp=chrome#ARISTA🔥
+trojan://humanity@172.64.152.23:443?sni=www.multiplydose.com&type=ws&path=%2Fassignment&fp=chrome#ARISTA🔥
+trojan://humanity@v1.dabache.top:443?sni=www.multiplydose.com&allowInsecure=1&type=ws&path=%2Fassignment&fp=chrome#ARISTA🔥
+trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&host=www.creationlong.org&type=ws&sni=www.creationlong.org#ARISTA🔥
 trojan://telegram-id-privatevpns@35.181.139.200:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#ARISTA🔥
 trojan://OdgHycGphesfLmPMYolUF@172.238.229.254:14051?security=tls&headerType=none&type=tcp&sni=api.avito.ru#ARISTA🔥
 trojan://telegram-id-directvpn@3.72.188.159:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#ARISTA🔥

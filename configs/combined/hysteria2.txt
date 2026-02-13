@@ -1,10 +1,8 @@
 # Combined HYSTERIA2 Configurations
-# Updated: 2026-02-13 16:23:37
-# Count: 93
-# Sources: Telegram (3) + GitHub (90)
+# Updated: 2026-02-13 17:38:08
+# Count: 92
+# Sources: Telegram (1) + GitHub (91)
 
-hy2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@206.71.158.40:35000/?insecure=1&sni=api.kermanshahi.org&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi#ARISTA🔥
-hy2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:35200/?insecure=1&sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#ARISTA🔥
 hy2://Yet-Another-Public-Config-1@206.71.158.37:36400/?insecure=1&sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#ARISTA🔥
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@5.175.249.174:35000?security=tls&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=0&sni=api.kermanshahi.org#ARISTA🔥
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@135.125.204.154:35000?security=tls&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=0&sni=api.kermanshahi.org#ARISTA🔥
@@ -96,3 +94,4 @@ hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@206.71.158.41:35000?security=tl
 hysteria2://linux.do@[2a01:4f9:4b:f378::1]:13599?security=tls&insecure=1&sni=www.bing.com#ARISTA🔥
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:36600?sni=YAPC-1.afshin.ir&obfs=Yet-Another-Public-Config-1&insecure=1#ARISTA🔥
 hysteria2://3fed19ea-1671-11f0-bd2e-f23c9164ca5d@d83eb7c2-t57ls0-tdfzix-fm2v.hk2.hyhuawei.com:443?sni=d83eb7c2-t57ls0-tdfzix-fm2v.hk2.hyhuawei.com&obfs=none&insecure=1#ARISTA🔥
+hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@5.175.249.174:35000/?obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi&sni=api.kermanshahi.org#ARISTA🔥

@@ -1,0 +1,7 @@
+# ZA - VLESS Configurations
+# Updated: 2026-02-13 21:10:20
+# Count: 3
+
+vless://f6d382fa-3a53-4497-beb0-b285ac9bcf3a@us.fasti.win:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=us.fasti.win&fp=chrome&security=reality&pbk=I2ynp6JbtPNr4IpZoMK3iXbgBBzT4n-MKet-Ao-1RSQ&sid=ee71514cac709180#ARISTA🔥
+vless://5757c746-9878-4cfd-874a-edd95485f26d@us.fasti.win:443?flow=xtls-rprx-vision&security=reality&encryption=none&sni=us.fasti.win&fp=chrome&pbk=I2ynp6JbtPNr4IpZoMK3iXbgBBzT4n-MKet-Ao-1RSQ&sid=ee71514cac709180&type=tcp&path=%2f#ARISTA🔥
+vless://f6d382fa-3a53-4497-beb0-b285ac9bcf3a@us.fasti.win:443?flow=xtls-rprx-vision&security=reality&encryption=none&sni=us.fasti.win&fp=chrome&pbk=I2ynp6JbtPNr4IpZoMK3iXbgBBzT4n-MKet-Ao-1RSQ&sid=ee71514cac709180&type=tcp&path=%2f#ARISTA🔥

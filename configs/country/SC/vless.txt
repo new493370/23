@@ -1,8 +1,9 @@
 # SC - VLESS Configurations
-# Updated: 2026-02-13 20:49:27
-# Count: 4
+# Updated: 2026-02-13 21:10:20
+# Count: 5
 
 vless://1f70e732-e72d-4535-b494-a595d4df4b0b@2sudo.winapp3.ir:8443?path=%2F&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=master.red-cow.de#ARISTA🔥
+vless://540345a8-e6b5-49a2-b4dd-1cf348cea8b2@hi6.afraseda.ir:2053?mode=auto&path=/?ed=2048&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=myopen.tencan.ir#ARISTA🔥
 vless://7ab6e0c3-4869-4a0e-8fe0-852a58a28bfb@45.130.125.160:2087?path=%2F&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=ns5.mehrsazi.ir#ARISTA🔥
 vless://1f70e732-e72d-4535-b494-a595d4df4b0b@2sudo.winapp3.ir:8443?path=%2F&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&fp=chrome&type=ws&sni=master.red-cow.de#ARISTA🔥
 vless://1f70e732-e72d-4535-b494-a595d4df4b0b@2sudo.winapp3.ir:8443?security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=master.red-cow.de#ARISTA🔥

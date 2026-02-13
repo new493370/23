@@ -1,14 +1,8 @@
 # GitHub TROJAN Configurations
-# Updated: 2026-02-13 20:47:05
-# Count: 191
+# Updated: 2026-02-13 21:08:43
+# Count: 185
 # Source: GitHub Repositories
 
-trojan://1798b14b-aee0-4008-ba9a-2e53877761b4@y.taiwan2029.indevs.in:443?security=tls&sni=y.taiwan2029.indevs.in&alpn=http/1.1&type=ws&host=y.taiwan2029.indevs.in&path=/RXvyoH0kyRosKkycyrxcJWNVFC21#ARISTA🔥
-trojan://humanity@www.multiplydose.com:443?sni=www.multiplydose.com&type=ws&path=%2Fassignment&fp=chrome#ARISTA🔥
-trojan://humanity@172.64.152.23:443?sni=www.multiplydose.com&type=ws&path=%2Fassignment&fp=chrome#ARISTA🔥
-trojan://humanity@172.64.152.23:443?sni=www.gossipglove.com&type=ws&path=%2Fassignment&fp=chrome#ARISTA🔥
-trojan://humanity@www.multiplydose.com:443?sni=www.multiplydose.com&allowInsecure=1&type=ws&path=%2Fassignment&fp=chrome#ARISTA🔥
-trojan://humanity@v1.dabache.top:443?sni=www.multiplydose.com&allowInsecure=1&type=ws&path=%2Fassignment&fp=chrome#ARISTA🔥
 trojan://telegram-id-privatevpns@35.181.139.200:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#ARISTA🔥
 trojan://OdgHycGphesfLmPMYolUF@172.238.229.254:14051?security=tls&headerType=none&type=tcp&sni=api.avito.ru#ARISTA🔥
 trojan://telegram-id-directvpn@3.72.188.159:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#ARISTA🔥

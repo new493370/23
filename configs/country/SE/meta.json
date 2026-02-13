@@ -1,11 +1,11 @@
 {
   "country": "SE",
-  "total_configs": 29,
+  "total_configs": 30,
   "by_protocol": {
-    "vless": 23,
+    "vless": 24,
     "ss": 3,
     "hysteria2": 2,
     "tuic": 1
   },
-  "updated": "2026-02-13 20:49:27"
+  "updated": "2026-02-13 21:10:20"
 }

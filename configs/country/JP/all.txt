@@ -1,14 +1,13 @@
 # JP - All Configurations
-# Updated: 2026-02-13 20:49:27
-# Total Count: 22
+# Updated: 2026-02-13 21:10:20
+# Total Count: 20
 
 vmess://eyJhZGQiOiJuMTc0NDQ1NDQ5OC5saWU1ZC5jeW91IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJuMTc0NDQ1NDQ5OC5saWU1ZC5jeW91IiwiaWQiOiJjZDI2YWJjYS0wZDg0LTQzZDAtOGY2OS05YzExNDNiNTY5ZTkiLCJpbnNlY3VyZSI6IjEiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjQ0MyIsInBzIjoiQVJJU1RB8J+UpSIsInNjeSI6ImF1dG8iLCJzbmkiOiJuMTc0NDQ1NDQ5OC5saWU1ZC5jeW91IiwidGxzIjoidGxzIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
 vmess://eyJhZGQiOiJuMTc0NDQ1NDUwMS40dTltYS5pY3UiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Im4xNzQ0NDU0NTAxLjR1OW1hLmljdSIsImlkIjoiYmVkN2I3NDMtNmJmOC00NmEyLWIzNDYtYzYwZTYwOTE5MjIwIiwiaW5zZWN1cmUiOiIxIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiI0NDMiLCJwcyI6IkFSSVNUQfCflKUiLCJzY3kiOiJhdXRvIiwic25pIjoibjE3NDQ0NTQ1MDEuNHU5bWEuaWN1IiwidGxzIjoidGxzIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
-vless://05dc09d5-5c56-454b-a34e-6ef743d91e1a@109.61.109.79:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=3JGwSDrfkiCPdU3rvQP5m0z4Ag_UB_2w8Qq3VMXmo28&security=reality&sid=abc323&sni=sun6-22.userapi.com&type=tcp#ARISTA🔥
 vless://d706bf16-124a-417b-aaa0-0d6d5efd58fd@38.60.212.251:29059?security=reality&encryption=none&pbk=V_eMkcHXf237wGyfggMHHRvQqw51rW1UJPEIw_T2IE4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=mensura.cdn-apple.com&sid=6ba85179e30d4fc2#ARISTA🔥
 vless://a11ab9c5-4155-430b-9efc-7a7122531382@japan.geodema.network:443?security=reality&encryption=none&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=japan.geodema.network&sid=1ed136481e0ede74#ARISTA🔥
 vless://d6b62381-8d75-4a0c-9946-bf8f40772afe@178.239.126.118:2443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=pizzastrada.jp#ARISTA🔥
-vless://5c183802-747d-4d2f-a6f1-aff2d5d78401@47.74.6.60:443?security=reality&encryption=none&pbk=DNdTBHyztOVJOBJQX91YXEhNkWbSAntqUoTFBHc6Clw&headerType=none&fp=chrome&type=tcp&sni=cdn77.api.userway.org&sid=6ba85179e30d4fc2#ARISTA🔥
+vless://5c183802-747d-4d2f-a6f1-aff2d5d78401@47.74.6.60:443?security=reality&amp;encryption=none&amp;pbk=DNdTBHyztOVJOBJQX91YXEhNkWbSAntqUoTFBHc6Clw&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=cdn77.api.userway.org&amp;sid=6ba85179e30d4fc2#ARISTA🔥
 trojan://BxceQaOe@13.113.192.229:2595?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=t.me%252Fripaojiedian#ARISTA🔥
 trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@202.181.103.246:1334?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=www.nintendogames.net#ARISTA🔥
 trojan://9372cb81c7b0ad903f91f2f8a4d3f02b@153.121.39.240:3901?security=tls&sni=www.nintendogames.net&type=tcp&path=%2f#ARISTA🔥
@@ -16,7 +15,6 @@ trojan://9372cb81c7b0ad903f91f2f8a4d3f02b@160.16.57.238:400?security=tls&sni=www
 trojan://9372cb81c7b0ad903f91f2f8a4d3f02b@160.16.57.238:40548?security=tls&sni=www.nintendogames.net&type=tcp&path=%2f#ARISTA🔥
 trojan://9372cb81c7b0ad903f91f2f8a4d3f02b@160.16.144.208:3423?security=tls&sni=www.nintendogames.net&type=tcp&path=%2f#ARISTA🔥
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg==@3.112.130.53:8319#ARISTA🔥
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@3.112.130.53:8319#ARISTA🔥
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@3.112.130.53:8316#ARISTA🔥
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozMDNhYzY1ZTMwZjI4YjBi@154.205.139.9:11201#ARISTA🔥
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozMDNhYzY1ZTMwZjI4YjBi@154.205.139.9:11202#ARISTA🔥

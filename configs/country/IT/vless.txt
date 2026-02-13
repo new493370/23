@@ -1,8 +1,7 @@
 # IT - VLESS Configurations
-# Updated: 2026-02-13 20:49:27
-# Count: 19
+# Updated: 2026-02-13 21:10:20
+# Count: 18
 
-vless://4bdc57ea-b143-493b-9654-be66e049f81e@95.141.36.10:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=aws.com&alpn=h2&fp=chrome&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&type=tcp&headerType=none#ARISTA🔥
 vless://854eea7a-c834-4f62-9e17-ae63d1086f36@89.150.48.171:443/?type=tcp&encryption=none&flow=&sni=pt1vless.instavpn.ru&fp=chrome&security=reality&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&sid=868419504747f6de#ARISTA🔥
 vless://32b95b66-cbc0-4218-9873-f966bbdb64d1@57.131.19.236:5058?security=reality&encryption=none&pbk=04E0TOQrXL1Z40zAF99p6MR3WC4-iaAcVB4WNcDpuXo&headerType=none&fp=firefox&type=tcp&sni=refersion.com#ARISTA🔥
 vless://a6b57d25-a1ca-4ce8-8a93-ac5eaaa8dae4@cdi.chekino.ir:20811?security=reality&encryption=none&pbk=80GXkWEUDeEH0poV8IPGiukSZbn1BrMAZt9wxn2q00E&headerType=none&fp=firefox&type=tcp&sni=gameup.ir&sid=22b2598a025a3fde#ARISTA🔥
@@ -20,4 +19,4 @@ vless://6416708c-eaa5-4ec5-b652-a2db2feab875@217.12.219.53:443?encryption=none&f
 vless://6416708c-eaa5-4ec5-b652-a2db2feab875@217.12.219.53:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ozon.ru&fp=chrome&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=87cc0414902bee2d&type=tcp&headerType=none#ARISTA🔥
 vless://6416708c-eaa5-4ec5-b652-a2db2feab875@217.12.219.51:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ozon.ru&fp=chrome&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=17f0f0e38f01af5a&type=tcp&headerType=none#ARISTA🔥
 vless://6416708c-eaa5-4ec5-b652-a2db2feab875@217.12.219.51:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ozon.ru&fp=chrome&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=d17bd238f23fba92&type=tcp&headerType=none#ARISTA🔥
-vless://4583d428-8ff9-4000-bcbd-953fe8c8df17@realmadrid2italy1seriea.q.aparat-archive.ir:8880?security=reality&encryption=none&pbk=Pyq2phArGYw2shJNqNQ6f6pF_eb4AVo_lI6a7lgHd0k&headerType=none&fp=chrome&type=tcp&sni=max.ru&sid=2ad726e6b28daf57#ARISTA🔥
+vless://4583d428-8ff9-4000-bcbd-953fe8c8df17@realmadrid2italy1seriea.q.aparat-archive.ir:8880?security=reality&amp;encryption=none&amp;pbk=Pyq2phArGYw2shJNqNQ6f6pF_eb4AVo_lI6a7lgHd0k&amp;headerType=none&amp;fp=firefox&amp;type=tcp&amp;sni=max.ru&amp;sid=2ad726e6b28daf57#ARISTA🔥

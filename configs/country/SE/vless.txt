@@ -1,12 +1,13 @@
 # SE - VLESS Configurations
-# Updated: 2026-02-13 20:49:27
-# Count: 23
+# Updated: 2026-02-13 21:10:20
+# Count: 24
 
-vless://891300bc-11b2-4b24-8056-b329b098888b@borik-crash.org:443?security=reality&encryption=none&pbk=8Bz3fNBZ5es7DVPlw8FRzufcncR6auyV_FJFFAKT-WE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=readthedocs.org&sid=a1590469acbe31#ARISTA🔥
-vless://31701b5d-ca95-92f9-d684-dae3706161ea@dd.openaccessnode.com:504?encryption=none&security=reality&sni=nobitex.ir&fp=chrome&pbk=aNLPNNyjIC7QYLe7MpF4nxxHhO421dBSZaQgsDd1szs&sid=1d64e9805b4f9ae3&type=grpc&authority=&serviceName=JNIR&mode=gun#ARISTA🔥
-vless://31701b5d-ca95-92f9-d684-dae3706161ea@81.230.148.47:50?encryption=none&type=tcp#ARISTA🔥
+vless://6d673cd0-d996-4c57-b959-a70cc31c9560@os.jykvpn.com:443?security=reality&encryption=none&pbk=MNTWCLyV7EquFn-J0a6KRlQZ0dt6QY5mmu7Dq8uDkxw&headerType=none&fp=chrome&type=tcp&sni=cdnjs.com&sid=c2a0b2d60a7fc300#ARISTA🔥
 vless://f6036ea2-911e-4287-93fb-d3ac2b21135b@node12.telegavpn.org:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=node12.telegavpn.org&fp=&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA&sid=#ARISTA🔥
-vless://642c8b3122424e2b9c14f252d3f5e49c@79.141.174.148:8443?encryption=none&type=xhttp&path=%2Fx&security=reality&sni=apple.com&pbk=CII8qTx-cNDEjvAqdmLhjJKMHP3QFDLtR5bRhzPvels&sid=aabbccdd&fp=random#ARISTA🔥
+vless://7824420e-0129-4b28-b7a6-4fe8fd745388@node12.telegavpn.org:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=node12.telegavpn.org&fp=&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA&sid=#ARISTA🔥
+vless://891300bc-11b2-4b24-8056-b329b098888b@borik-crash.org:443?security=reality&encryption=none&pbk=8Bz3fNBZ5es7DVPlw8FRzufcncR6auyV_FJFFAKT-WE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=readthedocs.org&sid=a1590469acbe31#ARISTA🔥
+vless://31701b5d-ca95-92f9-d684-dae3706161ea@81.230.148.47:50?encryption=none&type=tcp#ARISTA🔥
+vless://31701b5d-ca95-92f9-d684-dae3706161ea@dd.openaccessnode.com:504?encryption=none&security=reality&sni=nobitex.ir&fp=chrome&pbk=aNLPNNyjIC7QYLe7MpF4nxxHhO421dBSZaQgsDd1szs&sid=1d64e9805b4f9ae3&type=grpc&authority=&serviceName=JNIR&mode=gun#ARISTA🔥
 vless://b2201fe6-4781-4dcc-bacf-a57f95e2a177@185.146.173.82:2082?path=/Free#ARISTA🔥
 vless://31701b5d-ca95-92f9-d684-dae3706161ea@dd.openaccessnode.com:50?security=&encryption=none&headerType=&type=tcp#ARISTA🔥
 vless://31701b5d-ca95-92f9-d684-dae3706161ea@dd.openaccessnode.com:504?mode=gun&security=reality&encryption=none&pbk=aNLPNNyjIC7QYLe7MpF4nxxHhO421dBSZaQgsDd1szs&fp=chrome&type=grpc&serviceName=JNIR&sni=nobitex.ir&sid=1d64e9805b4f9ae3#ARISTA🔥

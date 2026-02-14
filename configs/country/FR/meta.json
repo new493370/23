@@ -1,0 +1,12 @@
+{
+  "country": "FR",
+  "total_configs": 86,
+  "by_protocol": {
+    "vmess": 9,
+    "vless": 36,
+    "trojan": 23,
+    "ss": 17,
+    "hysteria2": 1
+  },
+  "updated": "2026-02-14 15:45:32"
+}

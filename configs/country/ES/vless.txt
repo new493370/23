@@ -1,0 +1,6 @@
+# ES - VLESS Configurations
+# Updated: 2026-02-14 15:45:32
+# Count: 2
+
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.251.81.238:2096?type=ws&path=%2F%3Fed%253D2560&host=sni.jpmj.dev&sni=sni.jpmj.dev&fp=random&allowInsecure=1#ARISTA🔥
+vless://613725ab-ca86-4d54-852e-a0bf45e812de@83.147.18.219:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=allison.kosmolet.xyz&fp=chrome&security=reality&pbk=UgCLC1JdwUh-hgpvSfndN1tuH98620gziTq2UB0gOjI&sid=a369bfe440aba1a2#ARISTA🔥

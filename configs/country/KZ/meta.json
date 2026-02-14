@@ -1,0 +1,10 @@
+{
+  "country": "KZ",
+  "total_configs": 30,
+  "by_protocol": {
+    "vmess": 1,
+    "vless": 20,
+    "ss": 9
+  },
+  "updated": "2026-02-14 15:45:32"
+}

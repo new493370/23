@@ -2,12 +2,12 @@
   "country": "NL",
   "total_configs": 344,
   "by_protocol": {
-    "vmess": 6,
-    "vless": 293,
+    "vmess": 5,
+    "vless": 290,
     "trojan": 2,
-    "ss": 20,
+    "ss": 24,
     "hysteria2": 22,
     "hysteria": 1
   },
-  "updated": "2026-02-14 12:02:19"
+  "updated": "2026-02-14 13:11:38"
 }

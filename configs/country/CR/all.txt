@@ -1,11 +1,11 @@
 # CR - All Configurations
-# Updated: 2026-02-14 12:02:19
+# Updated: 2026-02-14 13:11:38
 # Total Count: 7
 
+vless://13a45388-0fc5-4e83-a6af-a5a942a25731@190.93.244.199:443?path=%2FAInasjsiaJajsjsiNAnsjsizbsshJJabsshziIJababsjzizjsbsbsJJHsbsjsissjbJIabasbsjIIHBajJ%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=ws&sni=SDSDSSFSF.HIDE-ABR.COM.TR#ARISTA🔥
+vless://13a45388-0fc5-4e83-a6af-a5a942a25731@190.93.244.199:443?path=%2FAInasjsiaJajsjsiNAnsjsizbsshJJabsshziIJababsjzizjsbsbsJJHsbsjsissjbJIabasbsjIIHBajJ%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&fp=android&type=ws&sni=ASIDDBSKDNSSN.HIDE-ABR.COM.TR#ARISTA🔥
 vless://e765eb5b-8442-40e3-9532-857ba5ececa7@190.93.245.94:443?mode=gun&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&type=grpc&allowInsecure=0&sni=vbox.ping-box.com#ARISTA🔥
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@190.93.245.94:2096?security=tls&encryption=none&type=ws&sni=sni.111000.indevs.in#ARISTA🔥
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@190.93.245.94:2096?security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#ARISTA🔥
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@190.93.244.138:2096?encryption=none&security=tls&sni=sni.111000.indevs.in&fp=chrome&insecure=1&type=ws&host=sni.111000.indevs.in&path=%2F#ARISTA🔥
-vless://e765eb5b-8442-40e3-9532-857ba5ececa7@190.93.245.94:443?encryption=none&type=grpc&mode=gun&security=tls&sni=vbox.ping-box.com&alpn=h2,http/1.1#ARISTA🔥
 vless://dd6af632-e4bb-400a-922f-43f75ec89d64@190.93.245.94:443?mode=auto&path=%2Fv1%2Fapi%2Fsync%2Ff47ac10b58cc4372a5670e02b2c3d479&security=tls&alpn=h2&encryption=none&insecure=0&host=api-ws-de.nxping.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=api-ws-de.nxping.ir#ARISTA🔥
-vless://dd6af632-e4bb-400a-922f-43f75ec89d64@190.93.245.94:443?encryption=none&type=xhttp&mode=auto&host=api-ws-de.nxping.ir&path=/v1/api/sync/f47ac10b58cc4372a5670e02b2c3d479&security=tls&fp=chrome&sni=api-ws-de.nxping.ir&alpn=h2#ARISTA🔥
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@190.93.245.94:2096?security=tls&encryption=none&type=ws&sni=sni.111000.indevs.in#ARISTA🔥
+vless://e765eb5b-8442-40e3-9532-857ba5ececa7@190.93.245.94:443/?type=grpc&encryption=none&security=tls&sni=vbox.ping-box.com&alpn=h2%2Chttp%2F1.1networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-#ARISTA🔥
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@190.93.245.94:2096?security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#ARISTA🔥

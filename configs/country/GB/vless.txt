@@ -1,11 +1,15 @@
 # GB - VLESS Configurations
-# Updated: 2026-02-14 12:02:19
-# Count: 66
+# Updated: 2026-02-14 13:11:38
+# Count: 69
 
-vless://3321a819-889d-40b3-b8fa-f34208827ef1@57.129.137.56:443?path=%2Fproxyip%3Dsjc.o00o.ooo&security=tls&encryption=none&host=o00o.snip.qzz.io&type=ws&sni=o00o.snip.qzz.io#ARISTA🔥
-vless://3321a819-889d-40b3-b8fa-f34208827ef1@57.129.137.56:443?encryption=none&security=tls&sni=o00o.snip.qzz.io&insecure=1&type=ws&host=o00o.snip.qzz.io&path=%2Ftel-@v2rayalpha#ARISTA🔥
-vless://381224fe-8f66-49f8-a7c3-06446317770b@194.61.3.100:23816?security=none&encryption=none&host=ripe.net&headerType=http&type=tcp#ARISTA🔥
+vless://3321a819-889d-40b3-b8fa-f34208827ef1@57.129.137.56:443?encryption=none&security=tls&sni=o00o.snip.qzz.io&fp=chrome&insecure=1&type=ws&host=o00o.snip.qzz.io&path=%2Ftel-@v2rayalpha#ARISTA🔥
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.170.166.138:2096?path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&fp=chrome&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#ARISTA🔥
+vless://914b0493-7094-4840-b94d-8ec3e92e9c43@146.185.208.206:443?security=reality&encryption=none&pbk=do22ES2nDjO0EggET4H9Gf8_tEY7PwZv76zVXPrDojQ&headerType=none&fp=chrome&type=tcp&sni=yandex.ru&sid=5f22#ARISTA🔥
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.193.31.138:2096?encryption=none&security=tls&sni=sni.111000.indevs.in&fp=chrome&insecure=1&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26telegram%F0%9F%87%A8%F0%9F%87%B3%2B@wangcai2#ARISTA🔥
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@57.129.137.221:8443?encryption=none&security=tls&sni=sni.111000.indevs.in&insecure=1&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26telegram%F0%9F%87%A8%F0%9F%87%B3@wangcai2#ARISTA🔥
+vless://1dd94d15-8f73-4152-814b-d74cd11c54c9@146.185.208.206:4443?security=reality&encryption=none&pbk=do22ES2nDjO0EggET4H9Gf8_tEY7PwZv76zVXPrDojQ&headerType=none&fp=chrome&type=tcp&sni=ads.x5.ru&sid=5f22#ARISTA🔥
+vless://c73b5c37-0c2b-4d78-8a48-d32bba7432b4@45.137.151.226:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=gb.kickvpn.ru&fp=chrome&security=reality&pbk=KI6gaSVgBjYDEaaKpTzO3rogh5WLf5K3B_FmfpA0_H0&sid=9c2378562188c3cb#ARISTA🔥
+vless://891300bc-11b2-4b24-8056-b329b098888b@216.106.188.124:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=replit.com&fp=chrome&security=reality&pbk=nB_v48IVDHr2iFctMv2nFh_QjoZc4msXmHw362IIiS8&sid=22a0a4382482#ARISTA🔥
 vless://1a8fc4e7-9c26-41df-85b7-814e6392ff69@18.170.32.53:443?security=reality&flow=xtls-rprx-vision&sni=s1.ng.4cdn.lat&type=tcp&fp=chrome&pbk=DwwSsUZGePMbNna9afczKRWGRjZ-p3qnQC2S4z_FbmU#ARISTA🔥
 vless://2fb8808b-b94c-42ea-9dd2-cd77d2efcc8d@25.129.199.122:2096?path=%2FeyJqdW5rIjoidDZLaDRBMWhpIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ&security=tls&alpn=http%2F1.1&encryption=none&host=digikalaa.dpdns.org&fp=chrome&type=ws&sni=DiGIkALaA.dpdns.ORG#ARISTA🔥
 vless://cd94bc5e-3a8b-4b12-9651-8b7ef803c52c@134.209.25.162:443?path=%2Faxtdgmws&security=tls&encryption=none&type=ws&sni=io.ozone.ru#ARISTA🔥
@@ -21,7 +25,6 @@ vless://a25806c0-0e09-46a2-bd27-a94e92285ce9@84.54.48.238:443?security=reality&e
 vless://3d72057d-54c5-4d51-ade5-a872c1032b75@45.76.136.227:4403?type=grpc&serviceName=&security=reality&pbk=y1hXOgI6F-rUsm6UvVmZpRxqZi1JbktKw7yr4k8lr2o&fp=chrome&sni=www.foursquare.com&sid=c52a2c73&spx=%2F#ARISTA🔥
 vless://0044893e-f2ef-4367-88e7-428043d3432f@25.129.199.122:2053?type=ws&encryption=none&path=%2F&host=Cn.ilkay.top&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1&sni=Cn.ilkay.top#ARISTA🔥
 vless://efd37853-0c0f-4a7a-88f0-2810e650a93d@25.129.199.122:2053?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=Cn.ilkay.top&fp=chrome&type=ws&sni=Cn.ilkay.top#ARISTA🔥
-vless://914b0493-7094-4840-b94d-8ec3e92e9c43@146.185.208.206:443?security=reality&encryption=none&pbk=do22ES2nDjO0EggET4H9Gf8_tEY7PwZv76zVXPrDojQ&headerType=none&fp=chrome&type=tcp&sni=yandex.ru&sid=5f22#ARISTA🔥
 vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@25.129.197.138:2096?path=%2F%3Fed%3D2560%26Telegram%40V2rayAlpha&security=tls&encryption=none&insecure=0&host=sni.111000.de5.net&type=ws&allowInsecure=0&sni=sni.111000.de5.net#ARISTA🔥
 vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@25.129.199.148:2096?path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&security=tls&encryption=none&insecure=0&host=sni.111000.v6.rocks&type=ws&allowInsecure=0&sni=sni.111000.v6.rocks#ARISTA🔥
 vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@25.26.27.158:2096?path=%2F%3Fed%3D2560%26Telegram%40ATLAS_V2VPN&security=tls&encryption=none&insecure=0&host=sni.111000.de5.net&type=ws&allowInsecure=0&sni=sni.111000.de5.net#ARISTA🔥

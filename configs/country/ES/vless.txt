@@ -1,9 +1,9 @@
 # ES - VLESS Configurations
-# Updated: 2026-02-14 12:02:19
+# Updated: 2026-02-14 13:11:38
 # Count: 5
 
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.238.228.238:2096?encryption=none&security=tls&sni=sni.jpmj.dev&fp=chrome&insecure=1&type=ws&host=sni.jpmj.dev&path=%2F%3Fed%3D2560%26telegram%F0%9F%87%A8%F0%9F%87%B3%2B@wangcai2#ARISTA🔥
 vless://c963ea66-7107-4351-8ded-f54a2658bb84@199.232.33.8:80?mode=packet-up&security=none&encryption=none&host=foxfox.global.ssl.fastly.net.&type=xhttp#ARISTA🔥
-vless://a992c7a6-832b-4243-a294-d34783d0294c@185.238.228.46:443?encryption=none&amp;security=tls&amp;sni=hotchoclate.graphapp.ir&amp;fp=chrome&amp;insecure=0&amp;allowInsecure=0&amp;type=ws&amp;host=hotchoclate.graphapp.ir&amp;path=%2Fv2rayroad#ARISTA🔥
+vless://c73b5c37-0c2b-4d78-8a48-d32bba7432b4@185.170.212.208:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=es.kickvpn.ru&fp=chrome&security=reality&pbk=AquVU8LAYQ3ic9yjqg89WLoaqKydqCO2tiDo78CTNlg&sid=9c2378562188c3cb#ARISTA🔥
+vless://a992c7a6-832b-4243-a294-d34783d0294c@185.238.228.46:443?path=/v2rayroad&security=tls&encryption=none&host=hotchoclate.graphapp.ir&fp=chrome&type=ws&sni=hotchoclate.graphapp.ir#ARISTA🔥
 vless://613725ab-ca86-4d54-852e-a0bf45e812de@83.147.18.219:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=allison.kosmolet.xyz&fp=chrome&security=reality&pbk=UgCLC1JdwUh-hgpvSfndN1tuH98620gziTq2UB0gOjI&sid=a369bfe440aba1a2#ARISTA🔥
 vless://2262242d-1b1c-481c-b60d-cde0e6a48bb2@185.251.80.0:80?encryption=none&type=ws&host=filma.video-fun-new.com.de&path=/Mv3kv92GcD3E2KuHxT&security=none#ARISTA🔥

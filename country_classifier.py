@@ -85,6 +85,15 @@ class TrustScorer:
     def __init__(self, classifier):
         self.classifier = classifier
 
+    def extract_host_value(self, original):
+        try:
+            match = re.search(r'host=([^&]+)', original)
+            if match:
+                return match.group(1)
+        except:
+            return None
+        return None
+
     def score(self, parsed):
         score = 0
         t = parsed.get('type', '')
@@ -92,7 +101,7 @@ class TrustScorer:
         original = parsed.get('original', '')
         
         if self.classifier.is_valid_ip(host):
-            score += 2
+            score += 3
         
         if t in ['vless', 'trojan', 'ss']:
             score += 1
@@ -100,26 +109,33 @@ class TrustScorer:
         if t == 'vmess':
             net = parsed.get('dict', {}).get('net', '')
             if net == 'tcp':
-                score += 1
+                score += 2
         
-        if 'type=ws' not in original and 'type=grpc' not in original:
-            score += 1
+        if 'type=ws' in original or 'type=grpc' in original:
+            score -= 4
         
-        if 'host=' not in original:
-            score += 2
+        if 'host=' in original:
+            host_value = self.extract_host_value(original)
+            if host_value and not self.classifier.is_valid_ip(host_value):
+                score -= 3
         
         for cdn in self.classifier.cdn_domains:
             if cdn in original:
                 return 0
         
-        if 'reality' not in original:
+        if 'reality' in original:
             score += 3
         
-        if 'path=' not in original:
-            score += 1
+        if 'security=tls' in original:
+            score += 4
+        elif 'security=none' in original:
+            score -= 3
         
-        if 'security=' not in original:
-            score += 2
+        if 'path=' in original:
+            score -= 2
+        
+        if 'encryption=none' in original:
+            score -= 1
         
         return score
 

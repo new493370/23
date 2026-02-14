@@ -1,14 +1,14 @@
 # FI - VLESS Configurations
-# Updated: 2026-02-14 07:05:48
+# Updated: 2026-02-14 07:52:25
 # Count: 54
 
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.38.170.198:443?encryption=none&security=tls&sni=sni.111000.indevs.in&insecure=1&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26telegram%F0%9F%8E%96@yamyamproxy#ARISTA🔥
-vless://b8773ac0-5d39-455d-a05b-a5f14d194049@65.109.221.182:46000?security=none&encryption=none&headerType=none&type=tcp#ARISTA🔥
 vless://1971ec0f-fa37-4112-9b4e-4952e84df2a9@65.109.220.223:24542?security=none&encryption=none&headerType=none&type=tcp#ARISTA🔥
-vless://da6052eb-ecfd-4c95-8b3d-1b2d9a946543@78.153.139.189:443?security=reality&flow=xtls-rprx-vision&sni=tradingview.com&type=tcp&fp=chrome&pbk=j5dQ_gGp7xMv9FPIHxUw1eeLf7_eLl_qF8RwM1lWq1M#ARISTA🔥
-vless://b8773ac0-5d39-455d-a05b-a5f14d194049@65.109.221.182:46000?security=&encryption=none&headerType=&type=tcp#ARISTA🔥
+vless://b8773ac0-5d39-455d-a05b-a5f14d194049@65.109.221.182:46000?security=none&encryption=none&headerType=none&type=tcp#ARISTA🔥
 vless://db8aed18-b0f5-4272-bb5b-8294b92c35c8@65.109.178.213:1515?security=reality&encryption=none&pbk=q1SCkjq0OkXhk1Sk5CzHtPhPkMq2uaDKbdJrRjoKGWE&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=tgju.org&sid=c652cfc9741bf773#ARISTA🔥
+vless://da6052eb-ecfd-4c95-8b3d-1b2d9a946543@78.153.139.189:443?security=reality&flow=xtls-rprx-vision&sni=tradingview.com&type=tcp&fp=chrome&pbk=j5dQ_gGp7xMv9FPIHxUw1eeLf7_eLl_qF8RwM1lWq1M#ARISTA🔥
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.38.170.198:443?encryption=none&security=tls&sni=sni.111000.indevs.in&insecure=1&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26telegram%F0%9F%8E%96@yamyamproxy#ARISTA🔥
 vless://01ec5a9e-5f00-46e7-8697-5ba0a6bde23c@65.109.186.96:48622?security=none&encryption=none&headerType=none&type=tcp#ARISTA🔥
+vless://b8773ac0-5d39-455d-a05b-a5f14d194049@65.109.221.182:46000?security=&encryption=none&headerType=&type=tcp#ARISTA🔥
 vless://204fae2e-ab13-4ba8-a59b-ec37bbcf0e68@89.125.39.127:32354?security=none&encryption=none&type=tcp&path=%2f#ARISTA🔥
 vless://db27262a-4151-4c36-8e5f-2cf7fd387a0f@85.192.48.57:8104/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=tradingview.com&fp=chrome&security=reality&pbk=4gcDJumxa0bTaHvrZRL4Hb5ItXPha6ZYZ0fGmMD_k0A&sid=9f4ca836ca270ef8#ARISTA🔥
 vless://feaf1d64-b44c-4cc8-b114-4001478c1fd0@65.108.108.151:443?security=reality&encryption=none&pbk=u26A516I3BCfUMPOo6rw0-XYt0C2sCWaPNP2pNdtxzw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fit.jojack.ru&sid=f8865ecbb9bc11a3#ARISTA🔥
@@ -43,8 +43,8 @@ vless://0df23c07-b289-4d65-822a-228478ca73bd@5.61.89.225:32061?encryption=none&f
 vless://0df23c07-b289-4d65-822a-228478ca73bd@5.61.89.225:32061?encryption=none&flow=xtls-rprx-vision&security=reality&sni=eh.vk.com&fp=firefox&pbk=e2yc3QjJ1spCe1eLR9cMd_2-TieGJKs2sLKlfW2L-xo&type=tcp&headerType=none#ARISTA🔥
 vless://f3f6f19f-c68a-462c-a534-9b388663fffa@31.13.208.3:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=fl.mcqueenconnection.ru&fp=chrome&pbk=O2ttHpVFmwoAf-E1rHgOlv7NggcwxcWkHHen7jkIBjY&sid=3396f304f579d51f&type=tcp&headerType=none#ARISTA🔥
 vless://a7a9f670-44c0-45a9-8047-69db0203c142@45.144.53.94:443?encryption=none&security=tls&sni=ficdn3.suio.me&insecure=1&allowInsecure=1&type=tcp&headerType=none#ARISTA🔥
-vless://a7a9f670-44c0-45a9-8047-69db0203c142@45.144.53.68:443?encryption=none&security=tls&sni=ficdn13.suio.me&insecure=1&allowInsecure=1&type=tcp&headerType=none#ARISTA🔥
 vless://a7a9f670-44c0-45a9-8047-69db0203c142@45.144.53.118:443?encryption=none&security=tls&sni=ficdn15.suio.me&insecure=1&allowInsecure=1&type=tcp&headerType=none#ARISTA🔥
+vless://a7a9f670-44c0-45a9-8047-69db0203c142@45.144.53.68:443?encryption=none&security=tls&sni=ficdn13.suio.me&insecure=1&allowInsecure=1&type=tcp&headerType=none#ARISTA🔥
 vless://a7a9f670-44c0-45a9-8047-69db0203c142@45.144.53.118:443?encryption=none&security=tls&sni=ficdn15.suio.me&fp=chrome&insecure=1&allowInsecure=1&type=tcp&headerType=none#ARISTA🔥
 vless://a7a9f670-44c0-45a9-8047-69db0203c142@45.144.53.94:443?encryption=none&security=tls&sni=ficdn3.suio.me&fp=chrome&insecure=1&allowInsecure=1&type=tcp&headerType=none#ARISTA🔥
 vless://a7a9f670-44c0-45a9-8047-69db0203c142@45.144.53.98:443?encryption=none&security=tls&sni=ficdn4.suio.me&insecure=1&allowInsecure=1&type=tcp&headerType=none#ARISTA🔥

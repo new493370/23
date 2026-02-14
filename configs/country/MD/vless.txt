@@ -1,11 +1,9 @@
 # MD - VLESS Configurations
-# Updated: 2026-02-14 07:05:48
-# Count: 57
+# Updated: 2026-02-14 07:52:25
+# Count: 55
 
 vless://82d20eb4-0ff5-4175-967e-a6c3370ff8dd@93.185.165.50:55211?security=reality&encryption=none&pbk=5D6U_DRxkNF9I6Sa87j6jvHD_HvhZ9j53rAbZE8Y7lQ&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=1885#ARISTA🔥
-vless://dd92c4f8-be88-4c61-84eb-d261f798071e@185.234.57.207:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=teamdocs.su&fp=chrome&security=reality&pbk=Yu1_Agl1_bJb298G9ukjGuvfksVTUs1X7laYJ3VqwwQ&sid=b5e0cd9ca194c0a5#ARISTA🔥
 vless://e9000d6b-2cb8-46b0-96c8-751a7abd54f2@176.123.4.56:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=tradingview.com&fp=chrome&security=reality&pbk=NtsJnsHr8a9mPDr0SPxdJlSRbdUVmR_-Rq5RVT-3KzA&sid=58a6be9762c769f2#ARISTA🔥
-vless://dd92c4f8-be88-4c61-84eb-d261f798071e@185.234.57.207:443?security=reality&encryption=none&pbk=Yu1_Agl1_bJb298G9ukjGuvfksVTUs1X7laYJ3VqwwQ&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=teamdocs.su&sid=b5e0cd9ca194c0a5#ARISTA🔥
 vless://telegram-id-ArV2ray@185.234.65.232:4423?mode=gun&security=reality&encryption=none&pbk=D4fo-UBIrSlLx3R8qu3iWSoynAvArdXpn5uZoDEt3Uc&fp=chrome&type=grpc&serviceName=telegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2rayy&sni=animejs.com&sid=b740#ARISTA🔥
 vless://19ae54a4-716b-4b08-914f-c9c1556c4380@94.131.100.163:443?path=%2Fpyzrgqws&security=tls&encryption=none&type=ws&sni=api.avito.ru#ARISTA🔥
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.66.97:8880?mode=gun&security=&encryption=none&type=grpc#ARISTA🔥

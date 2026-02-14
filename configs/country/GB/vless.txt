@@ -1,11 +1,12 @@
 # GB - VLESS Configurations
-# Updated: 2026-02-14 07:05:48
-# Count: 65
+# Updated: 2026-02-14 07:52:25
+# Count: 66
 
 vless://19a868ea-af90-44f0-88c5-f73570831c00@5.181.21.101:4443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=github.com&fp=chrome&security=reality&pbk=5XB_N3ATilH-6tp_MXht-84_y5YaJnx_Z7MbuY2otHE&sid=aa7e96542880027a#ARISTA🔥
-vless://381224fe-8f66-49f8-a7c3-06446317770b@194.61.3.100:23816?security=none&encryption=none&host=ripe.net&headerType=http&type=tcp#ARISTA🔥
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.170.166.138:2096?path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&fp=chrome&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#ARISTA🔥
-vless://3321a819-889d-40b3-b8fa-f34208827ef1@57.129.137.56:443?path=%2Fproxyip%3Dsjc.o00o.ooo&security=tls&encryption=none&insecure=1&host=o00o.snip.qzz.io&type=ws&allowInsecure=1&sni=o00o.snip.qzz.io#ARISTA🔥
+vless://381224fe-8f66-49f8-a7c3-06446317770b@194.61.3.100:23816?security=none&encryption=none&host=ripe.net&headerType=http&type=tcp#ARISTA🔥
+vless://f39c206d-8acc-4304-95cc-afe234a2f6f8@25.26.27.158:2095?encryption=none&type=xhttp&host=www.zie3ep.SITE.&path=/&packetEncoding=xudp#ARISTA🔥
+vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@194.36.55.198:8443?security=tls&sni=juzibaipiao.5112233.xyz&type=ws&host=juzibaipiao.5112233.xyz&path=%2F%3Fed%3D2048&fp=chrome#ARISTA🔥
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@91.149.238.88:443?encryption=none&security=tls&sni=sni.111000.indevs.in&insecure=1&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26telegram%F0%9F%87%A8%F0%9F%87%B3@wangcai2#ARISTA🔥
 vless://914b0493-7094-4840-b94d-8ec3e92e9c43@146.185.208.206:443?security=reality&encryption=none&pbk=do22ES2nDjO0EggET4H9Gf8_tEY7PwZv76zVXPrDojQ&headerType=none&fp=chrome&type=tcp&sni=yandex.ru&sid=5f22#ARISTA🔥
 vless://3d72057d-54c5-4d51-ade5-a872c1032b75@45.76.136.227:4403?type=grpc&serviceName=&security=reality&pbk=y1hXOgI6F-rUsm6UvVmZpRxqZi1JbktKw7yr4k8lr2o&fp=chrome&sni=www.foursquare.com&sid=c52a2c73&spx=%2F#ARISTA🔥

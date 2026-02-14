@@ -1,10 +1,8 @@
 # ES - VLESS Configurations
-# Updated: 2026-02-14 07:05:48
-# Count: 6
+# Updated: 2026-02-14 07:52:25
+# Count: 4
 
 vless://c963ea66-7107-4351-8ded-f54a2658bb84@199.232.33.8:80?mode=packet-up&security=none&encryption=none&host=foxfox.global.ssl.fastly.net.&type=xhttp#ARISTA🔥
 vless://a992c7a6-832b-4243-a294-d34783d0294c@185.238.228.46:443?path=%2Fv2rayroad&security=tls&encryption=none&insecure=0&host=hotchoclate.graphapp.ir&fp=chrome&type=ws&allowInsecure=0&sni=hotchoclate.graphapp.ir#ARISTA🔥
-vless://e0e23e65-6880-44b4-a2b8-d3a5e731f0e6@185.93.3.37:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=tradingview.com&fp=chrome&pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&sid=04bf0403f96e5b4b&packetEncoding=xudp#ARISTA🔥
-vless://e0e23e65-6880-44b4-a2b8-d3a5e731f0e6@84.17.62.60:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=tradingview.com&fp=chrome&pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&sid=04bf0403f96e5b4b&packetEncoding=xudp#ARISTA🔥
 vless://613725ab-ca86-4d54-852e-a0bf45e812de@83.147.18.219:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=allison.kosmolet.xyz&fp=chrome&security=reality&pbk=UgCLC1JdwUh-hgpvSfndN1tuH98620gziTq2UB0gOjI&sid=a369bfe440aba1a2#ARISTA🔥
 vless://2262242d-1b1c-481c-b60d-cde0e6a48bb2@185.251.80.0:80?encryption=none&type=ws&host=filma.video-fun-new.com.de&path=/Mv3kv92GcD3E2KuHxT&security=none#ARISTA🔥

@@ -1,9 +1,0 @@
-# FR - VLESS Configurations
-# Updated: 2026-02-14 16:37:48
-# Count: 5
-
-vless://nasnet@162.19.10.94:443?flow=xtls-rprx-vision&security=tls&encryption=none&type=tcp&sni=nasnet-162191094-direct.sharghdaily.co&fp=chrome&headerType=none#ARISTA🔥
-vless://e8b1500b-e9e8-5492-8312-f4eadf7d0767@162.19.10.94:443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=nasnet-162191094-direct.sharghdaily.co#ARISTA🔥
-vless://e8b1500b-e9e8-5492-8312-f4eadf7d0767@162.19.10.94:443?security=tls&encryption=none&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=nasnet-162191094-direct.sharghdaily.co#ARISTA🔥
-vless://baadf496-921b-41b1-a7ae-fde0ddc6793d@140.82.54.120:443/?type=tcp&security=reality&pbk=0O2wxSFr76Y9Sp2y5Bc1shI5yA1rkp1zKHZbkKsOE3E&fp=firefox&sni=*.zarairan.top&sid=28e21203&spx=%2F&flow=xtls-rprx-vision#ARISTA🔥
-vless://nasnet@162.19.10.94:443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=nasnet-162191094-direct.sharghdaily.co#ARISTA🔥

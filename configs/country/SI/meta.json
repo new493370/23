@@ -1,9 +1,9 @@
 {
   "country": "SI",
-  "total_configs": 4,
+  "total_configs": 5,
   "by_protocol": {
-    "vless": 3,
+    "vless": 4,
     "ss": 1
   },
-  "updated": "2026-02-14 14:03:35"
+  "updated": "2026-02-14 14:47:38"
 }

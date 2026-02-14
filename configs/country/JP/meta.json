@@ -3,9 +3,9 @@
   "total_configs": 28,
   "by_protocol": {
     "vmess": 1,
-    "vless": 5,
+    "vless": 6,
     "trojan": 12,
-    "ss": 10
+    "ss": 9
   },
-  "updated": "2026-02-14 14:03:35"
+  "updated": "2026-02-14 14:47:38"
 }

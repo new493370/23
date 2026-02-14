@@ -1,10 +1,8 @@
 # HK - VLESS Configurations
-# Updated: 2026-02-14 14:03:35
-# Count: 6
+# Updated: 2026-02-14 14:47:38
+# Count: 4
 
 vless://21984d60-ebd4-4c34-95b5-bd42c553837a@45.38.42.167:26738?path=smarty_vpn&security=none&encryption=none&type=httpupgrade#ARISTA🔥
-vless://615be991-d058-4de0-accd-5d38b717ae0d@45.38.42.167:42016?security=none&encryption=none&host=divar.ir&headerType=http&type=tcp#ARISTA🔥
 vless://1e7215d7-3d4c-471b-8034-7fd953db251c@103.160.204.191:2083?path=%2F&security=tls&encryption=none&insecure=0&fp=randomized&type=ws&allowInsecure=0&sni=cdnuser.wrongguy.ir#ARISTA🔥
 vless://04793d5b-1b79-49fc-b5f9-2e8ce0e3ebc6@112.120.103.25:20516?security=reality&flow=xtls-rprx-vision&sni=buylite.music.apple.com&type=tcp&fp=edge&pbk=fbABzUObM1ehY0C9V83p34p8ah9w2s4lDrdAiXdzGxI&sid=4b070735#ARISTA🔥
-vless://1e7215d7-3d4c-471b-8034-7fd953db251c@103.160.204.191:2083?path=%2F&security=tls&encryption=none&fp=randomized&type=ws&sni=cdnuser.wrongguy.ir#ARISTA🔥
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@47.76.218.163:443/?type=ws&encryption=none&flow=&host=sni.111000.dynv6.net&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&security=tls&sni=sni.111000.dynv6.net&allowInsecure=1&fp=chrome#ARISTA🔥

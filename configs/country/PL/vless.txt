@@ -1,9 +1,10 @@
 # PL - VLESS Configurations
-# Updated: 2026-02-14 15:45:32
-# Count: 22
+# Updated: 2026-02-14 16:09:42
+# Count: 23
 
-vless://ccedb1b1-35f3-46d1-a85a-c699eef5f3e1@144.31.3.30:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=poland.scroogethebest.com&fp=chrome&security=reality&pbk=AYQOZFxjvHN-RIzKYEibwFiFsp03cdlWGdCmyFfuNVc&sid=4fa44664f6a566d3#ARISTA🔥
 vless://f0e450fb-12ef-4a15-b9a0-88466d51424e@144.31.0.194:6443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=debug.resolvertest.doh.umbrella.com&sid=6ba85179e30d4fc2#ARISTA🔥
+vless://ccedb1b1-35f3-46d1-a85a-c699eef5f3e1@144.31.3.30:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=poland.scroogethebest.com&fp=chrome&security=reality&pbk=AYQOZFxjvHN-RIzKYEibwFiFsp03cdlWGdCmyFfuNVc&sid=4fa44664f6a566d3#ARISTA🔥
+vless://6beee13a-f356-4a51-8e65-75f776508e8f@195.3.223.143:443?security=reality&encryption=none&pbk=hSTtlpXKAYVVu5ybX3hQfq8dfsUrO_HoFVgfGGoCHVw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=pl.jojack.ru&sid=eeaa75fa5fd162ad#ARISTA🔥
 vless://457c367f-ac78-4641-9846-dd880332f7cf@195.3.223.6:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=pl.jojack.ru&fp=chrome&security=reality&pbk=hSTtlpXKAYVVu5ybX3hQfq8dfsUrO_HoFVgfGGoCHVw&sid=06493d73f37c8a90#ARISTA🔥
 vless://457c367f-ac78-4641-9846-dd880332f7cf@195.3.223.143:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=pl.jojack.ru&fp=chrome&security=reality&pbk=hSTtlpXKAYVVu5ybX3hQfq8dfsUrO_HoFVgfGGoCHVw&sid=9f6c7ec9f6434a4f#ARISTA🔥
 vless://457c367f-ac78-4641-9846-dd880332f7cf@195.3.223.6:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=pl.jojack.ru&fp=chrome&security=reality&pbk=hSTtlpXKAYVVu5ybX3hQfq8dfsUrO_HoFVgfGGoCHVw&sid=9f6c7ec9f6434a4f#ARISTA🔥

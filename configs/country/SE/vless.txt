@@ -1,8 +1,10 @@
 # SE - VLESS Configurations
-# Updated: 2026-02-14 15:45:32
-# Count: 10
+# Updated: 2026-02-14 16:09:42
+# Count: 12
 
+vless://d0a18535-c1cd-4700-87b4-dd99fae19f66@89.169.32.84:8880?type=ws&path=%252F&allowInsecure=1#ARISTA🔥
 vless://Telegram-NUFiLTER@185.146.173.58:8080?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER&security=none&encryption=none&host=emshab.bklink.iR.&type=httpupgrade#ARISTA🔥
+vless://24166122-2e99-491e-9fae-11310aa18068@185.146.173.37:443?security=tls&type=grpc&sni=xn--mgbaasql3ledele.pinocchio1.ir.&fp=firefox&encryption=none&headerType=none#ARISTA🔥
 vless://f047f640-7345-470b-a312-eed16247a8c5@185.146.173.94:2087?type=grpc&serviceName=%40DeragNet&mode=multi&security=tls&fp=chrome&alpn=h2&sni=allnet.deragv2ray.net#ARISTA🔥
 vless://09dcaf00-9700-4722-bbbb-976a2d75d629@185.146.173.58:8080?type=httpupgrade&path=/melov2ray/melov2ray/melov2ray/melov2ray/melov2ray/melov2ray/melov2ray/melov2ray/melov2ray/&host=http.digicyber.click.&security=none#ARISTA🔥
 vless://7eccc4a7-319c-4b58-84d9-957bfa914e73@77.110.121.247:59830/?type=tcp&encryption=none&flow=&sni=tgju.org&fp=ios&security=reality&pbk=YWlboK-JLI3VIq2OabG60MiWaC0sAQA1ro0e4N9vWSA&sid=3a982e219c97e1fc#ARISTA🔥

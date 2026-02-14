@@ -1,6 +1,5 @@
 # HK - VLESS Configurations
-# Updated: 2026-02-14 17:43:55
-# Count: 2
+# Updated: 2026-02-14 18:06:35
+# Count: 1
 
 vless://21984d60-ebd4-4c34-95b5-bd42c553837a@45.38.42.167:26738?path=smarty_vpn&security=none&encryption=none&type=httpupgrade#ARISTA🔥
-vless://1e7215d7-3d4c-471b-8034-7fd953db251c@103.160.204.191:2083?path=%2F&security=tls&encryption=none&insecure=0&fp=randomized&type=ws&allowInsecure=0&sni=cdnuser.wrongguy.ir#ARISTA🔥

@@ -1,5 +1,6 @@
 # SC - VLESS Configurations
-# Updated: 2026-02-14 17:43:55
-# Count: 1
+# Updated: 2026-02-14 18:06:35
+# Count: 2
 
+vless://2bd80876-fc38-445a-9a32-3c7233e1bfb7@45.146.90.3:443?security=reality&encryption=none&pbk=Ufkz__Q3m_d8NFR08OVtXx3hLaV4-x7UesrVKduEIn0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=srv124.towersflowerss.com#ARISTA🔥
 vless://7ab6e0c3-4869-4a0e-8fe0-852a58a28bfb@45.130.125.160:2087?path=%2F&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=ns5.mehrsazi.ir#ARISTA🔥

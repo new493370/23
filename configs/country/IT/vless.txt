@@ -1,5 +1,5 @@
 # IT - VLESS Configurations
-# Updated: 2026-02-14 22:46:40
+# Updated: 2026-02-14 23:09:35
 # Count: 15
 
 vless://79d4382f-4b36-4bb5-8226-a154a2bdb97b@158.58.172.189:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=aws.com&fp=chrome&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&type=tcp&headerType=none#ARISTA🔥
@@ -8,12 +8,12 @@ vless://22418064-ba0f-42a2-8838-3c005733cec7@95.141.35.101:443?encryption=none&f
 vless://e6af2417-0a79-4521-aa2a-de1c2f105188@85.235.149.184:500?encryption=none&security=reality&sni=stackoverflow.com&fp=firefox&pbk=NGrcCvAGrXu9QMiu2QNZy2HBqbvL7j-cFQuTFbE-AjM&sid=bea5eb2fcf6b183c&type=tcp&headerType=none#ARISTA🔥
 vless://6416708c-eaa5-4ec5-b652-a2db2feab875@217.12.219.53:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ozon.ru&fp=chrome&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=cd57a927f6b72d81&type=tcp&headerType=none#ARISTA🔥
 vless://6416708c-eaa5-4ec5-b652-a2db2feab875@217.12.219.51:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ozon.ru&fp=chrome&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=43df3983229a1c73&type=tcp&headerType=none#ARISTA🔥
+vless://6416708c-eaa5-4ec5-b652-a2db2feab875@217.12.219.53:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ozon.ru&fp=chrome&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=a76ea384b29a4f79&type=tcp&headerType=none#ARISTA🔥
 vless://6416708c-eaa5-4ec5-b652-a2db2feab875@217.12.219.51:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ozon.ru&fp=chrome&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=c8597fb67d55d9c4&type=tcp&headerType=none#ARISTA🔥
-vless://6416708c-eaa5-4ec5-b652-a2db2feab875@217.12.219.53:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ozon.ru&fp=chrome&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=c8597fb67d55d9c4&type=tcp&headerType=none#ARISTA🔥
+vless://6416708c-eaa5-4ec5-b652-a2db2feab875@217.12.219.53:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ozon.ru&fp=chrome&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=87cc0414902bee2d&type=tcp&headerType=none#ARISTA🔥
 vless://6416708c-eaa5-4ec5-b652-a2db2feab875@217.12.219.51:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ozon.ru&fp=chrome&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=4b523a98e1bbd15b&type=tcp&headerType=none#ARISTA🔥
 vless://6416708c-eaa5-4ec5-b652-a2db2feab875@217.12.219.53:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ozon.ru&fp=chrome&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=6354585c37827955&type=tcp&headerType=none#ARISTA🔥
-vless://6416708c-eaa5-4ec5-b652-a2db2feab875@217.12.219.53:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ozon.ru&fp=chrome&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=87cc0414902bee2d&type=tcp&headerType=none#ARISTA🔥
-vless://6416708c-eaa5-4ec5-b652-a2db2feab875@217.12.219.53:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ozon.ru&fp=chrome&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=a76ea384b29a4f79&type=tcp&headerType=none#ARISTA🔥
+vless://6416708c-eaa5-4ec5-b652-a2db2feab875@217.12.219.53:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ozon.ru&fp=chrome&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=c8597fb67d55d9c4&type=tcp&headerType=none#ARISTA🔥
 vless://6416708c-eaa5-4ec5-b652-a2db2feab875@217.12.219.51:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ozon.ru&fp=chrome&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=17f0f0e38f01af5a&type=tcp&headerType=none#ARISTA🔥
 vless://6416708c-eaa5-4ec5-b652-a2db2feab875@217.12.219.51:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ozon.ru&fp=chrome&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=d17bd238f23fba92&type=tcp&headerType=none#ARISTA🔥
 vless://4bdc57ea-b143-493b-9654-be66e049f81e@95.141.36.10:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=aws.com&alpn=h2&fp=chrome&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&type=tcp&headerType=none#ARISTA🔥

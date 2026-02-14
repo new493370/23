@@ -1,52 +1,39 @@
 # Combined TROJAN Configurations
-# Updated: 2026-02-14 22:06:51
-# Count: 204
-# Sources: Telegram (28) + GitHub (180)
+# Updated: 2026-02-14 22:45:40
+# Count: 190
+# Sources: Telegram (28) + GitHub (167)
 
-trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#ARISTA🔥
-trojan://TM7zXoLRS1@b2w.esportplusnews.top:2053?security=none&seed=V2RayyNGvpn&headerType=wireguard&type=kcp#ARISTA🔥
-trojan://9Uydssucyn@b2w.esportplusnews.top:2053?security=none&seed=V2RayyNGvpn&headerType=wireguard&type=kcp#ARISTA🔥
-trojan://telegram-id-v2rayvpnchannel@3.121.84.84:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#ARISTA🔥
-trojan://telegram-id-v2rayvpnchannel@15.236.182.0:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#ARISTA🔥
-trojan://telegram-id-v2rayvpnchannel@13.36.190.50:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#ARISTA🔥
-trojan://humanity@104.18.7.147:443?path=%2Fassignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.creationlong.org#ARISTA🔥
-trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&fp=chrome&type=ws&sni=www.multiplydose.com#ARISTA🔥
-trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&host=www.calmlunch.com&type=ws&sni=www.calmlunch.com#ARISTA🔥
+trojan://humanity@www.gossipglove.com:443?path=%2Fassignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.gossipglove.com#ARISTA🔥
 trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&host=www.creationlong.org&type=ws&sni=www.creationlong.org#ARISTA🔥
 trojan://51410d3cb2931a01b366bb5c868264bf@persiancdn.top:443?path=%2Fapi%2Flive%2Fstream%2Fregion-de%2Ffeed&security=tls&alpn=http%2F1.1&fp=random&type=ws&sni=persiancdn.top#ARISTA🔥
-trojan://51410d3cb2931a01b366bb5c868264bf@persiancdn.top:443?path=%2Fapi%2Flive%2Fstream%2Fregion-de%2Ffeed&security=tls&alpn=http%2F1.1&insecure=0&fp=random&type=ws&allowInsecure=0&sni=persiancdn.top#ARISTA🔥
-trojan://51410d3cb2931a01b366bb5c868264bf@persiancdn.top:443?type=ws&path=/api/live/stream/region-de/feed&security=tls&fp=random&sni=persiancdn.top&alpn=http/1.1#ARISTA🔥
-trojan://telegram-id-privatevpns@15.236.182.0:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#ARISTA🔥
-trojan://humanity@www.gossipglove.com:443?path=%2Fassignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.gossipglove.com#ARISTA🔥
-trojan://BxceQaOe@13.113.192.229:2595?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=t.me%252Fripaojiedian#ARISTA🔥
-trojan://humanity@188.114.98.0:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#ARISTA🔥
-trojan://4115f84d-3b03-4b03-babf-21b36b2f9c03@bbgtr.7777198.xyz:443?security=tls&sni=bBGtR.7777198.XYz&alpn=http/1.1&type=ws&host=BbGTr.7777198.Xyz&path=/r862SIwqItkD5XgXAL#ARISTA🔥
-trojan://2bfe58f7-da1d-45df-ab43-7c665b20ee29@104.21.40.66:443?security=tls&sni=gbnh.7777112.xyz&type=ws&host=gbnh.7777112.xyz&path=/2cO5FH0xUmT9oqnbBhmKb8nOkg#ARISTA🔥
-trojan://4115f84d-3b03-4b03-babf-21b36b2f9c03@cccvbgt6.890634.xyz:443?security=tls&sni=cCcVBGt6.890634.xyz&alpn=http/1.1&type=ws&host=CcCVbgT6.890634.XYz&path=/r862SIwqItkD5XgXAL#ARISTA🔥
-trojan://2bfe58f7-da1d-45df-ab43-7c665b20ee29@104.21.23.210:443?security=tls&sni=ggbnhj.932.pp.ua&alpn=http/1.1&type=ws&host=ggbnhj.932.pp.ua&path=/2cO5FH0xUmT9oqnbBhmKb8nOkg#ARISTA🔥
-trojan://4115f84d-3b03-4b03-babf-21b36b2f9c03@bbbhny.191268.xyz:443?security=tls&sni=BBbhNY.191268.xYz&alpn=http/1.1&type=ws&host=BBBHNY.191268.XyZ&path=/r862SIwqItkD5XgXAL#ARISTA🔥
 trojan://Puj01Rc8UcA9IzcFcYOs8KMOhCz6aX2Q@mfyousheng.nl.eu.org:443/?type=ws&host=mfyousheng.nl.eu.org&path=%2FtjwsLhx0SFASG4l9FERJ1g&security=tls&sni=mfyousheng.nl.eu.org&allowInsecure=1#ARISTA🔥
 trojan://humanity@chatgpt.com:443/?type=ws&host=www.gossipglove.com&path=%2Fassignment&security=tls&sni=www.gossipglove.com&allowInsecure=1#ARISTA🔥
 trojan://humanity@104.18.32.47:443/?type=ws&host=www.multiplydose.com&path=%2Fassignment&security=tls&sni=www.multiplydose.com&allowInsecure=1#ARISTA🔥
 trojan://humanity@www.multiplydose.com:443/?type=ws&path=%2Fassignment&security=tls&allowInsecure=1#ARISTA🔥
+trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#ARISTA🔥
+trojan://telegram-id-v2rayvpnchannel@3.121.84.84:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#ARISTA🔥
+trojan://telegram-id-v2rayvpnchannel@15.236.182.0:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#ARISTA🔥
+trojan://telegram-id-v2rayvpnchannel@13.36.190.50:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#ARISTA🔥
+trojan://kf12vbjt-m2ka-0gje-4b0b-96raalutr9i0@127.0.0.1:2080?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0#ARISTA🔥
+trojan://51410d3cb2931a01b366bb5c868264bf@persiancdn.top:443?path=%2Fapi%2Flive%2Fstream%2Fregion-de%2Ffeed&security=tls&alpn=http%2F1.1&insecure=0&fp=random&type=ws&allowInsecure=0&sni=persiancdn.top#ARISTA🔥
 trojan://humanity@chatgpt.com:443?path=%2Fassignment&security=tls&host=www.gossipglove.com&type=ws&sni=www.gossipglove.com#ARISTA🔥
 trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&insecure=1&type=ws&allowInsecure=1&sni=www.gossipglove.com#ARISTA🔥
-trojan://4755e7eb-1d68-4808-ab81-18de1e602290@green2.cdntencentmusic.com:31103?allowInsecure=1&sni=green2.cdntencentmusic.com#ARISTA🔥
-trojan://60c89614-6caa-4a8e-bee5-659fadadee02@green2.cdntencentmusic.com:31102?allowInsecure=1&sni=green2.cdntencentmusic.com#ARISTA🔥
-trojan://4bed2818-3e4e-4d44-b8fb-c4b71544673a@green2.cdntencentmusic.com:35501?allowInsecure=1&sni=green2.cdntencentmusic.com#ARISTA🔥
-trojan://5d391cba-c937-48f4-8d0d-0045c1934a56@green2.cdntencentmusic.com:35501?allowInsecure=1&sni=green2.cdntencentmusic.com#ARISTA🔥
-trojan://fe809e3b-1d38-4358-93bc-c3558ee0ac07@green2.cdntencentmusic.com:31102?allowInsecure=1&sni=green2.cdntencentmusic.com#ARISTA🔥
-trojan://humanity@104.18.32.47:443?encryption=none&security=tls&sni=www.gossipglove.com&fp=chrome&insecure=1&type=ws&host=www.gossipglove.com&path=%2Fassignment#ARISTA🔥
-trojan://85e535e1-bda5-4375-8f51-59b4eb3da37e@green2.cdntencentmusic.com:31103?allowInsecure=1&sni=green2.cdntencentmusic.com#ARISTA🔥
-trojan://656a74a0-0029-4c1e-a395-3545ea55e812@cdnfire.xiaomispeed.com:21115?allowInsecure=1&sni=cdnfire.xiaomispeed.com#ARISTA🔥
-trojan://656a74a0-0029-4c1e-a395-3545ea55e812@cdnfire.xiaomispeed.com:22231?allowInsecure=1&sni=cdnfire.xiaomispeed.com#ARISTA🔥
-trojan://33f64b81-358b-467f-bc9f-8780090c88de@green2.cdntencentmusic.com:31103?allowInsecure=1&sni=green2.cdntencentmusic.com#ARISTA🔥
-trojan://91cec748-2bd4-4608-89a3-09220e1599f9@green2.cdntencentmusic.com:35502?allowInsecure=1&sni=green2.cdntencentmusic.com#ARISTA🔥
-trojan://d7190512-c1fa-466f-8dd5-07a736738ec0@green2.cdntencentmusic.com:31103?allowInsecure=1&sni=green2.cdntencentmusic.com#ARISTA🔥
-trojan://51410d3cb2931a01b366bb5c868264bf@persiancdn.top:443?path=%2Fapi%2Flive%2Fstream%2Fregion-de%2Ffeed&security=tls&alpn=http/1.1&fp=random&type=ws&sni=persiancdn.top#ARISTA🔥
-trojan://humanity@188.114.98.0:443?path=%2Fassignment&security=tls&alpn=h2,http/1.1&host=www.creationlong.org&fp=chrome&type=ws&sni=www.creationlong.org#ARISTA🔥
-trojan://fe809e3b-1d38-4358-93bc-c3558ee0ac07@green2.cdntencentmusic.com:35501?allowInsecure=1&sni=green2.cdntencentmusic.com#ARISTA🔥
-trojan://4bed2818-3e4e-4d44-b8fb-c4b71544673a@green2.cdntencentmusic.com:31101?allowInsecure=0&sni=green2.cdntencentmusic.com#ARISTA🔥
+trojan://TM7zXoLRS1@b2w.esportplusnews.top:2053?security=none&seed=V2RayyNGvpn&headerType=wireguard&type=kcp#ARISTA🔥
+trojan://9Uydssucyn@b2w.esportplusnews.top:2053?security=none&seed=V2RayyNGvpn&headerType=wireguard&type=kcp#ARISTA🔥
+trojan://2bfe58f7-da1d-45df-ab43-7c665b20ee29@104.21.23.210:443?security=tls&sni=ggbnhj.932.pp.ua&alpn=http/1.1&type=ws&host=ggbnhj.932.pp.ua&path=/2cO5FH0xUmT9oqnbBhmKb8nOkg#ARISTA🔥
+trojan://4115f84d-3b03-4b03-babf-21b36b2f9c03@bbbhny.191268.xyz:443?security=tls&sni=BBbhNY.191268.xYz&alpn=http/1.1&type=ws&host=BBBHNY.191268.XyZ&path=/r862SIwqItkD5XgXAL#ARISTA🔥
+trojan://2bfe58f7-da1d-45df-ab43-7c665b20ee29@104.21.17.25:443?security=tls&sni=vvvbnj.taipei102.indevs.in&alpn=http/1.1&type=ws&host=vvvbnj.taipei102.indevs.in&path=/2cO5FH0xUmT9oqnbBhmKb8nOkg#ARISTA🔥
+trojan://2bfe58f7-da1d-45df-ab43-7c665b20ee29@104.21.40.66:443?security=tls&sni=gbnh.7777112.xyz&type=ws&host=gbnh.7777112.xyz&path=/2cO5FH0xUmT9oqnbBhmKb8nOkg#ARISTA🔥
+trojan://51410d3cb2931a01b366bb5c868264bf@persiancdn.top:443?type=ws&path=/api/live/stream/region-de/feed&security=tls&fp=random&sni=persiancdn.top&alpn=http/1.1#ARISTA🔥
+trojan://BxceQaOe@13.113.192.229:2595?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=t.me%252Fripaojiedian#ARISTA🔥
+trojan://humanity@188.114.98.0:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#ARISTA🔥
+trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&fp=chrome&type=ws&sni=www.multiplydose.com#ARISTA🔥
+trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&host=www.calmlunch.com&type=ws&sni=www.calmlunch.com#ARISTA🔥
+trojan://telegram-id-privatevpns@15.236.182.0:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#ARISTA🔥
+trojan://humanity@104.18.7.147:443?path=%2Fassignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.creationlong.org#ARISTA🔥
+trojan://qmBSKnAl6LYi9%3Dz23Rs.Z@37.235.49.209:28099?security=tls&sni=celestialcorset.crystalhamster.click&insecure=1&allowInsecure=1&type=tcp&headerType=none#ARISTA🔥
+trojan://fc3704d6-8e5e-443a-bd5b-20ec7cfbe990@eett.taiwan2026.indevs.in:443?sni=eett.taiwan2026.indevs.in&type=ws&path=%2FcSIyXrtyqeOFepMpfNkCk8&alpn=http%2F1.1&fp=chrome#ARISTA🔥
+trojan://telegram-id-directvpn@18.194.65.60:22223?type=tcp&security=tls&path=%2F#ARISTA🔥
 trojan://telegram-id-privatevpns@35.181.253.201:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#ARISTA🔥
 trojan://POORIARED@172.67.134.185:443?path=%2FeyJqdW5rIjoiVUl6eXhLZkkwUTJ3ZzkiLCJwcm90b2NvbCI6InRyIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed&security=tls&fp=chrome&type=ws&sni=reDfRee8.REDFree8.ir#ARISTA🔥
 trojan://telegram-id-privatevpns@18.198.110.94:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#ARISTA🔥
@@ -128,7 +115,6 @@ trojan://a5inYFE%3DJGV89%2BhjxIqgDp1tcWBd6@80.173.230.196:26279?security=tls&sni
 trojan://qmBSKnAl6LYi9%3Dz23Rs.Z@37.235.49.209:28099?security=tls&sni=celestialcorset.crystalhamster.click&fp=chrome&insecure=1&allowInsecure=1&type=tcp&headerType=none#ARISTA🔥
 trojan://ZblhWr0mqMakCPg.N@212.193.18.144:36158?security=tls&sni=api.avito.ru&insecure=1&allowInsecure=1&type=tcp&headerType=none#ARISTA🔥
 trojan://a5inYFE%3DJGV89%2BhjxIqgDp1tcWBd6@80.173.230.196:26279?security=tls&insecure=1&allowInsecure=1&type=tcp&headerType=none#ARISTA🔥
-trojan://qmBSKnAl6LYi9%3Dz23Rs.Z@37.235.49.209:28099?security=tls&sni=celestialcorset.crystalhamster.click&insecure=1&allowInsecure=1&type=tcp&headerType=none#ARISTA🔥
 trojan://BxceQaOe@58.152.25.208:443?allowInsecure=1&sni=t.me%2Fripaojiedian#ARISTA🔥
 trojan://919f16d2-ae91-4589-8bb2-a672890e3537@z.linglingqi.dpdns.org:443?security=tls&sni=z.linglingqi.dpdns.org&alpn=h3%2ch2%2chttp%2f1.1&type=ws&host=z.linglingqi.dpdns.org&path=%2f%3fed%3d2048#ARISTA🔥
 trojan://919f16d2-ae91-4589-8bb2-a672890e3537@z.linglingqi.dpdns.org:443?security=tls&sni=z.linglingqi.dpdns.org&alpn=h3%2ch2%2chttp%2f1.1&fp=chrome&type=ws&host=z.linglingqi.dpdns.org&path=%2f%3fed%3d2048&allow_insecure=0#ARISTA🔥

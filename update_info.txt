@@ -1,17 +1,17 @@
-Updated: 2026-02-14 22:09 UTC
+Updated: 2026-02-14 22:46 UTC
 
-📊 COUNTRY SUMMARY (73 countries):
-  RU: 495 configs
+📊 COUNTRY SUMMARY (75 countries):
+  RU: 498 configs
+  US: 374 configs
+  NL: 280 configs
   VN: 276 configs
-  US: 271 configs
-  NL: 260 configs
-  DE: 239 configs
-  PL: 145 configs
-  CA: 109 configs
-  FR: 83 configs
-  GB: 68 configs
-  MD: 63 configs
-  ASN Cache: 0 IPs resolved
+  DE: 265 configs
+  PL: 147 configs
+  FR: 103 configs
+  FI: 71 configs
+  GB: 64 configs
+  IR: 56 configs
+  ASN Cache: 743 IPs resolved
 🔍 ASN-based Detection Stats:
-  Cached ASN records: 0
-  IP-API cache: 64
+  Cached ASN records: 743
+  IP-API cache: 13

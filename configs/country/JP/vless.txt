@@ -1,5 +1,8 @@
 # JP - VLESS Configurations
-# Updated: 2026-02-14 22:09:49
-# Count: 1
+# Updated: 2026-02-14 22:46:40
+# Count: 4
 
+vless://6432bbec-c4c0-4837-9aa3-82e79def5017@45.12.134.86:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=tradingview.com&alpn=networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-&fp=chrome&security=reality&pbk=CwOLLTLuQN1SPzvenr_B_ErYYoOB_ScSvGvH-iYOtF8&sid=83780413c2ad3eaa#ARISTA🔥
 vless://5c183802-747d-4d2f-a6f1-aff2d5d78401@47.74.6.60:443?security=reality&encryption=none&pbk=DNdTBHyztOVJOBJQX91YXEhNkWbSAntqUoTFBHc6Clw&headerType=none&fp=chrome&type=tcp&sni=cdn77.api.userway.org&sid=6ba85179e30d4fc2#ARISTA🔥
+vless://6432bbec-c4c0-4837-9aa3-82e79def5017@5.253.41.152:8443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=tradingview.com&fp=chrome&security=reality&pbk=CwOLLTLuQN1SPzvenr_B_ErYYoOB_ScSvGvH-iYOtF8&sid=83780413c2ad3eaa#ARISTA🔥
+vless://6432bbec-c4c0-4837-9aa3-82e79def5017@45.12.134.86:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=tradingview.com&alpn=irmeliy%40.irmeliy%40.irmeliy%40.irmeliy%40.irmeliy%40.irmeliy%40.irmeliy-&fp=chrome&security=reality&pbk=CwOLLTLuQN1SPzvenr_B_ErYYoOB_ScSvGvH-iYOtF8&sid=83780413c2ad3eaa#ARISTA🔥

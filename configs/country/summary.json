@@ -1,359 +1,126 @@
 {
-  "NL": {
-    "total": 254,
-    "protocols": [
-      "vmess",
-      "vless",
-      "trojan",
-      "ss",
-      "hysteria2"
-    ]
-  },
-  "HK": {
-    "total": 13,
-    "protocols": [
-      "vmess",
-      "vless",
-      "trojan",
-      "ss"
-    ]
-  },
-  "US": {
-    "total": 285,
-    "protocols": [
-      "vmess",
-      "vless",
-      "trojan",
-      "ss",
-      "hysteria2"
-    ]
-  },
-  "SG": {
-    "total": 37,
-    "protocols": [
-      "vmess",
-      "vless",
-      "ss"
-    ]
-  },
-  "VN": {
-    "total": 277,
-    "protocols": [
-      "vmess",
-      "ss"
-    ]
-  },
   "FI": {
-    "total": 52,
-    "protocols": [
-      "vmess",
-      "vless",
-      "trojan",
-      "ss"
-    ]
-  },
-  "IN": {
-    "total": 11,
-    "protocols": [
-      "vmess",
-      "vless",
-      "ss"
-    ]
-  },
-  "DE": {
-    "total": 245,
-    "protocols": [
-      "vmess",
-      "vless",
-      "trojan",
-      "ss",
-      "hysteria2"
-    ]
-  },
-  "IR": {
-    "total": 42,
-    "protocols": [
-      "vmess",
-      "vless",
-      "ss"
-    ]
-  },
-  "PH": {
-    "total": 1,
-    "protocols": [
-      "vmess"
-    ]
-  },
-  "CA": {
-    "total": 83,
-    "protocols": [
-      "vmess",
-      "vless",
-      "trojan",
-      "ss"
-    ]
-  },
-  "KZ": {
-    "total": 29,
-    "protocols": [
-      "vmess",
-      "vless",
-      "ss"
-    ]
-  },
-  "CN": {
-    "total": 1,
-    "protocols": [
-      "vmess"
-    ]
-  },
-  "RU": {
-    "total": 511,
-    "protocols": [
-      "vmess",
-      "vless",
-      "trojan",
-      "ss"
-    ]
-  },
-  "FR": {
-    "total": 84,
-    "protocols": [
-      "vmess",
-      "vless",
-      "trojan",
-      "ss",
-      "hysteria2"
-    ]
-  },
-  "MD": {
-    "total": 63,
-    "protocols": [
-      "vmess",
-      "vless",
-      "ss",
-      "hysteria2"
-    ]
-  },
-  "TR": {
-    "total": 31,
-    "protocols": [
-      "vmess",
-      "vless",
-      "ss"
-    ]
-  },
-  "KE": {
-    "total": 1,
-    "protocols": [
-      "vmess"
-    ]
-  },
-  "MY": {
-    "total": 12,
-    "protocols": [
-      "vmess",
-      "vless",
-      "ss"
-    ]
-  },
-  "PL": {
-    "total": 127,
-    "protocols": [
-      "vmess",
-      "vless",
-      "ss"
-    ]
-  },
-  "GB": {
-    "total": 60,
-    "protocols": [
-      "vmess",
-      "vless",
-      "trojan",
-      "ss"
-    ]
-  },
-  "BG": {
-    "total": 15,
-    "protocols": [
-      "vmess",
-      "vless",
-      "ss"
-    ]
-  },
-  "AE": {
-    "total": 24,
-    "protocols": [
-      "vmess",
-      "vless",
-      "ss"
-    ]
-  },
-  "RO": {
-    "total": 3,
-    "protocols": [
-      "vless",
-      "ss"
-    ]
-  },
-  "CY": {
-    "total": 23,
-    "protocols": [
-      "vless",
-      "ss"
-    ]
-  },
-  "LT": {
-    "total": 18,
-    "protocols": [
-      "vless",
-      "ss"
-    ]
-  },
-  "HU": {
-    "total": 39,
-    "protocols": [
-      "vless",
-      "ss"
-    ]
-  },
-  "AL": {
-    "total": 31,
-    "protocols": [
-      "vless"
-    ]
-  },
-  "JP": {
-    "total": 24,
-    "protocols": [
-      "vless",
-      "trojan",
-      "ss"
-    ]
-  },
-  "SC": {
-    "total": 6,
-    "protocols": [
-      "vless",
-      "ss"
-    ]
-  },
-  "LV": {
     "total": 9,
     "protocols": [
       "vless",
-      "ss"
+      "trojan"
     ]
   },
-  "AT": {
-    "total": 4,
-    "protocols": [
-      "vless",
-      "ss"
-    ]
-  },
-  "UA": {
-    "total": 8,
-    "protocols": [
-      "vless",
-      "ss"
-    ]
-  },
-  "ES": {
-    "total": 3,
-    "protocols": [
-      "vless",
-      "ss"
-    ]
-  },
-  "SE": {
-    "total": 16,
-    "protocols": [
-      "vless",
-      "ss",
-      "hysteria2"
-    ]
-  },
-  "MH": {
-    "total": 1,
-    "protocols": [
-      "vless"
-    ]
-  },
-  "DK": {
-    "total": 1,
-    "protocols": [
-      "vless"
-    ]
-  },
-  "LU": {
-    "total": 3,
-    "protocols": [
-      "vless",
-      "ss"
-    ]
-  },
-  "CR": {
-    "total": 5,
-    "protocols": [
-      "vless"
-    ]
-  },
-  "JO": {
-    "total": 8,
-    "protocols": [
-      "vless",
-      "ss"
-    ]
-  },
-  "SK": {
-    "total": 3,
-    "protocols": [
-      "vless"
-    ]
-  },
-  "IT": {
-    "total": 21,
+  "NL": {
+    "total": 17,
     "protocols": [
       "vless",
       "trojan",
-      "ss"
+      "hysteria2"
     ]
   },
-  "AU": {
-    "total": 10,
+  "FR": {
+    "total": 30,
     "protocols": [
       "vless",
-      "ss"
+      "trojan",
+      "hysteria2"
     ]
   },
-  "BR": {
-    "total": 13,
+  "CA": {
+    "total": 1,
+    "protocols": [
+      "vless"
+    ]
+  },
+  "MD": {
+    "total": 1,
+    "protocols": [
+      "vless"
+    ]
+  },
+  "IR": {
+    "total": 2,
+    "protocols": [
+      "vless"
+    ]
+  },
+  "US": {
+    "total": 6,
     "protocols": [
       "vless",
-      "ss"
+      "trojan",
+      "hysteria2"
     ]
   },
-  "CH": {
-    "total": 3,
+  "KZ": {
+    "total": 1,
     "protocols": [
-      "vless",
-      "ss"
+      "vless"
     ]
   },
-  "SI": {
+  "RU": {
     "total": 2,
     "protocols": [
       "vless",
-      "ss"
+      "trojan"
     ]
   },
-  "EE": {
-    "total": 18,
+  "DE": {
+    "total": 28,
     "protocols": [
       "vless",
-      "ss"
+      "trojan",
+      "hysteria2"
+    ]
+  },
+  "SE": {
+    "total": 1,
+    "protocols": [
+      "vless"
+    ]
+  },
+  "PL": {
+    "total": 1,
+    "protocols": [
+      "vless"
+    ]
+  },
+  "AE": {
+    "total": 2,
+    "protocols": [
+      "vless"
+    ]
+  },
+  "SG": {
+    "total": 2,
+    "protocols": [
+      "vless"
+    ]
+  },
+  "GB": {
+    "total": 1,
+    "protocols": [
+      "trojan"
+    ]
+  },
+  "HK": {
+    "total": 1,
+    "protocols": [
+      "trojan"
+    ]
+  },
+  "IT": {
+    "total": 2,
+    "protocols": [
+      "trojan"
+    ]
+  },
+  "IE": {
+    "total": 1,
+    "protocols": [
+      "trojan"
+    ]
+  },
+  "JP": {
+    "total": 2,
+    "protocols": [
+      "trojan"
     ]
   },
   "NO": {
@@ -363,178 +130,9 @@
     ]
   },
   "IS": {
-    "total": 5,
-    "protocols": [
-      "trojan",
-      "ss"
-    ]
-  },
-  "IE": {
-    "total": 1,
-    "protocols": [
-      "ss"
-    ]
-  },
-  "ZA": {
-    "total": 4,
-    "protocols": [
-      "ss"
-    ]
-  },
-  "MK": {
-    "total": 2,
-    "protocols": [
-      "ss"
-    ]
-  },
-  "MT": {
     "total": 3,
     "protocols": [
-      "ss"
-    ]
-  },
-  "GR": {
-    "total": 10,
-    "protocols": [
-      "ss"
-    ]
-  },
-  "EG": {
-    "total": 9,
-    "protocols": [
-      "ss"
-    ]
-  },
-  "PK": {
-    "total": 8,
-    "protocols": [
-      "ss"
-    ]
-  },
-  "PR": {
-    "total": 3,
-    "protocols": [
-      "ss"
-    ]
-  },
-  "ID": {
-    "total": 1,
-    "protocols": [
-      "ss"
-    ]
-  },
-  "KH": {
-    "total": 3,
-    "protocols": [
-      "ss"
-    ]
-  },
-  "AZ": {
-    "total": 1,
-    "protocols": [
-      "ss"
-    ]
-  },
-  "IL": {
-    "total": 11,
-    "protocols": [
-      "ss"
-    ]
-  },
-  "KW": {
-    "total": 7,
-    "protocols": [
-      "ss"
-    ]
-  },
-  "KR": {
-    "total": 6,
-    "protocols": [
-      "ss"
-    ]
-  },
-  "SA": {
-    "total": 12,
-    "protocols": [
-      "ss"
-    ]
-  },
-  "AR": {
-    "total": 3,
-    "protocols": [
-      "ss"
-    ]
-  },
-  "MX": {
-    "total": 6,
-    "protocols": [
-      "ss"
-    ]
-  },
-  "PT": {
-    "total": 1,
-    "protocols": [
-      "ss"
-    ]
-  },
-  "CO": {
-    "total": 1,
-    "protocols": [
-      "ss"
-    ]
-  },
-  "TW": {
-    "total": 3,
-    "protocols": [
-      "ss"
-    ]
-  },
-  "AM": {
-    "total": 1,
-    "protocols": [
-      "ss"
-    ]
-  },
-  "MA": {
-    "total": 2,
-    "protocols": [
-      "ss"
-    ]
-  },
-  "PA": {
-    "total": 2,
-    "protocols": [
-      "ss"
-    ]
-  },
-  "HR": {
-    "total": 1,
-    "protocols": [
-      "ss"
-    ]
-  },
-  "PE": {
-    "total": 2,
-    "protocols": [
-      "ss"
-    ]
-  },
-  "CL": {
-    "total": 1,
-    "protocols": [
-      "ss"
-    ]
-  },
-  "BO": {
-    "total": 1,
-    "protocols": [
-      "ss"
-    ]
-  },
-  "EC": {
-    "total": 1,
-    "protocols": [
-      "ss"
+      "trojan"
     ]
   }
 }

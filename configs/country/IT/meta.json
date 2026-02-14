@@ -1,10 +1,8 @@
 {
   "country": "IT",
-  "total_configs": 21,
+  "total_configs": 2,
   "by_protocol": {
-    "vless": 15,
-    "trojan": 2,
-    "ss": 4
+    "trojan": 2
   },
-  "updated": "2026-02-14 16:09:42"
+  "updated": "2026-02-14 16:37:48"
 }

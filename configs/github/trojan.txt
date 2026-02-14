@@ -1,19 +1,25 @@
 # GitHub TROJAN Configurations
-# Updated: 2026-02-14 11:42:28
-# Count: 200
+# Updated: 2026-02-14 12:02:15
+# Count: 206
 # Source: GitHub Repositories
 
-trojan://9372cb81c7b0ad903f91f2f8a4d3f02b@153.121.39.240:3901?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=www.nintendogames.net#ARISTA🔥
-trojan://3f83b84d-b69a-4386-887a-ee51b1d18fe8@green2.cdntencentmusic.com:35502?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=green2.cdntencentmusic.com#ARISTA🔥
+trojan://humanity@www.multiplydose.com:443?sni=www.multiplydose.com&type=ws&path=%2Fassignment&fp=chrome#ARISTA🔥
+trojan://humanity@172.64.152.23:443?sni=www.multiplydose.com&type=ws&path=%2Fassignment&fp=chrome#ARISTA🔥
+trojan://humanity@104.18.32.47:443?sni=www.calmlunch.com&type=ws&path=%2Fassignment&fp=chrome#ARISTA🔥
+trojan://humanity@188.114.96.3:443?sni=www.gossipglove.com&type=ws&path=%2Fassignment&fp=chrome#ARISTA🔥
+trojan://humanity@104.18.32.47:443?sni=www.gossipglove.com&allowInsecure=1&type=ws&path=%2Fassignment&fp=chrome#ARISTA🔥
+trojan://humanity@172.64.152.23:443?sni=www.gossipglove.com&type=ws&path=%2Fassignment&fp=chrome#ARISTA🔥
+trojan://humanity@www.multiplydose.com:443?sni=www.multiplydose.com&allowInsecure=1&type=ws&path=%2Fassignment&fp=chrome#ARISTA🔥
+trojan://humanity@v1.dabache.top:443?sni=www.multiplydose.com&allowInsecure=1&type=ws&path=%2Fassignment&fp=chrome#ARISTA🔥
+trojan://humanity@104.18.11.110:443?sni=www.multiplydose.com&type=ws&path=%2Fassignment&fp=chrome#ARISTA🔥
+trojan://humanity@188.114.96.3:443?sni=www.creationlong.org&type=ws&path=%2Fassignment&fp=chrome#ARISTA🔥
 trojan://5f6ded93-4ab8-4a99-9c84-b19b9993f27c@green2.cdntencentmusic.com:35501?security=tls&sni=green2.cdntencentmusic.com&allowInsecure=1&type=tcp&headerType=none#ARISTA🔥
 trojan://187db574-57ef-4e54-9d15-a018221b62f7@green2.cdntencentmusic.com:35501?security=tls&sni=green2.cdntencentmusic.com&allowInsecure=1&type=tcp&headerType=none#ARISTA🔥
 trojan://fc3704d6-8e5e-443a-bd5b-20ec7cfbe990@eett.taiwan2026.indevs.in:443?sni=eett.taiwan2026.indevs.in&type=ws&path=%2FcSIyXrtyqeOFepMpfNkCk8&alpn=http%2F1.1&fp=chrome#ARISTA🔥
 trojan://2bfe58f7-da1d-45df-ab43-7c665b20ee29@gbnh.7777112.xyz:443?security=tls&sni=gbnh.7777112.xyz&type=ws&path=/2cO5FH0xUmT9oqnbBhmKb8nOkg#ARISTA🔥
-trojan://4250b3bb-d1ae-4e77-bf71-4069e0d2c383@green2.cdntencentmusic.com:35501?security=tls&sni=green2.cdntencentmusic.com&allowInsecure=1&type=tcp&headerType=none#ARISTA🔥
-trojan://1f79c194-37cf-419d-994e-8d17136abb45@green2.cdntencentmusic.com:35501?security=tls&sni=green2.cdntencentmusic.com&allowInsecure=1&type=tcp&headerType=none#ARISTA🔥
-trojan://66c62e1a-8037-4154-ad0b-7a0ec415f46c@green2.cdntencentmusic.com:35501?security=tls&sni=green2.cdntencentmusic.com&allowInsecure=1&type=tcp&headerType=none#ARISTA🔥
-trojan://36325a98-46a4-4770-977a-9a9570e0bcc6@green2.cdntencentmusic.com:35502?security=tls&sni=green2.cdntencentmusic.com&allowInsecure=1&type=tcp&headerType=none#ARISTA🔥
-trojan://humanity@104.18.7.147:443?path=%2Fassignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.creationlong.org#ARISTA🔥
+trojan://humanity@www.gossipglove.com:443?security=tls&sni=www.gossipglove.com&fp=chrome&insecure=0&allowInsecure=0&type=ws&path=%2Fassignment#ARISTA🔥
+trojan://telegram-id-directvpn@13.36.58.242:22223?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#ARISTA🔥
+trojan://telegram-id-privatevpns@13.36.58.242:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#ARISTA🔥
 trojan://telegram-id-privatevpns@52.47.88.193:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#ARISTA🔥
 trojan://2AAF5UEsSd@37.27.249.93:20000?type=tcp&security=none#ARISTA🔥
 trojan://telegram-id-directvpn@35.181.228.222:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#ARISTA🔥

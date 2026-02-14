@@ -1,21 +1,22 @@
 # IR - VLESS Configurations
-# Updated: 2026-02-14 11:42:31
-# Count: 45
+# Updated: 2026-02-14 12:02:19
+# Count: 46
 
-vless://af54f086-e86c-49a2-9753-015b9c099ecd@78.157.39.125:25194?security=none&encryption=none&host=alibaba.ir&headerType=http&type=tcp#ARISTA🔥
 vless://03e5c56f-3066-4f50-ab26-03cf8cb07e54@91.108.145.240:2222?security=none&encryption=none&headerType=none&type=tcp#ARISTA🔥
-vless://0fc62dfe-6192-45b8-a51d-7597752dae64@212.33.206.206:2046?security=none&encryption=none&host=p30afzar.com&headerType=http&type=tcp#ARISTA🔥
-vless://dfc666e0-5b9d-45cf-94b9-468952deb27c@193.141.126.14:8090?security=none&encryption=none&headerType=http&type=tcp#ARISTA🔥
-vless://a98dfd2a-b021-607c-af2d-362ae38c9478@85.133.249.38:58128?security=none&encryption=none&host=myket.ir&headerType=http&type=tcp#ARISTA🔥
 vless://424f38e2-8a17-4c09-a420-38fa6fcba3c3@5.160.198.120:8001?security=none&encryption=none&headerType=none&type=tcp#ARISTA🔥
-vless://1b0cb9ca-baf3-4721-835d-1dfa21807a65@85.133.195.202:26480?security=none&encryption=none&headerType=none&type=tcp#ARISTA🔥
-vless://049699a8-33fa-4153-b908-f78d1d653d02@85.133.195.195:26480?security=none&encryption=none&headerType=none&type=tcp#ARISTA🔥
-vless://36a246fe-b5ab-4216-93c4-699b9f886439@91.239.214.43:3055?security=none&encryption=none&headerType=none&type=tcp#ARISTA🔥
-vless://cca8470e-8180-44a4-9885-20b65cb2f59a@188.121.119.69:443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0#ARISTA🔥
-vless://513658c4-8988-4744-8e8b-55cf89058ef1@185.81.96.228:2095?security=none&encryption=none&headerType=none&type=tcp#ARISTA🔥
 vless://bb0830b5-acb5-47f9-9567-c0c7b7e803f9@193.151.146.227:1000?security=none&encryption=none&headerType=none&type=tcp#ARISTA🔥
-vless://2130291f-50e9-43d4-d415-c85b34134d4f@193.242.125.18:80?security=none&encryption=none&headerType=none&type=tcp#ARISTA🔥
+vless://cca8470e-8180-44a4-9885-20b65cb2f59a@188.121.119.69:443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0#ARISTA🔥
+vless://36a246fe-b5ab-4216-93c4-699b9f886439@91.239.214.43:3055?security=none&encryption=none&headerType=none&type=tcp#ARISTA🔥
+vless://049699a8-33fa-4153-b908-f78d1d653d02@85.133.195.195:26480?security=none&encryption=none&headerType=none&type=tcp#ARISTA🔥
+vless://1b0cb9ca-baf3-4721-835d-1dfa21807a65@85.133.195.202:26480?security=none&encryption=none&headerType=none&type=tcp#ARISTA🔥
+vless://af54f086-e86c-49a2-9753-015b9c099ecd@78.157.39.125:25194?security=none&encryption=none&host=alibaba.ir&headerType=http&type=tcp#ARISTA🔥
+vless://513658c4-8988-4744-8e8b-55cf89058ef1@185.81.96.228:2095?security=none&encryption=none&headerType=none&type=tcp#ARISTA🔥
 vless://af54f086-e86c-49a2-9753-015b9c099ecd@78.157.39.125:25194/?encryption=none&host=alibaba.ir&type=tcp&headerType=http#ARISTA🔥
+vless://0fc62dfe-6192-45b8-a51d-7597752dae64@212.33.206.206:2046?security=none&encryption=none&host=p30afzar.com&headerType=http&type=tcp#ARISTA🔥
+vless://a98dfd2a-b021-607c-af2d-362ae38c9478@85.133.249.38:58128?security=none&encryption=none&host=myket.ir&headerType=http&type=tcp#ARISTA🔥
+vless://dfc666e0-5b9d-45cf-94b9-468952deb27c@193.141.126.14:8090?security=none&encryption=none&headerType=http&type=tcp#ARISTA🔥
+vless://2130291f-50e9-43d4-d415-c85b34134d4f@193.242.125.18:80?security=none&encryption=none&headerType=none&type=tcp#ARISTA🔥
+vless://86632902-c329-40f8-a7a2-43fb983f7e7c@85.133.151.142:35349?encryption=none&security=none&type=tcp&headerType=http&host=speedtest.net#ARISTA🔥
 vless://cab07d12-e2e7-4896-b698-76d22c063a39@185.231.113.179:15550?security=none&encryption=none&headerType=none&type=tcp#ARISTA🔥
 vless://ff8ed07c-f05e-4343-9307-6dbb644d2ce5@94.182.169.82:8085?security=&encryption=none&host=telewebion.com&headerType=http&type=tcp#ARISTA🔥
 vless://17e7b169-1899-4ba3-8efa-4f10e92c9455@194.31.194.110:1257?security=none&encryption=none&host=Fast.com&headerType=http&type=tcp#ARISTA🔥

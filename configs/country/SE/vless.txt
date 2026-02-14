@@ -1,9 +1,9 @@
 # SE - VLESS Configurations
-# Updated: 2026-02-14 11:42:31
+# Updated: 2026-02-14 12:02:19
 # Count: 36
 
 vless://31701b5d-ca95-92f9-d684-dae3706161ea@81.230.148.47:50?encryption=none&type=tcp#ARISTA🔥
-vless://fa-397456379-1771064637182567@78.40.116.73:443?security=reality&encryption=none&pbk=2rjzbqQ49m-jpfzhiuBNb8Izwwjw0dIg5JAKdv-B2kE&headerType=none&fp=random&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=d1d42381ba35#ARISTA🔥
+vless://a0c21f1d-6628-4e69-b8b9-f3210668570b@185.146.173.58:8080?path=/&security=none&encryption=none&host=dcc12.servernet.fun.&type=ws#ARISTA🔥
 vless://Telegram-NUFiLTER@185.146.173.58:8080?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER&security=none&encryption=none&host=emshab.bklink.iR.&type=httpupgrade#ARISTA🔥
 vless://8f90b851-8f60-411a-ace2-efe1c1edda4b@62.60.159.191:443?path=%2Fws%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=de222.4qwertyuiopasdfghjklzxcvbnmmnbvcxzlkjhgfdsapoiuytrewq1234567890.com&fp=randomized&type=ws&sni=de222.4qwertyuiopasdfghjklzxcvbnmmnbvcxzlkjhgfdsapoiuytrewq1234567890.com#ARISTA🔥
 vless://0bf4a6a3-1e64-4a0c-94d7-45123b1ad14d@185.146.173.185:2083?path=%2FTEL_vpnAndroid2%2F%3Fed%3D2048&security=tls&encryption=none&host=be3.vless.site&type=ws&sni=be3.vless.site#ARISTA🔥

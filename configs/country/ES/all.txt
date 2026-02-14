@@ -1,10 +1,9 @@
 # ES - All Configurations
-# Updated: 2026-02-14 11:42:31
-# Total Count: 6
+# Updated: 2026-02-14 12:02:19
+# Total Count: 5
 
-vless://c963ea66-7107-4351-8ded-f54a2658bb84@199.232.33.8:80?mode=packet-up&security=none&encryption=none&host=foxfox.global.ssl.fastly.net.&type=xhttp#ARISTA🔥
-vless://72fb3bd4-75dd-488a-9af7-c391321ecfcc@84.17.62.52:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&security=reality&sid=04bf0403f96e5b4b&sni=tradingview.com&type=tcp#ARISTA🔥
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.238.228.238:2096?encryption=none&security=tls&sni=sni.jpmj.dev&fp=chrome&insecure=1&type=ws&host=sni.jpmj.dev&path=%2F%3Fed%3D2560%26telegram%F0%9F%87%A8%F0%9F%87%B3%2B@wangcai2#ARISTA🔥
+vless://c963ea66-7107-4351-8ded-f54a2658bb84@199.232.33.8:80?mode=packet-up&security=none&encryption=none&host=foxfox.global.ssl.fastly.net.&type=xhttp#ARISTA🔥
 vless://a992c7a6-832b-4243-a294-d34783d0294c@185.238.228.46:443?encryption=none&amp;security=tls&amp;sni=hotchoclate.graphapp.ir&amp;fp=chrome&amp;insecure=0&amp;allowInsecure=0&amp;type=ws&amp;host=hotchoclate.graphapp.ir&amp;path=%2Fv2rayroad#ARISTA🔥
 vless://613725ab-ca86-4d54-852e-a0bf45e812de@83.147.18.219:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=allison.kosmolet.xyz&fp=chrome&security=reality&pbk=UgCLC1JdwUh-hgpvSfndN1tuH98620gziTq2UB0gOjI&sid=a369bfe440aba1a2#ARISTA🔥
 vless://2262242d-1b1c-481c-b60d-cde0e6a48bb2@185.251.80.0:80?encryption=none&type=ws&host=filma.video-fun-new.com.de&path=/Mv3kv92GcD3E2KuHxT&security=none#ARISTA🔥

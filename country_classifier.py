@@ -84,168 +84,62 @@ class IPAPIClient:
 class RealServerDetector:
     def __init__(self, classifier):
         self.classifier = classifier
-        self.cdn_domains = self.load_cdn_domains()
-        self.cdn_ranges = self.load_cdn_ranges()
-        self.strict_cdn_ranges = self.load_strict_cdn_ranges()
-        
-    def load_cdn_domains(self):
-        return {
-            'cloudflare.com', 'cloudflare.net', 'cloudflarecdn.com',
-            'cloudfront.net', 'aws.amazon.com', 'amazonaws.com',
-            'akamai.net', 'akamaiedge.net', 'akamaitechnologies.com',
-            'fastly.net', 'fastly.com', 'edgecastcdn.net',
-            'azureedge.net', 'azure.com', 'windows.net',
-            'googleapis.com', 'gstatic.com', 'googleusercontent.com',
-            'cdn77.org', 'cdn77.com', 'stackpathdns.com',
-            'hscdn.net', 'cdngateway.net', 'kinxcdn.com',
-            'bitgravity.com', 'incapdns.net', 'impervadns.net',
-            'nocookie.net', 'tastatic.com', 'v2ex.co',
-            'github.io', 'github.com', 'raw.githubusercontent.com',
-            'jsdelivr.net', 'cdn.jsdelivr.net', 'unpkg.com',
-            'bootstrapcdn.com', 'cloudflare-ipfs.com',
-            'apple.com', 'apple-dns.net', 'itunes.apple.com'
-        }
-    
-    def load_cdn_ranges(self):
-        return [
-            "104.16.0.0/12", "172.64.0.0/13", "131.0.72.0/22",
-            "146.75.0.0/16", "151.101.0.0/16", "23.235.32.0/20"
-        ]
-    
-    def load_strict_cdn_ranges(self):
-        return [
-            "104.16.0.0/12", "172.64.0.0/13", "131.0.72.0/22",
-            "146.75.0.0/16", "151.101.0.0/16", "23.235.32.0/20"
-        ]
-    
-    def is_likely_cdn_ip(self, ip, strict_mode=False):
+
+    def extract_direct_ip(self, host):
+        if not host:
+            return None
+
+        host = self.classifier.extract_domain(host)
+
+        if self.classifier.is_valid_ip(host):
+            return host
+
         try:
-            ip_obj = ipaddress.ip_address(ip)
-            if ip_obj.version == 4:
-                ranges = self.strict_cdn_ranges if strict_mode else self.cdn_ranges
-                for net in ranges:
-                    if ip_obj in ipaddress.ip_network(net):
-                        return True
-        except:
-            pass
-        return False
-    
-    def is_known_hosting_provider(self, ip):
-        hosting_ranges = [
-            "52.0.0.0/8", "13.32.0.0/15", "13.35.0.0/16",
-            "13.224.0.0/14", "13.249.0.0/16", "18.64.0.0/14",
-            "18.154.0.0/15", "18.238.0.0/15", "54.192.0.0/12",
-            "99.84.0.0/16", "204.246.0.0/16", "205.251.0.0/16"
-        ]
-        try:
-            ip_obj = ipaddress.ip_address(ip)
-            for net in hosting_ranges:
-                if ip_obj in ipaddress.ip_network(net):
-                    return True
-        except:
-            pass
-        return False
-    
-    def extract_real_hosts(self, parsed):
-        candidates = []
-        
-        if 'host' in parsed and parsed['host']:
-            candidates.append(parsed['host'])
-        
-        if parsed.get('type') == 'vmess':
-            cfg = parsed.get('dict', {})
-            for key in ['add', 'host', 'sni', 'peer', 'servername', 'fp']:
-                if key in cfg and cfg[key]:
-                    candidates.append(cfg[key])
-        
-        if parsed.get('type') in ['vless', 'trojan']:
-            original = parsed.get('original', '')
-            try:
-                if '?' in original:
-                    query_part = original.split('?', 1)[1].split('#')[0]
-                    qs = parse_qs(query_part)
-                    for key in ['sni', 'host', 'peer', 'servername', 'fp']:
-                        if key in qs:
-                            candidates.extend(qs[key])
-            except:
-                pass
-        
-        original = parsed.get('original', '')
-        try:
-            parsed_url = urlparse(original.replace('#', '?'))
-            qs = parse_qs(parsed_url.query)
-            for key in ['sni', 'host', 'peer', 'servername', 'fp']:
-                if key in qs:
-                    candidates.extend(qs[key])
-        except:
-            pass
-        
-        clean = []
-        for item in candidates:
-            item = str(item).strip()
-            if item and item not in clean:
-                clean.append(item)
-        
-        return clean
-    
-    def resolve_domain_with_timeout(self, domain, timeout=5):
-        try:
-            with ThreadPoolExecutor(max_workers=1) as executor:
-                future = executor.submit(self.classifier.resolve_domain, domain)
-                return future.result(timeout=timeout)
-        except TimeoutError:
-            return []
-        except:
-            return []
-    
-    def get_real_server_ip(self, parsed):
-        hosts = self.extract_real_hosts(parsed)
-        
-        for host in hosts:
-            host = self.classifier.extract_domain(host)
-            
-            if self.classifier.is_valid_ip(host):
-                if self.is_known_hosting_provider(host):
-                    return host
-                if not self.is_likely_cdn_ip(host):
-                    return host
-                continue
-            
-            if self.classifier.is_cdn_domain(host):
-                continue
-            
-            ips = self.resolve_domain_with_timeout(host, timeout=3)
+            ips = self.classifier.resolve_domain(host)
             for ip in ips:
                 if not self.is_private_ip(ip):
-                    if self.is_known_hosting_provider(ip):
-                        return ip
-                    if not self.is_likely_cdn_ip(ip):
-                        return ip
-        
-        for host in hosts[:2]:
-            host = self.classifier.extract_domain(host)
-            if not self.classifier.is_valid_ip(host) and not self.classifier.is_cdn_domain(host):
-                ips = self.resolve_domain_with_timeout(host, timeout=2)
-                for ip in ips:
-                    if not self.is_private_ip(ip):
-                        return ip
-        
+                    return ip
+        except:
+            pass
+
         return None
-    
+
     def is_private_ip(self, ip):
         try:
             ip_obj = ipaddress.ip_address(ip)
-            return ip_obj.is_private or ip_obj.is_loopback or ip_obj.is_multicast or ip_obj.is_reserved
+            return (
+                ip_obj.is_private or
+                ip_obj.is_loopback or
+                ip_obj.is_multicast or
+                ip_obj.is_reserved
+            )
         except:
             return True
-    
+
+    def get_real_server_ip(self, parsed):
+        proto = parsed.get('type', '')
+
+        if proto == 'vmess':
+            cfg = parsed.get('dict', {})
+            ip = cfg.get('add', '')
+            if self.classifier.is_valid_ip(ip):
+                return ip
+            return self.extract_direct_ip(ip)
+
+        ip = parsed.get('host', '')
+
+        if self.classifier.is_valid_ip(ip):
+            return ip
+
+        return self.extract_direct_ip(ip)
+
     def get_real_country(self, parsed):
         ip = self.get_real_server_ip(parsed)
+
         if not ip:
-            return None
-        
-        country = self.classifier.get_country_from_ip(ip)
-        return country
+            return 'XX'
+
+        return self.classifier.get_country_from_ip(ip)
 
 class CountryClassifier:
     def __init__(self):
@@ -455,11 +349,6 @@ class CountryClassifier:
                 config_dict['ps'] = 'ARISTA🔥'
             
             host = config_dict.get('add', '')
-            if not host and 'host' in config_dict:
-                host = config_dict['host']
-            if not host and 'sni' in config_dict:
-                host = config_dict['sni']
-            
             port = config_dict.get('port', '')
             
             return {
@@ -476,49 +365,28 @@ class CountryClassifier:
         try:
             if not config_str.startswith('vless://'):
                 return None
-            
+
             without_proto = config_str[8:]
-            
-            host = None
-            port = '443'
-            sni = None
-            
-            if '@' in without_proto:
-                uuid_part, rest = without_proto.split('@', 1)
-                
-                if '?' in rest:
-                    host_port, params = rest.split('?', 1)
-                    qs = parse_qs(params)
-                    if 'sni' in qs:
-                        sni = qs['sni'][0]
-                    if 'host' in qs:
-                        host = qs['host'][0]
-                else:
-                    host_port, params = rest, ''
-                
-                if ':' in host_port:
-                    h, p = host_port.split(':', 1)
-                    if not host:
-                        host = h
-                    port = p.split('/')[0].split('#')[0]
-                else:
-                    if not host:
-                        host = host_port
-                
-                if sni and not host:
-                    host = sni
-            
-            if host:
-                return {
-                    'type': 'vless',
-                    'host': host,
-                    'port': port,
-                    'original': config_str,
-                    'sni': sni
-                }
-            else:
+
+            if '@' not in without_proto:
                 return None
-        except Exception as e:
+
+            uuid_part, rest = without_proto.split('@', 1)
+
+            server_part = rest.split('?', 1)[0].split('#')[0]
+
+            if ':' in server_part:
+                host, port = server_part.split(':', 1)
+            else:
+                host, port = server_part, '443'
+
+            return {
+                'type': 'vless',
+                'host': host.strip(),
+                'port': port.strip(),
+                'original': config_str
+            }
+        except:
             return None
     
     def parse_trojan_config(self, config_str):
@@ -528,44 +396,24 @@ class CountryClassifier:
             
             without_proto = config_str[9:]
             
-            host = None
-            port = '443'
-            sni = None
-            
-            if '@' in without_proto:
-                password, rest = without_proto.split('@', 1)
-                
-                if '?' in rest:
-                    host_port, params = rest.split('?', 1)
-                    qs = parse_qs(params)
-                    if 'sni' in qs:
-                        sni = qs['sni'][0]
-                    if 'host' in qs:
-                        host = qs['host'][0]
-                else:
-                    host_port, params = rest, ''
-                
-                if ':' in host_port:
-                    h, p = host_port.split(':', 1)
-                    if not host:
-                        host = h
-                    port = p.split('/')[0].split('#')[0]
-                else:
-                    if not host:
-                        host = host_port
-                
-                if sni and not host:
-                    host = sni
-            
-            if host:
-                return {
-                    'type': 'trojan',
-                    'host': host,
-                    'port': port,
-                    'original': config_str,
-                    'sni': sni
-                }
-            return None
+            if '@' not in without_proto:
+                return None
+
+            password, rest = without_proto.split('@', 1)
+
+            server_part = rest.split('?', 1)[0].split('#')[0]
+
+            if ':' in server_part:
+                host, port = server_part.split(':', 1)
+            else:
+                host, port = server_part, '443'
+
+            return {
+                'type': 'trojan',
+                'host': host.strip(),
+                'port': port.strip(),
+                'original': config_str
+            }
         except:
             return None
     
@@ -686,16 +534,12 @@ class CountryClassifier:
         parsed = self.parse_config(config_str)
         if not parsed:
             return None, 'XX'
-        
+
         country = self.real_detector.get_real_country(parsed)
-        
-        if not country or country == 'XX':
-            if 'host' in parsed and parsed['host']:
-                country = self.get_country_for_host(parsed['host'])
-        
+
         if not country or country == 'XX':
             return None, 'XX'
-        
+
         return parsed, country
     
     def process_file(self, input_file, source_name):
@@ -861,7 +705,7 @@ CDN/Proxy Skipped: {cdn_skipped}
 
 def main():
     print("=" * 60)
-    print("🌍 COUNTRY CLASSIFIER - ULTIMATE REAL SERVER DETECTION")
+    print("🌍 COUNTRY CLASSIFIER - REAL SERVER IP DETECTION")
     print("=" * 60)
     
     classifier = CountryClassifier()

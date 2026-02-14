@@ -1,15 +1,24 @@
 # GitHub TROJAN Configurations
-# Updated: 2026-02-14 21:46:39
-# Count: 171
+# Updated: 2026-02-14 22:06:51
+# Count: 180
 # Source: GitHub Repositories
 
-trojan://humanity@188.114.98.0:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#ARISTA🔥
-trojan://humanity@188.114.98.0:443?path=%2Fassignment&security=tls&alpn=h2%2Chttp%2F1.1&insecure=0&host=www.creationlong.org&fp=chrome&type=ws&allowInsecure=0&sni=www.creationlong.org#ARISTA🔥
-trojan://humanity@188.114.98.0:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.multiplydose.com#ARISTA🔥
-trojan://51410d3cb2931a01b366bb5c868264bf@persiancdn.top:443?type=ws&path=/api/live/stream/region-de/feed&security=tls&fp=random&sni=persiancdn.top&alpn=http/1.1#ARISTA🔥
-trojan://humanity@www.multiplydose.com:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&sni=www.multiplydose.com#ARISTA🔥
-trojan://51410d3cb2931a01b366bb5c868264bf@persiancdn.top:443?path=%2Fapi%2Flive%2Fstream%2Fregion-de%2Ffeed&security=tls&alpn=http%2F1.1&fp=random&type=ws&sni=persiancdn.top#ARISTA🔥
-trojan://humanity@188.114.98.0:443?path=%2Fassignment&security=tls&host=www.creationlong.org&type=ws&sni=www.creationlong.org#ARISTA🔥
+trojan://4755e7eb-1d68-4808-ab81-18de1e602290@green2.cdntencentmusic.com:31103?allowInsecure=1&sni=green2.cdntencentmusic.com#ARISTA🔥
+trojan://60c89614-6caa-4a8e-bee5-659fadadee02@green2.cdntencentmusic.com:31102?allowInsecure=1&sni=green2.cdntencentmusic.com#ARISTA🔥
+trojan://4bed2818-3e4e-4d44-b8fb-c4b71544673a@green2.cdntencentmusic.com:35501?allowInsecure=1&sni=green2.cdntencentmusic.com#ARISTA🔥
+trojan://5d391cba-c937-48f4-8d0d-0045c1934a56@green2.cdntencentmusic.com:35501?allowInsecure=1&sni=green2.cdntencentmusic.com#ARISTA🔥
+trojan://fe809e3b-1d38-4358-93bc-c3558ee0ac07@green2.cdntencentmusic.com:31102?allowInsecure=1&sni=green2.cdntencentmusic.com#ARISTA🔥
+trojan://humanity@104.18.32.47:443?encryption=none&security=tls&sni=www.gossipglove.com&fp=chrome&insecure=1&type=ws&host=www.gossipglove.com&path=%2Fassignment#ARISTA🔥
+trojan://85e535e1-bda5-4375-8f51-59b4eb3da37e@green2.cdntencentmusic.com:31103?allowInsecure=1&sni=green2.cdntencentmusic.com#ARISTA🔥
+trojan://656a74a0-0029-4c1e-a395-3545ea55e812@cdnfire.xiaomispeed.com:21115?allowInsecure=1&sni=cdnfire.xiaomispeed.com#ARISTA🔥
+trojan://656a74a0-0029-4c1e-a395-3545ea55e812@cdnfire.xiaomispeed.com:22231?allowInsecure=1&sni=cdnfire.xiaomispeed.com#ARISTA🔥
+trojan://33f64b81-358b-467f-bc9f-8780090c88de@green2.cdntencentmusic.com:31103?allowInsecure=1&sni=green2.cdntencentmusic.com#ARISTA🔥
+trojan://91cec748-2bd4-4608-89a3-09220e1599f9@green2.cdntencentmusic.com:35502?allowInsecure=1&sni=green2.cdntencentmusic.com#ARISTA🔥
+trojan://d7190512-c1fa-466f-8dd5-07a736738ec0@green2.cdntencentmusic.com:31103?allowInsecure=1&sni=green2.cdntencentmusic.com#ARISTA🔥
+trojan://51410d3cb2931a01b366bb5c868264bf@persiancdn.top:443?path=%2Fapi%2Flive%2Fstream%2Fregion-de%2Ffeed&security=tls&alpn=http/1.1&fp=random&type=ws&sni=persiancdn.top#ARISTA🔥
+trojan://humanity@188.114.98.0:443?path=%2Fassignment&security=tls&alpn=h2,http/1.1&host=www.creationlong.org&fp=chrome&type=ws&sni=www.creationlong.org#ARISTA🔥
+trojan://fe809e3b-1d38-4358-93bc-c3558ee0ac07@green2.cdntencentmusic.com:35501?allowInsecure=1&sni=green2.cdntencentmusic.com#ARISTA🔥
+trojan://4bed2818-3e4e-4d44-b8fb-c4b71544673a@green2.cdntencentmusic.com:31101?allowInsecure=0&sni=green2.cdntencentmusic.com#ARISTA🔥
 trojan://telegram-id-privatevpns@35.181.253.201:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#ARISTA🔥
 trojan://POORIARED@172.67.134.185:443?path=%2FeyJqdW5rIjoiVUl6eXhLZkkwUTJ3ZzkiLCJwcm90b2NvbCI6InRyIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed&security=tls&fp=chrome&type=ws&sni=reDfRee8.REDFree8.ir#ARISTA🔥
 trojan://telegram-id-privatevpns@18.198.110.94:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#ARISTA🔥

@@ -1,9 +1,10 @@
 {
   "country": "RO",
-  "total_configs": 3,
+  "total_configs": 4,
   "by_protocol": {
+    "vmess": 1,
     "vless": 1,
     "ss": 2
   },
-  "updated": "2026-02-14 21:47:36"
+  "updated": "2026-02-14 22:09:49"
 }

@@ -1,5 +1,9 @@
 # HK - VLESS Configurations
-# Updated: 2026-02-14 18:06:35
-# Count: 1
+# Updated: 2026-02-14 18:22:55
+# Count: 5
 
+vless://ab321a49-bc9c-4bb6-915b-a1fcbc7de49c@27.50.48.155:443?mode=gun&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&fp=chrome&type=grpc&allowInsecure=0&sni=vbox1.ping-box.com#ARISTA🔥
 vless://21984d60-ebd4-4c34-95b5-bd42c553837a@45.38.42.167:26738?path=smarty_vpn&security=none&encryption=none&type=httpupgrade#ARISTA🔥
+vless://602b380a-9fdf-4425-bc07-aae9a95cfc4b@27.50.48.8:443?security=tls&alpn=h3&encryption=none&fp=chrome&type=ws&sni=vless.hubp.de#ARISTA🔥
+vless://7556317c-dff6-46e8-ad29-b408f2a6456e@104.129.164.253:2096?security=tls&encryption=none&type=ws&sni=vless.muzheng.top#ARISTA🔥
+vless://ab321a49-bc9c-4bb6-915b-a1fcbc7de49c@27.50.48.155:443?encryption=none&security=tls&sni=vbox1.ping-box.com&alpn=h2%2Chttp%2F1.1&fp=chrome&type=grpc#ARISTA🔥

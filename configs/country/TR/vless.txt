@@ -1,15 +1,16 @@
 # TR - VLESS Configurations
-# Updated: 2026-02-14 04:34:24
-# Count: 17
+# Updated: 2026-02-14 05:43:13
+# Count: 18
 
 vless://3dbea962-1e67-4008-8c07-c84a819b5bc8@77.83.245.173:33369?security=reality&encryption=none&pbk=szWk094FkncOx87ZSq4De5nU-1l0BLxikzvfUT5Dhms&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=yandex.ru&sid=3b05335afef11254#ARISTA🔥
 vless://f6036ea2-911e-4287-93fb-d3ac2b21135b@185.39.204.27:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=sun1-90.userapi.com&fp=&pbk=fsQFwBuDqsc-AylhF85Yu4jI81hn7LkYtNQCT5FFyiw&sid=#ARISTA🔥
-vless://8e2cc81d-7ac4-4352-a7b5-bbfcfa81e49e@45.12.143.147:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=hls-svod.itunes.apple.com&fp=chrome&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=86e999a2cdc2&packetEncoding=xudp#ARISTA🔥
-vless://336b4bf9-d456-4735-8b99-463557dc7fc4@176.223.66.30:53995?flow=&type=tcp&headerType=http&host=speedtest.com&path=/&security=none#ARISTA🔥
-vless://a0c62a1e-2360-4586-81d8-e5db7ff0599e@45.136.5.84:3030?security=none&serviceName=Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH&encryption=none&headerType=none&type=tcp#ARISTA🔥
+vless://b439942e1c8949ce924fd0adbbaead2e@62.133.63.232:8443?encryption=none&type=xhttp&path=%2Fx&security=reality&sni=apple.com&pbk=Gn5B-kDUFfIM5jvQ17Braem7nlJyG4QaPA1OVUCwyx0&sid=aabbccdd&fp=random#ARISTA🔥
+vless://b439942e1c8949ce924fd0adbbaead2e@62.133.63.232:8443?security=reality&sni=apple.com&type=xhttp&path=%2Fx&fp=random&pbk=Gn5B-kDUFfIM5jvQ17Braem7nlJyG4QaPA1OVUCwyx0&sid=aabbccdd#ARISTA🔥
+vless://3dbea962-1e67-4008-8c07-c84a819b5bc8@77.83.245.173:33369/?type=tcp&encryption=none&sni=yandex.ru&alpn=irmeliy%40.irmeliy%40.irmeliy%40.irmeliy%40.irmeliy%40.irmeliy%40.irmeliy-&fp=chrome&security=reality&pbk=szWk094FkncOx87ZSq4De5nU-1l0BLxikzvfUT5Dhms&sid=3b05335afef11254#ARISTA🔥
 vless://a0c62a1e-2360-4586-81d8-e5db7ff0599e@45.136.5.84:8880?security=none&serviceName=Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH&encryption=none&headerType=none&type=tcp#ARISTA🔥
-vless://49d97f86-4589-4570-8e4b-794b49556e42@194.113.226.197:55555?security=&encryption=none&host=uptvs.com&headerType=http&type=tcp#ARISTA🔥
 vless://26bc13af-e442-4956-afd4-b8f85744d26f@91.206.71.162:8880?security=none&encryption=none&host=barayeiran-mahsang.gerald81.dpdns.org&fp=random&type=ws&sni=barayeiran-mahsang.gerald81.dpdns.org#ARISTA🔥
+vless://a0c62a1e-2360-4586-81d8-e5db7ff0599e@45.136.5.84:3030?security=none&serviceName=Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH&encryption=none&headerType=none&type=tcp#ARISTA🔥
+vless://49d97f86-4589-4570-8e4b-794b49556e42@194.113.226.197:55555?security=&encryption=none&host=uptvs.com&headerType=http&type=tcp#ARISTA🔥
 vless://6d9a7312-5021-40b0-9e2b-d08b6ef0d917@45.136.5.109:7443?security=none&encryption=none&headerType=none&type=tcp#ARISTA🔥
 vless://08c7f096-d057-4d53-82fd-c739d372887b@92.60.70.36:2053/?type=tcp&encryption=none&flow=#ARISTA🔥
 vless://4d94fa33-9462-48b4-b7de-8a2863560d19@62.60.233.41:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=my.oversecure.pro&fp=chrome&security=reality&pbk=L9LQ_8Ymo1o7QRPvWXsd4VY_i_OZ-0ZIw_mU16zaPEY&sid=a20d3ed244c76426#ARISTA🔥

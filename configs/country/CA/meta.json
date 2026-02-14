@@ -1,11 +1,11 @@
 {
   "country": "CA",
-  "total_configs": 382,
+  "total_configs": 162,
   "by_protocol": {
-    "vmess": 31,
-    "vless": 309,
-    "trojan": 32,
+    "vmess": 24,
+    "vless": 115,
+    "trojan": 13,
     "ss": 10
   },
-  "updated": "2026-02-14 04:34:24"
+  "updated": "2026-02-14 05:43:13"
 }

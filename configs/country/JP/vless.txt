@@ -1,9 +1,9 @@
 # JP - VLESS Configurations
-# Updated: 2026-02-14 04:34:24
+# Updated: 2026-02-14 05:43:13
 # Count: 5
 
 vless://dcf0b94b-3d1a-4486-a8c8-edb04976e9f6@43.163.241.110:39112?security=none&encryption=none&host=Varzesh3.com&headerType=none&type=tcp#ARISTA🔥
-vless://70a18564-9d0b-4fcf-b140-c6cb0089af6f@154.31.114.125:443?security=reality&type=tcp&sni=navi.bankrate.com&fp=chrome&sid=2da72ce6&pbk=UT9tFQOdy54SeW_tg-XQN3QkGYoWUpO_88XFXijkrXc#ARISTA🔥
+vless://afbe1a05-e39b-4fab-ace7-f01d56a3001b@206.251.52.212:11000?security=reality&flow=xtls-rprx-vision&sni=s0.awsstatic.com&type=tcp&fp=firefox&pbk=sFRyah8EOSGcab8TfIdkq53c5HBSwAVfYQCyvZ0_BG4#ARISTA🔥
 vless://d706bf16-124a-417b-aaa0-0d6d5efd58fd@38.60.212.251:29059?security=reality&encryption=none&pbk=V_eMkcHXf237wGyfggMHHRvQqw51rW1UJPEIw_T2IE4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=mensura.cdn-apple.com&sid=6ba85179e30d4fc2#ARISTA🔥
 vless://d6b62381-8d75-4a0c-9946-bf8f40772afe@178.239.126.118:2443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=pizzastrada.jp#ARISTA🔥
 vless://aa7f42cc-616f-4550-9a87-4b85bb409121@139.162.83.106:4399?encryption=none&type=ws&host=vless3.datatestvless.click&path=%2F%3Fed%3D2560&security=tls&sni=vless3.datatestvless.click#ARISTA🔥

@@ -1,9 +1,9 @@
 {
   "country": "VN",
-  "total_configs": 90,
+  "total_configs": 86,
   "by_protocol": {
     "vmess": 1,
-    "ss": 89
+    "ss": 85
   },
-  "updated": "2026-02-14 10:44:36"
+  "updated": "2026-02-14 11:42:31"
 }

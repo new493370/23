@@ -1,6 +1,10 @@
 # CR - VLESS Configurations
-# Updated: 2026-02-14 10:44:36
-# Count: 2
+# Updated: 2026-02-14 11:42:31
+# Count: 6
 
+vless://e765eb5b-8442-40e3-9532-857ba5ececa7@190.93.245.94:443?encryption=none&type=grpc&mode=gun&security=tls&sni=vbox.ping-box.com&alpn=h2,http/1.1#ARISTA🔥
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@190.93.245.94:2096?security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#ARISTA🔥
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@190.93.245.94:2096?security=tls&encryption=none&type=ws&sni=sni.111000.indevs.in#ARISTA🔥
+vless://dd6af632-e4bb-400a-922f-43f75ec89d64@190.93.245.94:443?mode=auto&path=%2Fv1%2Fapi%2Fsync%2Ff47ac10b58cc4372a5670e02b2c3d479&security=tls&alpn=h2&encryption=none&insecure=0&host=api-ws-de.nxping.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=api-ws-de.nxping.ir#ARISTA🔥
 vless://e765eb5b-8442-40e3-9532-857ba5ececa7@190.93.245.94:443?mode=gun&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&type=grpc&allowInsecure=0&sni=vbox.ping-box.com#ARISTA🔥
+vless://dd6af632-e4bb-400a-922f-43f75ec89d64@190.93.245.94:443?encryption=none&type=xhttp&mode=auto&host=api-ws-de.nxping.ir&path=/v1/api/sync/f47ac10b58cc4372a5670e02b2c3d479&security=tls&fp=chrome&sni=api-ws-de.nxping.ir&alpn=h2#ARISTA🔥

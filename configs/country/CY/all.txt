@@ -1,14 +1,7 @@
 # CY - All Configurations
-# Updated: 2026-02-14 19:46:21
-# Total Count: 13
+# Updated: 2026-02-14 20:05:36
+# Total Count: 6
 
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@45.82.251.95:8880?mode=gun&security=&encryption=none&type=grpc#ARISTA🔥
-vless://401374e6-df77-41fb-f638-dad8184f175b@45.82.251.34:80?mode=gun&security=&encryption=none&type=grpc#ARISTA🔥
-vless://75e1fde7-6bf6-48ef-ba43-400e960e185b@45.15.178.124:80?encryption=none&security=none&type=ws&path=%2Fvless%2F#ARISTA🔥
-vless://93a20fae-54f4-4e25-93ef-995b3e52fc04@45.83.140.204:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=tradingview.com&fp=chrome&pbk=61Svf2Pd08DRvSgCHyI_J-F7lhPLd_hg3mS_byFl_h0&sid=cefa7ca418bd0dcb&type=tcp&headerType=none#ARISTA🔥
-vless://6a175b1f-fcdf-4dd6-9303-c34875209bc6@103.27.158.56:443?security=reality&sni=gmail.com&alpn=h2&fp=chrome&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&type=tcp&flow=xtls-rprx-vision&encryption=none&short_id=EEdGXVZYQVFJEk1FF1xGXQ#ARISTA🔥
-vless://6432bbec-c4c0-4837-9aa3-82e79def5017@5.253.41.152:8443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=tradingview.com&fp=chrome&security=reality&pbk=CwOLLTLuQN1SPzvenr_B_ErYYoOB_ScSvGvH-iYOtF8&sid=83780413c2ad3eaa#ARISTA🔥
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@45.82.251.116:8880?type=grpc&path=%2f#ARISTA🔥
 vless://6432bbec-c4c0-4837-9aa3-82e79def5017@5.253.41.208:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=tradingview.com&fp=chrome&security=reality&pbk=CwOLLTLuQN1SPzvenr_B_ErYYoOB_ScSvGvH-iYOtF8&sid=83780413c2ad3eaa#ARISTA🔥
 vless://6432bbec-c4c0-4837-9aa3-82e79def5017@5.253.41.208:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=tradingview.com&alpn=networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-&fp=chrome&security=reality&pbk=CwOLLTLuQN1SPzvenr_B_ErYYoOB_ScSvGvH-iYOtF8&sid=83780413c2ad3eaa#ARISTA🔥
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@134.255.210.49:990#ARISTA🔥

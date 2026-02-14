@@ -1,5 +1,5 @@
 # EE - All Configurations
-# Updated: 2026-02-14 07:52:25
+# Updated: 2026-02-14 08:54:09
 # Total Count: 33
 
 vless://3f426ef7-a809-4d46-921c-cc80b6cee4e0@64.188.82.15:4443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.cloudflare.com&security=reality&pbk=Xdv74Eyj4Pc0fEMAg4kvCfdgj6YHkhbwbfKFGcB7MVg&sid=45ba24d332fd2f44#ARISTA🔥
@@ -17,8 +17,8 @@ vless://5b16ec53-450a-4bd5-8db5-dcd74a1863ff@144.31.178.150:8080?encryption=none
 vless://ca911bd2-e08f-42d8-aefb-3117494d3367@144.31.178.168:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=tbankru.outlinekeys.net&fp=chrome&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA&type=tcp&headerType=none#ARISTA🔥
 vless://59edf6dc-b1f7-4017-8107-aae4f61a173c@144.31.178.150:8080?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ads.x5.ru&fp=chrome&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA&type=tcp&headerType=none#ARISTA🔥
 vless://1c5f7c8c-e49a-4cf3-9ca9-ff4497eda5f1@144.31.178.150:8080?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ads.x5.ru&fp=chrome&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA&type=tcp&headerType=none#ARISTA🔥
-vless://ce7f5e28-d72d-4006-8d70-f428a4721910@144.31.178.168:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=tbankru.outlinekeys.net&fp=firefox&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA&type=tcp&headerType=none#ARISTA🔥
 vless://3ff03067-b0dd-4361-a21f-27bb9474b9b8@144.31.178.168:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=tbankru.outlinekeys.net&fp=chrome&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA&type=tcp&headerType=none#ARISTA🔥
+vless://ce7f5e28-d72d-4006-8d70-f428a4721910@144.31.178.168:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=tbankru.outlinekeys.net&fp=firefox&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA&type=tcp&headerType=none#ARISTA🔥
 vless://1c5f7c8c-e49a-4cf3-9ca9-ff4497eda5f1@144.31.178.168:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=tbankru.outlinekeys.net&fp=chrome&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA&type=tcp&headerType=none#ARISTA🔥
 vless://ca911bd2-e08f-42d8-aefb-3117494d3367@144.31.178.168:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=tbankru.outlinekeys.net&fp=firefox&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA&type=tcp&headerType=none#ARISTA🔥
 vless://ede942b0-db9b-4ba4-b775-dfd66b8fc365@144.31.178.168:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=tbankru.outlinekeys.net&fp=chrome&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA&type=tcp&headerType=none#ARISTA🔥
@@ -33,5 +33,5 @@ vless://e108f3eb-4d3a-4e20-a09b-7008e333bc23@185.155.96.154:443?encryption=none&
 vless://943c4137-e92e-4fd8-a3a1-b101f41f8f62@185.73.125.42:2053?encryption=none&security=reality&sni=cdn.yektanet.com&fp=chrome&pbk=14CYRxjc3_NTNZPpIEWL3GiIxGX42Cgdtt4KLN8RoFs&sid=194ac11b09b5&spx=%2F&type=tcp&headerType=none#ARISTA🔥
 vless://3ff03067-b0dd-4361-a21f-27bb9474b9b8@144.31.178.150:8080?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ads.x5.ru&fp=chrome&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA&type=tcp&headerType=none#ARISTA🔥
 vless://c3b51967-c6a6-4dd8-8b9a-d3f410df3fd3@92.61.71.170:443?encryption=none&security=reality&sni=api.vk.com&fp=chrome&pbk=5fKz7cdGuXCLAdKyBnZTHCLA-BQbkQHO3jK_JqgJmwA&sid=2b9b26193d1221f1&spx=%2F&type=xhttp&path=%2F&mode=auto#ARISTA🔥
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@185.193.49.88:989#ARISTA🔥
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@185.193.49.88:989#ARISTA🔥
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@185.193.49.88:989#ARISTA🔥

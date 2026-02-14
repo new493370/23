@@ -1,10 +1,11 @@
 # PL - VLESS Configurations
-# Updated: 2026-02-14 07:52:25
-# Count: 28
+# Updated: 2026-02-14 08:54:09
+# Count: 29
 
-vless://121cd573-3612-4aff-8b3e-076058c565be@144.31.2.86:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=PuHKrJNt4shNVTNZ_leD7SmOI0QhxJ9SVnkV70i1xho&security=reality&sid=cbdfef7f3ede2072&sni=google.com&type=tcp#ARISTA🔥
 vless://f0e450fb-12ef-4a15-b9a0-88466d51424e@144.31.0.194:6443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=debug.resolvertest.doh.umbrella.com&sid=6ba85179e30d4fc2#ARISTA🔥
 vless://ccedb1b1-35f3-46d1-a85a-c699eef5f3e1@144.31.3.30:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=poland.scroogethebest.com&fp=chrome&security=reality&pbk=AYQOZFxjvHN-RIzKYEibwFiFsp03cdlWGdCmyFfuNVc&sid=4fa44664f6a566d3#ARISTA🔥
+vless://ccedb1b1-35f3-46d1-a85a-c699eef5f3e1@144.31.3.30:443?security=reality&encryption=none&pbk=AYQOZFxjvHN-RIzKYEibwFiFsp03cdlWGdCmyFfuNVc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=poland.scroogethebest.com&sid=4fa44664f6a566d3#ARISTA🔥
+vless://121cd573-3612-4aff-8b3e-076058c565be@144.31.2.86:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=PuHKrJNt4shNVTNZ_leD7SmOI0QhxJ9SVnkV70i1xho&security=reality&sid=cbdfef7f3ede2072&sni=google.com&type=tcp#ARISTA🔥
 vless://457c367f-ac78-4641-9846-dd880332f7cf@195.3.223.6:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=pl.jojack.ru&fp=chrome&security=reality&pbk=hSTtlpXKAYVVu5ybX3hQfq8dfsUrO_HoFVgfGGoCHVw&sid=06493d73f37c8a90#ARISTA🔥
 vless://457c367f-ac78-4641-9846-dd880332f7cf@195.3.223.143:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=pl.jojack.ru&fp=chrome&security=reality&pbk=hSTtlpXKAYVVu5ybX3hQfq8dfsUrO_HoFVgfGGoCHVw&sid=9f6c7ec9f6434a4f#ARISTA🔥
 vless://457c367f-ac78-4641-9846-dd880332f7cf@195.3.223.6:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=pl.jojack.ru&fp=chrome&security=reality&pbk=hSTtlpXKAYVVu5ybX3hQfq8dfsUrO_HoFVgfGGoCHVw&sid=9f6c7ec9f6434a4f#ARISTA🔥

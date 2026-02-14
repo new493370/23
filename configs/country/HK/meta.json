@@ -1,11 +1,11 @@
 {
   "country": "HK",
-  "total_configs": 16,
+  "total_configs": 17,
   "by_protocol": {
-    "vmess": 5,
+    "vmess": 6,
     "vless": 4,
     "trojan": 2,
     "ss": 5
   },
-  "updated": "2026-02-14 07:52:25"
+  "updated": "2026-02-14 08:54:09"
 }

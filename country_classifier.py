@@ -81,6 +81,136 @@ class IPAPIClient:
         
         return None
 
+class ASNBasedCountryDetector:
+    def __init__(self):
+        self.asn_cache = {}
+        self.ir_asn_list = self.load_ir_asn_list()
+        self.cache_file = "configs/country/asn_cache.json"
+        self.load_cache()
+        
+    def load_ir_asn_list(self):
+        return {
+            12880: "ITC", 197207: "MCI", 31549: "Shatel", 42337: "ParsOnline",
+            16322: "TIC", 44244: "IranCell", 57218: "Rightel", 202468: "Aparat",
+            205585: "NoyanAbr", 60617: "Asiatech", 25184: "Afranet", 48159: "Fanap",
+            41186: "AriaHost", 209371: "ParsHost", 203429: "HostIran", 205119: "Pishgaman",
+            396982: "ArvanCloud", 212216: "DERAK", 205275: "SabaHost", 203476: "Pardazesh",
+            207210: "WebHosting", 208375: "IRServer", 209296: "Mizban", 210311: "ParsData",
+            61176: "Asiatech", 24635: "MarkazeDade", 6734: "ShirazUniversity",
+            2590: "RayanFannavari", 45040: "AriaRayan", 51043: "AsreBamdad",
+            51450: "IranServer", 51659: "MabnaHost", 51883: "ParsHosting",
+            51909: "SabaHosting", 52049: "TOSAN", 52249: "WebAria", 52429: "ArianHost",
+            52786: "DataCenterIran", 52873: "Farasaand", 52993: "HivaHosting",
+            53126: "IranHost", 53237: "KaraHost", 53422: "MizbanHost", 53588: "NoyanHost",
+            53717: "ParsianHost", 53891: "SabaData", 53939: "TosanHost", 54113: "AriaHosting",
+            54321: "BamdadHost", 54567: "ChabokHost", 54789: "DataHost", 54901: "EcoHost",
+            55123: "FaraHost", 55345: "GitiHost", 55567: "HomaHost", 55789: "IranData",
+            55901: "JavaHost", 56123: "KaraData", 56345: "LianaHost", 56567: "MabnaData",
+            56789: "NeginHost", 56901: "OmidHost", 57123: "PardisHost", 57345: "QasrHost",
+            57567: "RayanHost", 57789: "SabaData", 57901: "TabanHost", 58123: "UptimeHost",
+            58345: "ViraHost", 58567: "WebData", 58789: "XanaduHost", 58901: "YaranHost",
+            59123: "ZarinHost"
+        }
+    
+    def load_cache(self):
+        try:
+            if os.path.exists(self.cache_file):
+                with open(self.cache_file, 'r', encoding='utf-8') as f:
+                    cache_data = json.load(f)
+                    for ip, data in cache_data.items():
+                        try:
+                            timestamp = datetime.fromisoformat(data['timestamp'])
+                            if datetime.now() - timestamp < timedelta(days=7):
+                                self.asn_cache[ip] = {
+                                    'asn': data.get('asn'),
+                                    'country': data.get('country'),
+                                    'is_ir_datacenter': data.get('is_ir_datacenter', False)
+                                }
+                        except:
+                            continue
+        except:
+            pass
+    
+    def save_cache(self):
+        try:
+            os.makedirs(os.path.dirname(self.cache_file), exist_ok=True)
+            cache_data = {}
+            for ip, data in self.asn_cache.items():
+                cache_data[ip] = {
+                    'asn': data.get('asn'),
+                    'country': data.get('country'),
+                    'is_ir_datacenter': data.get('is_ir_datacenter', False),
+                    'timestamp': datetime.now().isoformat()
+                }
+            with open(self.cache_file, 'w', encoding='utf-8') as f:
+                json.dump(cache_data, f, ensure_ascii=False, indent=2)
+        except:
+            pass
+    
+    def get_asn_info(self, ip):
+        if ip in self.asn_cache:
+            return self.asn_cache[ip]
+        
+        try:
+            import urllib.request
+            import json
+            
+            url = f"https://api.bgpview.io/ip/{ip}"
+            with urllib.request.urlopen(url, timeout=5) as response:
+                data = json.loads(response.read().decode())
+                if data.get('status') == 'ok' and data.get('data', {}).get('prefixes'):
+                    prefixes = data['data']['prefixes']
+                    for prefix in prefixes:
+                        if prefix.get('asn'):
+                            asn_info = {
+                                'asn': prefix['asn'].get('asn'),
+                                'country': prefix['asn'].get('country_code', 'XX'),
+                                'is_ir_datacenter': False
+                            }
+                            
+                            if asn_info['asn'] in self.ir_asn_list:
+                                asn_info['is_ir_datacenter'] = True
+                                asn_info['country'] = 'IR'
+                            
+                            self.asn_cache[ip] = asn_info
+                            return asn_info
+        except:
+            pass
+        
+        try:
+            url = f"https://ipinfo.io/{ip}/json"
+            with urllib.request.urlopen(url, timeout=5) as response:
+                data = json.loads(response.read().decode())
+                if data.get('country'):
+                    asn_info = {
+                        'asn': data.get('org', '').split('AS')[-1].split()[0] if 'AS' in data.get('org', '') else None,
+                        'country': data.get('country', 'XX'),
+                        'is_ir_datacenter': False
+                    }
+                    
+                    if asn_info['asn'] and int(asn_info['asn']) in self.ir_asn_list:
+                        asn_info['is_ir_datacenter'] = True
+                        asn_info['country'] = 'IR'
+                    
+                    self.asn_cache[ip] = asn_info
+                    return asn_info
+        except:
+            pass
+        
+        return None
+    
+    def is_truly_ir_ip(self, ip):
+        asn_info = self.get_asn_info(ip)
+        if asn_info:
+            return asn_info.get('is_ir_datacenter', False)
+        return False
+    
+    def get_real_country_by_asn(self, ip):
+        asn_info = self.get_asn_info(ip)
+        if asn_info:
+            return asn_info.get('country', 'XX')
+        return 'XX'
+
 class TrustScorer:
     def __init__(self, classifier):
         self.classifier = classifier
@@ -127,6 +257,7 @@ class RealServerDetector:
     def __init__(self, classifier):
         self.classifier = classifier
         self.trust = TrustScorer(classifier)
+        self.asn_detector = ASNBasedCountryDetector()
 
     def get_real_server_ip(self, parsed):
         proto = parsed.get('type', '')
@@ -156,7 +287,14 @@ class RealServerDetector:
         if not ip:
             return 'XX'
         
-        return self.classifier.get_country_from_ip(ip)
+        asn_based_country = self.asn_detector.get_real_country_by_asn(ip)
+        
+        if asn_based_country and asn_based_country != 'XX':
+            return asn_based_country
+        
+        geoip_country = self.classifier.get_country_from_ip(ip)
+        
+        return geoip_country
 
 class CountryClassifier:
     def __init__(self):
@@ -234,6 +372,7 @@ class CountryClassifier:
                 json.dump(cache_data, f, ensure_ascii=False, indent=2)
             
             self.ipapi_client.save_cache()
+            self.real_detector.asn_detector.save_cache()
         except:
             pass
     
@@ -679,14 +818,14 @@ class CountryClassifier:
         with open('configs/country/summary.json', 'w', encoding='utf-8') as f:
             json.dump(country_summary, f, ensure_ascii=False, indent=2)
         
-        readme_content = f"""# 🌍 Country-Based Configurations
+        readme_content = f"""# Country-Based Configurations
 Last Updated: {timestamp}
 Total Countries: {len(country_summary)}
 Total Valid Configs: {sum(c['total'] for c in country_summary.values())}
 Failed/Invalid: {failed}
 CDN/Proxy Skipped: {cdn_skipped}
 
-## 📊 Available Countries
+## Available Countries
 """
         for country, info in sorted(country_summary.items(), key=lambda x: x[1]['total'], reverse=True):
             readme_content += f"\n- **{country}**: {info['total']} configs ({', '.join(info['protocols'])})"
@@ -722,22 +861,22 @@ CDN/Proxy Skipped: {cdn_skipped}
 
 def main():
     print("=" * 60)
-    print("🌍 COUNTRY CLASSIFIER - REAL SERVER IP DETECTION")
+    print(" COUNTRY CLASSIFIER - REAL SERVER IP DETECTION WITH ASN")
     print("=" * 60)
     
     classifier = CountryClassifier()
     
-    print("\n📥 Updating GeoIP database...")
+    print("\n Updating GeoIP database...")
     if classifier.update_geoip_database():
-        print("✅ GeoIP database updated")
+        print(" GeoIP database updated")
         classifier.init_geoip()
     else:
-        print("⚠️ Using existing GeoIP database")
+        print(" Using existing GeoIP database")
     
-    print("\n📁 Processing combined configurations...")
+    print("\n Processing combined configurations...")
     
     if not os.path.exists('configs/combined/all.txt'):
-        print("❌ No combined configs found")
+        print(" No combined configs found")
         return
     
     country_results = {}
@@ -758,7 +897,7 @@ def main():
     total_failed += failed
     total_cdn_skipped += cdn_skipped
     
-    print(f"\n📊 Classification Results:")
+    print(f"\n Classification Results:")
     print(f"  Total configs processed: {total_processed}")
     print(f"  Valid configs: {total_processed - total_failed - total_cdn_skipped}")
     print(f"  Failed/invalid: {total_failed}")
@@ -771,7 +910,7 @@ def main():
         country_count, total_saved = classifier.save_country_files(
             country_results, total_processed, total_failed, total_cdn_skipped
         )
-        print(f"\n✅ Saved configurations for {country_count} countries")
+        print(f"\n Saved configurations for {country_count} countries")
         print(f"  Total configs by country: {total_saved}")
     
     classifier.save_cache()
@@ -782,12 +921,12 @@ def main():
     )[:10]
     
     if top_countries:
-        print("\n🏆 Top 10 Countries:")
+        print("\n Top 10 Countries:")
         for country, count in top_countries:
             print(f"  {country}: {count} configs")
     
     print("\n" + "=" * 60)
-    print("✅ COUNTRY CLASSIFICATION COMPLETE")
+    print(" COUNTRY CLASSIFICATION COMPLETE")
     print("=" * 60)
 
 if __name__ == "__main__":

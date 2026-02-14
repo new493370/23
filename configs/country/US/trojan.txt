@@ -1,8 +1,8 @@
 # US - TROJAN Configurations
-# Updated: 2026-02-14 20:05:36
+# Updated: 2026-02-14 20:45:18
 # Count: 4
 
-trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@23.186.200.108:11012?security=tls&headerType=none&type=tcp&sni=wus02.weyaf9sdoh2h.space#ARISTA🔥
 trojan://telegram-id-directvpn@18.216.109.12:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#ARISTA🔥
 trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@23.186.200.107:11011?security=tls&headerType=none&type=tcp&sni=wus01.weyaf9sdoh2h.space#ARISTA🔥
+trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@23.186.200.108:11012?security=tls&headerType=none&type=tcp&sni=wus02.weyaf9sdoh2h.space#ARISTA🔥
 trojan://tpCznR-P5%3DjZUb%23c@66.245.193.152:17126?security=tls&headerType=none&type=tcp&sni=ctaldikgfyw.uefahpgsyz.click#ARISTA🔥

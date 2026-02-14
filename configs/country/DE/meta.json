@@ -1,12 +1,12 @@
 {
   "country": "DE",
-  "total_configs": 403,
+  "total_configs": 394,
   "by_protocol": {
-    "vmess": 30,
-    "vless": 300,
-    "trojan": 25,
-    "ss": 38,
-    "hysteria2": 10
+    "vmess": 25,
+    "vless": 298,
+    "trojan": 26,
+    "ss": 33,
+    "hysteria2": 12
   },
-  "updated": "2026-02-13 23:51:32"
+  "updated": "2026-02-14 02:45:19"
 }

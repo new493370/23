@@ -1,10 +1,10 @@
 # TR - VLESS Configurations
-# Updated: 2026-02-13 23:51:32
+# Updated: 2026-02-14 02:45:19
 # Count: 16
 
 vless://3dbea962-1e67-4008-8c07-c84a819b5bc8@77.83.245.173:33369?security=reality&encryption=none&pbk=szWk094FkncOx87ZSq4De5nU-1l0BLxikzvfUT5Dhms&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=yandex.ru&sid=3b05335afef11254#ARISTA🔥
-vless://a54f4e68-66a9-450e-949b-c97cc46b55ae@185.39.204.27:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=sun1-90.userapi.com&fp=&pbk=fsQFwBuDqsc-AylhF85Yu4jI81hn7LkYtNQCT5FFyiw&sid=#ARISTA🔥
 vless://f6036ea2-911e-4287-93fb-d3ac2b21135b@185.39.204.27:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=sun1-90.userapi.com&fp=&pbk=fsQFwBuDqsc-AylhF85Yu4jI81hn7LkYtNQCT5FFyiw&sid=#ARISTA🔥
+vless://c10999b4-7f93-5a50-3908-1467b1e52ae2@155.212.110.2:993?security=reality&encryption=none&pbk=GfTzhy59k9CXlAdF819OUVeBdrqIILaDIWa1bddjGnA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=speed.cloudflare.com#ARISTA🔥
 vless://6d9a7312-5021-40b0-9e2b-d08b6ef0d917@45.136.5.109:7443?security=none&encryption=none&headerType=none&type=tcp#ARISTA🔥
 vless://a0c62a1e-2360-4586-81d8-e5db7ff0599e@45.136.5.84:8880?security=none&serviceName=Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH&encryption=none&headerType=none&type=tcp#ARISTA🔥
 vless://9ff046dd-1e63-445a-8d7c-e8e376ce5e51@tr.mizbanandata.com:443?security=reality&encryption=none&pbk=YWfCdTnr4FAOMYTY2dLrMtQUokyxOGpPhYEEszPj20E&headerType=none&fp=firefox&type=tcp&sni=jetbrains.com&sid=fd1dff03520d8f56#ARISTA🔥

@@ -1,8 +1,9 @@
 # AE - VLESS Configurations
-# Updated: 2026-02-13 23:51:32
-# Count: 22
+# Updated: 2026-02-14 02:45:19
+# Count: 23
 
 vless://eb071647-72a6-46be-8e89-ff3d228d52f6@144.31.128.129:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=ae.cdn.stun.su&fp=chrome&security=reality&pbk=xJIswEHrphk8LCn-DyJxw4uypPkouxPgNsfiyjRU-3w&sid=41a0b29e95aaea87#ARISTA🔥
+vless://fd058cd3-55fa-43ce-a634-1920b7d12c45@104.128.134.181:34816/?type=tcp&encryption=none&flow=#ARISTA🔥
 vless://ea2b13ab-1997-4209-ab45-a643361e4da4@v1.vcan7.sbs:9091?security=none&encryption=none&headerType=none&type=tcp#ARISTA🔥
 vless://871e1c55-f4e7-4c6a-8d9f-0957f98d1fe5@93.127.180.224:123?security=none&serviceName=Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH&encryption=none&headerType=none&type=tcp#ARISTA🔥
 vless://507d5567-1c19-485c-e481-2361a89615dc@185.45.194.29:39571?type=tcp&security=reality&sni=www.digikala.com&pbk=S-g0oP36DShii1uPOnZDSEhp_wQghX6h68PgMivOmD4&flow=xtls-rprx-vision&fp=chrome#ARISTA🔥

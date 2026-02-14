@@ -1,5 +1,5 @@
 # IT - All Configurations
-# Updated: 2026-02-13 23:51:32
+# Updated: 2026-02-14 02:45:19
 # Total Count: 26
 
 vless://854eea7a-c834-4f62-9e17-ae63d1086f36@89.150.48.171:443/?type=tcp&encryption=none&flow=&sni=pt1vless.instavpn.ru&fp=chrome&security=reality&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&sid=868419504747f6de#ARISTA🔥
@@ -22,7 +22,7 @@ vless://6416708c-eaa5-4ec5-b652-a2db2feab875@217.12.219.51:443?encryption=none&f
 vless://4583d428-8ff9-4000-bcbd-953fe8c8df17@realmadrid2italy1seriea.q.aparat-archive.ir:8880?security=reality&amp;encryption=none&amp;pbk=Pyq2phArGYw2shJNqNQ6f6pF_eb4AVo_lI6a7lgHd0k&amp;headerType=none&amp;fp=firefox&amp;type=tcp&amp;sni=max.ru&amp;sid=2ad726e6b28daf57#ARISTA🔥
 trojan://OdgHycGphesfLmPMYolUF@172.238.229.254:14051?security=tls&headerType=none&type=tcp&sni=api.avito.ru#ARISTA🔥
 trojan://OdgHycGphesfLmPMYolUF@172.238.229.254:14051?security=tls&amp;headerType=none&amp;type=tcp&amp;sni=api.avito.ru#ARISTA🔥
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRNHQ4VDdoRVlZM21EMkZuNHdueHlLNFgzNUFVenZSOA==@176.126.83.121:443#ARISTA🔥
+ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206ZXQxc2doMWlRYVd6c3cyMDFKWDJlZXhOMUFpNlFtSUdjWklsdmxDNUw1ND0@57.131.42.19:8390#ARISTA🔥
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206ZXRVOC9mdkNWUGFxbUtrWFY2Ylg4djhVTEk0RmNoK0VLdmcxOU1vRVRMaz0@57.131.41.129:8390#ARISTA🔥
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTd1RTaFhZU1FkNDA0RklTczhORmVK@38.180.195.193:443#ARISTA🔥
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206ZXQxc2doMWlRYVd6c3cyMDFKWDJlZXhOMUFpNlFtSUdjWklsdmxDNUw1ND0@57.131.42.19:8389#ARISTA🔥

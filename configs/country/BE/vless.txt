@@ -1,5 +1,7 @@
 # BE - VLESS Configurations
-# Updated: 2026-02-13 23:51:32
-# Count: 1
+# Updated: 2026-02-14 02:45:19
+# Count: 3
 
 vless://f6036ea2-911e-4287-93fb-d3ac2b21135b@113.30.152.46:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=telegavpn.com&fp=&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA&sid=#ARISTA🔥
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@38.180.18.207:8443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#ARISTA🔥
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@38.180.18.207:8443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg@zdyz2#ARISTA🔥

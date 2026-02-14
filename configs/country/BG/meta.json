@@ -1,10 +1,10 @@
 {
   "country": "BG",
-  "total_configs": 15,
+  "total_configs": 16,
   "by_protocol": {
     "vmess": 8,
-    "vless": 4,
+    "vless": 5,
     "ss": 3
   },
-  "updated": "2026-02-14 02:45:19"
+  "updated": "2026-02-14 03:35:58"
 }

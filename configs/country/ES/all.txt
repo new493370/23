@@ -1,10 +1,7 @@
 # ES - All Configurations
-# Updated: 2026-02-14 02:45:19
-# Total Count: 6
+# Updated: 2026-02-14 03:35:58
+# Total Count: 3
 
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.114.72.67:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=/tg@zdyz2#ARISTA🔥
+vless://c963ea66-7107-4351-8ded-f54a2658bb84@199.232.33.8:80?mode=packet-up&security=none&encryption=none&host=foxfox.global.ssl.fastly.net.&type=xhttp#ARISTA🔥
 vless://613725ab-ca86-4d54-852e-a0bf45e812de@83.147.18.219:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=allison.kosmolet.xyz&fp=chrome&security=reality&pbk=UgCLC1JdwUh-hgpvSfndN1tuH98620gziTq2UB0gOjI&sid=a369bfe440aba1a2#ARISTA🔥
-vless://704145ac-10c0-4cd9-b945-fd0e4e6ddc22@tunnyl.ru:443?security=reality&encryption=none&pbk=llUN5iiAQwwKwiAp7zCwfU8wNz7F4lg__e9Qdv_gkWs&headerType=none&fp=random&spx=%2F&type=tcp&sni=google.com&sid=0f1d6a#ARISTA🔥
-vless://72fb3bd4-75dd-488a-9af7-c391321ecfcc@velsanto.online:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=tradingview.com&fp=chrome&pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&sid=04bf0403f96e5b4b&type=tcp&headerType=none#ARISTA🔥
-vless://72fb3bd4-75dd-488a-9af7-c391321ecfcc@velsanto.online:8443?flow=xtls-rprx-vision&security=reality&encryption=none&sni=tradingview.com&fp=chrome&pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&sid=04bf0403f96e5b4b&type=tcp&path=%2f#ARISTA🔥
-vless://72fb3bd4-75dd-488a-9af7-c391321ecfcc@velsanto.online:8443?security=reality&encryption=none&pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tradingview.com&sid=04bf0403f96e5b4b#ARISTA🔥
+vless://2262242d-1b1c-481c-b60d-cde0e6a48bb2@185.251.80.0:80?encryption=none&type=ws&host=filma.video-fun-new.com.de&path=/Mv3kv92GcD3E2KuHxT&security=none#ARISTA🔥

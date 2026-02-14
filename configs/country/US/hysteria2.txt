@@ -1,13 +1,8 @@
 # US - HYSTERIA2 Configurations
-# Updated: 2026-02-14 02:45:19
-# Count: 9
+# Updated: 2026-02-14 03:35:58
+# Count: 4
 
 hy2://dongtaiwang.com@208.87.243.187:22222?insecure=1&sni=www.bing.com#ARISTA🔥
 hy2://37afff84-34bd-4db6-b24a-7d73d2ed48ce@107.173.127.166:25000?insecure=1&sni=www.apple.com#ARISTA🔥
 hy2://37afff84-34bd-4db6-b24a-7d73d2ed48ce@198.23.130.211:25000?insecure=1&sni=api.push.apple.com#ARISTA🔥
-hysteria2://e42a38c4-4bea-42d6-90f1-3076e12f8c51@lsus3.lansecs.top:58338?sni=lsus3.lansecs.top&insecure=1#ARISTA🔥
 hysteria2://dongtaiwang.com@208.87.243.187:22222?security=tls&insecure=1&sni=www.bing.com#ARISTA🔥
-hysteria2://17cdeb6c-f046-11ee-bdac-f23c93141fad@6adab57e-t53wg0-tdvgqe-2gok.la.shifen.uk:1743?security=tls&insecure=0&sni=6adab57e-t53wg0-tdvgqe-2gok.la.shifen.uk#ARISTA🔥
-hysteria2://17cdeb6c-f046-11ee-bdac-f23c93141fad@c37b0be5n-t3kyo0-t3lvgh-2gok.la.shifen.uk:1743?security=tls&insecure=1&sni=🔒#ARISTA🔥
-hysteria2://35295012-e8a6-4f7a-b372-9bb21b6cbc2b@us-ak.raygo01.top:30002?sni=us-ak.raygo01.top&obfs=none&insecure=1#ARISTA🔥
-hysteria2://35295012-e8a6-4f7a-b372-9bb21b6cbc2b@us-ak1.smt001.top:30000?sni=us-ak1.smt001.top&obfs=none&insecure=1#ARISTA🔥

@@ -1,10 +1,10 @@
 {
   "country": "TR",
-  "total_configs": 37,
+  "total_configs": 31,
   "by_protocol": {
-    "vmess": 8,
-    "vless": 16,
+    "vmess": 4,
+    "vless": 14,
     "ss": 13
   },
-  "updated": "2026-02-14 02:45:19"
+  "updated": "2026-02-14 03:35:58"
 }

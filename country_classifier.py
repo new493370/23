@@ -81,9 +81,52 @@ class IPAPIClient:
         
         return None
 
+class TrustScorer:
+    def __init__(self, classifier):
+        self.classifier = classifier
+
+    def score(self, parsed):
+        score = 0
+        t = parsed.get('type', '')
+        host = parsed.get('host', '')
+        original = parsed.get('original', '')
+        
+        if self.classifier.is_valid_ip(host):
+            score += 2
+        
+        if t in ['vless', 'trojan', 'ss']:
+            score += 1
+        
+        if t == 'vmess':
+            net = parsed.get('dict', {}).get('net', '')
+            if net == 'tcp':
+                score += 1
+        
+        if 'type=ws' not in original and 'type=grpc' not in original:
+            score += 1
+        
+        if 'host=' not in original:
+            score += 2
+        
+        for cdn in self.classifier.cdn_domains:
+            if cdn in original:
+                return 0
+        
+        if 'reality' not in original:
+            score += 3
+        
+        if 'path=' not in original:
+            score += 1
+        
+        if 'security=' not in original:
+            score += 2
+        
+        return score
+
 class RealServerDetector:
     def __init__(self, classifier):
         self.classifier = classifier
+        self.trust = TrustScorer(classifier)
 
     def get_real_server_ip(self, parsed):
         proto = parsed.get('type', '')
@@ -103,11 +146,16 @@ class RealServerDetector:
         return None
 
     def get_real_country(self, parsed):
+        score = self.trust.score(parsed)
+        
+        if score < 7:
+            return 'XX'
+        
         ip = self.get_real_server_ip(parsed)
-
+        
         if not ip:
             return 'XX'
-
+        
         return self.classifier.get_country_from_ip(ip)
 
 class CountryClassifier:

@@ -1,11 +1,11 @@
 {
   "country": "FI",
-  "total_configs": 67,
+  "total_configs": 63,
   "by_protocol": {
     "vmess": 3,
-    "vless": 58,
+    "vless": 54,
     "trojan": 3,
     "ss": 3
   },
-  "updated": "2026-02-14 05:43:13"
+  "updated": "2026-02-14 07:05:48"
 }

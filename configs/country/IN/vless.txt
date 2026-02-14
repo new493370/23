@@ -1,7 +1,10 @@
 # IN - VLESS Configurations
-# Updated: 2026-02-14 05:43:13
-# Count: 3
+# Updated: 2026-02-14 07:05:48
+# Count: 6
 
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@148.113.43.228:2053?encryption=none&security=tls&sni=sni.111000.indevs.in&insecure=0&allowInsecure=0&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#ARISTA🔥
+vless://309fa273-6579-4cb2-9143-7cad50401eba@45.88.183.100:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY&sid=7cad5040&type=tcp&headerType=none#ARISTA🔥
+vless://5a54a377-a9d3-4ea5-b7b0-17bd899e202d@45.89.105.56:8443?security=tls&sni=pq-india1.09vpn.com&type=ws&path=%2Fvless%2F&allowInsecure=1#ARISTA🔥
 vless://08704c01-7edb-454a-98a2-328ccb9936fa@45.88.183.156:12794?security=none&encryption=none&headerType=none&type=tcp#ARISTA🔥
 vless://51905fd3-29de-4b4e-b351-83542f1d5390@104.22.33.78:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=Bia.alLhub.Ltd&type=ws&sni=Bia.alLhub.Ltd#ARISTA🔥
 vless://1edafc20-cffb-4921-bb2b-f00ce9864c5c@45.88.183.157:23803?security=&encryption=none&headerType=none&type=tcp#ARISTA🔥

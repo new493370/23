@@ -1,10 +1,12 @@
 # KR - All Configurations
-# Updated: 2026-02-14 05:43:13
-# Total Count: 8
+# Updated: 2026-02-14 07:05:48
+# Total Count: 10
 
 vmess://eyJ2IjoiMiIsInBzIjoiQVJJU1RB8J+UpSIsImFkZCI6IjE1Mi42Ny4yMjMuMTg3IiwicG9ydCI6IjEzNzc0IiwidHlwZSI6Im5vbmUiLCJpZCI6IjVkYTM1ZTE2LTBhZjctNDdjYy1lZDczLTI2OTgyNGNjYjFhMiIsImFpZCI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsImhvc3QiOiJhYTEubGl1bWVpdC54eXoiLCJ0bHMiOiIifQ==
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@144.24.84.212:49888?encryption=none&security=tls&sni=sni.111000.indevs.in&fp=chrome&insecure=1&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26telegram%F0%9F%87%A8%F0%9F%87%B3+@wangcai2#ARISTA🔥
 vless://afbe1a05-e39b-4fab-ace7-f01d56a3001b@27.102.137.127:11000?security=reality&flow=xtls-rprx-vision&sni=s0.awsstatic.com&type=tcp&fp=edge&pbk=sFRyah8EOSGcab8TfIdkq53c5HBSwAVfYQCyvZ0_BG4#ARISTA🔥
+vless://c2b6ef4f-58b5-34df-a9b2-b9423df641d9@47.80.8.8:443?security=tls&flow=xtls-rprx-vision&sni=u729804u2dcas457.okgg.top&type=tcp&host=s457.okgg.top&fp=random#ARISTA🔥
+vless://e108f3eb-4d3a-4e20-a09b-7008e333bc23@78.153.150.87:443?security=reality&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&type=tcp&fp=chrome&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=86e999a2cdc2#ARISTA🔥
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5MDdlOTFlZGY4NDgyNmMz@154.90.62.145:46575#ARISTA🔥
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5MDdlOTFlZGY4NDgyNmMz@154.90.62.145:46576#ARISTA🔥
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5MDdlOTFlZGY4NDgyNmMz@154.90.62.145:46577#ARISTA🔥

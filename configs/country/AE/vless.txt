@@ -1,8 +1,9 @@
 # AE - VLESS Configurations
-# Updated: 2026-02-14 05:43:13
-# Count: 20
+# Updated: 2026-02-14 07:05:48
+# Count: 21
 
 vless://eb071647-72a6-46be-8e89-ff3d228d52f6@144.31.128.129:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=ae.cdn.stun.su&fp=chrome&security=reality&pbk=xJIswEHrphk8LCn-DyJxw4uypPkouxPgNsfiyjRU-3w&sid=41a0b29e95aaea87#ARISTA🔥
+vless://32dd5c9f-943e-4920-9db4-2e12c909a122@94.183.150.62:7773?security=&encryption=none&host=anten.ir&headerType=http&type=tcp#ARISTA🔥
 vless://6889a1d2-fb40-4fe6-ba30-8ff731799394@93.127.180.102:8880?security=&serviceName=Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH&encryption=none&headerType=&type=tcp#ARISTA🔥
 vless://fdc4e100-9979-47f2-b683-421fb19f7227@93.127.180.124:77?security=none&serviceName=Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH&encryption=none&headerType=none&type=tcp#ARISTA🔥
 vless://1b197700-e6fd-43ea-96ca-488f4c4cd731@93.127.180.128:8443?security=none&serviceName=Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH&encryption=none&headerType=none&type=tcp#ARISTA🔥

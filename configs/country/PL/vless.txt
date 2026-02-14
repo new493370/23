@@ -1,21 +1,19 @@
 # PL - VLESS Configurations
-# Updated: 2026-02-14 05:43:13
-# Count: 31
+# Updated: 2026-02-14 07:05:48
+# Count: 29
 
+vless://f0e450fb-12ef-4a15-b9a0-88466d51424e@144.31.0.194:6443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=debug.resolvertest.doh.umbrella.com&sid=6ba85179e30d4fc2#ARISTA🔥
+vless://b42f7955-3741-406f-b95a-ed7b051ae5aa@144.31.3.45:5555?security=reality&flow=xtls-rprx-vision&sni=eurofurence.org&type=tcp&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2#ARISTA🔥
 vless://ccedb1b1-35f3-46d1-a85a-c699eef5f3e1@144.31.3.30:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=poland.scroogethebest.com&fp=chrome&security=reality&pbk=AYQOZFxjvHN-RIzKYEibwFiFsp03cdlWGdCmyFfuNVc&sid=4fa44664f6a566d3#ARISTA🔥
+vless://121cd573-3612-4aff-8b3e-076058c565be@144.31.2.86:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=PuHKrJNt4shNVTNZ_leD7SmOI0QhxJ9SVnkV70i1xho&security=reality&sid=cbdfef7f3ede2072&sni=google.com&type=tcp#ARISTA🔥
 vless://457c367f-ac78-4641-9846-dd880332f7cf@195.3.223.6:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=pl.jojack.ru&fp=chrome&security=reality&pbk=hSTtlpXKAYVVu5ybX3hQfq8dfsUrO_HoFVgfGGoCHVw&sid=06493d73f37c8a90#ARISTA🔥
 vless://457c367f-ac78-4641-9846-dd880332f7cf@195.3.223.143:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=pl.jojack.ru&fp=chrome&security=reality&pbk=hSTtlpXKAYVVu5ybX3hQfq8dfsUrO_HoFVgfGGoCHVw&sid=9f6c7ec9f6434a4f#ARISTA🔥
 vless://457c367f-ac78-4641-9846-dd880332f7cf@195.3.223.6:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=pl.jojack.ru&fp=chrome&security=reality&pbk=hSTtlpXKAYVVu5ybX3hQfq8dfsUrO_HoFVgfGGoCHVw&sid=9f6c7ec9f6434a4f#ARISTA🔥
+vless://457c367f-ac78-4641-9846-dd880332f7cf@195.3.223.6:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=pl.jojack.ru&fp=chrome&security=reality&pbk=hSTtlpXKAYVVu5ybX3hQfq8dfsUrO_HoFVgfGGoCHVw&sid=af8564cc476ebf07#ARISTA🔥
 vless://457c367f-ac78-4641-9846-dd880332f7cf@195.3.223.6:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=pl.jojack.ru&fp=chrome&security=reality&pbk=hSTtlpXKAYVVu5ybX3hQfq8dfsUrO_HoFVgfGGoCHVw&sid=eeaa75fa5fd162ad#ARISTA🔥
 vless://457c367f-ac78-4641-9846-dd880332f7cf@195.3.223.143:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=pl.jojack.ru&fp=chrome&security=reality&pbk=hSTtlpXKAYVVu5ybX3hQfq8dfsUrO_HoFVgfGGoCHVw&sid=06493d73f37c8a90#ARISTA🔥
 vless://457c367f-ac78-4641-9846-dd880332f7cf@195.3.223.143:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=pl.jojack.ru&fp=chrome&security=reality&pbk=hSTtlpXKAYVVu5ybX3hQfq8dfsUrO_HoFVgfGGoCHVw&sid=eeaa75fa5fd162ad#ARISTA🔥
-vless://457c367f-ac78-4641-9846-dd880332f7cf@195.3.223.6:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=pl.jojack.ru&fp=chrome&security=reality&pbk=hSTtlpXKAYVVu5ybX3hQfq8dfsUrO_HoFVgfGGoCHVw&sid=af8564cc476ebf07#ARISTA🔥
 vless://457c367f-ac78-4641-9846-dd880332f7cf@195.3.223.6:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=pl.jojack.ru&fp=chrome&security=reality&pbk=hSTtlpXKAYVVu5ybX3hQfq8dfsUrO_HoFVgfGGoCHVw&sid=3429a41453f39be2#ARISTA🔥
-vless://b42f7955-3741-406f-b95a-ed7b051ae5aa@144.31.3.45:5555?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sid=6ba85179e30d4fc2&sni=eurofurence.org&type=tcp#ARISTA🔥
-vless://b42f7955-3741-406f-b95a-ed7b051ae5aa@144.31.3.45:5555?encryption=none&flow=xtls-rprx-vision&security=reality&sni=eurofurence.org&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2&type=tcp&headerType=none#ARISTA🔥
-vless://b42f7955-3741-406f-b95a-ed7b051ae5aa@144.31.3.45:5555?encryption=none&flow=xtls-rprx-vision&security=tls&sni=eurofurence.org&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2&insecure=0&allowInsecure=0&type=tcp&headerType=none#ARISTA🔥
-vless://b42f7955-3741-406f-b95a-ed7b051ae5aa@144.31.3.45:5555?security=reality&flow=xtls-rprx-vision&sni=eurofurence.org&type=tcp&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2#ARISTA🔥
-vless://b42f7955-3741-406f-b95a-ed7b051ae5aa@144.31.3.55:5555?security=reality&flow=xtls-rprx-vision&sni=www.vk.com&type=tcp&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2#ARISTA🔥
 vless://b5154b7e-3a59-4537-a163-1d5a73d4b4bb@146.59.116.201:443?mode=gun&security=reality&encryption=none&pbk=-q5LnD8S-F7Q6khGlle_aovNZt3fhmxCYHjbWXZvdUQ&fp=firefox&spx=%2F&type=grpc&serviceName=@V_2rayngVpn-@V_2rayngVpn-@V_2rayngVpn-@V_2rayngVpn&sni=convertio.co&sid=e3b41bfe#ARISTA🔥
 vless://c7060866-29f6-49b8-b13b-cf95dc4a0e79@146.59.116.201:443?mode=gun&security=reality&encryption=none&pbk=-q5LnD8S-F7Q6khGlle_aovNZt3fhmxCYHjbWXZvdUQ&fp=firefox&spx=%2F&type=grpc&serviceName=@V_2rayngVpn-@V_2rayngVpn-@V_2rayngVpn-@V_2rayngVpn-@V_2rayngVpn-@V_2rayngVpn-@V_2rayngVpn&sni=convertio.co&sid=e3b41bfe#ARISTA🔥
 vless://3f426ef7-a809-4d46-921c-cc80b6cee4e0@144.31.0.234:4443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.cloudflare.com&security=reality&pbk=Rwjjc5c-XBQSL4jxkL_hE7333JLS--hBvqmBWSYOemQ&sid=44ba1fa353da3a89#ARISTA🔥

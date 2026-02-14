@@ -1,5 +1,6 @@
 # AT - VLESS Configurations
-# Updated: 2026-02-14 18:22:55
-# Count: 1
+# Updated: 2026-02-14 18:57:48
+# Count: 2
 
 vless://ae0a43bc-6189-456e-9b8a-a93f39af336e@38.180.144.156:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.microsoft.com&fp=chrome&security=reality&pbk=76Cfr5qNl9BCrSb6jdkrgj0HbwfyCwj4oF6JJVhKD0s&sid=42d7234d875308a2#ARISTA🔥
+vless://ae0a43bc-6189-456e-9b8a-a93f39af336e@38.180.144.156:8443?security=reality&encryption=none&pbk=76Cfr5qNl9BCrSb6jdkrgj0HbwfyCwj4oF6JJVhKD0s&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=www.microsoft.com&sid=42d7234d875308a2#ARISTA🔥

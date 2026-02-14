@@ -1,5 +1,6 @@
 # RU - TROJAN Configurations
-# Updated: 2026-02-14 18:22:55
-# Count: 1
+# Updated: 2026-02-14 18:57:48
+# Count: 2
 
+trojan://vpn@45.82.14.144:2025?type=ws&host=dns.google.com&path=/#ARISTA🔥
 trojan://1e32fe52198848788f029c2ec244f347@212.192.14.227:9443/?type=tcp&sni=ya.ru&fp=random&security=reality&pbk=GooqN94J-NNbWxkVsDb7NIQW4xXhkMGByk58ihKwX1Q&sid=aabbccdd#ARISTA🔥

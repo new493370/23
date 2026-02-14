@@ -1,11 +1,10 @@
 {
   "country": "JP",
-  "total_configs": 29,
+  "total_configs": 28,
   "by_protocol": {
-    "vmess": 2,
     "vless": 4,
-    "trojan": 14,
+    "trojan": 15,
     "ss": 9
   },
-  "updated": "2026-02-14 18:22:55"
+  "updated": "2026-02-14 18:57:48"
 }

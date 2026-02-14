@@ -1,8 +1,9 @@
 {
   "country": "AL",
-  "total_configs": 6,
+  "total_configs": 10,
   "by_protocol": {
-    "vless": 6
+    "vmess": 2,
+    "vless": 8
   },
-  "updated": "2026-02-14 18:22:55"
+  "updated": "2026-02-14 18:57:48"
 }

@@ -1,13 +1,14 @@
 # BE - All Configurations
-# Updated: 2026-02-14 03:35:58
-# Total Count: 9
+# Updated: 2026-02-14 04:34:24
+# Total Count: 10
 
-vless://b5c3f136-f635-4d9f-ab18-6c775697f0d9@151.101.9.79:80?mode=auto&path=%2F&security=none&encryption=none&host=11Svnlet-it-happen-khafesho-Sd.global.ssl.fastly.net&type=xhttp#ARISTA🔥
 vless://1b771dab-e581-4457-b1d9-416d48ea5d8c@151.101.8.79:80?mode=auto&path=%2F&security=&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A1000000%2C%22scMaxConcurrentPosts%22%3A100%2C%22scMinPostsIntervalMs%22%3A30%2C%22xPaddingBytes%22%3A%22100-1000%22%2C%22noGRPCHeader%22%3Afalse%7D&host=7Svnlet-it-happen-khafesho-Sd.global.ssl.fastly.net&type=xhttp#ARISTA🔥
 vless://1b771dab-e581-4457-b1d9-416d48ea5d8c@151.101.8.79:80?mode=auto&path=%2F&security=none&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%201000000%2C%20%22scMaxConcurrentPosts%22%3A%20100%2C%20%22scMinPostsIntervalMs%22%3A%2030%2C%20%22xPaddingBytes%22%3A%20%22100-1000%22%2C%20%22noGRPCHeader%22%3A%20false%7D&host=7Svnlet-it-happen-khafesho-Sd.global.ssl.fastly.net&type=xhttp#ARISTA🔥
+vless://b5c3f136-f635-4d9f-ab18-6c775697f0d9@151.101.9.79:80?mode=auto&path=%2F&security=none&encryption=none&host=11Svnlet-it-happen-khafesho-Sd.global.ssl.fastly.net&type=xhttp#ARISTA🔥
+vless://59d985e1-30ef-468c-bd95-71d0f9ff443b@151.101.9.79:80?mode=auto&path=%2F&security=&encryption=none&host=2Svnlet-it-happen-khafesho-Sd.global.ssl.fastly.net&type=xhttp#ARISTA🔥
 vless://f6036ea2-911e-4287-93fb-d3ac2b21135b@113.30.152.46:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=telegavpn.com&fp=&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA&sid=#ARISTA🔥
 vless://7824420e-0129-4b28-b7a6-4fe8fd745388@113.30.152.46:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=telegavpn.com&fp=&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA&sid=#ARISTA🔥
-vless://59d985e1-30ef-468c-bd95-71d0f9ff443b@151.101.9.79:80?mode=auto&path=%2F&security=&encryption=none&host=2Svnlet-it-happen-khafesho-Sd.global.ssl.fastly.net&type=xhttp#ARISTA🔥
 vless://c175eeab-3bbd-eb23-28cf-5ddcf424b261@151.101.9.80:80?mode=auto&path=%2F&security=none&encryption=none&extra=%7B%27headers%27%3A%20%7B%7D%2C%20%27xPaddingBytes%27%3A%20%27100-1000%27%2C%20%27noGRPCHeader%27%3A%20False%2C%20%27xmux%27%3A%20%7B%7D%7D&host=lumiereproduction-cdn.global.ssl.fastly.net&type=xhttp#ARISTA🔥
-vless://TELEGRAM-NUFiLTER@151.101.9.80:80?mode=packet-up&path=%2FTELEGRAM-NUFiLTER%2CTELEGRAM-NUFiLTER%2CTELEGRAM-NUFiLTER%2CTELEGRAM-NUFiLTER%2CTELEGRAM-NUFiLTER%2CTELEGRAM-NUFiLTER%2CTELEGRAM-NUFiLTER%2CTELEGRAM-NUFiLTER%2CTELEGRAM-NUFiLTER%2CTELEGRAM-NUFiLTER%2CTELEGRAM-NUFiLTER%2CTELEGRAM-NUFiLTER%2CTELEGRAM-NUFiLTER%2CTELEGRAM-NUFiLTER%2CTELEGRAM-NUFiLTER%3Fed%3D2056&security=none&encryption=none&host=CDN-NUFiLTER.global.ssl.fastly.net&type=xhttp#ARISTA🔥
+vless://59d985e1-30ef-468c-bd95-71d0f9ff443b@151.101.9.79:80?mode=auto&path=%2F&security=none&encryption=none&host=2Svnlet-it-happen-khafesho-Sd.global.ssl.fastly.net&type=xhttp#ARISTA🔥
 vless://5a1d2c0c-abfa-4050-918f-bfab3eaee62a@151.101.9.80:80?type=ws&security=none&host=adspeedx23.global.ssl.fastly.net&path=/?ed%3D1049#ARISTA🔥
+vless://TELEGRAM-NUFiLTER@151.101.9.80:80?mode=packet-up&path=%2FTELEGRAM-NUFiLTER%2CTELEGRAM-NUFiLTER%2CTELEGRAM-NUFiLTER%2CTELEGRAM-NUFiLTER%2CTELEGRAM-NUFiLTER%2CTELEGRAM-NUFiLTER%2CTELEGRAM-NUFiLTER%2CTELEGRAM-NUFiLTER%2CTELEGRAM-NUFiLTER%2CTELEGRAM-NUFiLTER%2CTELEGRAM-NUFiLTER%2CTELEGRAM-NUFiLTER%2CTELEGRAM-NUFiLTER%2CTELEGRAM-NUFiLTER%2CTELEGRAM-NUFiLTER%3Fed%3D2056&security=none&encryption=none&host=CDN-NUFiLTER.global.ssl.fastly.net&type=xhttp#ARISTA🔥

@@ -1,9 +1,8 @@
 {
   "country": "TW",
-  "total_configs": 4,
+  "total_configs": 3,
   "by_protocol": {
-    "vmess": 1,
     "ss": 3
   },
-  "updated": "2026-02-14 03:35:58"
+  "updated": "2026-02-14 04:34:24"
 }

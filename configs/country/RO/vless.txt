@@ -1,5 +1,6 @@
 # RO - VLESS Configurations
-# Updated: 2026-02-14 13:11:38
-# Count: 1
+# Updated: 2026-02-14 14:03:35
+# Count: 2
 
 vless://f84ab055-3ffe-4a90-aad3-30596550b03c@45.12.30.95:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=beh1.salonemojallal.ir.#ARISTA🔥
+vless://f84ab055-3ffe-4a90-aad3-30596550b03c@45.12.30.95:443?path=%2F&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=ws&sni=beh1.salonemojallal.ir.#ARISTA🔥

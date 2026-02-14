@@ -2,9 +2,9 @@
   "country": "AE",
   "total_configs": 29,
   "by_protocol": {
-    "vmess": 2,
-    "vless": 22,
+    "vmess": 1,
+    "vless": 23,
     "ss": 5
   },
-  "updated": "2026-02-14 13:11:38"
+  "updated": "2026-02-14 14:03:35"
 }

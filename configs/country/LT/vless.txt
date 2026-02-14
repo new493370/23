@@ -1,13 +1,13 @@
 # LT - VLESS Configurations
-# Updated: 2026-02-14 13:11:38
+# Updated: 2026-02-14 14:03:35
 # Count: 10
 
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@89.117.112.138:2096?encryption=none&security=tls&sni=sni.111000.indevs.in&insecure=1&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26telegram%F0%9F%87%A8%F0%9F%87%B3%2B@wangcai2#ARISTA🔥
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@89.116.180.238:2096?encryption=none&security=tls&sni=sni.jpmj.dev&insecure=1&type=ws&host=sni.jpmj.dev&path=%2F%3Fed%3D2560%26telegram%F0%9F%87%A8%F0%9F%87%B3%2B@wangcai2#ARISTA🔥
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@89.116.180.238:2096?path=%2F%3Fed%3D2560%26telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40wangcai2&security=tls&encryption=none&insecure=1&host=sni.jpmj.dev&type=ws&allowInsecure=1&sni=sni.jpmj.dev#ARISTA🔥
 vless://ff6fb512-147d-419a-9672-e131133f7189@5.199.163.42:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=tradingview.com&fp=chrome&security=reality&pbk=L3X1eh1Jq_6PKJ6LlwjgiWq0XNaDOqCVKgIElJ5nkVA&sid=e0ef3d5c0aacb615#ARISTA🔥
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.52:8880?security=none&type=grpc#ARISTA🔥
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@89.116.180.238:2096?path=%2F%3Fed%3D2560%26telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40wangcai2&security=tls&encryption=none&insecure=1&host=sni.jpmj.dev&type=ws&allowInsecure=1&sni=sni.jpmj.dev#ARISTA🔥
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@89.116.180.238:2096?path=%2F%3Fed%3D2560%26telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40wangcai2&security=tls&serviseName=@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray&encryption=none&insecure=1&host=sni.jpmj.dev&type=ws&allowInsecure=1&sni=sni.jpmj.dev#ARISTA🔥
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@89.116.180.238:2096?path=%2F%3Fed%3D2560%26telegram%F0%9F%87%A8%F0%9F%87%B3%20%40wangcai2&security=tls&encryption=none&insecure=1&host=sni.jpmj.dev&type=ws&allowInsecure=1&sni=sni.jpmj.dev#ARISTA🔥
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.55:8880/?type=grpc&encryption=none#ARISTA🔥
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.52:8880?security=none&type=grpc#ARISTA🔥
 vless://5f05f5c4-13a6-4e67-85f1-93b32bf85e52@46.29.234.92:29550?security=reality&encryption=none&pbk=aPVIbZXEkHpPedX9ix1r8Km2ZV1MgpuBjN0Qxkwx1zA&headerType=none&fp=chrome&spx=%2F---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&type=tcp&sni=yandex.ru&sid=8160d3d997cdf7be#ARISTA🔥
 vless://2456f90c-5183-476d-b069-16ae74ce120f@45.146.201.253:2096?encryption=none&type=ws&path=%2F&security=tls&sni=fast01.0860852.xyz#ARISTA🔥
 vless://f1870ac5-ab5f-4255-965d-4a0476cb0b1a@195.66.25.21:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=sun1-90.userapi.com&fp=chrome&pbk=m-foGonYn9goyv5U_ffQ-DORHxz4bQ88RIJoim_n228&type=tcp&headerType=none#ARISTA🔥

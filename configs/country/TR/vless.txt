@@ -1,8 +1,7 @@
 # TR - VLESS Configurations
-# Updated: 2026-02-14 23:09:35
-# Count: 15
+# Updated: 2026-02-14 23:44:07
+# Count: 14
 
-vless://9513d442-2964-497e-8e86-5e5ee2473cf8@62.60.233.112:40092?encryption=none&security=reality&sni=yandex.ru&fp=chrome&pbk=G6TiKs7403TRZ6V6m0MONEqli3xNaQj4swPMLBu6QRc&sid=1f6481decbd9fb9d&type=tcp&headerType=none#ARISTA🔥
 vless://8aaa4ed2-0fca-48b7-bca6-5f692e278d5d@77.83.245.191:62391?security=reality&encryption=none&pbk=28C36ojKr0JugqCel9_zMI5YRzx2B2VG2TfziOhc_Qo&fp=chrome&type=tcp&sni=yandex.ru&sid=b57dc6123dbccf12#ARISTA🔥
 vless://8aaa4ed2-0fca-48b7-bca6-5f692e278d5d@77.83.245.191:62391?security=reality&encryption=none&pbk=28C36ojKr0JugqCel9_zMI5YRzx2B2VG2TfziOhc_Qo&headerType=none&fp=chrome&type=tcp&sni=yandex.ru&sid=b57dc6123dbccf12#ARISTA🔥
 vless://6d9a7312-5021-40b0-9e2b-d08b6ef0d917@45.136.5.109:7443?security=none&encryption=none&headerType=none&type=tcp#ARISTA🔥

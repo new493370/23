@@ -1,6 +1,9 @@
 # SC - VLESS Configurations
-# Updated: 2026-02-14 23:09:35
-# Count: 2
+# Updated: 2026-02-14 23:44:07
+# Count: 5
 
 vless://acd7b767-d152-4387-846f-fe42a79dedde@45.130.125.160:443?security=tls&encryption=none&insecure=0&host=idid.xxxxxx-god.shop&fp=chrome&type=ws&allowInsecure=0&sni=idid.xxxxxx-god.shop#ARISTA🔥
+vless://ac612bd4-af0f-4b25-b7b3-28a978fbeb17@45.130.125.160:2052?encryption=none&type=xhttp&mode=auto&host=pablo-n3.digionix.ir&path=/pabloping&security=none#ARISTA🔥
+vless://ac612bd4-af0f-4b25-b7b3-28a978fbeb17@45.130.125.160:2052?encryption=none&type=xhttp&mode=auto&host=pablo-n1.digionix.ir&path=/pabloping&security=none#ARISTA🔥
+vless://ac612bd4-af0f-4b25-b7b3-28a978fbeb17@45.130.125.160:2052?encryption=none&type=xhttp&mode=auto&host=pablo-n2.digionix.ir&path=/pabloping&security=none#ARISTA🔥
 vless://7ab6e0c3-4869-4a0e-8fe0-852a58a28bfb@45.130.125.160:2087?path=%2F&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=ns5.mehrsazi.ir#ARISTA🔥

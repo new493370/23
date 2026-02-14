@@ -1,41 +1,43 @@
 # IR - VLESS Configurations
-# Updated: 2026-02-14 17:17:50
-# Count: 37
+# Updated: 2026-02-14 17:43:55
+# Count: 39
 
-vless://513658c4-8988-4744-8e8b-55cf89058ef1@185.81.96.228:2095?encryption=none&type=tcp&headerType=none&security=none#ARISTA🔥
-vless://dc4651a0-39c9-4e09-81f9-ef95aa993c8e@46.38.147.4:5122?security=none&encryption=none&host=TABRIZ.NET&headerType=http&type=tcp#ARISTA🔥
-vless://17e7b169-1899-4ba3-8efa-4f10e92c9455@194.31.194.110:1257?security=none&encryption=none&host=Fast.com&headerType=http&type=tcp#ARISTA🔥
-vless://5b5c6557-d611-4c6f-a43b-a2c48c0b541d@46.102.136.69:57803?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#ARISTA🔥
-vless://118008d1-cca6-4de3-a396-a791d7d88ff9@91.239.192.64:43101?type=tcp&security=reality&headerType=none&fp=chrome&sni=cdn.yektanet.com&pbk=6bTtIB1BZJ3-ZGOn9AR7LH9khBi5BeGoDyNxsEkZP2A&spx=/#ARISTA🔥
-vless://156eab55-1e45-4632-843a-c9f3fca0e59b@193.151.155.15:7788?security=none&encryption=none&host=TELEGRAM%20_APPSOONER%20TELEGRAM%20_APPSOONER%20TELEGRAM%20_APPSOONER&headerType=none&type=tcp#ARISTA🔥
-vless://a4a941bd-fe1f-4e2e-81ad-2244e73da639@95.38.210.6:12241?encryption=none&security=none&type=tcp&headerType=none#ARISTA🔥
-vless://7e122c32-d550-4b5d-9188-037a12cf0b88@89.47.201.169:2375?encryption=none&type=grpc&mode=gun&security=tls&sni=varzesh3.com#ARISTA🔥
+vless://ff8ed07c-f05e-4343-9307-6dbb644d2ce5@94.182.169.82:8085?security=&encryption=none&host=telewebion.com&headerType=http&type=tcp#ARISTA🔥
 vless://1b0cb9ca-baf3-4721-835d-1dfa21807a65@85.133.195.202:26480?security=none&encryption=none&headerType=none&type=tcp#ARISTA🔥
 vless://049699a8-33fa-4153-b908-f78d1d653d02@85.133.195.195:26480?security=none&encryption=none&headerType=none&type=tcp#ARISTA🔥
-vless://36a246fe-b5ab-4216-93c4-699b9f886439@91.239.214.43:3055?security=none&encryption=none&headerType=none&type=tcp#ARISTA🔥
-vless://cca8470e-8180-44a4-9885-20b65cb2f59a@188.121.119.69:443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0#ARISTA🔥
-vless://3591d9e2-edbf-43f1-98dc-00eb607b8c46@85.133.197.236:9828?security=none&encryption=none&host=pro30afzar.com&headerType=http&type=tcp#ARISTA🔥
-vless://f50407c6-f465-4a6b-8a28-bbef97c4b308@85.133.253.205:4558?type=tcp&headerType=http&host=divar.ir&path=/#ARISTA🔥
-vless://ff8ed07c-f05e-4343-9307-6dbb644d2ce5@94.182.169.82:8085?security=&encryption=none&host=telewebion.com&headerType=http&type=tcp#ARISTA🔥
-vless://2130291f-50e9-43d4-d415-c85b34134d4f@193.242.125.18:80?security=none&encryption=none&headerType=none&type=tcp#ARISTA🔥
-vless://2473e31a-adbc-47e5-b58a-c294d0450812@45.11.184.233:5050?security=none&encryption=none&headerType=http&type=tcp#ARISTA🔥
-vless://2473e31a-adbc-47e5-b58a-c294d0450812@94.184.13.162:4040?security=none&encryption=none&headerType=http&type=tcp#ARISTA🔥
-vless://a98dfd2a-b021-607c-af2d-362ae38c9478@85.133.249.38:58128?security=none&encryption=none&host=myket.ir&headerType=http&type=tcp#ARISTA🔥
-vless://85a33a63-4cd8-41fe-8e36-7495946f1e61@95.38.242.222:8443?security=none&encryption=none&host=tgju.org&headerType=http&type=tcp#ARISTA🔥
-vless://a70d24ce-4dcc-860f-e016-79b06c700ef2@95.38.210.26:7165?security=none&encryption=none&host=%2F%3FBIA_TELEGRAM%40AZARBAYJAB1_AZARBAYJAB1_AZARBAYJAB1_AZARBAYJAB1&headerType=none&type=tcp#ARISTA🔥
-vless://8bbca00c-aaf5-4dac-b45c-65d04f126b5d@37.32.43.104:34963?security=none&encryption=none&headerType=none&type=tcp#ARISTA🔥
-vless://19f143e1-95dc-42f6-f4b4-0554988e876d@37.32.10.174:33269/?type=ws&path=%2F%40VPNlime&security=none#ARISTA🔥
-vless://369d67f9-3f5d-4003-94a3-979cbfd012c6@94.183.160.101:8443?security=none&encryption=none&headerType=none&type=tcp#ARISTA🔥
-vless://5557ae8d-a9b1-48d3-9921-0c99754f1589@195.190.144.214:23301?encryption=none&security=none&alpn=http%2F1.1&type=tcp&headerType=http&path=/&host=bale.ai,igap.net,soroushplus.com#ARISTA🔥
-vless://7b0066b1-5c34-4cf4-bf89-6d98da423807@37.152.179.33:777?security=none&encryption=none&headerType=none&type=tcp#ARISTA🔥
-vless://a0b21342-1836-4240-a2a8-8f97681aabb3@31.58.237.137:11992?security=none&encryption=none&headerType=none&type=tcp#ARISTA🔥
-vless://b6270a80-c51d-46c3-b7bd-f9532740bd20@87.107.82.162:8880?security=&encryption=none&host=varzesh3.com&headerType=http&type=tcp#ARISTA🔥
-vless://513658c4-8988-4744-8e8b-55cf89058ef1@185.81.96.228:2095?security=none&encryption=none&headerType=none&type=tcp#ARISTA🔥
-vless://d34caa6a-5afa-485a-bda5-084b168cfd2f@93.126.22.20:45719?security=none&encryption=none&host=Speedtest.net&headerType=http&type=tcp#ARISTA🔥
-vless://b07804eb-0c65-4b43-ac62-4ac4225ba4ff@91.236.168.126:9494?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#ARISTA🔥
-vless://0fc62dfe-6192-45b8-a51d-7597752dae64@212.33.206.206:2046?security=none&encryption=none&host=p30afzar.com&headerType=http&type=tcp#ARISTA🔥
-vless://dfc666e0-5b9d-45cf-94b9-468952deb27c@193.141.126.14:8090?security=none&encryption=none&headerType=http&type=tcp#ARISTA🔥
 vless://af54f086-e86c-49a2-9753-015b9c099ecd@78.157.39.125:25194?security=none&encryption=none&host=alibaba.ir&headerType=http&type=tcp#ARISTA🔥
-vless://31063d07-a322-49d9-c253-486d80a00201@46.38.138.221:2020?security=none&encryption=none&headerType=none&type=tcp#ARISTA🔥
+vless://dfc666e0-5b9d-45cf-94b9-468952deb27c@193.141.126.14:8090?security=none&encryption=none&headerType=http&type=tcp#ARISTA🔥
 vless://b6270a80-c51d-46c3-b7bd-f9532740bd20@87.107.82.162:8880?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#ARISTA🔥
+vless://eedf1c26-38c3-4034-a0eb-03fbb353553e@87.107.82.162:8880?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#ARISTA🔥
+vless://0fc62dfe-6192-45b8-a51d-7597752dae64@212.33.206.206:2046?security=none&encryption=none&host=p30afzar.com&headerType=http&type=tcp#ARISTA🔥
+vless://d34caa6a-5afa-485a-bda5-084b168cfd2f@93.126.22.20:45719?security=none&encryption=none&host=Speedtest.net&headerType=http&type=tcp#ARISTA🔥
+vless://513658c4-8988-4744-8e8b-55cf89058ef1@185.81.96.228:2095?security=none&encryption=none&headerType=none&type=tcp#ARISTA🔥
+vless://31063d07-a322-49d9-c253-486d80a00201@46.38.138.221:2020?security=none&encryption=none&headerType=none&type=tcp#ARISTA🔥
+vless://3fed46d5-54b7-4a00-84be-2e9bfc62148a@193.151.139.212:2086?security=none&encryption=none&headerType=none&type=tcp#ARISTA🔥
+vless://b6270a80-c51d-46c3-b7bd-f9532740bd20@87.107.82.162:8880?security=&encryption=none&host=varzesh3.com&headerType=http&type=tcp#ARISTA🔥
+vless://a0b21342-1836-4240-a2a8-8f97681aabb3@31.58.237.137:11992?security=none&encryption=none&headerType=none&type=tcp#ARISTA🔥
+vless://7b0066b1-5c34-4cf4-bf89-6d98da423807@37.152.179.33:777?security=none&encryption=none&headerType=none&type=tcp#ARISTA🔥
+vless://cca8470e-8180-44a4-9885-20b65cb2f59a@188.121.119.69:443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0#ARISTA🔥
+vless://118008d1-cca6-4de3-a396-a791d7d88ff9@91.239.192.64:43101?type=tcp&security=reality&headerType=none&fp=chrome&sni=cdn.yektanet.com&pbk=6bTtIB1BZJ3-ZGOn9AR7LH9khBi5BeGoDyNxsEkZP2A&spx=/#ARISTA🔥
+vless://a98dfd2a-b021-607c-af2d-362ae38c9478@85.133.249.38:58128?security=none&encryption=none&host=myket.ir&headerType=http&type=tcp#ARISTA🔥
+vless://2130291f-50e9-43d4-d415-c85b34134d4f@193.242.125.18:80?security=none&encryption=none&headerType=none&type=tcp#ARISTA🔥
+vless://36a246fe-b5ab-4216-93c4-699b9f886439@91.239.214.43:3055?security=none&encryption=none&headerType=none&type=tcp#ARISTA🔥
+vless://5557ae8d-a9b1-48d3-9921-0c99754f1589@195.190.144.214:23301?encryption=none&security=none&alpn=http%2F1.1&type=tcp&headerType=http&path=/&host=bale.ai,igap.net,soroushplus.com#ARISTA🔥
+vless://19f143e1-95dc-42f6-f4b4-0554988e876d@37.32.10.174:33269/?type=ws&path=%2F%40VPNlime&security=none#ARISTA🔥
+vless://513658c4-8988-4744-8e8b-55cf89058ef1@185.81.96.228:2095?encryption=none&type=tcp&headerType=none&security=none#ARISTA🔥
+vless://17e7b169-1899-4ba3-8efa-4f10e92c9455@194.31.194.110:1257?security=none&encryption=none&host=Fast.com&headerType=http&type=tcp#ARISTA🔥
+vless://a70d24ce-4dcc-860f-e016-79b06c700ef2@95.38.210.26:7165?security=none&encryption=none&host=%2F%3FBIA_TELEGRAM%40AZARBAYJAB1_AZARBAYJAB1_AZARBAYJAB1_AZARBAYJAB1&headerType=none&type=tcp#ARISTA🔥
+vless://85a33a63-4cd8-41fe-8e36-7495946f1e61@95.38.242.222:8443?security=none&encryption=none&host=tgju.org&headerType=http&type=tcp#ARISTA🔥
+vless://8bbca00c-aaf5-4dac-b45c-65d04f126b5d@37.32.43.104:34963?security=none&encryption=none&headerType=none&type=tcp#ARISTA🔥
+vless://7e122c32-d550-4b5d-9188-037a12cf0b88@89.47.201.169:2375?encryption=none&type=grpc&mode=gun&security=tls&sni=varzesh3.com#ARISTA🔥
+vless://156eab55-1e45-4632-843a-c9f3fca0e59b@193.151.155.15:7788?security=none&encryption=none&host=TELEGRAM%20_APPSOONER%20TELEGRAM%20_APPSOONER%20TELEGRAM%20_APPSOONER&headerType=none&type=tcp#ARISTA🔥
+vless://5b5c6557-d611-4c6f-a43b-a2c48c0b541d@46.102.136.69:57803?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#ARISTA🔥
+vless://dc4651a0-39c9-4e09-81f9-ef95aa993c8e@46.38.147.4:5122?security=none&encryption=none&host=TABRIZ.NET&headerType=http&type=tcp#ARISTA🔥
+vless://f50407c6-f465-4a6b-8a28-bbef97c4b308@85.133.253.205:4558?type=tcp&headerType=http&host=divar.ir&path=/#ARISTA🔥
+vless://3591d9e2-edbf-43f1-98dc-00eb607b8c46@85.133.197.236:9828?security=none&encryption=none&host=pro30afzar.com&headerType=http&type=tcp#ARISTA🔥
+vless://2473e31a-adbc-47e5-b58a-c294d0450812@94.184.13.162:4040?security=none&encryption=none&headerType=http&type=tcp#ARISTA🔥
+vless://2473e31a-adbc-47e5-b58a-c294d0450812@45.11.184.233:5050?security=none&encryption=none&headerType=http&type=tcp#ARISTA🔥
+vless://369d67f9-3f5d-4003-94a3-979cbfd012c6@94.183.160.101:8443?security=none&encryption=none&headerType=none&type=tcp#ARISTA🔥
+vless://b07804eb-0c65-4b43-ac62-4ac4225ba4ff@91.236.168.126:9494?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#ARISTA🔥
+vless://a4a941bd-fe1f-4e2e-81ad-2244e73da639@95.38.210.6:12241?encryption=none&security=none&type=tcp&headerType=none#ARISTA🔥
 vless://a98dfd2a-b021-607c-af2d-362ae38c9478@85.133.249.38:58128?security=none&amp;encryption=none&amp;host=myket.ir&amp;headerType=http&amp;type=tcp#ARISTA🔥

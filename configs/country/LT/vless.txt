@@ -1,9 +1,9 @@
 # LT - VLESS Configurations
-# Updated: 2026-02-14 08:54:09
+# Updated: 2026-02-14 09:52:09
 # Count: 6
 
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.52:8880?security=none&type=grpc#ARISTA🔥
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.55:8880/?type=grpc&encryption=none#ARISTA🔥
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.52:8880?security=none&type=grpc#ARISTA🔥
 vless://5f05f5c4-13a6-4e67-85f1-93b32bf85e52@46.29.234.92:29550?security=reality&encryption=none&pbk=aPVIbZXEkHpPedX9ix1r8Km2ZV1MgpuBjN0Qxkwx1zA&headerType=none&fp=chrome&spx=%2F---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&type=tcp&sni=yandex.ru&sid=8160d3d997cdf7be#ARISTA🔥
 vless://2456f90c-5183-476d-b069-16ae74ce120f@45.146.201.253:2096?encryption=none&type=ws&path=%2F&security=tls&sni=fast01.0860852.xyz#ARISTA🔥
 vless://f1870ac5-ab5f-4255-965d-4a0476cb0b1a@195.66.25.21:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=sun1-90.userapi.com&fp=chrome&pbk=m-foGonYn9goyv5U_ffQ-DORHxz4bQ88RIJoim_n228&type=tcp&headerType=none#ARISTA🔥

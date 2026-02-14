@@ -1,11 +1,11 @@
 {
   "country": "RU",
-  "total_configs": 487,
+  "total_configs": 506,
   "by_protocol": {
     "vmess": 10,
-    "vless": 464,
+    "vless": 481,
     "trojan": 1,
-    "ss": 12
+    "ss": 14
   },
-  "updated": "2026-02-14 20:45:18"
+  "updated": "2026-02-14 21:47:36"
 }

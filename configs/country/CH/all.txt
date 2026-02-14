@@ -1,9 +1,7 @@
 # CH - All Configurations
-# Updated: 2026-02-14 18:57:48
-# Total Count: 5
+# Updated: 2026-02-14 19:46:21
+# Total Count: 3
 
-vless://8338171d-2ea7-4015-bdea-492f3d5d4e60@5.182.36.56:45886?security=reality&encryption=none&pbk=zJeLZDPHoHMcAzBJh38tSavofNlkBrpADFx9jVVPil0&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=yahoo.com&sid=94f9#ARISTA🔥
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.18.250.238:2096?type=ws&security=tls&encryption=none&sni=sni.jpmj.dev&host=sni.jpmj.dev#ARISTA🔥
-vless://919c1334-5a4a-4eb4-930a-7576b307aa48@193.228.128.207:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=remna.whitenet.online&fp=chrome&security=reality&pbk=IG52Qcz3L4mWdUreW7GX0PKZgVxumwIkW5zzHjxgiEM&sid=#ARISTA🔥
 vless://c5fdf480-3942-4fc9-9e73-f6899c24bda6@83.228.210.214:443?security=reality&encryption=none&pbk=NQtYh_DzWbKDGV3sOdYUbYS7OQqAF-lG42J-rOm_OH0&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=ok.ru&sid=41f38b2355acf7bc#ARISTA🔥
+vless://bbed94d9-1120-4b54-8a9c-72d81e411fb8@144.31.94.99:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=google.com&fp=chrome&pbk=-1F5A8N32UdC6w2NqnAc5-GkQW1dgcrImiQPl4WRikk&sid=ef0b40e707663781&type=tcp&headerType=none#ARISTA🔥
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBeXlhUGpuS0Z0SjZNU2RVR0cwcFdu@138.124.67.26:443#ARISTA🔥

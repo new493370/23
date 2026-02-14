@@ -1,5 +1,5 @@
 # CR - VLESS Configurations
-# Updated: 2026-02-14 18:57:48
+# Updated: 2026-02-14 19:46:21
 # Count: 6
 
 vless://e765eb5b-8442-40e3-9532-857ba5ececa7@190.93.245.94:443?mode=gun&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&type=grpc&allowInsecure=0&sni=vbox.ping-box.com#ARISTA🔥

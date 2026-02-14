@@ -1,6 +1,6 @@
 # AU - VLESS Configurations
-# Updated: 2026-02-14 18:57:48
+# Updated: 2026-02-14 19:46:21
 # Count: 2
 
 vless://1e7215d7-3d4c-471b-8034-7fd953db251c@103.160.204.191:2083?path=%2F&security=tls&encryption=none&insecure=0&fp=randomized&type=ws&allowInsecure=0&sni=cdnuser.wrongguy.ir#ARISTA🔥
-vless://dda40179-f8b0-44a1-9926-bb64e7a767a7@170.64.154.27:20651?security=none&encryption=none&headerType=none&type=tcp#ARISTA🔥
+vless://c5c9d8ec-6c95-4f84-a395-de41ef895f34@37.9.54.98:443/?type=tcp&encryption=none&flow=&sni=download.cdn.yandex.net&fp=chrome&security=reality&pbk=jlnKFP7eXy5fFjmH1HD8_3A-AKbraZvJMwPE03BRuhQ&sid=9d8307f6#ARISTA🔥

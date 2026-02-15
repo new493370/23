@@ -1,8 +1,8 @@
 # EE - All Configurations
-# Updated: 2026-02-15 10:48:30
+# Updated: 2026-02-15 11:42:53
 # Total Count: 37
 
-vless://f1870ac5-ab5f-4255-965d-4a0476cb0b1a@144.31.178.150:8443?encryption=none&extra=%7B%22mode%22%3A%22stream-up%22%2C%22xmux%22%3A%7B%22cMaxReuseTimes%22%3A%2264-128%22%2C%22maxConcurrency%22%3A%228-16%22%2C%22maxConnections%22%3A0%2C%22hKeepAlivePeriod%22%3A0%2C%22hMaxRequestTimes%22%3A%22400-600%22%2C%22hMaxReusableSecs%22%3A%221800-3600%22%7D%2C%22noSSEHeader%22%3Afalse%2C%22noGRPCHeader%22%3Afalse%2C%22xPaddingBytes%22%3A%22100-1000%22%2C%22scMaxBufferedPosts%22%3A30%2C%22scMaxEachPostBytes%22%3A%22500000-1000000%22%2C%22scMinPostsIntervalMs%22%3A%2210-50%22%2C%22scStreamUpServerSecs%22%3A%2230-90%22%7D&mode=auto&path=%2Fapi%2Fv2%2Fupdates&pbk=JmO_njtIe9q7HRanm_dx4BtPAGCkycJuDskOISPx_Sg&security=reality&sni=01.img.avito.st&type=xhttp#ARISTA🔥
+vless://04f040e8-1d14-4969-94ad-6bc0ac633063@95.85.242.191:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2&sni=google.com#ARISTA🔥
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.80.110.238:2096?encryption=none&security=tls&sni=sni.jpmj.dev&fp=chrome&insecure=1&type=ws&host=sni.jpmj.dev&path=%2F%3Fed%3D2560%26telegram%F0%9F%87%A8%F0%9F%87%B3%2B@wangcai2#ARISTA🔥
 vless://4ff29b06-3b6c-44c0-892f-4a00cb98d355@95.85.224.18:7443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=chat.deepseek.com&fp=chrome&security=reality&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&sid=be0ce047#ARISTA🔥
 vless://3f426ef7-a809-4d46-921c-cc80b6cee4e0@64.188.82.15:4443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.cloudflare.com&security=reality&pbk=Xdv74Eyj4Pc0fEMAg4kvCfdgj6YHkhbwbfKFGcB7MVg&sid=45ba24d332fd2f44#ARISTA🔥

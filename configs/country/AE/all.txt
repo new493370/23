@@ -1,5 +1,5 @@
 # AE - All Configurations
-# Updated: 2026-02-15 11:42:53
+# Updated: 2026-02-15 12:03:06
 # Total Count: 28
 
 vmess://eyJhZGQiOiI4OS4zMS4xMjAuMTkyIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjQ0NTM3NTk1LTljY2MtNGI4My04OTM2LTVmOWFkMzIyOTAxOSIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiNDQzIiwicHMiOiJBUklTVEHwn5SlIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
@@ -21,10 +21,10 @@ vless://ed82ccaa-4924-41a6-90a1-8facadf38841@93.127.180.123:3030?security=none&s
 vless://871e1c55-f4e7-4c6a-8d9f-0957f98d1fe5@93.127.180.224:8586?security=none&encryption=none&headerType=none&type=tcp#ARISTA🔥
 vless://f47b5d3c-4051-476d-8280-89b1125b4467@154.90.55.174:443?encryption=none&amp;security=reality&amp;flow=xtls-rprx-vision&amp;type=tcp&amp;sni=aws.amazon.com&amp;pbk=wimys8nxAefdZ0dEMJ8v7R8sMjQ2Y-hX6H_p7uQPPDo&amp;fp=chrome#ARISTA🔥
 vless://59edf6dc-b1f7-4017-8107-aae4f61a173c@38.180.27.102:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=eh.vk.com&fp=chrome&pbk=CWeNg8bNNdCHYhjNl01BTevvPnHsXd736dymoBEsbBI&type=tcp&headerType=none#ARISTA🔥
-vless://fd058cd3-55fa-43ce-a634-1920b7d12c45@104.128.134.181:34816?type=tcp&path=%2f#ARISTA🔥
-vless://fd058cd3-55fa-43ce-a634-1920b7d12c45@104.128.134.181:34816?path=%2f#ARISTA🔥
 vless://59edf6dc-b1f7-4017-8107-aae4f61a173c@38.180.27.102:8443?security=reality&encryption=none&pbk=CWeNg8bNNdCHYhjNl01BTevvPnHsXd736dymoBEsbBI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=eh.vk.com#ARISTA🔥
 vless://59edf6dc-b1f7-4017-8107-aae4f61a173c@38.180.27.102:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=eh.vk.com&fp=chrome&security=reality&pbk=CWeNg8bNNdCHYhjNl01BTevvPnHsXd736dymoBEsbBI&sid=#ARISTA🔥
+vless://fd058cd3-55fa-43ce-a634-1920b7d12c45@104.128.134.181:34816?type=tcp&path=%2f#ARISTA🔥
+vless://fd058cd3-55fa-43ce-a634-1920b7d12c45@104.128.134.181:34816?path=%2f#ARISTA🔥
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@51.112.118.115:443#ARISTA🔥
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphaVhPMEZuallIZzZaS0pBUG9oQlZX@185.253.116.95:16673#ARISTA🔥
 ss://cmM0LW1kNToxNmZiMTJmZjRlZWJkMTZm@38.54.76.8:11201#ARISTA🔥

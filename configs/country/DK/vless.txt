@@ -1,5 +1,5 @@
 # DK - VLESS Configurations
-# Updated: 2026-02-15 12:03:06
+# Updated: 2026-02-15 13:14:02
 # Count: 1
 
-vless://e4fc4761-154f-490e-bbaa-b4fa193f1073@45.148.31.0:15855?path=%2F&security=&encryption=none&host=45.148.31.0&fp=chrome&type=ws#ARISTA🔥
+vless://e4fc4761-154f-490e-bbaa-b4fa193f1073@45.148.31.0:15855?encryption=none&type=ws&path=%2f#ARISTA🔥

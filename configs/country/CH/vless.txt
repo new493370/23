@@ -1,10 +1,10 @@
 # CH - VLESS Configurations
-# Updated: 2026-02-15 08:10:34
+# Updated: 2026-02-15 08:58:50
 # Count: 10
 
+vless://bdf97c06-ae1f-47e9-b47a-9d9ff47b5820@138.124.62.211:16574?security=reality&encryption=none&pbk=gO-n2qZkxjjKmCCd8e-VBH0zOIC7u8FVJN3gnySnEUc&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=ad03f1556dfa4ed0#ARISTA🔥
 vless://7824420e-0129-4b28-b7a6-4fe8fd745388@213.176.18.99:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=telegavpn.com&fp=&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA&sid=#ARISTA🔥
 vless://7c3f08c8-7b3b-4028-91d8-378a18c2b62a@185.227.149.123:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=mycatcollection.com&sid=6ba85179e30d4fc2#ARISTA🔥
-vless://bdf97c06-ae1f-47e9-b47a-9d9ff47b5820@138.124.62.211:16574?security=reality&encryption=none&pbk=gO-n2qZkxjjKmCCd8e-VBH0zOIC7u8FVJN3gnySnEUc&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=ad03f1556dfa4ed0#ARISTA🔥
 vless://14ba01de-0de4-48b4-9327-d6a2f7797764@83.228.225.98:24472?type=ws&path=%2F&host=&security=none#ARISTA🔥
 vless://c5fdf480-3942-4fc9-9e73-f6899c24bda6@83.228.210.214:443?security=reality&encryption=none&pbk=NQtYh_DzWbKDGV3sOdYUbYS7OQqAF-lG42J-rOm_OH0&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=ok.ru&sid=41f38b2355acf7bc#ARISTA🔥
 vless://e108f3eb-4d3a-4e20-a09b-7008e333bc23@179.43.191.99:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=hls-svod.itunes.apple.com&fp=chrome&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=175d&type=tcp&headerType=none#ARISTA🔥

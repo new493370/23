@@ -1,28 +1,28 @@
 # Country-Based Configurations
-Last Updated: 2026-02-14 23:44:07
+Last Updated: 2026-02-15 00:07:19
 Total Countries: 75
-Total Valid Configs: 2690
-Failed/Invalid: 2503
+Total Valid Configs: 2694
+Failed/Invalid: 2498
 CDN/Proxy Skipped: 0
 
 ## Available Countries
 
 - **RU**: 496 configs (vmess, vless, trojan, ss)
-- **US**: 399 configs (vmess, vless, trojan, ss, hysteria2)
-- **NL**: 279 configs (vmess, vless, trojan, ss, hysteria2)
+- **US**: 401 configs (vmess, vless, trojan, ss, hysteria2)
+- **NL**: 277 configs (vmess, vless, trojan, ss, hysteria2)
 - **VN**: 276 configs (ss)
 - **DE**: 258 configs (vmess, vless, trojan, ss, hysteria2)
 - **PL**: 146 configs (vmess, vless, ss)
-- **FR**: 103 configs (vmess, vless, trojan, ss, hysteria2)
-- **FI**: 70 configs (vmess, vless, trojan, ss)
-- **GB**: 63 configs (vmess, vless, trojan, ss)
-- **IR**: 58 configs (vmess, vless, ss)
+- **FR**: 105 configs (vmess, vless, trojan, ss, hysteria2)
+- **FI**: 69 configs (vmess, vless, trojan, ss)
+- **GB**: 65 configs (vmess, vless, trojan, ss)
+- **IR**: 59 configs (vmess, vless, ss)
 - **HU**: 37 configs (vless, ss)
 - **CA**: 36 configs (vmess, vless, trojan, ss, wireguard)
 - **TR**: 35 configs (vmess, vless, ss)
 - **SG**: 32 configs (vmess, vless, ss)
 - **JP**: 26 configs (vless, trojan, ss)
-- **IT**: 21 configs (vless, trojan, ss)
+- **IT**: 22 configs (vless, trojan, ss)
 - **AE**: 20 configs (vmess, vless, ss)
 - **LT**: 20 configs (vless, ss)
 - **HK**: 17 configs (vmess, vless, trojan, ss)
@@ -40,11 +40,11 @@ CDN/Proxy Skipped: 0
 - **IL**: 11 configs (ss)
 - **EG**: 9 configs (ss)
 - **SC**: 8 configs (vless, ss)
-- **KR**: 8 configs (vless, ss)
 - **PK**: 8 configs (ss)
+- **KR**: 7 configs (vless, ss)
+- **UA**: 7 configs (ss)
 - **JO**: 7 configs (ss)
 - **KW**: 7 configs (ss)
-- **UA**: 7 configs (ss)
 - **CR**: 6 configs (vless)
 - **CY**: 6 configs (vless, ss)
 - **MX**: 6 configs (ss)
@@ -59,8 +59,8 @@ CDN/Proxy Skipped: 0
 - **CH**: 3 configs (vless, ss)
 - **PE**: 3 configs (ss)
 - **MT**: 3 configs (ss)
-- **PR**: 3 configs (ss)
 - **KH**: 3 configs (ss)
+- **PR**: 3 configs (ss)
 - **AR**: 3 configs (ss)
 - **TW**: 3 configs (ss)
 - **LU**: 2 configs (vless, ss)
@@ -78,7 +78,7 @@ CDN/Proxy Skipped: 0
 - **SI**: 1 configs (ss)
 - **CO**: 1 configs (ss)
 - **AM**: 1 configs (ss)
-- **ES**: 1 configs (ss)
 - **CL**: 1 configs (ss)
-- **BO**: 1 configs (ss)
 - **EC**: 1 configs (ss)
+- **ES**: 1 configs (ss)
+- **BO**: 1 configs (ss)

@@ -1,6 +1,6 @@
 {
   "DE": {
-    "total": 283,
+    "total": 281,
     "protocols": [
       "vmess",
       "vless",
@@ -9,43 +9,42 @@
       "hysteria2"
     ]
   },
-  "FI": {
-    "total": 62,
+  "CA": {
+    "total": 71,
     "protocols": [
       "vmess",
       "vless",
       "trojan",
-      "ss"
+      "ss",
+      "wireguard"
+    ]
+  },
+  "NL": {
+    "total": 338,
+    "protocols": [
+      "vmess",
+      "vless",
+      "trojan",
+      "ss",
+      "hysteria2",
+      "hysteria"
+    ]
+  },
+  "FR": {
+    "total": 102,
+    "protocols": [
+      "vmess",
+      "vless",
+      "trojan",
+      "ss",
+      "hysteria2"
     ]
   },
   "IR": {
-    "total": 150,
+    "total": 144,
     "protocols": [
       "vmess",
       "vless",
-      "ss"
-    ]
-  },
-  "MD": {
-    "total": 68,
-    "protocols": [
-      "vmess",
-      "vless",
-      "ss"
-    ]
-  },
-  "PH": {
-    "total": 1,
-    "protocols": [
-      "vmess"
-    ]
-  },
-  "JP": {
-    "total": 30,
-    "protocols": [
-      "vmess",
-      "vless",
-      "trojan",
       "ss"
     ]
   },
@@ -57,18 +56,8 @@
       "ss"
     ]
   },
-  "CA": {
-    "total": 76,
-    "protocols": [
-      "vmess",
-      "vless",
-      "trojan",
-      "ss",
-      "wireguard"
-    ]
-  },
   "US": {
-    "total": 304,
+    "total": 291,
     "protocols": [
       "vmess",
       "vless",
@@ -78,30 +67,26 @@
       "hysteria"
     ]
   },
-  "HK": {
-    "total": 15,
+  "TW": {
+    "total": 3,
     "protocols": [
       "vmess",
-      "trojan",
       "ss"
     ]
   },
-  "FR": {
-    "total": 110,
+  "TR": {
+    "total": 41,
     "protocols": [
       "vmess",
       "vless",
-      "trojan",
-      "ss",
-      "hysteria2"
+      "ss"
     ]
   },
-  "GB": {
-    "total": 98,
+  "MD": {
+    "total": 66,
     "protocols": [
       "vmess",
       "vless",
-      "trojan",
       "ss"
     ]
   },
@@ -113,19 +98,17 @@
       "ss"
     ]
   },
-  "NL": {
-    "total": 346,
+  "JP": {
+    "total": 34,
     "protocols": [
       "vmess",
       "vless",
       "trojan",
-      "ss",
-      "hysteria2",
-      "hysteria"
+      "ss"
     ]
   },
-  "TR": {
-    "total": 41,
+  "GB": {
+    "total": 98,
     "protocols": [
       "vmess",
       "vless",
@@ -140,24 +123,33 @@
       "ss"
     ]
   },
-  "KR": {
-    "total": 10,
+  "FI": {
+    "total": 61,
     "protocols": [
       "vmess",
       "vless",
+      "trojan",
       "ss"
     ]
   },
   "SG": {
-    "total": 33,
+    "total": 34,
     "protocols": [
       "vmess",
       "vless",
       "ss"
     ]
   },
+  "HK": {
+    "total": 12,
+    "protocols": [
+      "vmess",
+      "trojan",
+      "ss"
+    ]
+  },
   "RU": {
-    "total": 560,
+    "total": 555,
     "protocols": [
       "vmess",
       "vless",
@@ -181,6 +173,20 @@
       "ss"
     ]
   },
+  "HU": {
+    "total": 38,
+    "protocols": [
+      "vless",
+      "ss"
+    ]
+  },
+  "LT": {
+    "total": 16,
+    "protocols": [
+      "vless",
+      "ss"
+    ]
+  },
   "AE": {
     "total": 26,
     "protocols": [
@@ -189,8 +195,30 @@
       "ss"
     ]
   },
-  "VN": {
-    "total": 207,
+  "JO": {
+    "total": 8,
+    "protocols": [
+      "vless",
+      "ss"
+    ]
+  },
+  "IT": {
+    "total": 25,
+    "protocols": [
+      "vless",
+      "trojan",
+      "ss"
+    ]
+  },
+  "KZ": {
+    "total": 36,
+    "protocols": [
+      "vless",
+      "ss"
+    ]
+  },
+  "CY": {
+    "total": 24,
     "protocols": [
       "vless",
       "ss"
@@ -203,8 +231,35 @@
       "ss"
     ]
   },
-  "LT": {
-    "total": 16,
+  "IM": {
+    "total": 1,
+    "protocols": [
+      "vless"
+    ]
+  },
+  "AT": {
+    "total": 17,
+    "protocols": [
+      "vless"
+    ]
+  },
+  "KR": {
+    "total": 8,
+    "protocols": [
+      "vless",
+      "ss"
+    ]
+  },
+  "RO": {
+    "total": 7,
+    "protocols": [
+      "vless",
+      "trojan",
+      "ss"
+    ]
+  },
+  "ES": {
+    "total": 7,
     "protocols": [
       "vless",
       "ss"
@@ -223,8 +278,8 @@
       "vless"
     ]
   },
-  "HU": {
-    "total": 38,
+  "VN": {
+    "total": 209,
     "protocols": [
       "vless",
       "ss"
@@ -236,47 +291,6 @@
       "vless",
       "ss",
       "hysteria2"
-    ]
-  },
-  "KZ": {
-    "total": 36,
-    "protocols": [
-      "vless",
-      "ss"
-    ]
-  },
-  "AT": {
-    "total": 16,
-    "protocols": [
-      "vless"
-    ]
-  },
-  "JO": {
-    "total": 8,
-    "protocols": [
-      "vless",
-      "ss"
-    ]
-  },
-  "ES": {
-    "total": 7,
-    "protocols": [
-      "vless",
-      "ss"
-    ]
-  },
-  "CY": {
-    "total": 24,
-    "protocols": [
-      "vless",
-      "ss"
-    ]
-  },
-  "RO": {
-    "total": 5,
-    "protocols": [
-      "vless",
-      "ss"
     ]
   },
   "LV": {
@@ -307,9 +321,10 @@
     ]
   },
   "LU": {
-    "total": 3,
+    "total": 5,
     "protocols": [
       "vless",
+      "trojan",
       "ss"
     ]
   },
@@ -333,18 +348,10 @@
     ]
   },
   "NO": {
-    "total": 7,
+    "total": 8,
     "protocols": [
       "vless",
       "trojan"
-    ]
-  },
-  "IT": {
-    "total": 23,
-    "protocols": [
-      "vless",
-      "trojan",
-      "ss"
     ]
   },
   "BR": {
@@ -374,7 +381,7 @@
     ]
   },
   "IS": {
-    "total": 4,
+    "total": 5,
     "protocols": [
       "trojan",
       "ss"
@@ -386,14 +393,14 @@
       "ss"
     ]
   },
-  "PK": {
-    "total": 7,
+  "MX": {
+    "total": 4,
     "protocols": [
       "ss"
     ]
   },
-  "MX": {
-    "total": 4,
+  "GR": {
+    "total": 9,
     "protocols": [
       "ss"
     ]
@@ -410,19 +417,13 @@
       "ss"
     ]
   },
-  "GR": {
-    "total": 9,
+  "PK": {
+    "total": 7,
     "protocols": [
       "ss"
     ]
   },
   "PR": {
-    "total": 1,
-    "protocols": [
-      "ss"
-    ]
-  },
-  "ID": {
     "total": 1,
     "protocols": [
       "ss"
@@ -434,14 +435,20 @@
       "ss"
     ]
   },
-  "IL": {
-    "total": 10,
+  "ID": {
+    "total": 1,
     "protocols": [
       "ss"
     ]
   },
   "AZ": {
     "total": 1,
+    "protocols": [
+      "ss"
+    ]
+  },
+  "IL": {
+    "total": 10,
     "protocols": [
       "ss"
     ]
@@ -460,12 +467,6 @@
   },
   "AR": {
     "total": 3,
-    "protocols": [
-      "ss"
-    ]
-  },
-  "TW": {
-    "total": 2,
     "protocols": [
       "ss"
     ]

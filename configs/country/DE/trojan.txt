@@ -1,9 +1,11 @@
 # DE - TROJAN Configurations
-# Updated: 2026-02-15 14:08:37
-# Count: 19
+# Updated: 2026-02-15 14:47:48
+# Count: 21
 
 trojan://telegram-id-v2rayvpnchannel@3.75.51.127:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#ARISTA🔥
 trojan://telegram-id-v2rayvpnchannel@18.195.108.52:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#ARISTA🔥
+trojan://XaGCEUJJ2O@148.251.173.125:17818/?type=tcp&security=none#ARISTA🔥
+trojan://ik4UHhWlD9@148.251.173.125:17818?security=none&headerType=none&type=tcp#ARISTA🔥
 trojan://telegram-id-directvpn@18.198.110.94:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#ARISTA🔥
 trojan://telegram-id-directvpn@18.192.246.137:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#ARISTA🔥
 trojan://telegram-id-directvpn@52.59.144.4:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#ARISTA🔥

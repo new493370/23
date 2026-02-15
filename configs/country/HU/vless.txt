@@ -1,6 +1,6 @@
 # HU - VLESS Configurations
-# Updated: 2026-02-15 08:58:50
-# Count: 35
+# Updated: 2026-02-15 09:55:08
+# Count: 36
 
 vless://6255a223-325c-4809-960e-ff072156735c@217.13.104.174:1443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=apiok.ru&fp=chrome&security=reality&pbk=L6JmMq7D45s3pLCMas0Ukf3TWmCgYNEqo8ar8hFkfxY&sid=a2ab4b90e001c0b9#ARISTA🔥
 vless://6beee13a-f356-4a51-8e65-75f776508e8f@217.13.104.154:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=travel.yandex.ru&fp=chrome&security=reality&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=65ce6cee3941af69#ARISTA🔥
@@ -37,3 +37,4 @@ vless://6416708c-eaa5-4ec5-b652-a2db2feab875@217.13.104.149:443?encryption=none&
 vless://6416708c-eaa5-4ec5-b652-a2db2feab875@217.13.104.134:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=travel.yandex.ru&fp=chrome&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=65ce6cee3941af69&type=tcp&headerType=none#ARISTA🔥
 vless://49aabf68-e986-4722-8fd1-1702ce996bb6@217.13.104.115:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=sun6-22.userapi.com&fp=chrome&pbk=HmnZvWf1xDzvps8H-juYYtHnWPZksvaUp6cMYV7TfSk&sid=a20d3ed244c76426&type=tcp&headerType=none#ARISTA🔥
 vless://6416708c-eaa5-4ec5-b652-a2db2feab875@217.13.104.154:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=travel.yandex.ru&fp=chrome&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=65ce6cee3941af69&type=tcp&headerType=none#ARISTA🔥
+vless://6255a223-325c-4809-960e-ff072156735c@217.13.104.174:1443?security=reality&encryption=none&pbk=L6JmMq7D45s3pLCMas0Ukf3TWmCgYNEqo8ar8hFkfxY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=apiok.ru&sid=a2ab4b90e001c0b9#ARISTA🔥

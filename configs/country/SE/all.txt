@@ -1,13 +1,11 @@
 # SE - All Configurations
-# Updated: 2026-02-15 08:58:50
-# Total Count: 43
+# Updated: 2026-02-15 09:55:08
+# Total Count: 39
 
-vmess://eyJhZGQiOiJkZC5vcGVuYWNjZXNzbm9kZS5jb20iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Im10YWxrLmdvb2dsZS5jb20iLCJpZCI6Ijc1MTkzYmVmLThkOGYtZTgyMy00MWUwLTJkZDA4M2RjMTM5OSIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIvQEphdmlkbmFtYW5JcmFuL0phdmlkLVNIQUgtS2luZ1JlemFQYWhsYXZpLyIsInBvcnQiOiI1MDIiLCJwcyI6IkFSSVNUQfCflKUiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ9
 vless://309c4bd0-7430-b8aa-2238-1075e9e29370@16.16.123.45:20096?security=reality&encryption=none&pbk=RlpFwwJWAb7YPkfaLyZcycZol3ejIdH8yLe0TXsJ_QA&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=wikipedia.org&sid=50a3#ARISTA🔥
-vless://891300bc-11b2-4b24-8056-b329b098888b@62.182.192.20:443?security=reality&encryption=none&pbk=8Bz3fNBZ5es7DVPlw8FRzufcncR6auyV_FJFFAKT-WE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=readthedocs.org&sid=a1590469acbe31#ARISTA🔥
-vless://7ed5f822-4b65-41f5-bab2-9ffe51bf67c5@89.125.243.217:443?path=%2F&security=none&encryption=none&type=ws#ARISTA🔥
 vless://DIGIV2RAY@185.146.173.68:2095?path=/DigiconnecT?ed=1024&security=none&encryption=none&host=QUENTIN--_--DiG.radiotehran.org.&type=ws#ARISTA🔥
 vless://af309ad2-c943-48ea-b570-2e51a2f079d9@185.146.173.152:2095?path=/DSDaswd22!11*fdfm55247.COM.&security=none&encryption=none&host=NOxdB1.BisTaiR.orG&type=ws#ARISTA🔥
+vless://891300bc-11b2-4b24-8056-b329b098888b@62.182.192.20:443?security=reality&encryption=none&pbk=8Bz3fNBZ5es7DVPlw8FRzufcncR6auyV_FJFFAKT-WE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=readthedocs.org&sid=a1590469acbe31#ARISTA🔥
 vless://-DIGiV2RAY@185.146.173.59:80?path=%2FDigiv2ray-&security=none&encryption=none&host=digi--v2raycncfs.RadioTeHran.oRG.&type=ws#ARISTA🔥
 vless://DIGiV2RAY-@185.146.173.59:80?path=%2FDigiv2ray-&security=none&encryption=none&host=digi--v2raycncfs.RadioTeHran.oRG.&type=ws#ARISTA🔥
 vless://Telegram-NUFiLTER@185.146.173.58:2095?path=/telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER%3Fed%3D2048&security=none&encryption=none&host=emshab.bklink.iR.&type=ws#ARISTA🔥
@@ -39,8 +37,6 @@ vless://65e2772e-915a-4306-e3c7-e7bfa71e83fd@70.34.200.48:443?type=grpc&encrypti
 vless://65e2772e-915a-4306-e3c7-e7bfa71e83fd@70.34.203.253:443?type=grpc&encryption=none&serviceName=&authority=&security=none#ARISTA🔥
 vless://465f35d5-897c-4ce0-811c-24ac58711f45@70.34.201.248:443?type=grpc&encryption=none&serviceName=&authority=&security=none#ARISTA🔥
 vless://95e118b4-4352-4218-8493-f20cc7fc467a@46.246.98.74:443?encryption=none&security=reality&sni=learn.microsoft.com&fp=firefox&pbk=nBJICh1KzfMblaXtSxpTiPIHGg2TKP5PF8nq-89Q6jg&sid=6ed3324b&type=tcp&headerType=none#ARISTA🔥
-ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E@37.19.222.213:443#ARISTA🔥
-ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E@37.19.222.214:443#ARISTA🔥
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxWFNIRmpYTUxEZWR0TUxKTEdESWU4@46.246.97.195:23931#ARISTA🔥
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvbUNLNkZCRnVONVNHZ1gwZ0NsanU5@46.246.97.195:23931#ARISTA🔥
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoYzhMTUpldzNGbDlNYmNGQ29GZ1Qw@46.246.96.30:31561#ARISTA🔥

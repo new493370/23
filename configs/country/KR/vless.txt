@@ -1,8 +1,9 @@
 # KR - VLESS Configurations
-# Updated: 2026-02-15 09:55:08
-# Count: 4
+# Updated: 2026-02-15 10:48:30
+# Count: 5
 
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@129.154.201.131:443?encryption=none&security=tls&sni=sni.111000.indevs.in&insecure=1&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26telegram%F0%9F%87%AE%F0%9F%87%B7+@shadowproxy66#ARISTA🔥
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@129.154.215.121:443?encryption=none&security=tls&sni=sni.111000.indevs.in&fp=chrome&insecure=1&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26telegram%F0%9F%87%A8%F0%9F%87%B3+@wangcai2#ARISTA🔥
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@103.86.44.120:65432?encryption=none&security=tls&sni=sni.111000.indevs.in&fp=chrome&insecure=1&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26telegram%F0%9F%87%A8%F0%9F%87%B3+@wangcai2#ARISTA🔥
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@129.154.215.121:443?encryption=none&security=tls&sni=sni.111000.indevs.in&fp=chrome&insecure=1&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26telegram%F0%9F%87%A8%F0%9F%87%B3+@wangcai2#ARISTA🔥
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@59.20.89.207:18182?security=tls&sni=xina.ylks.link&type=ws&path=/blue#ARISTA🔥
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@129.154.198.48:443?encryption=none&security=tls&sni=cfed.tgzdyz2.top&fp=random&type=ws&host=cfed.tgzdyz2.top&path=TG%40ZDYZ2#ARISTA🔥

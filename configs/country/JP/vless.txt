@@ -1,9 +1,8 @@
 # JP - VLESS Configurations
-# Updated: 2026-02-15 09:55:08
-# Count: 8
+# Updated: 2026-02-15 10:48:30
+# Count: 7
 
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@150.230.107.234:53780?security=tls&sni=jpc.ylks01.eu.org&type=ws&path=%2F#ARISTA🔥
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@131.186.38.156:8443?encryption=none&security=tls&sni=sni.111000.indevs.in&insecure=1&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26telegram%F0%9F%87%AE%F0%9F%87%B7+@shadowproxy66#ARISTA🔥
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@141.147.152.229:23333?encryption=none&security=tls&sni=sni.111000.indevs.in&fp=chrome&insecure=1&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26telegram%F0%9F%87%A8%F0%9F%87%B3+@wangcai2#ARISTA🔥
 vless://d706bf16-124a-417b-aaa0-0d6d5efd58fd@38.60.212.251:29059?security=reality&encryption=none&pbk=V_eMkcHXf237wGyfggMHHRvQqw51rW1UJPEIw_T2IE4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=mensura.cdn-apple.com&sid=6ba85179e30d4fc2#ARISTA🔥
 vless://b94eddb7-4a73-4f70-8295-bcfc7c7c5c48@169.40.32.197:1286?security=none&encryption=none&host=JouRNaloFbIgdATA.SpRinGeropEn.coM&headerType=http&type=tcp#ARISTA🔥

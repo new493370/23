@@ -85,53 +85,22 @@ class RealServerDetector:
     def __init__(self, classifier):
         self.classifier = classifier
 
-    def extract_direct_ip(self, host):
-        if not host:
-            return None
-
-        host = self.classifier.extract_domain(host)
-
-        if self.classifier.is_valid_ip(host):
-            return host
-
-        try:
-            ips = self.classifier.resolve_domain(host)
-            for ip in ips:
-                if not self.is_private_ip(ip):
-                    return ip
-        except:
-            pass
-
-        return None
-
-    def is_private_ip(self, ip):
-        try:
-            ip_obj = ipaddress.ip_address(ip)
-            return (
-                ip_obj.is_private or
-                ip_obj.is_loopback or
-                ip_obj.is_multicast or
-                ip_obj.is_reserved
-            )
-        except:
-            return True
-
     def get_real_server_ip(self, parsed):
         proto = parsed.get('type', '')
 
         if proto == 'vmess':
             cfg = parsed.get('dict', {})
-            ip = cfg.get('add', '')
+            ip = cfg.get('add', '').strip()
             if self.classifier.is_valid_ip(ip):
                 return ip
-            return self.extract_direct_ip(ip)
+            return None
 
-        ip = parsed.get('host', '')
+        ip = parsed.get('host', '').strip()
 
         if self.classifier.is_valid_ip(ip):
             return ip
 
-        return self.extract_direct_ip(ip)
+        return None
 
     def get_real_country(self, parsed):
         ip = self.get_real_server_ip(parsed)

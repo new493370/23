@@ -1,11 +1,11 @@
 {
   "country": "IT",
-  "total_configs": 53,
+  "total_configs": 23,
   "by_protocol": {
-    "vless": 46,
+    "vless": 16,
     "trojan": 2,
     "ss": 4,
     "hysteria2": 1
   },
-  "updated": "2026-02-15 15:58:14"
+  "updated": "2026-02-15 16:32:49"
 }

@@ -1,10 +1,10 @@
 {
   "country": "GB",
-  "total_configs": 105,
+  "total_configs": 119,
   "by_protocol": {
-    "vless": 61,
-    "ss": 43,
+    "vless": 74,
+    "ss": 44,
     "hysteria2": 1
   },
-  "updated": "2026-02-15 15:34:08"
+  "updated": "2026-02-15 15:58:14"
 }

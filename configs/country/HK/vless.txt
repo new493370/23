@@ -1,6 +1,9 @@
 # HK - VLESS Configurations
-# Updated: 2026-02-15 15:34:08
-# Count: 2
+# Updated: 2026-02-15 15:58:14
+# Count: 5
 
+vless://04793d5b-1b79-49fc-b5f9-2e8ce0e3ebc6@hkt-home.xn--9kqp42aims.top:1314?flow=xtls-rprx-vision&security=tls&encryption=none&sni=buylite.music.apple.com&fp=edge&pbk=fbABzUObM1ehY0C9V83p34p8ah9w2s4lDrdAiXdzGxI&sid=4b070735&type=tcp&headerType=none&path=%2f&allow_insecure=0#ARISTA🔥
+vless://26524cce-d514-4014-a426-365fb266a14d@151.242.183.220:35549?encryption=none&security=tls&sni=WangCai.443888.xyz&insecure=0&allowInsecure=0&type=ws&host=WangCai.443888.xyz&path=%2Fdanfeng%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#ARISTA🔥
 vless://f1fc0a00-c9cc-45ef-97c3-7014d9f94b8a@185.242.234.252:14201?security=none&encryption=none&headerType=none&type=tcp#ARISTA🔥
+vless://2e82cda5-e020-4c63-8271-e58a00831447@hk4.miyazono-kaori.com:443?security=reality&encryption=none&pbk=6GIENB8z0Fpm9Yf7IFKqLhOBUFX3Qv8QbRK0XGl4NwE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.ikea.com.hk&sid=de392136#ARISTA🔥
 vless://824dc1b1-e35b-4121-ad73-9acaf13d6410@n1761184282.74qxv.top:443?encryption=none&security=tls&sni=n1761184282.74qxv.top&type=ws&host=n1761184282.74qxv.top&path=%2F824dc1b1-e35b-4121-ad73-9acaf13d6410#ARISTA🔥

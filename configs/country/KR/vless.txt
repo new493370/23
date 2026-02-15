@@ -1,6 +1,7 @@
 # KR - VLESS Configurations
-# Updated: 2026-02-15 15:34:08
-# Count: 2
+# Updated: 2026-02-15 15:58:14
+# Count: 3
 
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@129.154.223.89:15800?encryption=none&security=tls&sni=sni.jpmj.dev&fp=chrome&insecure=1&type=ws&host=sni.jpmj.dev&path=%2F%3Fed%3D2560%26telegram%F0%9F%87%A8%F0%9F%87%B3%2B@wangcai2#ARISTA🔥
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@59.20.89.207:18182?security=tls&sni=xina.ylks.link&type=ws&path=/blue#ARISTA🔥
+vless://3e7f67de-648e-4871-b51a-a225214d41ee@47.80.13.85:443?security=reality&encryption=none&sni=api.company-target.com&fp=chrome&pbk=TRP10HqKUXEQ3O-cfsq93DycfBmbJe9KM36yvSa8Mmw&type=tcp&path=%2f#ARISTA🔥

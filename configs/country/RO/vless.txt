@@ -1,5 +1,6 @@
 # RO - VLESS Configurations
-# Updated: 2026-02-15 02:55:31
-# Count: 1
+# Updated: 2026-02-15 05:12:56
+# Count: 2
 
-vless://854eea7a-c834-4f62-9e17-ae63d1086f36@45.67.34.55:443/?type=tcp&encryption=none&flow=&sni=tradingview.com&fp=chrome&security=reality&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&sid=868419504747f6de#ARISTA🔥
+vless://f84ab055-3ffe-4a90-aad3-30596550b03c@45.12.30.95:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=beh1.salonemojallal.ir.#ARISTA🔥
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.12.30.238:2096?encryption=none&security=tls&sni=sni.jpmj.dev&type=ws&host=sni.jpmj.dev&path=/?ed=2560#ARISTA🔥

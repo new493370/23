@@ -1,9 +1,10 @@
 {
   "country": "IE",
-  "total_configs": 2,
+  "total_configs": 3,
   "by_protocol": {
     "vmess": 1,
+    "vless": 1,
     "ss": 1
   },
-  "updated": "2026-02-15 07:38:11"
+  "updated": "2026-02-15 08:10:34"
 }

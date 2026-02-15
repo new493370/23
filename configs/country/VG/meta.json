@@ -1,8 +1,9 @@
 {
   "country": "VG",
-  "total_configs": 3,
+  "total_configs": 5,
   "by_protocol": {
-    "vless": 3
+    "vmess": 1,
+    "vless": 4
   },
-  "updated": "2026-02-15 14:47:48"
+  "updated": "2026-02-15 15:34:08"
 }

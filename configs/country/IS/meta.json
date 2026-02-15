@@ -1,9 +1,9 @@
 {
   "country": "IS",
-  "total_configs": 5,
+  "total_configs": 4,
   "by_protocol": {
-    "trojan": 3,
+    "trojan": 2,
     "ss": 2
   },
-  "updated": "2026-02-15 14:47:48"
+  "updated": "2026-02-15 15:34:08"
 }

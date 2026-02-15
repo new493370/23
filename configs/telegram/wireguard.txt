@@ -1,6 +1,7 @@
 # Telegram WIREGUARD Configurations
-# Updated: 2026-02-15 14:46:37
-# Count: 1
+# Updated: 2026-02-15 15:32:09
+# Count: 2
 # Source: Telegram Channels
 
 wireguard://uPnOVvknUik9L6CCbwL0ilNxlgKLaLC9EC2FVcoGF28%3D@162.159.192.4:500?wnoise=quic&presharedkey=&address=172.16.0.2%2F32&reserved=115%2C35%2C212&keepalive=5&wpayloadsize=5-10&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&wnoisedelay=1-2&wnoisecount=15&mtu=1280#ARISTA🔥
+wireguard://uPnOVvknUik9L6CCbwL0ilNxlgKLaLC9EC2FVcoGF28%3D@162.159.192.4:500?address=172.16.0.2%2F32&presharedkey=&reserved=115%2C35%2C212&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280#ARISTA🔥

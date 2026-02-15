@@ -1,8 +1,12 @@
 # US - HYSTERIA2 Configurations
-# Updated: 2026-02-15 14:47:48
-# Count: 4
+# Updated: 2026-02-15 15:34:08
+# Count: 8
 
+hysteria2://dongtaiwang.com@[2001:bc8:32d7:302::11]:20088?security=tls&insecure=1&sni=apple.com#ARISTA🔥
 hy2://dongtaiwang.com@208.87.243.187:22222?insecure=1&sni=www.bing.com#ARISTA🔥
-hy2://37afff84-34bd-4db6-b24a-7d73d2ed48ce@107.173.127.166:25000?insecure=1&sni=www.apple.com#ARISTA🔥
 hy2://37afff84-34bd-4db6-b24a-7d73d2ed48ce@198.23.130.211:25000?insecure=1&sni=api.push.apple.com#ARISTA🔥
+hy2://37afff84-34bd-4db6-b24a-7d73d2ed48ce@107.173.127.166:25000?insecure=1&sni=www.apple.com#ARISTA🔥
 hysteria2://dongtaiwang.com@208.87.243.187:22222?security=tls&insecure=1&sni=www.bing.com#ARISTA🔥
+hysteria2://linux.do@[2a01:4f9:4b:f378::1]:13599?security=tls&insecure=1&sni=www.bing.com#ARISTA🔥
+hysteria2://e42a38c4-4bea-42d6-90f1-3076e12f8c51@lsus3.lansecs.top:58338?sni=lsus3.lansecs.top&insecure=1#ARISTA🔥
+hysteria2://17cdeb6c-f046-11ee-bdac-f23c93141fad@6adab57e-t53wg0-tdvgqe-2gok.la.shifen.uk:1743?security=tls&insecure=0&sni=6adab57e-t53wg0-tdvgqe-2gok.la.shifen.uk#ARISTA🔥

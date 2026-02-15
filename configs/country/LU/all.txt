@@ -1,9 +1,7 @@
 # LU - All Configurations
-# Updated: 2026-02-15 14:47:48
-# Total Count: 5
+# Updated: 2026-02-15 15:34:08
+# Total Count: 3
 
 vless://1133fb71-5fd0-4cb1-8a2e-28708dd82f31@45.136.117.8:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless-grpc#ARISTA🔥
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@188.42.89.138:2096?encryption=none&security=tls&sni=sni.111000.indevs.in&insecure=1&allowInsecure=1&type=ws&path=%2F#ARISTA🔥
-trojan://Go5e2nKM8P@188.42.88.252:2083?path=%2F&security=tls&host=aa.v2jey.fun&type=ws&sni=aa.v2jey.fun#ARISTA🔥
-trojan://Go5e2nKM9U@188.42.88.252:2087?path=JoinUs%40v2rayNG_VPNN&security=tls&host=aa.v2jey.fun&type=ws&sni=aa.v2jey.fun#ARISTA🔥
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMUXlBVUl0YWZVbW1PM0VaWng5VWJpWDZJR3lkU0JnTA@45.12.144.18:443#ARISTA🔥

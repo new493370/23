@@ -1,7 +1,8 @@
 # MD - VLESS Configurations
-# Updated: 2026-02-15 16:32:49
-# Count: 58
+# Updated: 2026-02-15 16:52:42
+# Count: 57
 
+vless://dd92c4f8-be88-4c61-84eb-d261f798071e@185.234.57.207:443?flow=xtls-rprx-vision&security=tls&encryption=none&sni=teamdocs.su&fp=chrome&pbk=Yu1_Agl1_bJb298G9ukjGuvfksVTUs1X7laYJ3VqwwQ&sid=b5e0cd9ca194c0a5&type=tcp&headerType=none&path=%2f&allow_insecure=0#ARISTA🔥
 vless://99563666-9f62-4d8a-a0bb-f6881f93c52f@93.185.165.50:55211/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=yahoo.com&fp=chrome&security=reality&pbk=5D6U_DRxkNF9I6Sa87j6jvHD_HvhZ9j53rAbZE8Y7lQ&sid=1885#ARISTA🔥
 vless://e9000d6b-2cb8-46b0-96c8-751a7abd54f2@176.123.4.56:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=tradingview.com&fp=chrome&security=reality&pbk=NtsJnsHr8a9mPDr0SPxdJlSRbdUVmR_-Rq5RVT-3KzA&sid=58a6be9762c769f2#ARISTA🔥
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.125:8880?mode=gun&security=&encryption=none&type=grpc#ARISTA🔥
@@ -55,8 +56,6 @@ vless://93a20fae-54f4-4e25-93ef-995b3e52fc04@103.35.191.253:8443?encryption=none
 vless://ab74e8fd-32a2-4a0d-9468-502caadf1a1b@213.159.78.42:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=mlb.tunnelguard.ru&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=1&allowInsecure=1&type=tcp&headerType=none#ARISTA🔥
 vless://93a20fae-54f4-4e25-93ef-995b3e52fc04@103.113.70.20:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=tradingview.com&fp=chrome&pbk=61Svf2Pd08DRvSgCHyI_J-F7lhPLd_hg3mS_byFl_h0&sid=cefa7ca418bd0dcb&type=tcp&headerType=none#ARISTA🔥
 vless://e04f764c-6009-45aa-b033-97a90024634b@94.131.100.42:42642?encryption=none&flow=xtls-rprx-vision&security=reality&sni=stats.vk-portal.net&fp=chrome&pbk=iIRXKqJFxSwYKAvwwB952WMLgU1UDC9yFqNUsRYuW2U&sid=41ac&type=tcp&headerType=none#ARISTA🔥
-vless://2749534e-8bd1-45cf-8b17-c28bed9236c0@176.120.67.169:443?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=wikimedia.org&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw#ARISTA🔥
 vless://fa-397456379-1771009078823820@103.35.189.83:443?security=reality&amp;encryption=none&amp;pbk=2rjzbqQ49m-jpfzhiuBNb8Izwwjw0dIg5JAKdv-B2kE&amp;headerType=none&amp;fp=chrome&amp;spx=%2F&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=steampowered.com&amp;sid=d1d42381ba35#ARISTA🔥
 vless://e04f764c-6009-45aa-b033-97a90024634b@94.131.100.42:42642?flow=xtls-rprx-vision&security=tls&encryption=none&sni=stats.vk-portal.net&fp=chrome&pbk=iIRXKqJFxSwYKAvwwB952WMLgU1UDC9yFqNUsRYuW2U&sid=41ac&type=tcp&headerType=none&path=%2f&allow_insecure=0#ARISTA🔥
 vless://fa-397456379-1771009078823820@103.35.189.83:443?flow=xtls-rprx-vision&security=tls&encryption=none&sni=steampowered.com&fp=chrome&pbk=2rjzbqQ49m-jpfzhiuBNb8Izwwjw0dIg5JAKdv-B2kE&sid=d1d42381ba35&type=tcp&headerType=none&path=%2f&allow_insecure=0#ARISTA🔥
-vless://dd92c4f8-be88-4c61-84eb-d261f798071e@185.234.57.207:443?flow=xtls-rprx-vision&security=tls&encryption=none&sni=teamdocs.su&fp=chrome&pbk=Yu1_Agl1_bJb298G9ukjGuvfksVTUs1X7laYJ3VqwwQ&sid=b5e0cd9ca194c0a5&type=tcp&headerType=none&path=%2f&allow_insecure=0#ARISTA🔥

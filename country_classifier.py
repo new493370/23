@@ -85,29 +85,85 @@ class RealServerDetector:
     def __init__(self, classifier):
         self.classifier = classifier
 
-    def get_real_server_ip(self, parsed):
+    def extract_sni_from_config(self, parsed):
         proto = parsed.get('type', '')
-
+        sni = ''
+        
         if proto == 'vmess':
             cfg = parsed.get('dict', {})
-            ip = cfg.get('add', '').strip()
-            if self.classifier.is_valid_ip(ip):
-                return ip
+            sni = cfg.get('sni', '').strip()
+        elif 'original' in parsed:
+            try:
+                original = parsed['original']
+                if '?' in original:
+                    query_part = original.split('?', 1)[1]
+                    if '#' in query_part:
+                        query_part = query_part.split('#', 1)[0]
+                    params = parse_qs(query_part)
+                    sni = params.get('sni', [''])[0]
+                    
+                    if not sni and 'peer' in params:
+                        sni = params.get('peer', [''])[0]
+                        
+                    if not sni and 'host' in params:
+                        host_param = params.get('host', [''])[0]
+                        if host_param and not self.classifier.is_cdn_domain(host_param):
+                            sni = host_param
+                elif '#' in original and '?' not in original:
+                    fragment = original.split('#', 1)[1]
+                    if '&' in fragment:
+                        for param in fragment.split('&'):
+                            if param.startswith('sni='):
+                                sni = param[4:]
+                                break
+            except:
+                pass
+        
+        return sni
+
+    def get_real_server_ip(self, parsed):
+        proto = parsed.get('type', '')
+        host = ''
+        sni = self.extract_sni_from_config(parsed)
+        
+        if proto == 'vmess':
+            cfg = parsed.get('dict', {})
+            host = cfg.get('add', '').strip()
+        else:
+            host = parsed.get('host', '').strip()
+        
+        if self.classifier.is_valid_ip(host):
+            return host
+        
+        if host and self.classifier.is_cdn_domain(host):
+            if sni:
+                domain = self.classifier.extract_domain(sni)
+                if self.classifier.is_valid_ip(domain):
+                    return domain
+                ips = self.classifier.resolve_domain(domain)
+                if ips:
+                    return ips[0]
             return None
-
-        ip = parsed.get('host', '').strip()
-
-        if self.classifier.is_valid_ip(ip):
-            return ip
-
+        
+        if host:
+            ips = self.classifier.resolve_domain(host)
+            if ips:
+                return ips[0]
+        
+        if sni and not self.classifier.is_cdn_domain(sni):
+            domain = self.classifier.extract_domain(sni)
+            if self.classifier.is_valid_ip(domain):
+                return domain
+            ips = self.classifier.resolve_domain(domain)
+            if ips:
+                return ips[0]
+        
         return None
 
     def get_real_country(self, parsed):
         ip = self.get_real_server_ip(parsed)
-
         if not ip:
             return 'XX'
-
         return self.classifier.get_country_from_ip(ip)
 
 class CountryClassifier:
@@ -139,7 +195,8 @@ class CountryClassifier:
             'github.io', 'github.com', 'raw.githubusercontent.com',
             'jsdelivr.net', 'cdn.jsdelivr.net', 'unpkg.com',
             'bootstrapcdn.com', 'cloudflare-ipfs.com',
-            'apple.com', 'apple-dns.net', 'itunes.apple.com'
+            'apple.com', 'apple-dns.net', 'itunes.apple.com',
+            'speedtest.net', 'speedtest.org', 'ooklaserver.net'
         }
     
     def load_cache(self):
@@ -241,7 +298,7 @@ class CountryClassifier:
         except:
             return host.lower()
     
-    def resolve_domain(self, domain):
+    def resolve_domain(self, domain, timeout=3):
         if self.is_valid_ip(domain):
             return [domain]
         
@@ -250,6 +307,9 @@ class CountryClassifier:
         
         try:
             ips = []
+            original_timeout = socket.getdefaulttimeout()
+            socket.setdefaulttimeout(timeout)
+            
             for family in [socket.AF_INET, socket.AF_INET6]:
                 try:
                     addrinfo = socket.getaddrinfo(domain, None, family, socket.SOCK_STREAM)
@@ -260,8 +320,9 @@ class CountryClassifier:
                 except:
                     continue
             
-            self.dns_cache[domain] = ips[:5]
-            return ips[:5]
+            socket.setdefaulttimeout(original_timeout)
+            self.dns_cache[domain] = ips[:3]
+            return ips[:3]
         except:
             self.dns_cache[domain] = []
             return []

@@ -1,35 +1,31 @@
 # FR - VLESS Configurations
-# Updated: 2026-02-15 05:12:56
-# Count: 55
+# Updated: 2026-02-15 06:16:47
+# Count: 51
 
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@141.11.203.238:2096?path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2&security=tls&encryption=none&insecure=0&host=sni.jpmj.dev&fp=chrome&type=ws&allowInsecure=0&sni=sni.jpmj.dev#ARISTA🔥
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.16.110.238:2096?path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&security=tls&encryption=none&insecure=0&host=sni.jpmj.dev&type=ws&allowInsecure=0&sni=sni.jpmj.dev#ARISTA🔥
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@141.94.223.24:2053?path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&security=tls&encryption=none&insecure=0&host=sni.111000.v6.navy&type=ws&allowInsecure=0&sni=sni.111000.v6.navy#ARISTA🔥
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@188.165.26.178:8443?path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&security=tls&encryption=none&insecure=0&host=sni.111000.v6.navy&type=ws&allowInsecure=0&sni=sni.111000.v6.navy#ARISTA🔥
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.36.158.142:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#ARISTA🔥
 vless://e8b1500b-e9e8-5492-8312-f4eadf7d0767@162.19.10.94:443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=nasnet-162191094-direct.sharghdaily.co#ARISTA🔥
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@141.11.203.238:2096?path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2&security=tls&encryption=none&insecure=0&host=sni.jpmj.dev&fp=chrome&type=ws&allowInsecure=0&sni=sni.jpmj.dev#ARISTA🔥
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.36.158.142:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#ARISTA🔥
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.36.190.50:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#ARISTA🔥
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@162.19.254.52:2053?path=%2F%3Fed%3D2560%26telegram%F0%9F%87%A8%F0%9F%87%B3%40wangcai2&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#ARISTA🔥
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.16.110.238:2096?path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&security=tls&encryption=none&insecure=0&host=sni.jpmj.dev&type=ws&allowInsecure=0&sni=sni.jpmj.dev#ARISTA🔥
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@141.94.223.24:2053?path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&security=tls&encryption=none&insecure=0&host=sni.111000.v6.navy&type=ws&allowInsecure=0&sni=sni.111000.v6.navy#ARISTA🔥
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@162.19.243.46:8443?encryption=none&security=tls&sni=sni.111000.indevs.in&insecure=1&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26telegram%F0%9F%87%A8%F0%9F%87%B3%2B@wangcai2#ARISTA🔥
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@54.37.73.185:8443?encryption=none&security=tls&sni=sni.111000.indevs.in&insecure=1&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26telegram%F0%9F%87%A8%F0%9F%87%B3%2B@wangcai2#ARISTA🔥
 vless://eb071647-72a6-46be-8e89-ff3d228d52f6@95.182.97.115:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fr.cdn.stun.su&alpn=networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-&fp=chrome&security=reality&pbk=8LWgKu6h8cXgOAixKaKPdGponKkAeQaq-IszDEQ4ojM&sid=3bdec72a5a0ffd84#ARISTA🔥
 vless://6f192450-a1ed-4072-898b-0dd55c4e3437@216.106.189.250:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=tradingview.com&fp=chrome&security=reality&pbk=1oUeBtHH4DskTM_jCh-6enWRkFMDX9l1OU5kWYl4kxA&sid=364994a6f61fc955#ARISTA🔥
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.36.190.50:22224?type=ws&security=tls&sni=trojan.burgerip.co.uk&path=%2Ftelegram-channel-vlessconfig#ARISTA🔥
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.236.182.0:22224?type=ws&security=tls&sni=trojan.burgerip.co.uk&path=%2Ftelegram-channel-vlessconfig#ARISTA🔥
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.47.59.174:22224/?type=ws&encryption=none&flow=&path=%2Ftelegram-channel-vlessconfig&security=tls&sni=trojan.burgerip.co.uk#ARISTA🔥
-vless://e8b1500b-e9e8-5492-8312-f4eadf7d0767@162.19.10.94:443?sni=nasnet-162191094-direct.sharghdaily.co&alpn=networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-&type=tcp&security=tls&encryption=none&headerType=&flow=xtls-rprx-vision#ARISTA🔥
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.39.69.112:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#ARISTA🔥
 vless://VPNCUSTOMIZE@57.128.163.80:443?mode=gun&security=reality&encryption=none&pbk=w9tYPxes9YU2yvmYMgRYhSFQCWFoyQCz5b0odul1DQQ&fp=firefox&spx=%2F&type=grpc&serviceName=@VPNCUSTOMIZE&sni=cdn.kellekcollection.com&sid=136ce8d8#ARISTA🔥
 vless://5d0e6695-6c63-4168-b5e5-2a73ea86b1b1@51.91.199.243:8080?security=reality&encryption=none&pbk=D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=chatgpt.com&sid=b7b70c104ad267b8#ARISTA🔥
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.188.96.190:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#ARISTA🔥
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.236.182.0:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#ARISTA🔥
 vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80?path=%2Fhttp&security=none&encryption=none&type=ws#ARISTA🔥
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.236.182.0:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#ARISTA🔥
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.188.225.111:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#ARISTA🔥
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.37.147.199:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#ARISTA🔥
 vless://baadf496-921b-41b1-a7ae-fde0ddc6793d@140.82.54.120:443/?type=tcp&security=reality&pbk=0O2wxSFr76Y9Sp2y5Bc1shI5yA1rkp1zKHZbkKsOE3E&fp=firefox&sni=*.zarairan.top&sid=28e21203&spx=%2F&flow=xtls-rprx-vision#ARISTA🔥
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.37.147.199:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#ARISTA🔥
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.47.88.193:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#ARISTA🔥
-vless://nasnet@162.19.10.94:443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=nasnet-162191094-direct.sharghdaily.co#ARISTA🔥
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.181.253.201:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#ARISTA🔥
+vless://nasnet@162.19.10.94:443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=nasnet-162191094-direct.sharghdaily.co#ARISTA🔥
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.188.241.30:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#ARISTA🔥
 vless://5e236508-63e4-45b3-a7d7-f9cd81af89df@57.130.19.124:2055?mode=auto&path=%2F&security=reality&encryption=none&pbk=HdhATsM5cYDWfhAt0LyrttGBoscuoT4M3fOSvYN8sEQ&fp=chrome&type=xhttp&sni=kifpool.me&sid=54994c92a0#ARISTA🔥
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.36.58.242:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#ARISTA🔥

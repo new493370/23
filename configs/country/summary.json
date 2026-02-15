@@ -1,31 +1,14 @@
 {
   "IR": {
-    "total": 134,
+    "total": 136,
     "protocols": [
       "vmess",
       "vless",
       "ss"
-    ]
-  },
-  "PH": {
-    "total": 1,
-    "protocols": [
-      "vmess"
-    ]
-  },
-  "NL": {
-    "total": 343,
-    "protocols": [
-      "vmess",
-      "vless",
-      "trojan",
-      "ss",
-      "hysteria2",
-      "hysteria"
     ]
   },
   "US": {
-    "total": 321,
+    "total": 329,
     "protocols": [
       "vmess",
       "vless",
@@ -35,30 +18,20 @@
       "hysteria"
     ]
   },
-  "DE": {
-    "total": 284,
+  "GB": {
+    "total": 119,
     "protocols": [
       "vmess",
       "vless",
-      "trojan",
-      "ss",
-      "hysteria2"
-    ]
-  },
-  "HK": {
-    "total": 14,
-    "protocols": [
-      "vmess",
       "trojan",
       "ss"
     ]
   },
-  "GB": {
-    "total": 120,
+  "IN": {
+    "total": 13,
     "protocols": [
       "vmess",
       "vless",
-      "trojan",
       "ss"
     ]
   },
@@ -70,19 +43,49 @@
       "ss"
     ]
   },
-  "IN": {
-    "total": 14,
+  "DE": {
+    "total": 285,
+    "protocols": [
+      "vmess",
+      "vless",
+      "trojan",
+      "ss",
+      "hysteria2"
+    ]
+  },
+  "CA": {
+    "total": 134,
+    "protocols": [
+      "vmess",
+      "vless",
+      "trojan",
+      "ss",
+      "wireguard"
+    ]
+  },
+  "FR": {
+    "total": 104,
+    "protocols": [
+      "vmess",
+      "vless",
+      "trojan",
+      "ss",
+      "hysteria2"
+    ]
+  },
+  "TR": {
+    "total": 44,
     "protocols": [
       "vmess",
       "vless",
       "ss"
     ]
   },
-  "CA": {
-    "total": 56,
+  "HK": {
+    "total": 18,
     "protocols": [
       "vmess",
-      "vless",
+      "trojan",
       "ss"
     ]
   },
@@ -93,26 +96,25 @@
       "ss"
     ]
   },
-  "FR": {
-    "total": 109,
+  "NL": {
+    "total": 346,
     "protocols": [
       "vmess",
       "vless",
       "trojan",
       "ss",
-      "hysteria2"
+      "hysteria2",
+      "hysteria"
     ]
   },
-  "TR": {
-    "total": 43,
+  "PH": {
+    "total": 1,
     "protocols": [
-      "vmess",
-      "vless",
-      "ss"
+      "vmess"
     ]
   },
   "PL": {
-    "total": 148,
+    "total": 143,
     "protocols": [
       "vmess",
       "vless",
@@ -120,7 +122,7 @@
     ]
   },
   "FI": {
-    "total": 58,
+    "total": 60,
     "protocols": [
       "vmess",
       "vless",
@@ -129,7 +131,15 @@
     ]
   },
   "BG": {
-    "total": 18,
+    "total": 20,
+    "protocols": [
+      "vmess",
+      "vless",
+      "ss"
+    ]
+  },
+  "KR": {
+    "total": 14,
     "protocols": [
       "vmess",
       "vless",
@@ -137,7 +147,7 @@
     ]
   },
   "SG": {
-    "total": 44,
+    "total": 43,
     "protocols": [
       "vmess",
       "vless",
@@ -145,7 +155,7 @@
     ]
   },
   "JP": {
-    "total": 28,
+    "total": 31,
     "protocols": [
       "vmess",
       "vless",
@@ -154,7 +164,7 @@
     ]
   },
   "RU": {
-    "total": 551,
+    "total": 546,
     "protocols": [
       "vmess",
       "vless",
@@ -170,6 +180,14 @@
       "ss"
     ]
   },
+  "BR": {
+    "total": 14,
+    "protocols": [
+      "vmess",
+      "vless",
+      "ss"
+    ]
+  },
   "AU": {
     "total": 12,
     "protocols": [
@@ -179,6 +197,13 @@
     ]
   },
   "KZ": {
+    "total": 38,
+    "protocols": [
+      "vless",
+      "ss"
+    ]
+  },
+  "HU": {
     "total": 39,
     "protocols": [
       "vless",
@@ -186,65 +211,15 @@
     ]
   },
   "AE": {
-    "total": 30,
+    "total": 28,
     "protocols": [
       "vmess",
       "vless",
       "ss"
     ]
   },
-  "CH": {
-    "total": 10,
-    "protocols": [
-      "vless",
-      "ss"
-    ]
-  },
-  "EE": {
-    "total": 36,
-    "protocols": [
-      "vless",
-      "ss"
-    ]
-  },
-  "VN": {
-    "total": 277,
-    "protocols": [
-      "vless",
-      "ss"
-    ]
-  },
-  "LT": {
-    "total": 20,
-    "protocols": [
-      "vless",
-      "ss"
-    ]
-  },
-  "PT": {
-    "total": 2,
-    "protocols": [
-      "vless",
-      "ss"
-    ]
-  },
-  "CY": {
-    "total": 28,
-    "protocols": [
-      "vless",
-      "ss"
-    ]
-  },
-  "SE": {
-    "total": 37,
-    "protocols": [
-      "vless",
-      "ss",
-      "hysteria2"
-    ]
-  },
-  "SC": {
-    "total": 14,
+  "AT": {
+    "total": 16,
     "protocols": [
       "vless",
       "ss"
@@ -257,29 +232,51 @@
       "ss"
     ]
   },
-  "LV": {
+  "ES": {
+    "total": 9,
+    "protocols": [
+      "vless",
+      "ss"
+    ]
+  },
+  "SC": {
     "total": 13,
     "protocols": [
       "vless",
       "ss"
     ]
   },
-  "ES": {
-    "total": 8,
+  "CY": {
+    "total": 27,
     "protocols": [
       "vless",
       "ss"
     ]
   },
-  "AT": {
-    "total": 17,
+  "LT": {
+    "total": 20,
     "protocols": [
       "vless",
       "ss"
     ]
   },
-  "KR": {
-    "total": 10,
+  "LV": {
+    "total": 12,
+    "protocols": [
+      "vless",
+      "ss"
+    ]
+  },
+  "SE": {
+    "total": 39,
+    "protocols": [
+      "vless",
+      "ss",
+      "hysteria2"
+    ]
+  },
+  "EE": {
+    "total": 36,
     "protocols": [
       "vless",
       "ss"
@@ -291,8 +288,15 @@
       "vless"
     ]
   },
-  "HU": {
-    "total": 38,
+  "VN": {
+    "total": 277,
+    "protocols": [
+      "vless",
+      "ss"
+    ]
+  },
+  "CH": {
+    "total": 10,
     "protocols": [
       "vless",
       "ss"
@@ -311,21 +315,6 @@
       "ss"
     ]
   },
-  "IT": {
-    "total": 24,
-    "protocols": [
-      "vless",
-      "trojan",
-      "ss"
-    ]
-  },
-  "SI": {
-    "total": 5,
-    "protocols": [
-      "vless",
-      "ss"
-    ]
-  },
   "LU": {
     "total": 3,
     "protocols": [
@@ -337,6 +326,13 @@
     "total": 3,
     "protocols": [
       "vless"
+    ]
+  },
+  "PT": {
+    "total": 3,
+    "protocols": [
+      "vless",
+      "ss"
     ]
   },
   "SK": {
@@ -352,10 +348,11 @@
       "trojan"
     ]
   },
-  "BR": {
-    "total": 13,
+  "IT": {
+    "total": 23,
     "protocols": [
       "vless",
+      "trojan",
       "ss"
     ]
   },
@@ -363,6 +360,13 @@
     "total": 1,
     "protocols": [
       "vless"
+    ]
+  },
+  "SI": {
+    "total": 5,
+    "protocols": [
+      "vless",
+      "ss"
     ]
   },
   "AM": {
@@ -391,8 +395,8 @@
       "ss"
     ]
   },
-  "MK": {
-    "total": 2,
+  "MT": {
+    "total": 3,
     "protocols": [
       "ss"
     ]
@@ -403,8 +407,8 @@
       "ss"
     ]
   },
-  "MT": {
-    "total": 3,
+  "MK": {
+    "total": 2,
     "protocols": [
       "ss"
     ]
@@ -433,14 +437,14 @@
       "ss"
     ]
   },
-  "AZ": {
-    "total": 1,
+  "IL": {
+    "total": 11,
     "protocols": [
       "ss"
     ]
   },
-  "IL": {
-    "total": 11,
+  "AZ": {
+    "total": 1,
     "protocols": [
       "ss"
     ]
@@ -469,14 +473,14 @@
       "ss"
     ]
   },
-  "CO": {
-    "total": 1,
+  "TW": {
+    "total": 3,
     "protocols": [
       "ss"
     ]
   },
-  "TW": {
-    "total": 3,
+  "CO": {
+    "total": 1,
     "protocols": [
       "ss"
     ]
@@ -493,13 +497,13 @@
       "ss"
     ]
   },
-  "MA": {
+  "PA": {
     "total": 2,
     "protocols": [
       "ss"
     ]
   },
-  "PA": {
+  "MA": {
     "total": 2,
     "protocols": [
       "ss"
@@ -511,13 +515,13 @@
       "ss"
     ]
   },
-  "CL": {
+  "BO": {
     "total": 1,
     "protocols": [
       "ss"
     ]
   },
-  "BO": {
+  "CL": {
     "total": 1,
     "protocols": [
       "ss"

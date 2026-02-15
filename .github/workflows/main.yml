@@ -67,11 +67,8 @@ jobs:
     - name: Combine Configs
       run: python combine_configs.py
         
-    - name: Classify by Country (with ASN Detection)
+    - name: Classify by Country
       run: python country_classifier.py
-      timeout-minutes: 10
-      env:
-        PYTHONUNBUFFERED: 1
         
     - name: Create summary
       run: |
@@ -84,24 +81,7 @@ jobs:
             print(f'\n📊 COUNTRY SUMMARY ({len(data)} countries):')
             for country, info in sorted(data.items(), key=lambda x: x[1][\"total\"], reverse=True)[:10]:
                 print(f'  {country}: {info[\"total\"]} configs')
-            
-            # اضافه کردن آمار ASN detection
-            if os.path.exists('configs/country/asn_cache.json'):
-                with open('configs/country/asn_cache.json') as f: asn_data = json.load(f)
-                print(f'  ASN Cache: {len(asn_data)} IPs resolved')
         " >> update_info.txt
-        
-    - name: Show detection stats
-      run: |
-        echo "🔍 ASN-based Detection Stats:" >> update_info.txt
-        if [ -f "configs/country/asn_cache.json" ]; then
-          asn_count=$(jq length configs/country/asn_cache.json 2>/dev/null || echo "0")
-          echo "  Cached ASN records: $asn_count" >> update_info.txt
-        fi
-        if [ -f "configs/country/ipapi_cache.json" ]; then
-          ipapi_count=$(jq length configs/country/ipapi_cache.json 2>/dev/null || echo "0")
-          echo "  IP-API cache: $ipapi_count" >> update_info.txt
-        fi
         
     - name: Configure Git
       run: |

@@ -1,10 +1,11 @@
 # RO - All Configurations
-# Updated: 2026-02-15 16:52:42
-# Total Count: 6
+# Updated: 2026-02-15 17:22:44
+# Total Count: 7
 
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.12.30.238:2096?encryption=none&security=tls&sni=sni.jpmj.dev&insecure=1&type=ws&host=sni.jpmj.dev&path=%2F%3Fed%3D2560%26telegram%F0%9F%87%A8%F0%9F%87%B3@wangcai2#ARISTA🔥
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.12.30.238:2096?path=%2F%3Fed%3D2560%26telegram%F0%9F%87%A8%F0%9F%87%B3%40wangcai2&security=tls&encryption=none&host=sni.jpmj.dev&type=ws&sni=sni.jpmj.dev#ARISTA🔥
 vless://f84ab055-3ffe-4a90-aad3-30596550b03c@45.12.30.95:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=beh1.salonemojallal.ir.#ARISTA🔥
+vless://f84ab055-3ffe-4a90-aad3-30596550b03c@dqf21.sdssd1.sadqwdw1.carvan1.mimkiscx.ir:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&fp=chrome&type=ws&sni=beh1.salonemojallal.ir.#ARISTA🔥
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.12.30.238:2096?encryption=none&security=tls&sni=sni.jpmj.dev&type=ws&host=sni.jpmj.dev&path=/?ed=2560#ARISTA🔥
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTYjV5OE5aZTVRR3hUYkt0S0QwSXha@64.7.198.119:26610#ARISTA🔥
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphMDJmYjYwZDVjZjQwMGM2@45.82.102.245:11201#ARISTA🔥
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxMWU1MjBjY2JlNzM2NWVi@45.82.102.204:11201#ARISTA🔥

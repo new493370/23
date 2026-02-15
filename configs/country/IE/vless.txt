@@ -1,5 +1,7 @@
 # IE - VLESS Configurations
-# Updated: 2026-02-15 16:52:42
-# Count: 1
+# Updated: 2026-02-15 17:22:44
+# Count: 3
 
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@46.51.133.190:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#ARISTA🔥
+vless://d6ffdf12-80f8-b292-30d7-0cb004e21404@fastly.raminakbari.ir:80?mode=auto&path=%3Fed%3D9090&security=&encryption=none&host=usaext.global.ssl.fastly.net&type=xhttp#ARISTA🔥
+vless://ffb1b218-6b03-4f5e-938c-a27db379b922@asd.fastnew199.hosting-ip.com:80?path=%2F%3Fed%3D2560&security=&encryption=none&host=maxde22.global.ssl.fastly.net&type=xhttp#ARISTA🔥
+vless://6570d7cc-0e3d-49c2-ae23-e8ff8425b79d@asd.fastnew199.hosting-ip.com:80?path=%2F%3Fed%3D2560&security=&encryption=none&host=maxde22.global.ssl.fastly.net&type=xhttp#ARISTA🔥

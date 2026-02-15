@@ -1,10 +1,12 @@
 {
   "country": "MD",
-  "total_configs": 65,
+  "total_configs": 77,
   "by_protocol": {
     "vmess": 2,
-    "vless": 57,
-    "ss": 6
+    "vless": 67,
+    "trojan": 1,
+    "ss": 6,
+    "hysteria2": 1
   },
-  "updated": "2026-02-15 16:52:42"
+  "updated": "2026-02-15 17:22:44"
 }

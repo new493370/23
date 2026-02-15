@@ -1,16 +1,19 @@
 # SG - VLESS Configurations
-# Updated: 2026-02-15 16:52:42
-# Count: 12
+# Updated: 2026-02-15 17:22:44
+# Count: 15
 
+vless://ab321a49-bc9c-4bb6-915b-a1fcbc7de49c@27.50.48.155:443?security=tls&encryption=none&type=grpc&sni=vbox1.ping-box.com&fp=chrome&alpn=h2,http/1.1#ARISTA🔥
 vless://ab321a49-bc9c-4bb6-915b-a1fcbc7de49c@27.50.48.155:443?mode=gun&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&fp=chrome&type=grpc&allowInsecure=0&sni=vbox1.ping-box.com#ARISTA🔥
 vless://ca0e8520-42cd-49db-cfec-1295834b9e21@47.82.1.12:59100?encryption=none&security=none&type=raw&headertype=none#ARISTA🔥
+vless://8a9c07c4-05e3-419c-875c-16893c28f1d8@201.gp68knq.com:20201/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=img14.360buyimg.com&fp=chrome&security=reality&pbk=GwBhOiy3pLa73zga-wmG07xRfiI71_A9VDi-DiHeBWk&sid=9153#ARISTA🔥
 vless://telegram-id-qeshmserver@139.180.146.164:2020?type=tcp&security=reality&pbk=YH_SRHZR1KpI5H1qwcqwp3_8lYSWWMZYWn_FStgKihc&fp=chrome&sni=ea.com&sid=05fb89d5&spx=%2F&flow=xtls-rprx-vision#ARISTA🔥
+vless://486169a3-ce5f-4d93-8d01-f619d4443e5d@cp.so.rezzip.com:443?path=%3Fed%3D2560&security=tls&alpn=h2&encryption=none&host=pandura.lat&fp=firefox&type=ws&sni=pandura.lat#ARISTA🔥
 vless://73bf4bac-98cf-4423-b728-3cc8a0e56424@139.180.146.164:2020?type=tcp&security=reality&pbk=YH_SRHZR1KpI5H1qwcqwp3_8lYSWWMZYWn_FStgKihc&fp=chrome&sni=ea.com&sid=05fb89d5&spx=%2F&flow=xtls-rprx-vision#ARISTA🔥
-vless://ab321a49-bc9c-4bb6-915b-a1fcbc7de49c@27.50.48.155:443?mode=gun&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=1&type=grpc&allowInsecure=1&sni=vbox1.ping-box.com#ARISTA🔥
 vless://602b380a-9fdf-4425-bc07-aae9a95cfc4b@27.50.48.8:443?security=tls&alpn=h3&encryption=none&fp=chrome&type=ws&sni=vless.hubp.de#ARISTA🔥
+vless://302F9975-C787-44E4-8492-79C0C6AC2ADD@sg1-r.link-t7.com:10036?encryption=none&type=grpc&serviceName=update&security=reality&fp=chrome&pbk=wOu-BMrXvk9KX23JZrlpUlF4SMjDcejm0vNECdhy5xE&sni=s0.awsstatic.com&sid=686c0ef0#ARISTA🔥
 vless://a3e65839-adcf-404f-8076-c8bf6dcdadd1@158.178.229.178:443?encryption=none&type=ws&host=imalrzaiserver.imalrzai.workers.dev&path=%2F%3Fed&security=tls&fp=chrome&sni=imalrzaiserver.imalrzai.workers.dev#ARISTA🔥
+vless://1bcfabf7-c143-4dab-989b-2b663e7e69c8@free.tharuwa.store:80?encryption=none&type=ws&host=zoom.us&path=%2FFREE%20By%20Tharuwa%20%280767597317%29&security=none#ARISTA🔥
 vless://ea0ba1f9-87dc-4599-8532-c94a61b5fda6@167.99.73.22:443?encryption=none&type=ws&host=joss.gpj4.web.id&path=%2FFree-VPN-CF-Geo-Project%2FSG5192&security=tls&fp=randomized&sni=joss.gpj4.web.id#ARISTA🔥
 vless://2bd80876-fc38-445a-9a32-3c7233e1bfb7@176.98.186.5:443?security=reality&amp;encryption=none&amp;pbk=Ufkz__Q3m_d8NFR08OVtXx3hLaV4-x7UesrVKduEIn0&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=srv21.towersflowerss.com#ARISTA🔥
-vless://ab321a49-bc9c-4bb6-915b-a1fcbc7de49c@27.50.48.155:443?mode=gun&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&fp=chrome&type=grpc&allowInsecure=0&sni=vbox1.ping-box.com#ARISTA🔥
 vless://d29a7cee-acd1-4821-adbf-517f8681040e@47.82.6.36:51164?path=%2f#ARISTA🔥
 vless://ab321a49-bc9c-4bb6-915b-a1fcbc7de49c@27.50.48.155:443?encryption=none&security=tls&sni=vbox1.ping-box.com&alpn=h2%2Chttp%2F1.1&fp=chrome&type=grpc#ARISTA🔥

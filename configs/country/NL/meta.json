@@ -3,11 +3,11 @@
   "total_configs": 346,
   "by_protocol": {
     "vmess": 4,
-    "vless": 304,
+    "vless": 305,
     "trojan": 2,
-    "ss": 18,
+    "ss": 17,
     "hysteria2": 17,
     "hysteria": 1
   },
-  "updated": "2026-02-15 13:14:02"
+  "updated": "2026-02-15 14:08:37"
 }

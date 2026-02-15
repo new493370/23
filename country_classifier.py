@@ -18,6 +18,30 @@ try:
 except ImportError:
     GEOIP_AVAILABLE = False
 
+IR_RANGES = [
+    ipaddress.ip_network('2.176.0.0/13'),
+    ipaddress.ip_network('5.52.0.0/14'),
+    ipaddress.ip_network('5.160.0.0/13'),
+    ipaddress.ip_network('31.2.0.0/15'),
+    ipaddress.ip_network('37.32.0.0/12'),
+    ipaddress.ip_network('46.32.0.0/11'),
+    ipaddress.ip_network('79.132.0.0/14'),
+    ipaddress.ip_network('81.12.0.0/14'),
+    ipaddress.ip_network('87.107.0.0/16'),
+    ipaddress.ip_network('91.98.0.0/15'),
+    ipaddress.ip_network('93.114.0.0/15'),
+    ipaddress.ip_network('93.126.0.0/16'),
+    ipaddress.ip_network('94.182.0.0/15'),
+    ipaddress.ip_network('94.183.0.0/16'),
+    ipaddress.ip_network('109.122.0.0/16'),
+    ipaddress.ip_network('185.8.172.0/22'),
+    ipaddress.ip_network('185.10.72.0/22'),
+    ipaddress.ip_network('185.81.96.0/22'),
+    ipaddress.ip_network('185.126.200.0/22'),
+    ipaddress.ip_network('185.143.232.0/22'),
+    ipaddress.ip_network('185.208.172.0/22')
+]
+
 class DNSTimeoutError(Exception):
     pass
 
@@ -211,90 +235,43 @@ class ASNBasedCountryDetector:
             return asn_info.get('country', 'XX')
         return 'XX'
 
-class TrustScorer:
-    def __init__(self, classifier):
-        self.classifier = classifier
-
-    def score(self, parsed):
-        score = 0
-        t = parsed.get('type', '')
-        host = parsed.get('host', '')
-        original = parsed.get('original', '')
-        
-        if self.classifier.is_valid_ip(host):
-            score += 2
-        
-        if t in ['vless', 'trojan', 'ss']:
-            score += 1
-        
-        if t == 'vmess':
-            net = parsed.get('dict', {}).get('net', '')
-            if net == 'tcp':
-                score += 1
-        
-        if 'type=ws' not in original and 'type=grpc' not in original:
-            score += 1
-        
-        if 'host=' not in original:
-            score += 2
-        
-        for cdn in self.classifier.cdn_domains:
-            if cdn in original:
-                return 0
-        
-        if 'reality' not in original:
-            score += 3
-        
-        if 'path=' not in original:
-            score += 1
-        
-        if 'security=' not in original:
-            score += 2
-        
-        return score
-
 class RealServerDetector:
     def __init__(self, classifier):
         self.classifier = classifier
-        self.trust = TrustScorer(classifier)
         self.asn_detector = ASNBasedCountryDetector()
 
-    def get_real_server_ip(self, parsed):
-        proto = parsed.get('type', '')
-
-        if proto == 'vmess':
-            cfg = parsed.get('dict', {})
-            ip = cfg.get('add', '').strip()
-            if self.classifier.is_valid_ip(ip):
-                return ip
-            return None
-
-        ip = parsed.get('host', '').strip()
-
-        if self.classifier.is_valid_ip(ip):
-            return ip
-
+    def extract_ip(self, parsed):
+        t = parsed.get('type', '')
+        cfg = parsed.get('dict', {})
+        
+        if t == 'vmess':
+            return cfg.get('add')
+        
+        host = parsed.get('host')
+        if self.classifier.is_valid_ip(host):
+            return host
+        
         return None
 
-    def get_real_country(self, parsed):
-        score = self.trust.score(parsed)
-        
-        if score < 7:
-            return 'XX'
-        
-        ip = self.get_real_server_ip(parsed)
+    def detect_country(self, parsed):
+        original = parsed.get('original', '')
+        ip = self.extract_ip(parsed)
         
         if not ip:
             return 'XX'
         
-        asn_based_country = self.asn_detector.get_real_country_by_asn(ip)
+        if 'security=reality' in original:
+            if self.classifier.is_ir_ip_by_range(ip):
+                return 'IR'
+            return self.classifier.get_country_from_ip(ip)
         
-        if asn_based_country and asn_based_country != 'XX':
-            return asn_based_country
+        if self.classifier.is_ir_ip_by_range(ip):
+            return 'IR'
         
-        geoip_country = self.classifier.get_country_from_ip(ip)
+        if self.asn_detector.is_truly_ir_ip(ip):
+            return 'IR'
         
-        return geoip_country
+        return self.classifier.get_country_from_ip(ip)
 
 class CountryClassifier:
     def __init__(self):
@@ -403,6 +380,16 @@ class CountryClassifier:
         except:
             return False
     
+    def is_ir_ip_by_range(self, ip):
+        try:
+            ip_obj = ipaddress.ip_address(ip)
+            for net in IR_RANGES:
+                if ip_obj in net:
+                    return True
+            return False
+        except:
+            return False
+    
     def is_cdn_domain(self, domain):
         domain_lower = domain.lower()
         for cdn in self.cdn_domains:
@@ -477,14 +464,14 @@ class CountryClassifier:
     
     def get_country_for_host(self, host):
         host = self.extract_domain(host)
-
+        
         if self.is_valid_ip(host):
             return self.get_country_from_ip(host)
-
+        
         ips = self.resolve_domain(host)
         if ips:
             return self.get_country_from_ip(ips[0])
-
+        
         return 'XX'
     
     def parse_vmess_config(self, config_str):
@@ -521,21 +508,21 @@ class CountryClassifier:
         try:
             if not config_str.startswith('vless://'):
                 return None
-
+            
             without_proto = config_str[8:]
-
+            
             if '@' not in without_proto:
                 return None
-
+            
             uuid_part, rest = without_proto.split('@', 1)
-
+            
             server_part = rest.split('?', 1)[0].split('#')[0]
-
+            
             if ':' in server_part:
                 host, port = server_part.split(':', 1)
             else:
                 host, port = server_part, '443'
-
+            
             return {
                 'type': 'vless',
                 'host': host.strip(),
@@ -554,16 +541,16 @@ class CountryClassifier:
             
             if '@' not in without_proto:
                 return None
-
+            
             password, rest = without_proto.split('@', 1)
-
+            
             server_part = rest.split('?', 1)[0].split('#')[0]
-
+            
             if ':' in server_part:
                 host, port = server_part.split(':', 1)
             else:
                 host, port = server_part, '443'
-
+            
             return {
                 'type': 'trojan',
                 'host': host.strip(),
@@ -690,12 +677,12 @@ class CountryClassifier:
         parsed = self.parse_config(config_str)
         if not parsed:
             return None, 'XX'
-
-        country = self.real_detector.get_real_country(parsed)
-
+        
+        country = self.real_detector.detect_country(parsed)
+        
         if not country or country == 'XX':
             return None, 'XX'
-
+        
         return parsed, country
     
     def process_file(self, input_file, source_name):

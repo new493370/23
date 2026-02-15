@@ -1,9 +1,9 @@
 # LT - All Configurations
-# Updated: 2026-02-15 06:16:47
+# Updated: 2026-02-15 07:38:11
 # Total Count: 20
 
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@89.116.180.238:2096?security=tls&type=ws&path=%2F%3Fed%3D2560&host=sni.jpmj.dev&sni=sni.jpmj.dev&fp=chrome&encryption=none#ARISTA🔥
 vless://ff6fb512-147d-419a-9672-e131133f7189@5.199.163.42:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=tradingview.com&fp=chrome&security=reality&pbk=L3X1eh1Jq_6PKJ6LlwjgiWq0XNaDOqCVKgIElJ5nkVA&sid=e0ef3d5c0aacb615#ARISTA🔥
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@89.116.180.238:2096?security=tls&type=ws&path=%2F%3Fed%3D2560&host=sni.jpmj.dev&sni=sni.jpmj.dev&fp=chrome&encryption=none#ARISTA🔥
 vless://ff6fb512-147d-419a-9672-e131133f7189@5.199.163.42:8443?security=reality&encryption=none&pbk=L3X1eh1Jq_6PKJ6LlwjgiWq0XNaDOqCVKgIElJ5nkVA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tradingview.com&sid=e0ef3d5c0aacb615#ARISTA🔥
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.52:8880?security=none&type=grpc#ARISTA🔥
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.55:8880/?type=grpc&encryption=none#ARISTA🔥

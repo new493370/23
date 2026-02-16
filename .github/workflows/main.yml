@@ -49,7 +49,7 @@ jobs:
       timeout-minutes: 15
         
     - name: Test and Filter Configs with Smart Ping Engine
-      run: python config_tester.py
+      run: python smart_ping_engine.py
       timeout-minutes: 25
         
     - name: Combine Configs

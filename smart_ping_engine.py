@@ -126,7 +126,7 @@ class SmartPingEngine:
                 parsed['type'] = parsed_url.scheme
                 return parsed
             
-        except Exception:
+        except Exception as e:
             pass
         
         return None
@@ -172,23 +172,26 @@ class SmartPingEngine:
         results = {}
         
         async def test_config(config: str):
-            async with self.semaphore:
-                latency = await self.smart_ping(config)
-                if latency is not None:
-                    results[config] = latency
+            try:
+                async with self.semaphore:
+                    latency = await self.smart_ping(config)
+                    if latency is not None:
+                        results[config] = latency
+            except Exception as e:
+                pass
         
         tasks = [test_config(config) for config in configs]
-        await asyncio.gather(*tasks)
+        await asyncio.gather(*tasks, return_exceptions=True)
         
         return results
     
     def print_stats(self):
-        print(f"\n📊 Ping Test Statistics:")
+        print(f"\n Ping Test Statistics:")
         print(f"   Total Tested: {self.stats['total_tested']}")
-        print(f"   ✅ Passed: {self.stats['passed']}")
-        print(f"   ❌ Failed: {self.stats['failed']}")
-        print(f"   ⏱️  Timeout: {self.stats['timeout']}")
-        print(f"   📈 High Latency (>={self.max_latency}ms): {self.stats['high_latency']}")
+        print(f"   Passed: {self.stats['passed']}")
+        print(f"   Failed: {self.stats['failed']}")
+        print(f"   Timeout: {self.stats['timeout']}")
+        print(f"   High Latency (>={self.max_latency}ms): {self.stats['high_latency']}")
 
 async def main_async():
     print("=" * 60)
@@ -199,7 +202,6 @@ async def main_async():
     
     all_configs = []
     
-    # Read configs from files
     telegram_file = "configs/telegram/all.txt"
     github_file = "configs/github/all.txt"
     
@@ -218,28 +220,28 @@ async def main_async():
                     all_configs.append(line)
     
     if not all_configs:
-        print("❌ No configs found to test")
+        print(" No configs found to test")
         return
     
-    print(f"📡 Testing {len(all_configs)} configs...")
+    print(f" Testing {len(all_configs)} configs...")
     
-    # Test configs in batches
     batch_size = 200
     working_configs = []
     
     for i in range(0, len(all_configs), batch_size):
         batch = all_configs[i:i+batch_size]
-        print(f"\n🔄 Testing batch {i//batch_size + 1}/{(len(all_configs)-1)//batch_size + 1} ({len(batch)} configs)")
+        print(f"\n Testing batch {i//batch_size + 1}/{(len(all_configs)-1)//batch_size + 1} ({len(batch)} configs)")
         
-        results = await engine.batch_ping(batch, max_workers=30)
-        working_configs.extend(results.keys())
+        try:
+            results = await engine.batch_ping(batch, max_workers=30)
+            working_configs.extend(results.keys())
+        except Exception as e:
+            print(f"  Error in batch: {e}")
         
         engine.print_stats()
     
-    # Save working configs
     timestamp = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
     
-    # Categorize and save working configs
     categories = {
         'vmess': [], 'vless': [], 'trojan': [], 'ss': [],
         'hysteria2': [], 'hysteria': [], 'tuic': [], 'other': []
@@ -263,7 +265,6 @@ async def main_async():
         else:
             categories['other'].append(config)
     
-    # Save to temp directory for combiner
     os.makedirs('configs/temp', exist_ok=True)
     
     for category, configs in categories.items():
@@ -287,17 +288,17 @@ async def main_async():
         content += "\n".join(working_configs)
         f.write(content)
     
-    print(f"\n✅ Testing complete!")
-    print(f"📁 Working configs saved to configs/temp/")
+    print(f"\n Testing complete!")
+    print(f" Working configs saved to configs/temp/")
     print(f"   Total working: {len(working_configs)}")
 
 def main():
     try:
         asyncio.run(main_async())
     except KeyboardInterrupt:
-        print("\n\n❌ Process interrupted by user")
+        print("\n\n Process interrupted by user")
     except Exception as e:
-        print(f"\n❌ Error: {e}")
+        print(f"\n Error: {e}")
 
 if __name__ == "__main__":
     main()

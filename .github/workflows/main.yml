@@ -33,31 +33,23 @@ jobs:
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
-        pip install requests beautifulsoup4 aiofiles
+        pip install requests beautifulsoup4
         
     - name: Clean old config files
       run: |
         rm -rf configs/
-        mkdir -p configs/telegram configs/github configs/combined configs/temp
+        mkdir -p configs/telegram configs/github configs/combined
         
     - name: Run Telegram Config Extractor
       run: python telegram_extractor.py
       timeout-minutes: 20
-      continue-on-error: true
         
     - name: Run GitHub Config Extractor
       run: python github_extractor.py
       timeout-minutes: 15
-      continue-on-error: true
-        
-    - name: Test and Filter Configs with Smart Ping Engine
-      run: python smart_ping_engine.py
-      timeout-minutes: 25
-      continue-on-error: true
         
     - name: Combine Configs
       run: python combine_configs.py
-      continue-on-error: true
         
     - name: Create summary
       run: |
@@ -70,82 +62,24 @@ jobs:
         git config --global user.email "github-actions[bot]@users.noreply.github.com"
         
     - name: Stage all changes
-      id: stage_changes
       run: |
         git add .
-        # Check if there are changes to commit
+        
+    - name: Check for changes
+      id: check_changes
+      run: |
         if git diff --cached --quiet; then
-          echo "has_changes=false" >> $GITHUB_OUTPUT
+          echo "changes=false" >> $GITHUB_OUTPUT
         else
-          echo "has_changes=true" >> $GITHUB_OUTPUT
+          echo "changes=true" >> $GITHUB_OUTPUT
         fi
         
     - name: Commit changes
-      if: steps.stage_changes.outputs.has_changes == 'true'
+      if: steps.check_changes.outputs.changes == 'true'
       run: |
         git commit -m "🔄 Configs update $(date -u '+%Y-%m-%d %H:%M UTC')"
         
-    - name: Pull latest changes with rebase
-      if: steps.stage_changes.outputs.has_changes == 'true'
+    - name: Push changes
+      if: steps.check_changes.outputs.changes == 'true'
       run: |
-        # First, try to pull with rebase
-        if git pull --rebase origin main; then
-          echo "rebase_success=true" >> $GITHUB_ENV
-        else
-          echo "rebase_success=false" >> $GITHUB_ENV
-          # If rebase fails due to conflicts, abort and try merge
-          git rebase --abort 2>/dev/null || true
-        fi
-        
-    - name: Handle rebase conflicts
-      if: env.rebase_success == 'false' && steps.stage_changes.outputs.has_changes == 'true'
-      run: |
-        echo "Rebase failed, trying merge strategy..."
-        # Fetch latest changes
-        git fetch origin main
-        # Try to merge
-        if git merge origin/main --no-edit; then
-          echo "merge_success=true" >> $GITHUB_ENV
-        else
-          echo "merge_success=false" >> $GITHUB_ENV
-          # If merge fails, abort
-          git merge --abort 2>/dev/null || true
-        fi
-        
-    - name: Push changes with retry
-      if: steps.stage_changes.outputs.has_changes == 'true'
-      env:
-        REBASE_SUCCESS: ${{ env.rebase_success }}
-        MERGE_SUCCESS: ${{ env.merge_success }}
-      run: |
-        MAX_RETRIES=3
-        RETRY_COUNT=0
-        
-        # Function to attempt push
-        attempt_push() {
-          if git push origin main; then
-            return 0
-          else
-            return 1
-          fi
-        }
-        
-        # Try to push with retries
-        until [ $RETRY_COUNT -ge $MAX_RETRIES ]
-        do
-          if attempt_push; then
-            echo "Push successful!"
-            exit 0
-          fi
-          
-          RETRY_COUNT=$((RETRY_COUNT+1))
-          if [ $RETRY_COUNT -lt $MAX_RETRIES ]; then
-            echo "Push failed, retry $RETRY_COUNT/$MAX_RETRIES in 10 seconds..."
-            sleep 10
-            # Pull latest changes before next retry
-            git pull --rebase origin main 2>/dev/null || git pull origin main 2>/dev/null || true
-          fi
-        done
-        
-        echo "All push attempts failed"
-        exit 1
+        git push origin main

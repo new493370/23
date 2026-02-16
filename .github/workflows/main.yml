@@ -33,12 +33,12 @@ jobs:
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
-        pip install requests beautifulsoup4
+        pip install requests beautifulsoup4 aiofiles
         
     - name: Clean old config files
       run: |
         rm -rf configs/
-        mkdir -p configs/telegram configs/github configs/combined
+        mkdir -p configs/telegram configs/github configs/combined configs/temp
         
     - name: Run Telegram Config Extractor
       run: python telegram_extractor.py
@@ -47,6 +47,10 @@ jobs:
     - name: Run GitHub Config Extractor
       run: python github_extractor.py
       timeout-minutes: 15
+        
+    - name: Test and Filter Configs with Smart Ping Engine
+      run: python config_tester.py
+      timeout-minutes: 25
         
     - name: Combine Configs
       run: python combine_configs.py

@@ -69,37 +69,83 @@ jobs:
         git config --global user.name "github-actions[bot]"
         git config --global user.email "github-actions[bot]@users.noreply.github.com"
         
-    - name: Pull latest changes
-      run: |
-        git pull --rebase origin main
-        
     - name: Stage all changes
+      id: stage_changes
       run: |
         git add .
-        
-    - name: Check for changes
-      id: check_changes
-      run: |
+        # Check if there are changes to commit
         if git diff --cached --quiet; then
-          echo "changes=false" >> $GITHUB_OUTPUT
+          echo "has_changes=false" >> $GITHUB_OUTPUT
         else
-          echo "changes=true" >> $GITHUB_OUTPUT
+          echo "has_changes=true" >> $GITHUB_OUTPUT
         fi
         
     - name: Commit changes
-      if: steps.check_changes.outputs.changes == 'true'
+      if: steps.stage_changes.outputs.has_changes == 'true'
       run: |
         git commit -m "🔄 Configs update $(date -u '+%Y-%m-%d %H:%M UTC')"
         
+    - name: Pull latest changes with rebase
+      if: steps.stage_changes.outputs.has_changes == 'true'
+      run: |
+        # First, try to pull with rebase
+        if git pull --rebase origin main; then
+          echo "rebase_success=true" >> $GITHUB_ENV
+        else
+          echo "rebase_success=false" >> $GITHUB_ENV
+          # If rebase fails due to conflicts, abort and try merge
+          git rebase --abort 2>/dev/null || true
+        fi
+        
+    - name: Handle rebase conflicts
+      if: env.rebase_success == 'false' && steps.stage_changes.outputs.has_changes == 'true'
+      run: |
+        echo "Rebase failed, trying merge strategy..."
+        # Fetch latest changes
+        git fetch origin main
+        # Try to merge
+        if git merge origin/main --no-edit; then
+          echo "merge_success=true" >> $GITHUB_ENV
+        else
+          echo "merge_success=false" >> $GITHUB_ENV
+          # If merge fails, abort
+          git merge --abort 2>/dev/null || true
+        fi
+        
     - name: Push changes with retry
-      if: steps.check_changes.outputs.changes == 'true'
+      if: steps.stage_changes.outputs.has_changes == 'true'
+      env:
+        REBASE_SUCCESS: ${{ env.rebase_success }}
+        MERGE_SUCCESS: ${{ env.merge_success }}
       run: |
         MAX_RETRIES=3
         RETRY_COUNT=0
+        
+        # Function to attempt push
+        attempt_push() {
+          if git push origin main; then
+            return 0
+          else
+            return 1
+          fi
+        }
+        
+        # Try to push with retries
         until [ $RETRY_COUNT -ge $MAX_RETRIES ]
         do
-          git pull --rebase origin main && git push origin main && break
+          if attempt_push; then
+            echo "Push successful!"
+            exit 0
+          fi
+          
           RETRY_COUNT=$((RETRY_COUNT+1))
-          echo "Push failed, retry $RETRY_COUNT/$MAX_RETRIES in 10 seconds..."
-          sleep 10
+          if [ $RETRY_COUNT -lt $MAX_RETRIES ]; then
+            echo "Push failed, retry $RETRY_COUNT/$MAX_RETRIES in 10 seconds..."
+            sleep 10
+            # Pull latest changes before next retry
+            git pull --rebase origin main 2>/dev/null || git pull origin main 2>/dev/null || true
+          fi
         done
+        
+        echo "All push attempts failed"
+        exit 1

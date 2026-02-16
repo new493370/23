@@ -1,7 +1,7 @@
-# Combined TROJAN Configurations
-# Updated: 2026-02-16 15:46:44
+# Tested Working TROJAN Configurations
+# Updated: 2026-02-16 15:46:43
 # Count: 13
-# Sources: Tested (13) + Telegram (0) + GitHub (0)
+# Average Latency: Working
 
 trojan://humanity@104.18.32.47:443?sni=www.calmlunch.com&type=ws&path=%2Fassignment&fp=chrome#ARISTA🔥
 trojan://humanity@104.18.11.110:443?sni=www.multiplydose.com&type=ws&path=%2Fassignment&fp=chrome#ARISTA🔥

@@ -33,12 +33,12 @@ jobs:
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
-        pip install requests beautifulsoup4
+        pip install requests beautifulsoup4 aiohttp dnspython
         
     - name: Clean old config files
       run: |
         rm -rf configs/
-        mkdir -p configs/telegram configs/github configs/combined
+        mkdir -p configs/telegram configs/github configs/combined configs/tested
         
     - name: Run Telegram Config Extractor
       run: python telegram_extractor.py
@@ -48,13 +48,20 @@ jobs:
       run: python github_extractor.py
       timeout-minutes: 15
         
-    - name: Combine Configs
+    - name: Test and Filter Configs
+      run: python config_tester.py
+      timeout-minutes: 30
+        
+    - name: Combine Tested Configs
       run: python combine_configs.py
         
     - name: Create summary
       run: |
         date > last_update.txt
         echo "Updated: $(date -u '+%Y-%m-%d %H:%M UTC')" > update_info.txt
+        if [ -f configs/tested/test_report.txt ]; then
+          cat configs/tested/test_report.txt >> update_info.txt
+        fi
         
     - name: Configure Git
       run: |

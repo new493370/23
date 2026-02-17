@@ -15,13 +15,41 @@ class ConfigCombiner:
             return []
         
         configs = []
-        with open(filepath, 'r', encoding='utf-8') as f:
-            for line in f:
-                line = line.strip()
-                if line and not line.startswith('#'):
-                    configs.append(line)
+        try:
+            with open(filepath, 'r', encoding='utf-8') as f:
+                for line in f:
+                    line = line.strip()
+                    if line and not line.startswith('#'):
+                        configs.append(line)
+        except:
+            pass
         
         return configs
+    
+    def categorize_configs(self, configs):
+        categories = {cat: [] for cat in self.categories}
+        
+        for config in configs:
+            if config.startswith('vmess://'):
+                categories['vmess'].append(config)
+            elif config.startswith('vless://'):
+                categories['vless'].append(config)
+            elif config.startswith('trojan://'):
+                categories['trojan'].append(config)
+            elif config.startswith('ss://'):
+                categories['ss'].append(config)
+            elif config.startswith('hysteria2://') or config.startswith('hy2://'):
+                categories['hysteria2'].append(config)
+            elif config.startswith('hysteria://'):
+                categories['hysteria'].append(config)
+            elif config.startswith('tuic://'):
+                categories['tuic'].append(config)
+            elif config.startswith('wireguard://'):
+                categories['wireguard'].append(config)
+            else:
+                categories['other'].append(config)
+        
+        return categories
     
     def deduplicate(self, configs):
         unique_configs = []
@@ -39,59 +67,52 @@ class ConfigCombiner:
         os.makedirs('configs/combined', exist_ok=True)
         timestamp = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
         
-        all_combined = []
+        tested_telegram = self.read_configs('configs/tested/telegram_tested.txt')
+        tested_github = self.read_configs('configs/tested/github_tested.txt')
+        all_tested = self.read_configs('configs/tested/all_tested.txt')
         
-        for category in self.categories:
-            telegram_configs = self.read_configs(f'configs/telegram/{category}.txt')
-            github_configs = self.read_configs(f'configs/github/{category}.txt')
-            
-            combined_configs = telegram_configs + github_configs
-            unique_configs = self.deduplicate(combined_configs)
-            
-            if unique_configs:
+        categorized = self.categorize_configs(all_tested)
+        
+        for category, configs in categorized.items():
+            if configs:
+                unique_configs = self.deduplicate(configs)
                 filename = f"configs/combined/{category}.txt"
-                content = f"# Combined {category.upper()} Configurations\n"
+                content = f"# Combined {category.upper()} Configurations (Tested)\n"
                 content += f"# Updated: {timestamp}\n"
                 content += f"# Count: {len(unique_configs)}\n"
-                content += f"# Sources: Telegram ({len(telegram_configs)}) + GitHub ({len(github_configs)})\n\n"
+                content += f"# Sources: Telegram ({len([c for c in unique_configs if c in tested_telegram])}) + "
+                content += f"GitHub ({len([c for c in unique_configs if c in tested_github])})\n\n"
                 content += "\n".join(unique_configs)
                 
                 with open(filename, 'w', encoding='utf-8') as f:
                     f.write(content)
-                
-                all_combined.extend(unique_configs)
         
-        if all_combined:
+        if all_tested:
             filename = "configs/combined/all.txt"
-            content = f"# All Combined Configurations\n"
+            content = f"# All Combined Configurations (Tested)\n"
             content += f"# Updated: {timestamp}\n"
-            content += f"# Total Count: {len(all_combined)}\n"
-            content += "# Sources: Telegram + GitHub\n\n"
-            content += "\n".join(all_combined)
+            content += f"# Total Count: {len(all_tested)}\n"
+            content += f"# Sources: Telegram ({len(tested_telegram)}) + GitHub ({len(tested_github)})\n\n"
+            content += "\n".join(all_tested)
             
             with open(filename, 'w', encoding='utf-8') as f:
                 f.write(content)
         
-        all_telegram = self.read_configs('configs/telegram/all.txt')
-        all_github = self.read_configs('configs/github/all.txt')
-        
-        total_telegram = len(all_telegram)
-        total_github = len(all_github)
-        total_combined = len(all_combined)
-        
         print("=" * 60)
-        print("CONFIG COMBINER")
+        print("CONFIG COMBINER - TESTED CONFIGS")
         print("=" * 60)
-        print(f"Telegram configs: {total_telegram}")
-        print(f"GitHub configs: {total_github}")
-        print(f"Combined unique configs: {total_combined}")
+        print(f"Tested Telegram configs: {len(tested_telegram)}")
+        print(f"Tested GitHub configs: {len(tested_github)}")
+        print(f"Total tested configs: {len(all_tested)}")
         print("\n📁 Files created in configs/combined/:")
+        
         for category in self.categories:
             if os.path.exists(f'configs/combined/{category}.txt'):
                 with open(f'configs/combined/{category}.txt', 'r', encoding='utf-8') as f:
                     lines = [line for line in f if line.strip() and not line.startswith('#')]
                 print(f"  {category}.txt: {len(lines)} configs")
-        print(f"  all.txt: {total_combined} configs")
+        
+        print(f"  all.txt: {len(all_tested)} configs")
         print("=" * 60)
 
 def main():

@@ -1,6 +1,15 @@
 # GitHub TUIC Configurations
-# Updated: 2026-02-17 07:48:17
-# Count: 1
+# Updated: 2026-02-17 09:06:16
+# Count: 10
 # Source: GitHub Repositories
 
+tuic://6cad27ce-4c71-4ff6-bdb1-f9fa4931fc90:6cad27ce-4c71-4ff6-bdb1-f9fa4931fc90@195.128.102.110:46985?alpn=h3&congestion_control=bbr&sni=www.python.org#ARISTA🔥
+tuic://6cad27ce-4c71-4ff6-bdb1-f9fa4931fc90:6cad27ce-4c71-4ff6-bdb1-f9fa4931fc90@185.244.195.86:47977?alpn=h3&congestion_control=bbr&sni=www.python.org#ARISTA🔥
+tuic://6cad27ce-4c71-4ff6-bdb1-f9fa4931fc90:6cad27ce-4c71-4ff6-bdb1-f9fa4931fc90@37.114.48.20:61000?alpn=h3&congestion_control=bbr&sni=www.python.org#ARISTA🔥
+tuic://6cad27ce-4c71-4ff6-bdb1-f9fa4931fc90:6cad27ce-4c71-4ff6-bdb1-f9fa4931fc90@37.114.48.20:43697?alpn=h3&congestion_control=bbr&sni=www.python.org#ARISTA🔥
+tuic://6cad27ce-4c71-4ff6-bdb1-f9fa4931fc90:6cad27ce-4c71-4ff6-bdb1-f9fa4931fc90@195.128.102.110:63145?alpn=h3&congestion_control=bbr&sni=www.python.org#ARISTA🔥
+tuic://6cad27ce-4c71-4ff6-bdb1-f9fa4931fc90:6cad27ce-4c71-4ff6-bdb1-f9fa4931fc90@166.0.192.239:64276?alpn=h3&congestion_control=bbr&sni=python.org#ARISTA🔥
+tuic://6cad27ce-4c71-4ff6-bdb1-f9fa4931fc90:6cad27ce-4c71-4ff6-bdb1-f9fa4931fc90@166.0.192.229:8080?alpn=h3&congestion_control=bbr&sni=www.python.org#ARISTA🔥
+tuic://6cad27ce-4c71-4ff6-bdb1-f9fa4931fc90:6cad27ce-4c71-4ff6-bdb1-f9fa4931fc90@209.141.58.4:61000?alpn=h3&congestion_control=bbr&sni=www.python.org#ARISTA🔥
+tuic://6cad27ce-4c71-4ff6-bdb1-f9fa4931fc90:6cad27ce-4c71-4ff6-bdb1-f9fa4931fc90@204.152.198.183:40001?alpn=h3&congestion_control=bbr&sni=www.python.org#ARISTA🔥
 tuic://80747420-96c4-4a2f-83e6-eea4e46beb09:80747420-96c4-4a2f-83e6-eea4e46beb09@drhystuichdfy.samanidempire.org:41053/?congestion_control=cubic&udp_relay_mode=native&alpn=h3&sni=drhystuichdfy.samanidempire.org#ARISTA🔥

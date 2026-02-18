@@ -1,6 +1,6 @@
 # GitHub TROJAN Configurations
-# Updated: 2026-02-18 02:48:39
-# Count: 1530
+# Updated: 2026-02-18 05:08:47
+# Count: 1527
 # Source: GitHub Repositories
 
 trojan://2bfe58f7-da1d-45df-ab43-7c665b20ee29@104.21.17.25:443?security=tls&sni=vvvbnj.taipei102.indevs.in&alpn=http/1.1&type=ws&host=vvvbnj.taipei102.indevs.in&path=/2cO5FH0xUmT9oqnbBhmKb8nOkg#ARISTA🔥
@@ -1530,6 +1530,3 @@ trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&fp=chrome&ty
 trojan://humanity@104.21.40.34:443?path=%2Fassignment&security=tls&host=www.gossipglove.com&type=ws&sni=www.gossipglove.com#ARISTA🔥
 trojan://humanity@104.18.32.47:443?path=%2Fassignment&security=tls&insecure=0&host=www.gossipglove.com&fp=chrome&type=ws&allowInsecure=0&sni=www.gossipglove.com#ARISTA🔥
 trojan://humanity@104.18.32.47:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#ARISTA🔥
-trojan://9372cb81c7b0ad903f91f2f8a4d3f02b@18.183.109.29:3373?allowInsecure=1&sni=www.nintendogames.net#ARISTA🔥
-trojan://Tn2Bf0iRwJkJQgDk6gX6x81RB@94.131.122.254:443?security=tls&sni=hl-freedom-2.undef.network&type=ws&path=/f2fc2a1f&allowInsecure=1#ARISTA🔥
-trojan://BxceQaOe@58.152.25.208:443?allowInsecure=1&sni=58.152.25.208#ARISTA🔥

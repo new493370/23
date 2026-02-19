@@ -1,8 +1,9 @@
 # GitHub HYSTERIA Configurations
-# Updated: 2026-02-19 19:53:59
-# Count: 3
+# Updated: 2026-02-19 20:56:45
+# Count: 4
 # Source: GitHub Repositories
 
 hysteria://51.159.226.1:49003?upmbps=11&downmbps=55&auth=dongtaiwang.com&insecure=1&peer=apple.com&alpn=h3#ARISTA🔥
 hysteria://208.87.243.187:15823?upmbps=100&downmbps=100&auth=dongtaiwang.com&insecure=1&peer=apple.com&alpn=h3#ARISTA🔥
 hysteria://195.154.200.40:15010/?insecure=1&peer=apple.com&auth=dongtaiwang.com&upmbps=100&downmbps=100&alpn=h3#ARISTA🔥
+hysteria://[2a14:7584:d099::a]:26691/?insecure=1&amp;peer=apple.com&amp;auth=dongtaiwang.com&amp;upmbps=11&amp;downmbps=55&amp;alpn=h3#ARISTA🔥

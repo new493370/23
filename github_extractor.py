@@ -9,28 +9,21 @@ from urllib.parse import urlparse
 import os
 
 SOURCES = [
-    "https://cdn.jsdelivr.net/gh/Mosifree/-FREE2CONFIG@refs/heads/main/Reality",
+    "https://raw.githubusercontent.com/Mosifree/-FREE2CONFIG/refs/heads/main/Reality",
     "https://cdn.jsdelivr.net/gh/Rayan-Config/C-Sub@main/configs/proxy.txt",
+    "https://cdn.jsdelivr.net/gh/MahsaNetConfigTopic/config@main/xray_final.txt",
     "https://cdn.jsdelivr.net/gh/4n0nymou3/multi-proxy-config-fetcher@main/configs/proxy_configs.txt",
+    "https://cdn.jsdelivr.net/gh/miladtahanian/V2RayCFGDumper@main/config.txt",
     "https://cdn.jsdelivr.net/gh/parvinxs/Submahsanetxsparvin@main/Sub.mahsa.xsparvin",
-    "https://cdn.jsdelivr.net/gh/parvinxs/Fssociety@refs/heads/main/Fssociety.sub",
+    "https://raw.githubusercontent.com/parvinxs/Fssociety/refs/heads/main/Fssociety.sub",
     "https://cdn.jsdelivr.net/gh/Firmfox/Proxify@main/v2ray_configs/seperated_by_protocol/other.txt",
     "https://cdn.jsdelivr.net/gh/begugla0/nashvpn@main/hysteria2.txt",
     "https://cdn.jsdelivr.net/gh/LowiKLive/BypassWhitelistRu@main/WhiteList-Bypass_Ru.txt",
-    "https://cdn.jsdelivr.net/gh/vlesscollector/vlesscollector@refs/heads/main/vless_configs.txt",
-    "https://cdn.jsdelivr.net/gh/Surfboardv2ray/TGParse@refs/heads/main/configtg.txt",
-    "https://cdn.jsdelivr.net/gh/sakha1370/OpenRay@refs/heads/main/output/all_valid_proxies.txt",
-    "https://cdn.jsdelivr.net/gh/yitong2333/proxy-minging@refs/heads/main/v2ray.txt",
-    "https://cdn.jsdelivr.net/gh/mohamadfg-dev/telegram-v2ray-configs-collector@refs/heads/main/category/vless.txt",
-    "https://cdn.jsdelivr.net/gh/Delta-Kronecker/Xray@refs/heads/main/data/working_url/working_all_urls.txt",
-    "https://cdn.jsdelivr.net/gh/V2RayRoot/V2RayConfig@refs/heads/main/Config/vless.txt",
-    "https://cdn.jsdelivr.net/gh/AvenCores/goida-vpn-configs@refs/heads/main/githubmirror/26.txt",
-    "https://cdn.jsdelivr.net/gh/shabane/kamaji@master/hub/merged.txt",
-    "https://cdn.jsdelivr.net/gh/Argh94/Proxy-List@refs/heads/main/All_Config.txt",
-    "https://cdn.jsdelivr.net/gh/miladtahanian/Config-Collector@refs/heads/main/vless_iran.txt",
-    "https://cdn.jsdelivr.net/gh/youfoundamin/V2rayCollector@refs/heads/main/mixed_iran.txt",
-    "https://cdn.jsdelivr.net/gh/CidVpn/cid-vpn-config@refs/heads/main/general.txt",
-    "https://cdn.jsdelivr.net/gh/roosterkid/openproxylist@main/V2RAY_RAW.txt"
+    "https://cdn.jsdelivr.net/gh/roosterkid/openproxylist@main/V2RAY_RAW.txt",
+    "https://raw.githubusercontent.com/vlesscollector/vlesscollector/refs/heads/main/vless_configs.txt",
+    "https://raw.githubusercontent.com/MhdiTaheri/V2rayCollector_Py/main/sub/Mix/mix.txt",
+    "https://raw.githubusercontent.com/Firmfox/Proxify/refs/heads/main/v2ray_configs/seperated_by_protocol/other.txt",
+    "https://raw.githubusercontent.com/Surfboardv2ray/TGParse/refs/heads/main/configtg.txt"
 ]
 
 class GitHubConfigExtractor:
@@ -173,7 +166,7 @@ class GitHubConfigExtractor:
             return True
         return False
     
-    def tag_config(self, config, tag="ARISTA🔥"):
+    def tag_config(self, config, tag="T.ME: @aristapnel"):
         if isinstance(config, dict):
             config['ps'] = tag
             json_str = json.dumps(config, separators=(',', ':'), ensure_ascii=False)

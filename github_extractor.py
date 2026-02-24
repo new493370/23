@@ -10,20 +10,15 @@ import os
 
 SOURCES = [
     "https://raw.githubusercontent.com/Mosifree/-FREE2CONFIG/refs/heads/main/Reality",
-    "https://cdn.jsdelivr.net/gh/Rayan-Config/C-Sub@main/configs/proxy.txt",
     "https://cdn.jsdelivr.net/gh/MahsaNetConfigTopic/config@main/xray_final.txt",
     "https://cdn.jsdelivr.net/gh/4n0nymou3/multi-proxy-config-fetcher@main/configs/proxy_configs.txt",
-    "https://cdn.jsdelivr.net/gh/miladtahanian/V2RayCFGDumper@main/config.txt",
-    "https://cdn.jsdelivr.net/gh/parvinxs/Submahsanetxsparvin@main/Sub.mahsa.xsparvin",
     "https://raw.githubusercontent.com/parvinxs/Fssociety/refs/heads/main/Fssociety.sub",
     "https://cdn.jsdelivr.net/gh/Firmfox/Proxify@main/v2ray_configs/seperated_by_protocol/other.txt",
-    "https://cdn.jsdelivr.net/gh/begugla0/nashvpn@main/hysteria2.txt",
     "https://cdn.jsdelivr.net/gh/LowiKLive/BypassWhitelistRu@main/WhiteList-Bypass_Ru.txt",
     "https://cdn.jsdelivr.net/gh/roosterkid/openproxylist@main/V2RAY_RAW.txt",
-    "https://raw.githubusercontent.com/vlesscollector/vlesscollector/refs/heads/main/vless_configs.txt",
-    "https://raw.githubusercontent.com/MhdiTaheri/V2rayCollector_Py/main/sub/Mix/mix.txt",
     "https://raw.githubusercontent.com/Firmfox/Proxify/refs/heads/main/v2ray_configs/seperated_by_protocol/other.txt",
-    "https://raw.githubusercontent.com/Surfboardv2ray/TGParse/refs/heads/main/configtg.txt"
+    "https://cdn.jsdelivr.net/gh/Mahdi0024/ProxyCollector@master/sub/proxies.txt",
+    "https://cdn.jsdelivr.net/gh/youfoundamin/V2rayCollector@main/mixed_iran.txt"
 ]
 
 class GitHubConfigExtractor:

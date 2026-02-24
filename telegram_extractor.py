@@ -850,7 +850,7 @@ class TelegramConfigExtractor:
         
         return False
     
-    def tag_config(self, config, tag="T.ME: @aristapnel"):
+    def tag_config(self, config_str, tag="ARISTA🔥"):
         config_str = self.clean_config(config_str)
         
         if config_str.startswith('vmess://'):

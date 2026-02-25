@@ -1,12 +1,11 @@
 # Combined HYSTERIA2 Configurations
-# Updated: 2026-02-25 17:49:33
-# Count: 76
-# Sources: Telegram (4) + GitHub (72)
+# Updated: 2026-02-25 19:23:41
+# Count: 83
+# Sources: Telegram (3) + GitHub (80)
 
-hysteria2://Yet-Another-Public-Config-1@206.71.158.37:36600?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir#ARISTA🔥
-hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@5.175.249.174:35000?security=tls&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=0&sni=api.kermanshahi.org#ARISTA🔥
-hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@5.175.249.174:35000?security=tls&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=0&sni=api.kermanshahi.org#ARISTA🔥
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@206.71.158.41:35000?security=tls&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi&sni=api.kermanshahi.org#ARISTA🔥
+hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@5.175.249.174:35000?security=tls&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=0&sni=api.kermanshahi.org#ARISTA🔥
+hysteria2://Yet-Another-Public-Config-1@206.71.158.37:36600?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir#ARISTA🔥
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35200?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir#T.ME: @aristapnel
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@5.175.249.174:35000/?obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi&sni=api.kermanshahi.org#T.ME: @aristapnel
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=0&sni=YAPC-1.afshin.ir#T.ME: @aristapnel
@@ -67,15 +66,23 @@ hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@206.71.158.41:35000?security=tl
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@5.175.249.174:35000?security=tls&obfs=salamander&obfs-password=@i&insecure=0&sni=api.kermanshahi.org#T.ME: @aristapnel
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@5.175.249.174:35000?sni=api.kermanshahi.org&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=0#T.ME: @aristapnel
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@5.175.249.174:35000?sni=api.kermanshahi.org&insecure=0&allowInsecure=0&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi#T.ME: @aristapnel
-hysteria2://990e8f34-bd4f-11ef-bdb9-f23c91cfbbc9@c189808a-t57ls0-t7uinf-i8ie.us.hyhuawei.com:443?sni=c189808a-t57ls0-t7uinf-i8ie.us.hyhuawei.com&obfs=none&insecure=1#T.ME: @aristapnel
-hysteria2://9345f815-6ab0-4504-97f8-17539662676a@103.62.49.76:35000?obfs=none&insecure=1#T.ME: @aristapnel
-hysteria2://Yet-Another-Public-Config-1@206.71.158.37:36400?sni=YAPC-1.afshin.ir&obfs=Yet-Another-Public-Config-1&insecure=1#T.ME: @aristapnel
-hysteria2://b9c9905c-1627-11ec-a0fc-f23c913c8d2b@74cba7ec-t57ls0-t6nlrg-ach1.hk1.hyhuawei.com:443?sni=74cba7ec-t57ls0-t6nlrg-ach1.hk1.hyhuawei.com&obfs=none&insecure=1#T.ME: @aristapnel
-hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@5.175.249.174:35000?obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi&type=hysteria&mport&security=tls&sni=api.kermanshahi.org&alpn=h3&allowInsecure=0#T.ME: @aristapnel
-hysteria2://537d7098-fdbe-11ef-8ebc-f23c93141fad@14ff4864-t4x400-tcjtj6-d70y.la.shifen.uk:1743?sni=14ff4864-t4x400-tcjtj6-d70y.la.shifen.uk&obfs=none&insecure=1#T.ME: @aristapnel
-hysteria2://520b9126-9870-11ef-81b0-f23c9164ca5d@71477f9c-t53wg0-t95ncr-1slop.hk1.hyhuawei.com:443?sni=71477f9c-t53wg0-t95ncr-1slop.hk1.hyhuawei.com&obfs=none&insecure=1#T.ME: @aristapnel
+hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@77.90.41.197:35000?sni=api.kermanshahi.org&obfs=%252540JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=1#T.ME: @aristapnel
 hysteria2://germany_hysteria2_fastlane_5devbouui:d6PbiWJIc6RAIokX8S7ZyXEm6SjqfvXA@150.241.79.106:1935?security=tls&insecure=1&sni=de2.h.fastlanehosting.ru#T.ME: @aristapnel
+hysteria2://Yet-Another-Public-Config-1@2a14:3f87:f001:13::a:36600:443?sni=YAPC-1.afshin.ir&obfs=Yet-Another-Public-Config-1&insecure=1#T.ME: @aristapnel
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@206.71.158.41:35000?security=tls&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=0&sni=api.kermanshahi.org#T.ME: @aristapnel
-hysteria2://e1c7fbbc-96b6-11ef-8563-f23c913c8d2b@5f159779-t55r40-te0v28-1mh67.us.hyhuawei.com:443?obfs=none&insecure=1#T.ME: @aristapnel
-hysteria2://E35FD247-3464-493A-AA34-AE0972EDFA8C@hk4.dexlos.com:7588?sni=hk4.dexlos.com&obfs=none&insecure=1#T.ME: @aristapnel
+hysteria2://f73c64bc-9e8c-11ec-bd7c-f23c913c8d2b@674c3aeb-t6ngg0-t8jzg2-1hd7v.us.hyhuawei.com:443?sni=674c3aeb-t6ngg0-t8jzg2-1hd7v.us.hyhuawei.com&obfs=none&insecure=1#T.ME: @aristapnel
+hysteria2://de0c4b78-82d5-4f30-8d57-5302748b6af9@afeioraclesg.54141528.xyz:36588?insecure=1&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA%3D%3D&sni=afeioraclesg.54141528.xyz#T.ME: @aristapnel
+hysteria2://5046SHWqk6@91.132.51.160:844?insecure=1&sni=www.refersion.com#T.ME: @aristapnel
+hysteria2://537d7098-fdbe-11ef-8ebc-f23c93141fad@107.167.18.123:1743?sni=14ff4864-t4x400-tcjtj6-d70y.la.shifen.uk&obfs=none&insecure=1#T.ME: @aristapnel
+hysteria2://f5c0eda2-4b97-11ed-bd7c-f23c913c8d2b@9662dc6c-t6ngg0-taxf6m-ieln.us.hyhuawei.com:443?sni=9662dc6c-t6ngg0-taxf6m-ieln.us.hyhuawei.com&obfs=none&insecure=1#T.ME: @aristapnel
+hysteria2://759bf004-6137-11ec-bd7c-f23c913c8d2b@cb6ccdef-t53wg0-thiwul-1gcq2.hk1.hyhuawei.com:443?sni=cb6ccdef-t53wg0-thiwul-1gcq2.hk1.hyhuawei.com&obfs=none&insecure=1#T.ME: @aristapnel
+hysteria2://freeflyzone1:T0JYDwuNHT3pdf3x9ftRTDg0Okwszjvj@172.232.207.161:6090?sni=www.azki.com&obfs=salamander&obfs-password=etXTC5FrUoTkMu2xlBradrUQrLDMgHJ&insecure=1#T.ME: @aristapnel
+hysteria2://de629d50-1711-11ed-bd7c-f23c913c8d2b@4a8146b5-t70f40-tlpfci-1jdha.hk1.hyhuawei.com:443?obfs=none&insecure=1#T.ME: @aristapnel
+hysteria2://de0c4b78-82d5-4f30-8d57-5302748b6af9@afeiosaka.54141528.xyz:35685?insecure=1&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA%3D%3D&sni=afeiosaka.54141528.xyz#T.ME: @aristapnel
+hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@206.71.158.41:35000?sni=jnir.pichondan.com&obfs=salamander&obfs-password=%252540JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=1#T.ME: @aristapnel
+hysteria2://8e0f8ef2-5fe3-11ec-a8bf-f23c91cfbbc9@22f48047-t6pb40-tasftf-duku.hk1.hyhuawei.com:443?sni=22f48047-t6pb40-tasftf-duku.hk1.hyhuawei.com&obfs=none&insecure=1#T.ME: @aristapnel
+hysteria2://0da8651e-e1f6-11ec-bd7c-f23c913c8d2b@a033d21f-t6ngg0-tcinla-hrtf.us.hyhuawei.com:443?obfs=none&insecure=1#T.ME: @aristapnel
+hysteria2://51362ab6-b5e6-11ea-ad28-f23c913c8d2b@8ce460ac-t6ngg0-tnkuks-wujn.us.hyhuawei.com:443?obfs=none&insecure=1#T.ME: @aristapnel
+hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@5.175.249.174:35000?obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi&type=hysteria&mport&security=tls&sni=api.kermanshahi.org&alpn=h3&allowInsecure=0#T.ME: @aristapnel
 hysteria2://de0c4b78-82d5-4f30-8d57-5302748b6af9@afeila.54141528.xyz:36545?insecure=1&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA%3D%3D&sni=afeila.54141528.xyz#T.ME: @aristapnel
+hysteria2://4d5018bf-0e8b-4087-8b8a-bfa51ae86f5c@160.16.137.28:35789?security=tls&insecure=0&sni=iij.mggl.wang#T.ME: @aristapnel

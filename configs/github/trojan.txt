@@ -1,6 +1,6 @@
 # GitHub TROJAN Configurations
-# Updated: 2026-02-24 23:50:10
-# Count: 203
+# Updated: 2026-02-25 02:47:57
+# Count: 204
 # Source: GitHub Repositories
 
 trojan://humanity@172.67.180.92:443?path=%2Fassignment&security=tls&host=www.multiplydose.com&fp=chrome&type=ws&sni=www.multiplydose.com#T.ME: @aristapnel
@@ -203,6 +203,7 @@ trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&host=www.gos
 trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&host=www.creationlong.org&type=ws&sni=www.creationlong.org#T.ME: @aristapnel
 trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&host=www.calmlunch.com&type=ws&sni=www.calmlunch.com#T.ME: @aristapnel
 trojan://humanity@104.21.40.34:443?path=%2Fassignment&security=tls&host=www.gossipglove.com&type=ws&sni=www.gossipglove.com#T.ME: @aristapnel
-trojan://347ca311-8fc2-499c-8fe1-bd0ecb50f1b3@5.34.222.4:43642?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=iepl.usq1.cat.bilibili.com#T.ME: @aristapnel
-trojan://123456@bpbg.anguswen.top:8443?sni=BpBg.ANGusWeN.top&alpn=http/1.1&type=ws&path=/eyJqdW5rIjoiTUp4VFNoMTRLbSIsInByb3RvY29sIjoidHIiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbImJwYi55b3VzZWYuaXNlZ2Fyby5jb20iXX0=#T.ME: @aristapnel
-trojan://123456@bpbg.anguswen.top:8443?sni=BpBg.ANGusWeN.top&alpn=http/1.1&type=ws&host=BpBg.ANGusWeN.top&path=/eyJqdW5rIjoiTUp4VFNoMTRLbSIsInByb3RvY29sIjoidHIiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbImJwYi55b3VzZWYuaXNlZ2Fyby5jb20iXX0=#T.ME: @aristapnel
+trojan://5f6c3f92-7220-4275-b34d-57c04db3f967@172.67.185.14:443?security=tls&sni=mk8.huangzi.eu.cc&alpn=http/1.1&type=ws&host=mk8.huangzi.eu.cc&path=/pdfbAl1zmvpSIH8OSONBms#T.ME: @aristapnel
+trojan://4e45c1b4-9107-45dd-9995-cdf7cbb44d9d@mkii.1x4.indevs.in:443?sni=mkii.1x4.indevs.in&alpn=http/1.1&type=ws&host=mkii.1x4.indevs.in&path=/y1moM5CyNvYMZlzsYHmsMrnO#T.ME: @aristapnel
+trojan://4115f84d-3b03-4b03-babf-21b36b2f9c03@xxd.nu0.de5.net:443?security=tls&sni=xxD.nU0.De5.Net&type=ws&path=/r862SIwqItkD5XgXAL#T.ME: @aristapnel
+trojan://34778794-72e8-4862-b1e7-6e6c3ba894be@thj.huangzi.cfd:443?security=tls&sni=thj.huangzi.cfd&alpn=http/1.1&type=ws&host=thj.huangzi.cfd&path=/FYzt5jjXXYWmzP5D1vsO#T.ME: @aristapnel

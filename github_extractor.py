@@ -18,7 +18,9 @@ SOURCES = [
     "https://cdn.jsdelivr.net/gh/roosterkid/openproxylist@main/V2RAY_RAW.txt",
     "https://raw.githubusercontent.com/Firmfox/Proxify/refs/heads/main/v2ray_configs/seperated_by_protocol/other.txt",
     "https://cdn.jsdelivr.net/gh/Mahdi0024/ProxyCollector@master/sub/proxies.txt",
-    "https://cdn.jsdelivr.net/gh/youfoundamin/V2rayCollector@main/mixed_iran.txt"
+    "https://cdn.jsdelivr.net/gh/youfoundamin/V2rayCollector@main/mixed_iran.txt",
+    "https://cdn.jsdelivr.net/gh/zieng2/wl@refs/heads/main/vless_lite.txt",
+    "https://cdn.jsdelivr.net/gh/zieng2/wl@main/vless_universal.txt"
 ]
 
 class GitHubConfigExtractor:

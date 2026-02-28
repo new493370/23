@@ -1,32 +1,33 @@
 # Telegram TROJAN Configurations
-# Updated: 2026-02-28 16:46:18
-# Count: 27
+# Updated: 2026-02-28 17:39:43
+# Count: 28
 # Source: Telegram Channels
 
+trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&host=www.gossipglove.com&type=ws&sni=www.gossipglove.com#ARISTA🔥
+trojan://BxceQaOe@16.163.102.116:52951/?type=tcp&security=tls&allowInsecure=1#ARISTA🔥
+trojan://humanity@172.64.152.23:443?allowInsecure=1&host=www.gossipglove.com&path=%2Fassignment&sni=www.gossipglove.com&type=ws#ARISTA🔥
+trojan://8r%3C%5B9%27l6hAO%238ZQi@172.66.44.230:8443?allowInsecure=1&host=Koma-YT.PAGeS.Dev&path=%2Ftro8sFW1S91B6sZrM1&sni=Koma-YT.PAGeS.Dev&type=ws#ARISTA🔥
+trojan://telegram-id-privatevpns@52.29.35.131:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#ARISTA🔥
+trojan://1338f666-2fcc-4538-bc29-1ebf89624383@u8.ok8.ccwu.cc:443?security=tls&sni=u8.ok8.ccwu.cc&alpn=http/1.1&type=ws&host=u8.ok8.ccwu.cc&path=/XCLcnSashhgSVE3HOw1VI85y#ARISTA🔥
+trojan://1798b14b-aee0-4008-ba9a-2e53877761b4@y.taiwan2029.indevs.in:443?security=tls&sni=y.taiwan2029.indevs.in&type=ws&host=y.taiwan2029.indevs.in&path=/RXvyoH0kyRosKkycyrxcJWNVFC21#ARISTA🔥
+trojan://2bfe58f7-da1d-45df-ab43-7c665b20ee29@dddfghyju.taipei102.indevs.in:443?security=tls&sni=dddfghyju.taipei102.indevs.in&alpn=http/1.1&type=ws&host=dddfghyju.taipei102.indevs.in&path=/2cO5FH0xUmT9oqnbBhmKb8nOkg#ARISTA🔥
+trojan://0zmdDXd0Qt5ff_7Qg67R-Rtq4Tmt4c@188.116.22.217:2083?path=/trojan-ws&security=tls&insecure=0&host=xo.e0f.cx&type=ws&allowInsecure=0&sni=xo.e0f.cx#ARISTA🔥
+trojan://2bfded8d-6a7c-4c18-aaa5-fc65b955d50c@nnmmkk999.890602.xyz:443?security=tls&sni=nnmmkk999.890602.xyz&type=ws&host=nnmmkk999.890602.xyz&path=/7vMsF4VUuJ3dX414bl#ARISTA🔥
+trojan://humanity@104.21.40.34:443?path=%2Fassignment&security=tls&host=www.gossipglove.com&type=ws&sni=www.gossipglove.com#ARISTA🔥
+trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&host=www.gossipglove.com&fp=chrome&type=ws&sni=www.gossipglove.com#ARISTA🔥
+trojan://humanity@188.114.98.0:443?path=%2Fassignment&security=tls&host=www.creationlong.org&type=ws&sni=www.creationlong.org#ARISTA🔥
+trojan://humanity@104.21.40.34:443?path=%2Fassignment&security=tls&insecure=1&host=www.gossipglove.com&type=ws&allowInsecure=1&sni=www.gossipglove.com#ARISTA🔥
+trojan://telegram-id-directvpn@51.44.103.139:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#ARISTA🔥
+trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#ARISTA🔥
+trojan://Nova-Proxy@172.67.119.227:8443?path=%2F%3Fed&security=tls&insecure=1&host=aliem.derisvx.workers.dev&type=ws&allowInsecure=1&sni=aliem.derisvx.workers.dev#ARISTA🔥
 trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#ARISTA🔥
 trojan://842b5f9dd11e458d8613c907c4cc5723@srv1.khatibirepair.ir:443?encryption=none&security=tls&sni=www.gpt123.one&insecure=1&type=raw&headertype=none#ARISTA🔥
 trojan://262f1d150049457ac1d6e66b020fa980@160.16.68.250:1281?security=tls&sni=www.nintendogames.net&path=%2F#ARISTA🔥
 trojan://humanity@srv1.khatibirepair.ir:443?type=ws&security=tls&sni=www.creationlong.org&host=www.creationlong.org&path=%252fassignment#ARISTA🔥
-trojan://telegram-id-v2rayvpnchannel@13.37.204.35:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#ARISTA🔥
+trojan://262f1d150049457ac1d6e66b020fa980@160.16.68.250:1281?security=tls&sni=www.nintendogames.net&path=/#ARISTA🔥
+trojan://humanity@104.18.7.147:443?path=%2Fassignment&security=tls&alpn=h2%2Chttp%2F1.1&insecure=0&type=ws&allowInsecure=0&sni=www.creationlong.org#ARISTA🔥
 trojan://telegram-id-v2rayvpnchannel@3.75.163.105:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#ARISTA🔥
 trojan://telegram-id-v2rayvpnchannel@51.45.44.114:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#ARISTA🔥
 trojan://telegram-id-v2rayvpnchannel@51.44.103.139:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#ARISTA🔥
-trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&host=www.gossipglove.com&type=ws&sni=www.gossipglove.com#ARISTA🔥
-trojan://347ca311-8fc2-499c-8fe1-bd0ecb50f1b3@5.34.222.4:43074?mux=&security=tls&headerType=none&type=tcp&muxConcurrency=-1&sni=iepl.jpz2.cat.bilibili.com#ARISTA🔥
-trojan://BooNHlhUWmTAV7YD6FyTdQ@Cow.gov.cloud-family.com.tr:202?security=none&type=tcp&headerType=&path=&host=#ARISTA🔥
-trojan://BxceQaOe@16.163.102.116:52951/?type=tcp&security=tls&allowInsecure=1#ARISTA🔥
-trojan://humanity@172.64.152.23:443?allowInsecure=1&host=www.gossipglove.com&path=%2Fassignment&sni=www.gossipglove.com&type=ws#ARISTA🔥
-trojan://telegram-id-privatevpns@51.44.103.139:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#ARISTA🔥
-trojan://2bfe58f7-da1d-45df-ab43-7c665b20ee29@104.21.17.25:443?security=tls&sni=vvvbnj.taipei102.indevs.in&alpn=http/1.1&type=ws&host=vvvbnj.taipei102.indevs.in&path=/2cO5FH0xUmT9oqnbBhmKb8nOkg#ARISTA🔥
-trojan://2bfe58f7-da1d-45df-ab43-7c665b20ee29@dddfghyju.taipei102.indevs.in:443?security=tls&sni=dddfghyju.taipei102.indevs.in&alpn=http/1.1&type=ws&host=dddfghyju.taipei102.indevs.in&path=/2cO5FH0xUmT9oqnbBhmKb8nOkg#ARISTA🔥
-trojan://262f1d150049457ac1d6e66b020fa980@153.121.65.107:4920?sni=www.nintendogames.net&path=/#ARISTA🔥
-trojan://262f1d150049457ac1d6e66b020fa980@160.16.68.250:1281?security=tls&sni=www.nintendogames.net&path=/#ARISTA🔥
-trojan://1338f666-2fcc-4538-bc29-1ebf89624383@u8.ok8.ccwu.cc:443?security=tls&sni=u8.ok8.ccwu.cc&alpn=http/1.1&type=ws&host=u8.ok8.ccwu.cc&path=/XCLcnSashhgSVE3HOw1VI85y#ARISTA🔥
-trojan://humanity@104.21.40.34:443?path=%2Fassignment&security=tls&host=www.gossipglove.com&type=ws&sni=www.gossipglove.com#ARISTA🔥
-trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&host=www.gossipglove.com&fp=chrome&type=ws&sni=www.gossipglove.com#ARISTA🔥
-trojan://humanity@188.114.98.0:443?path=%2Fassignment&security=tls&host=www.creationlong.org&type=ws&sni=www.creationlong.org#ARISTA🔥
-trojan://Nova-Proxy@172.67.119.227:8443?path=%2F%3Fed&security=tls&insecure=1&host=aliem.derisvx.workers.dev&type=ws&allowInsecure=1&sni=aliem.derisvx.workers.dev#ARISTA🔥
-trojan://humanity@104.21.40.34:443?path=%2Fassignment&security=tls&insecure=1&host=www.gossipglove.com&type=ws&allowInsecure=1&sni=www.gossipglove.com#ARISTA🔥
-trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#ARISTA🔥
-trojan://telegram-id-directvpn@51.44.103.139:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#ARISTA🔥
-trojan://humanity@104.18.7.147:443?path=%2Fassignment&security=tls&alpn=h2%2Chttp%2F1.1&insecure=0&type=ws&allowInsecure=0&sni=www.creationlong.org#ARISTA🔥
+trojan://telegram-id-v2rayvpnchannel@52.29.35.131:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#ARISTA🔥
+trojan://telegram-id-directvpn@52.29.35.131:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#ARISTA🔥

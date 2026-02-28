@@ -1,6 +1,6 @@
 # GitHub HYSTERIA2 Configurations
-# Updated: 2026-02-28 23:06:13
-# Count: 60
+# Updated: 2026-02-28 23:43:29
+# Count: 59
 # Source: GitHub Repositories
 
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35200?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir#T.ME: @aristapnel
@@ -62,4 +62,3 @@ hysteria2://dc6a6c45-b13c-4f1d-8729-19b4d8bba4aa@208.87.242.77:35000?insecure=1&
 hysteria2://linux.do@[2a01:4f9:4b:f378::1]:13599?security=tls&insecure=1&sni=www.bing.com#T.ME: @aristapnel
 hysteria2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:36400/?insecure=1&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&sni=YAPC-1.afshin.ir#T.ME: @aristapnel
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@5.175.249.174:35000?security=tls&serviseName=@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=0&sni=api.kermanshahi.org#T.ME: @aristapnel
-hysteria2://dc6a6c45-b13c-4f1d-8729-19b4d8bba4aa@150.230.89.61:443?insecure=1&sni=www.apple.com#T.ME: @aristapnel

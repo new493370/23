@@ -1,6 +1,6 @@
 # GitHub TROJAN Configurations
-# Updated: 2026-03-03 07:14:46
-# Count: 498
+# Updated: 2026-03-03 08:04:34
+# Count: 497
 # Source: GitHub Repositories
 
 trojan://humanity@www.multiplydose.com:443?security=tls&sni=www.multiplydose.com&allowInsecure=1&type=ws&host=www.multiplydose.com&path=%2Fassignment#T.ME: @aristapnel
@@ -291,8 +291,7 @@ trojan://a5inYFE%3DJGV89%2BhjxIqgDp1tcWBd6@80.173.230.196:26279?security=tls&ins
 trojan://qmBSKnAl6LYi9%3Dz23Rs.Z@37.235.49.209:28099?security=tls&sni=celestialcorset.crystalhamster.click&insecure=1&allowInsecure=1&type=tcp&headerType=none#T.ME: @aristapnel
 trojan://262f1d150049457ac1d6e66b020fa980@160.16.70.180:2001?security=tls&sni=www.nintendogames.net#T.ME: @aristapnel
 trojan://13c169be-8592-4eaa-94cb-69c859e7d987@ubu.okaoclax.me:443?path=/trojan-ws&security=tls&host=ubu.okaoclax.me&type=ws&sni=ubu.okaoclax.me#T.ME: @aristapnel
-trojan://262f1d150049457ac1d6e66b020fa980@160.16.124.17:4920?security=tls&sni=www.nintendogames.net#T.ME: @aristapnel
-trojan://0zmdDXd0Qt5ff_7Qg67R-Rtq4Tmt4c@188.116.22.217:2083?security=tls&type=ws&sni=xo.e0f.cx&path=/trojan-ws&host=xo.e0f.cx#T.ME: @aristapnel
+trojan://262f1d150049457ac1d6e66b020fa980@160.16.106.99:4920?allowInsecure=0&sni=www.nintendogames.net#T.ME: @aristapnel
 trojan://zp630tdUuD@194.150.166.151:52047?security=reality&sni=aws.amazon.com&fp=chrome&pbk=4o28aGSIz_r6Fa9sG7ZjgeT764t3bVJKmC9RDwIff38&sid=1abe0c286879&spx=%2f&type=grpc&path=%2f#T.ME: @aristapnel
 trojan://2bfe58f7-da1d-45df-ab43-7c665b20ee29@dddfghyju.taipei102.indevs.in:443?security=tls&sni=dddfghyju.taipei102.indevs.in&type=ws&host=dddfghyju.taipei102.indevs.in&path=%2f2cO5FH0xUmT9oqnbBhmKb8nOkg#T.ME: @aristapnel
 trojan://98b419ef-83a2-4d1b-a23d-566b7f24477b@kkkkki.231.pp.ua:443?security=tls&sni=KkKkki.231.PP.Ua&alpn=http%2f1.1&type=ws&host=KKKkKi.231.pp.Ua&path=%2fKlh0x8wtLpTGA5AqzZ2Mj&allow_insecure=0#T.ME: @aristapnel

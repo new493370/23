@@ -1,5 +1,5 @@
 # GitHub TROJAN Configurations
-# Updated: 2026-03-04 13:20:04
+# Updated: 2026-03-04 14:26:07
 # Count: 454
 # Source: GitHub Repositories
 
@@ -259,14 +259,14 @@ trojan://qmBSKnAl6LYi9%3Dz23Rs.Z@37.235.49.209:28099?security=tls&sni=celestialc
 trojan://ZblhWr0mqMakCPg.N@212.193.18.144:36158?security=tls&sni=api.avito.ru&insecure=1&allowInsecure=1&type=tcp&headerType=none#T.ME: @aristapnel
 trojan://a5inYFE%3DJGV89%2BhjxIqgDp1tcWBd6@80.173.230.196:26279?security=tls&insecure=1&allowInsecure=1&type=tcp&headerType=none#T.ME: @aristapnel
 trojan://qmBSKnAl6LYi9%3Dz23Rs.Z@37.235.49.209:28099?security=tls&sni=celestialcorset.crystalhamster.click&insecure=1&allowInsecure=1&type=tcp&headerType=none#T.ME: @aristapnel
+trojan://telegram-id-privatevpns@15.224.29.111:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#T.ME: @aristapnel
+trojan://f7dbed8b1ca85124e793ba6c0bcfd0db@153.121.45.139:4674?allowInsecure=0&sni=www.nintendogames.net#T.ME: @aristapnel
 trojan://f7dbed8b1ca85124e793ba6c0bcfd0db@18.183.167.108:331?security=tls&sni=www.nintendogames.net#T.ME: @aristapnel
-trojan://f7dbed8b1ca85124e793ba6c0bcfd0db@160.16.214.104:2001?allowInsecure=0&sni=www.nintendogames.net#T.ME: @aristapnel
 trojan://13c169be-8592-4eaa-94cb-69c859e7d987@ubu.okaoclax.me:443?path=/trojan-ws&security=tls&host=ubu.okaoclax.me&type=ws&sni=ubu.okaoclax.me#T.ME: @aristapnel
-trojan://262f1d150049457ac1d6e66b020fa980@160.16.130.21:4920?security=tls&sni=www.nintendogames.net#T.ME: @aristapnel
-trojan://zp630tdUuD@194.150.166.151:52047?security=reality&sni=aws.amazon.com&fp=chrome&pbk=4o28aGSIz_r6Fa9sG7ZjgeT764t3bVJKmC9RDwIff38&sid=1abe0c286879&spx=/&allowInsecure=1&type=grpc#T.ME: @aristapnel
+trojan://f7dbed8b1ca85124e793ba6c0bcfd0db@153.121.45.139:4920?allowInsecure=0&sni=www.nintendogames.net#T.ME: @aristapnel
 trojan://262f1d150049457ac1d6e66b020fa980@153.121.65.107:3419?security=tls&headerType=none&type=tcp&sni=www.nintendogames.net#T.ME: @aristapnel
+trojan://6f038cee-6ba1-4941-bce5-de1969f37405@220.130.58.136:35502?security=tls&sni=green2.cdntencentmusic.com&type=tcp&headerType=none#T.ME: @aristapnel
 trojan://0zmdDXd0Qt5ff_7Qg67R-Rtq4Tmt4c@188.116.22.217:2083?security=tls&type=ws&sni=xo.e0f.cx&path=/trojan-ws&host=xo.e0f.cx#T.ME: @aristapnel
-trojan://347ca311-8fc2-499c-8fe1-bd0ecb50f1b3@5.34.222.4:43074?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=iepl.jpz2.cat.bilibili.com&note=@FreeOnlineVPN#T.ME: @aristapnel
 trojan://2bfded8d-6a7c-4c18-aaa5-fc65b955d50c@nnmmkk999.890602.xyz:443?security=tls&sni=nnmmkk999.890602.xyz&type=ws&host=nnmmkk999.890602.xyz&path=%2f7vMsF4VUuJ3dX414bl#T.ME: @aristapnel
 trojan://d5604db8-1f31-403d-a315-d8bafc70f7d2@nhju.h2e.indevs.in:443?security=tls&sni=nhju.h2e.indevs.in&type=ws&host=nhju.h2e.indevs.in&path=%2fmRjWgF9aMWcpQ8L96b&allow_insecure=0#T.ME: @aristapnel
 trojan://b020865b-7404-4894-ba65-a7414b10cda3@uu.852224.xyz:443?security=tls&sni=uu.852224.xyz&alpn=http%2f1.1&type=ws&host=uu.852224.xyz&path=%2fiEIlQmeiFdOPjqSc7fzeJr&allow_insecure=0#T.ME: @aristapnel

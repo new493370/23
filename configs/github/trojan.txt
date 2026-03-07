@@ -1,6 +1,6 @@
 # GitHub TROJAN Configurations
-# Updated: 2026-03-07 10:41:30
-# Count: 294
+# Updated: 2026-03-07 11:04:41
+# Count: 288
 # Source: GitHub Repositories
 
 trojan://T9BpZIVMNv@v1.dabache.top:8443?path=%2Famd&security=tls&insecure=1&host=sweden.vmaxpanel.com&type=ws&allowInsecure=1&sni=sweden.vmaxpanel.com#T.ME: @aristapnel
@@ -160,18 +160,12 @@ trojan://qmBSKnAl6LYi9%3Dz23Rs.Z@37.235.49.209:28099?security=tls&sni=celestialc
 trojan://ZblhWr0mqMakCPg.N@212.193.18.144:36158?security=tls&sni=api.avito.ru&insecure=1&allowInsecure=1&type=tcp&headerType=none#T.ME: @aristapnel
 trojan://a5inYFE%3DJGV89%2BhjxIqgDp1tcWBd6@80.173.230.196:26279?security=tls&insecure=1&allowInsecure=1&type=tcp&headerType=none#T.ME: @aristapnel
 trojan://qmBSKnAl6LYi9%3Dz23Rs.Z@37.235.49.209:28099?security=tls&sni=celestialcorset.crystalhamster.click&insecure=1&allowInsecure=1&type=tcp&headerType=none#T.ME: @aristapnel
-trojan://telegram-id-privatevpns@51.44.109.231:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#T.ME: @aristapnel
-trojan://telegram-id-privatevpns@3.124.229.240:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#T.ME: @aristapnel
-trojan://f7dbed8b1ca85124e793ba6c0bcfd0db@160.16.130.21:4019?allowInsecure=0&sni=www.nintendogames.net#T.ME: @aristapnel
-trojan://f7dbed8b1ca85124e793ba6c0bcfd0db@153.121.65.107:34818?allowInsecure=0&sni=www.nintendogames.net#T.ME: @aristapnel
-trojan://f7dbed8b1ca85124e793ba6c0bcfd0db@153.121.65.107:4937?allowInsecure=0&sni=www.nintendogames.net#T.ME: @aristapnel
 trojan://telegram-id-privatevpns@15.188.164.131:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#T.ME: @aristapnel
 trojan://f7dbed8b1ca85124e793ba6c0bcfd0db@58.152.18.189:443?security=tls&sni=www.nintendogames.net#T.ME: @aristapnel
 trojan://f7dbed8b1ca85124e793ba6c0bcfd0db@153.121.45.139:4674?security=tls&sni=www.nintendogames.net#T.ME: @aristapnel
 trojan://f7dbed8b1ca85124e793ba6c0bcfd0db@160.16.214.104:2001?security=tls&sni=www.nintendogames.net#T.ME: @aristapnel
 trojan://13c169be-8592-4eaa-94cb-69c859e7d987@ubu.okaoclax.me:443?path=/trojan-ws&security=tls&host=ubu.okaoclax.me&type=ws&sni=ubu.okaoclax.me#T.ME: @aristapnel
-trojan://f7dbed8b1ca85124e793ba6c0bcfd0db@153.121.65.107:3419?allowInsecure=0&sni=www.nintendogames.net#T.ME: @aristapnel
-trojan://c5355528-55a2-45df-b8fd-a48ce3c41413@220.130.58.136:35502?security=tls&sni=green2.cdntencentmusic.com#T.ME: @aristapnel
+trojan://zp630tdUuD@194.150.166.151:52047?mode=gun&security=reality&pbk=4o28aGSIz_r6Fa9sG7ZjgeT764t3bVJKmC9RDwIff38&fp=chrome&type=grpc&sni=aws.amazon.com&sid=1abe0c286879#T.ME: @aristapnel
 trojan://d5604db8-1f31-403d-a315-d8bafc70f7d2@mmjk.3oo.ccwu.cc:443?security=tls&sni=mmjk.3oo.ccwu.cc&type=ws&host=mmjk.3oo.ccwu.cc&path=%2fmRjWgF9aMWcpQ8L96b#T.ME: @aristapnel
 trojan://4ed4ac41-4b56-42c4-b31c-4d7bc36f74ce@bnhju.dddct.us.ci:443?security=tls&sni=bnhju.dddct.us.ci&alpn=http%2f1.1&type=ws&host=bnhju.dddct.us.ci&path=%2f4e633j8uZI4BWzwNzcYz&allow_insecure=0#T.ME: @aristapnel
 trojan://2bfded8d-6a7c-4c18-aaa5-fc65b955d50c@nnmmkk999.890602.xyz:443?security=tls&sni=nnmmkk999.890602.xyz&type=ws&host=nnmmkk999.890602.xyz&path=%2f7vMsF4VUuJ3dX414bl#T.ME: @aristapnel

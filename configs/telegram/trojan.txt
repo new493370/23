@@ -1,12 +1,12 @@
 # Telegram TROJAN Configurations
-# Updated: 2026-03-07 19:58:56
+# Updated: 2026-03-07 20:47:27
 # Count: 7
 # Source: Telegram Channels
 
-trojan://22367c45-f6c4-4ca8-8d52-d9787d7bbe91@www.shopify.com:2053?allowInsecure=1&host=cm22-bgphhh.pages.dev&path=%2F&sni=cm22-bgphhh.pages.dev&type=ws#ARISTA🔥
-trojan://q2GRUM1-odJBWq_KV6xv2fuNvu8ed-@8443.golden-cards.me:443?allowInsecure=1#ARISTA🔥
+trojan://q2GRUM1-odJBWq_KV6xv2fuNvu8ed-@8443.golden-cards.me:443?security=tls&insecure=1&headerType=&type=tcp&allowInsecure=1#ARISTA🔥
 trojan://telegram-id-privatevpns@52.29.115.99:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#ARISTA🔥
 trojan://telegram-id-privatevpns@15.188.101.85:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#ARISTA🔥
-trojan://q2GRUM1-odJBWq_KV6xv2fuNvu8ed-@8443.golden-cards.me:443?security=tls&insecure=1&headerType=&type=tcp&allowInsecure=1#ARISTA🔥
-trojan://telegram-id-directvpn@3.124.229.240:22223?security=tls&sni=trojan.burgerip.co.uk&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=tcp&headerType=none#ARISTA🔥
 trojan://humanity@chatgpt.com:443?path=%2Fassignment&security=tls&insecure=0&host=www.gossipglove.com&fp=chrome&type=ws&allowInsecure=0&sni=www.gossipglove.com#ARISTA🔥
+trojan://22367c45-f6c4-4ca8-8d52-d9787d7bbe91@www.shopify.com:2053?allowInsecure=1&host=cm22-bgphhh.pages.dev&path=%2F&sni=cm22-bgphhh.pages.dev&type=ws#ARISTA🔥
+trojan://q2GRUM1-odJBWq_KV6xv2fuNvu8ed-@8443.golden-cards.me:443?allowInsecure=1#ARISTA🔥
+trojan://telegram-id-directvpn@3.124.229.240:22223?security=tls&sni=trojan.burgerip.co.uk&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=tcp&headerType=none#ARISTA🔥

@@ -1,7 +1,7 @@
 # Combined TROJAN Configurations
-# Updated: 2026-03-10 22:45:14
-# Count: 1588
-# Sources: Telegram (4) + GitHub (1584)
+# Updated: 2026-03-10 23:47:52
+# Count: 1589
+# Sources: Telegram (4) + GitHub (1585)
 
 trojan://telegram-id-directvpn@3.127.171.45:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#ARISTA🔥
 trojan://telegram-id-privatevpns@51.44.200.241:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#ARISTA🔥
@@ -1566,6 +1566,7 @@ trojan://f389ed926e512e15f382dc3804029474@58.152.18.2:443?allowInsecure=0&sni=ww
 trojan://f389ed926e512e15f382dc3804029474@160.16.106.99:34818?allowInsecure=0&sni=www.nintendogames.net#T.ME: @aristapnel
 trojan://f389ed926e512e15f382dc3804029474@160.16.106.99:4937?allowInsecure=0&sni=www.nintendogames.net#T.ME: @aristapnel
 trojan://f389ed926e512e15f382dc3804029474@160.16.106.99:4674?allowInsecure=0&sni=www.nintendogames.net#T.ME: @aristapnel
+trojan://13c169be-8592-4eaa-94cb-69c859e7d987@ubu.okaoclax.me:443?path=/trojan-ws&security=tls&host=ubu.okaoclax.me&type=ws&sni=ubu.okaoclax.me#T.ME: @aristapnel
 trojan://humanity@www.calmlunch.com:443?security=tls&sni=www.calmlunch.com&fp=chrome&type=ws&path=%2fassignment&allow_insecure=1#T.ME: @aristapnel
 trojan://humanity@www.gossipglove.com:443?security=tls&type=ws&path=%2fassignment#T.ME: @aristapnel
 trojan://humanity@www.calmlunch.com:443?security=tls&sni=www.calmlunch.com&type=ws&host=www.calmlunch.com&path=%2fassignment&allow_insecure=1#T.ME: @aristapnel

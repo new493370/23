@@ -1,11 +1,13 @@
 # Telegram TROJAN Configurations
-# Updated: 2026-03-10 10:06:24
-# Count: 6
+# Updated: 2026-03-10 11:00:36
+# Count: 8
 # Source: Telegram Channels
 
+trojan://22367c45-f6c4-4ca8-8d52-d9787d7bbe91@www.shopify.com:2053?allowInsecure=1&host=cm22-bgphhh.pages.dev&sni=cm22-bgphhh.pages.dev&type=ws#ARISTA🔥
+trojan://humanity@www.multiplydose.com:443?allowInsecure=1&host=www.multiplydose.com&path=%2Fassignment&type=ws#ARISTA🔥
+trojan://telegram-id-directvpn@3.127.171.45:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#ARISTA🔥
+trojan://telegram-id-directvpn@51.44.98.27:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#ARISTA🔥
+trojan://telegram-id-privatevpns@51.44.98.27:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#ARISTA🔥
 trojan://opentunnel.net-usa30day@15.204.9.172:443?security=tls&headerType=none&type=tcp&sni=uplod.ir#ARISTA🔥
 trojan://opentunnel.net-english30day@54.37.18.204:443?security=tls&headerType=none&type=tcp&sni=uplod.ir#ARISTA🔥
 trojan://telegram-id-privatevpns@3.127.171.45:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#ARISTA🔥
-trojan://telegram-id-directvpn@3.127.171.45:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#ARISTA🔥
-trojan://22367c45-f6c4-4ca8-8d52-d9787d7bbe91@www.shopify.com:2053?allowInsecure=1&host=cm22-bgphhh.pages.dev&sni=cm22-bgphhh.pages.dev&type=ws#ARISTA🔥
-trojan://humanity@www.multiplydose.com:443?allowInsecure=1&host=www.multiplydose.com&path=%2Fassignment&type=ws#ARISTA🔥

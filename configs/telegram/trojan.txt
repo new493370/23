@@ -1,10 +1,8 @@
 # Telegram TROJAN Configurations
-# Updated: 2026-03-12 00:07:29
+# Updated: 2026-03-12 02:45:38
 # Count: 12
 # Source: Telegram Channels
 
-trojan://823cbccd-3a71-4248-ac3c-3c460de1552d@108.162.198.247:443?allowInsecure=1&alpn=h3%252Ch2%252Chttp%252F1.1&host=snll100.pages.dev&path=%2F&sni=snll100.pages.dev&type=ws#ARISTA🔥
-trojan://MeaDiUmPlkWbZJ2BON8tz@78.159.131.12:28259?allowInsecure=1&sni=ads.x5.ru#ARISTA🔥
 trojan://telegram-id-v2rayvpnchannel@3.127.171.45:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#ARISTA🔥
 trojan://telegram-id-v2rayvpnchannel@51.44.98.27:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#ARISTA🔥
 trojan://telegram-id-v2rayvpnchannel@13.38.214.118:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#ARISTA🔥
@@ -15,3 +13,5 @@ trojan://telegram-id-v2rayvpnchannel@13.39.53.66:22223?security=tls&alpn=http/1.
 trojan://telegram-id-directvpn@13.36.29.172:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#ARISTA🔥
 trojan://humanity@172.67.180.92:443?path=%2Fassignment&security=tls&host=www.multiplydose.com&fp=chrome&type=ws&sni=www.multiplydose.com#ARISTA🔥
 trojan://telegram-id-privatevpns@13.36.100.6:22222?security=tls&alpn=http%2F1.1&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=trojan.burgerip.co.uk#ARISTA🔥
+trojan://823cbccd-3a71-4248-ac3c-3c460de1552d@108.162.198.247:443?allowInsecure=1&alpn=h3%252Ch2%252Chttp%252F1.1&host=snll100.pages.dev&path=%2F&sni=snll100.pages.dev&type=ws#ARISTA🔥
+trojan://MeaDiUmPlkWbZJ2BON8tz@78.159.131.12:28259?allowInsecure=1&sni=ads.x5.ru#ARISTA🔥

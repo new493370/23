@@ -1,8 +1,9 @@
 # Combined HYSTERIA2 Configurations
-# Updated: 2026-03-14 20:46:39
-# Count: 63
-# Sources: Telegram (0) + GitHub (63)
+# Updated: 2026-03-14 21:47:01
+# Count: 65
+# Sources: Telegram (1) + GitHub (64)
 
+hysteria2://86bfdc9d-64b0-447b-9316-2e3cc8712690@uk01.nekocloud.top:65001/?insecure=1&obfs=salamander&obfs-password=YxNSWNJUQkeKDiPc&sni=buylite.music.apple.com#ARISTA🔥
 hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@mumbai-3.nezhasu.com:443?sni=mumbai-3.nezhasu.com&insecure=1&mport=50000-65535#T.ME: @aristapnel
 hysteria2://e42a38c4-4bea-42d6-90f1-3076e12f8c51@lsdg1.lansecs.top:58338?sni=lsdg1.lansecs.top&insecure=1#T.ME: @aristapnel
 hysteria2://80747420-96c4-4a2f-83e6-eea4e46beb09@70.34.215.221:20335?sni=drhystuichdfy.samanidempire.org&obfs=salamander&obfs-password=U1wBrYQyFm&insecure=1#T.ME: @aristapnel
@@ -57,12 +58,13 @@ hysteria2://linux.do@[2a01:4f9:4b:f378::1]:13599?security=tls&insecure=1&sni=www
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir&note=@FreeOnlineVPN#T.ME: @aristapnel
 hysteria2://123456789StrongPass@144.31.224.14:443?insecure=1&sni=www.cloudflare.com#T.ME: @aristapnel
 hysteria2://poland_hysteria2_fastlane_l6g004xu9%3AEK8tFhwRFxFmxwrQQesFLQR2YYq7oPov@144.31.63.58:1935?sni=de4.h.fastlanehosting.ru#T.ME: @aristapnel
-hysteria2://99129cef-f705-11ee-ada6-f23c91cfbbc9@35f78bc6-t6pb40-tcmtfl-1qudp.hk2.hyhuawei.com:443?sni=35f78bc6-t6pb40-tcmtfl-1qudp.hk2.hyhuawei.com&obfs=none&insecure=1#T.ME: @aristapnel
+hysteria2://bd77bfe8-e0f3-11ec-bd7c-f23c913c8d2b@fab0a2c1-t6pb40-t85e8f-141tv.hk2.hyhuawei.com:443?sni=fab0a2c1-t6pb40-t85e8f-141tv.hk2.hyhuawei.com&obfs=none&insecure=1#T.ME: @aristapnel
+hysteria2://71504eaf-29ac-4190-89d1-dd9ce2c9ee14@2001:bc8:1640:50eb:dc00:ff:fe57:dd6f:443:443?sni=Ab.ac&obfs=FnFgQIckcMRtKq7i&insecure=1#T.ME: @aristapnel
+hysteria2://4b9ca118-7fab-11eb-bd3a-f23c9164ca5d@fdc3f3be-t6ngg0-tcq5zn-19qpt.us.hyhuawei.com:443?sni=fdc3f3be-t6ngg0-tcq5zn-19qpt.us.hyhuawei.com&obfs=none&insecure=1#T.ME: @aristapnel
+hysteria2://fe0fda62-79ff-467e-bef4-983322c1d21b@tw.ccwink.cc:30102?insecure=1&sni=tw.ccwink.cc#T.ME: @aristapnel
 hysteria2://86bfdc9d-64b0-447b-9316-2e3cc8712690@uk01.nekocloud.top:65001/?insecure=1&obfs=salamander&obfs-password=YxNSWNJUQkeKDiPc&sni=buylite.music.apple.com#T.ME: @aristapnel
-hysteria2://de629d50-1711-11ed-bd7c-f23c913c8d2b@4a8146b5-t70f40-tlpfci-1jdha.hk1.hyhuawei.com:443?obfs=none&insecure=1#T.ME: @aristapnel
-hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@206.71.158.41:35000?sni=api.kermanshahi.org&obfs=salamander&obfs-password=%2540JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=1#T.ME: @aristapnel
+hysteria2://71504eaf-29ac-4190-89d1-dd9ce2c9ee14@2001:bc8:1640:50eb:dc00:ff:fe57:dd6f:59220:443?sni=Ab.ac&obfs=FnFgQIckcMRtKq7i&insecure=1#T.ME: @aristapnel
 hysteria2://a48d9102-3eb4-4576-8de7-482e58bc1a39@hkmax02.352343.cc:8080/?insecure=1&sni=hkmax02.352343.cc#T.ME: @aristapnel
-hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000?sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1#T.ME: @aristapnel
-hysteria2://c357a728-1211-11f0-9a65-f23c9164ca5d@e1d6b467-t53wg0-td5oia-1m49t.us.hyhuawei.com:443?sni=e1d6b467-t53wg0-td5oia-1m49t.us.hyhuawei.com&obfs=none&insecure=1#T.ME: @aristapnel
-hysteria2://c3dc8d26-ab2b-11ec-a8bf-f23c91cfbbc9@72b99e3a-t6pb40-t8wh4m-1hpo0.hk1.hyhuawei.com:443?sni=72b99e3a-t6pb40-t8wh4m-1hpo0.hk1.hyhuawei.com&obfs=none&insecure=1#T.ME: @aristapnel
-hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@206.71.158.40:35000?sni=api.kermanshahi.org&obfs=salamander&obfs-password=%252540JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=1#T.ME: @aristapnel
+hysteria2://bb85e074-b0c2-11ea-ad28-f23c913c8d2b@2adb660c-t6ngg0-t7eqjm-m0b9.us.hyhuawei.com:443?sni=2adb660c-t6ngg0-t7eqjm-m0b9.us.hyhuawei.com&obfs=none&insecure=1#T.ME: @aristapnel
+hysteria2://Yet-Another-Public-Config-1@206.71.158.37:36400?sni=YAPC-1.afshin.ir&obfs=Yet-Another-Public-Config-1&insecure=1#T.ME: @aristapnel
+hysteria2://51362ab6-b5e6-11ea-ad28-f23c913c8d2b@8ce460ac-t6ngg0-tnkuks-wujn.us.hyhuawei.com:443?sni=8ce460ac-t6ngg0-tnkuks-wujn.us.hyhuawei.com&obfs=none&insecure=1#T.ME: @aristapnel

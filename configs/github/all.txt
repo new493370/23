@@ -1,6 +1,6 @@
 # All GitHub Configurations
-# Updated: 2026-03-15 14:18:33
-# Total Count: 5281
+# Updated: 2026-03-15 15:13:28
+# Total Count: 5285
 # Source: GitHub Repositories
 
 vmess://eyJhZGQiOiI1MS43OS4xMDIuMjUzIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjU4ZmUxNTQyLTUyOTAtNDBhZC04MTVhLTc3NzA3YTgxYWZlNSIsIm5ldCI6IndzIiwicGF0aCI6Ii9JT2ViaExNaGwxQ1RiRkhiTDk1bXlmUlgyIiwicG9ydCI6ODAsInBzIjoiVC5NRTogQGFyaXN0YXBuZWwiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIiwibmFtZSI6Ij4+QGNvbmZpZ3NodWIyOjpDQTo6Q0E6OkNBOjpDQTo6Q0E6OkNBOjpDQTo6Q0E6OkNBOjpDQTo6Q0EifQ==
@@ -5277,6 +5277,10 @@ hysteria2://d6e1207c-f41a-11ef-9495-f23c91cfbbc9@6369805c-t53wg0-t7mt0p-1sllg.hk
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir&note=@FreeOnlineVPN#T.ME: @aristapnel
 hysteria2://123456789StrongPass@144.31.224.14:443?insecure=1&sni=www.cloudflare.com#T.ME: @aristapnel
 hysteria2://poland_hysteria2_fastlane_l6g004xu9%3AEK8tFhwRFxFmxwrQQesFLQR2YYq7oPov@144.31.63.58:1935?sni=de4.h.fastlanehosting.ru#T.ME: @aristapnel
+hysteria2://0da8651e-e1f6-11ec-bd7c-f23c913c8d2b@a033d21f-t6ngg0-tcinla-hrtf.us.hyhuawei.com:443?sni=a033d21f-t6ngg0-tcinla-hrtf.us.hyhuawei.com&obfs=none&insecure=1#T.ME: @aristapnel
+hysteria2://b9c9905c-1627-11ec-a0fc-f23c913c8d2b@74cba7ec-t57ls0-t6nlrg-ach1.hk1.hyhuawei.com:443?sni=74cba7ec-t57ls0-t6nlrg-ach1.hk1.hyhuawei.com&obfs=none&insecure=1#T.ME: @aristapnel
+hysteria2://5a4c13ae-6673-11ee-a149-f23c9164ca5d@62896d89-t6ngg0-tamumc-1lkbs.us.hyhuawei.com:443?sni=62896d89-t6ngg0-tamumc-1lkbs.us.hyhuawei.com&obfs=none&insecure=1#T.ME: @aristapnel
+hysteria2://98cedeca-99a0-11ef-bb64-f23c913c8d2b@465e5b71-t53wg0-t6xrvm-1qaek.us.hyhuawei.com:443?sni=465e5b71-t53wg0-t6xrvm-1qaek.us.hyhuawei.com&obfs=none&insecure=1#T.ME: @aristapnel
 hysteria2://8b39d955-b242-40f3-ba29-e558a9b7096b@lsj1.mangshe.xyz:2056?insecure=1&sni=lsj1.mangshe.xyz#T.ME: @aristapnel
 hy2://hysteria2_fastlane_bs8wc7tmo:ekHL7l3A3UVF89VMvOnBdTZ3OTzSRZ5v@144.31.63.58:1935?sni=de4.h.fastlanehosting.ru&path=%2f#T.ME: @aristapnel
 hy2://poland_hysteria2_fastlane_l6g004xu9:EK8tFhwRFxFmxwrQQesFLQR2YYq7oPov@144.31.63.58:1935?sni=de4.h.fastlanehosting.ru&path=%2f#T.ME: @aristapnel

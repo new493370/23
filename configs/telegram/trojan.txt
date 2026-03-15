@@ -1,8 +1,19 @@
 # Telegram TROJAN Configurations
-# Updated: 2026-03-15 13:14:48
-# Count: 24
+# Updated: 2026-03-15 14:18:32
+# Count: 21
 # Source: Telegram Channels
 
+trojan://823cbccd-3a71-4248-ac3c-3c460de1552d@cf.877774.xyz:443?allowInsecure=1&alpn=h3%252Ch2%252Chttp%252F1.1&host=snll667.pages.dev&path=%2F%252F&sni=snll667.pages.dev&type=ws#ARISTA🔥
+trojan://q2GRUM1-odJBWq_KV6xv2fuNvu8ed-@195.66.25.251:443?allowInsecure=1&sni=8443.golden-cards.me#ARISTA🔥
+trojan://uThbm8eGmXZ7GKqnWy@nl-4.tr202507.com:443?allowInsecure=1#ARISTA🔥
+trojan://Nova-Proxy@104.16.190.233:8443?allowInsecure=1&host=small-morning-2668.drusavm.workers.dev&path=%2F%3Fed&sni=small-morning-2668.drusavm.workers.dev&type=ws#ARISTA🔥
+trojan://%295%2C9FW.Kk166@irancell.buzzmuzzpanel.online:443?path=%2FeyJqdW5rIjoiU2oxczB0b0tSIiwicHJvdG9jb2wiOiJ0ciIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D%3Fed%3D2560&security=tls&alpn=http%2F1.1&insecure=0&host=028.electrocellco-cf-028.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=028.eLECtRocEllco-Cf-028.worKErS.dev#ARISTA🔥
+trojan://telegram-id-privatevpns@54.93.56.163:22222?security=tls&alpn=http%2F1.1&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=trojan.burgerip.co.uk#ARISTA🔥
+trojan://tunnel-astrovpn_official@193.124.46.134:8441?security=tls&sni=zula.ir.AstroVPN-official.AstroVPN-official.workers.dev.AstroVPN_Official.org.AstroVPN.com.AstroVPN_Official.xyz.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.monster.AstroVPN_OfficialJoinTelegram-------------AstroVPN_Official----------Join.ir&alpn=http%2F1.1&allowInsecure=1&type=tcp&headerType=none&host=193.124.46.134#ARISTA🔥
+trojan://031322@masterserver1-masterserver1-masterserver1-masterserver1.xqvyetsl.workers.dev:2096?path=%2F%3Fed&security=tls&insecure=0&host=masterserver1-masterserver1-masterserver1-masterserver1.xqvyetsl.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=masterserver1-masterserver1-masterserver1-masterserver1.xqvyetsl.workers.dev#ARISTA🔥
+trojan://humanity@104.21.40.34:443?path=/assignment&%3Bsecurity=tls&%3Bhost=www.gossipglove.com&%3Btype=ws&%3Bsni=www.gossipglove.com#ARISTA🔥
+trojan://telegram-id-privatevpns@13.38.144.105:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#ARISTA🔥
+trojan://telegram-id-privatevpns@13.37.37.183:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#ARISTA🔥
 trojan://telegram-id-v2rayvpnchannel@52.57.221.181:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#ARISTA🔥
 trojan://telegram-id-v2rayvpnchannel@15.188.253.9:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#ARISTA🔥
 trojan://telegram-id-v2rayvpnchannel@18.193.206.143:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#ARISTA🔥
@@ -13,17 +24,3 @@ trojan://telegram-id-v2rayvpnchannel@13.39.7.170:22223?security=tls&alpn=http/1.
 trojan://telegram-id-v2rayvpnchannel@54.93.56.163:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#ARISTA🔥
 trojan://telegram-id-v2rayvpnchannel@13.38.144.105:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#ARISTA🔥
 trojan://telegram-id-v2rayvpnchannel@13.37.37.183:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#ARISTA🔥
-trojan://q2GRUM1-odJBWq_KV6xv2fuNvu8ed-@195.66.25.251:443?security=tls&sni=8443.golden-cards.me&fp=chrome&headerType=none&allowInsecure=0&type=tcp#ARISTA🔥
-trojan://telegram-id-privatevpns@13.39.7.170:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#ARISTA🔥
-trojan://tunnel-astrovpn_official@193.124.46.134:8441?security=tls&sni=zula.ir.AstroVPN-official.AstroVPN-official.workers.dev.AstroVPN_Official.org.AstroVPN.com.AstroVPN_Official.xyz.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.monster.AstroVPN_OfficialJoinTelegram-------------AstroVPN_Official----------Join.ir&alpn=http%2F1.1&allowInsecure=1&type=tcp&headerType=none&host=193.124.46.134#ARISTA🔥
-trojan://%295%2C9FW.Kk166@irancell.buzzmuzzpanel.online:443?path=%2FeyJqdW5rIjoiU2oxczB0b0tSIiwicHJvdG9jb2wiOiJ0ciIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D%3Fed%3D2560&security=tls&alpn=http%2F1.1&insecure=0&host=028.electrocellco-cf-028.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=028.eLECtRocEllco-Cf-028.worKErS.dev#ARISTA🔥
-trojan://telegram-id-privatevpns@54.93.56.163:22222?security=tls&alpn=http%2F1.1&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=trojan.burgerip.co.uk#ARISTA🔥
-trojan://telegram-id-privatevpns@13.38.144.105:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#ARISTA🔥
-trojan://telegram-id-privatevpns@13.37.37.183:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#ARISTA🔥
-trojan://humanity@104.21.40.34:443?path=/assignment&%3Bsecurity=tls&%3Bhost=www.gossipglove.com&%3Btype=ws&%3Bsni=www.gossipglove.com#ARISTA🔥
-trojan://031322@masterserver1-masterserver1-masterserver1-masterserver1.xqvyetsl.workers.dev:2096?path=%2F%3Fed&security=tls&insecure=0&host=masterserver1-masterserver1-masterserver1-masterserver1.xqvyetsl.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=masterserver1-masterserver1-masterserver1-masterserver1.xqvyetsl.workers.dev#ARISTA🔥
-trojan://ZY07256934@cool-lioness.rooster465.autos:443?allowInsecure=1#ARISTA🔥
-trojan://823cbccd-3a71-4248-ac3c-3c460de1552d@cf.877774.xyz:443?allowInsecure=1&alpn=h3%252Ch2%252Chttp%252F1.1&host=snll667.pages.dev&path=%2F%252F&sni=snll667.pages.dev&type=ws#ARISTA🔥
-trojan://q2GRUM1-odJBWq_KV6xv2fuNvu8ed-@195.66.25.251:443?allowInsecure=1&sni=8443.golden-cards.me#ARISTA🔥
-trojan://uThbm8eGmXZ7GKqnWy@nl-4.tr202507.com:443?allowInsecure=1#ARISTA🔥
-trojan://Nova-Proxy@104.16.190.233:8443?allowInsecure=1&host=small-morning-2668.drusavm.workers.dev&path=%2F%3Fed&sni=small-morning-2668.drusavm.workers.dev&type=ws#ARISTA🔥

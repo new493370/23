@@ -1,9 +1,8 @@
 # Combined TROJAN Configurations
-# Updated: 2026-03-16 23:11:48
-# Count: 197
-# Sources: Telegram (7) + GitHub (190)
+# Updated: 2026-03-16 23:51:38
+# Count: 196
+# Sources: Telegram (6) + GitHub (190)
 
-trojan://opentunnel.net-usa30day@15.204.9.172:443?security=tls&headerType=none&type=tcp&sni=uplod.ir#ARISTA🔥
 trojan://opentunnel.net-english30day@54.37.18.204:443?security=tls&headerType=none&type=tcp&sni=uplod.ir#ARISTA🔥
 trojan://telegram-id-privatevpns@15.188.103.210:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#ARISTA🔥
 trojan://telegram-id-directvpn@13.37.160.17:22223?security=tls&alpn=http%2F1.1&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=trojan.burgerip.co.uk#ARISTA🔥

@@ -1,14 +1,13 @@
 # Combined TROJAN Configurations
-# Updated: 2026-03-16 23:51:38
-# Count: 196
-# Sources: Telegram (6) + GitHub (190)
+# Updated: 2026-03-17 02:45:01
+# Count: 195
+# Sources: Telegram (5) + GitHub (190)
 
-trojan://opentunnel.net-english30day@54.37.18.204:443?security=tls&headerType=none&type=tcp&sni=uplod.ir#ARISTA🔥
-trojan://telegram-id-privatevpns@15.188.103.210:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#ARISTA🔥
-trojan://telegram-id-directvpn@13.37.160.17:22223?security=tls&alpn=http%2F1.1&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=trojan.burgerip.co.uk#ARISTA🔥
-trojan://tunnel-astrovpn_official@193.124.46.134:8441?security=tls&sni=zula.ir.AstroVPN-official.AstroVPN-official.workers.dev.AstroVPN_Official.org.AstroVPN.com.AstroVPN_Official.xyz.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.monster.AstroVPN_OfficialJoinTelegram-------------AstroVPN_Official----------Join.ir&alpn=http%2F1.1&allowInsecure=1&type=tcp&headerType=none&host=193.124.46.134#ARISTA🔥
 trojan://telegram-id-privatevpns@15.236.174.14:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#ARISTA🔥
 trojan://telegram-id-privatevpns@15.188.40.40:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#ARISTA🔥
+trojan://telegram-id-directvpn@13.37.160.17:22223?security=tls&alpn=http%2F1.1&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=trojan.burgerip.co.uk#ARISTA🔥
+trojan://telegram-id-privatevpns@15.188.103.210:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#ARISTA🔥
+trojan://tunnel-astrovpn_official@193.124.46.134:8441?security=tls&sni=zula.ir.AstroVPN-official.AstroVPN-official.workers.dev.AstroVPN_Official.org.AstroVPN.com.AstroVPN_Official.xyz.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.monster.AstroVPN_OfficialJoinTelegram-------------AstroVPN_Official----------Join.ir&alpn=http%2F1.1&allowInsecure=1&type=tcp&headerType=none&host=193.124.46.134#ARISTA🔥
 trojan://humanity@172.64.152.23:443?encryption=none&security=tls&sni=www.multiplydose.com&fp=chrome&insecure=1&type=ws&path=%2Fassignment#T.ME: @aristapnel
 trojan://humanity@172.67.180.92:443?security=tls&sni=www.multiplydose.com&fp=chrome&allowInsecure=1&type=ws&host=www.multiplydose.com&path=%2Fassignment#T.ME: @aristapnel
 trojan://humanity@104.18.32.47:443/?type=ws&host=www.multiplydose.com&path=%2Fassignment&security=tls&sni=www.multiplydose.com&allowInsecure=1#T.ME: @aristapnel

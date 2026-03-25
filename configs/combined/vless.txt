@@ -1,32 +1,42 @@
 # Combined VLESS Configurations
-# Updated: 2026-03-25 02:49:50
-# Count: 3504
-# Sources: Telegram (159) + GitHub (3345)
+# Updated: 2026-03-25 06:19:00
+# Count: 3440
+# Sources: Telegram (145) + GitHub (3295)
 
-vless://90c9c25c-df6c-4438-83d3-ef97166a9184@45.136.126.45:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=5post-gate.x5.ru&fp=chrome&security=reality&pbk=A3PWLCRX9oeSyPvrmrwj2jUXcLo2uCwAISRBHtNE1Xw&sid=#ARISTA🔥
-vless://94daa8ad-75ed-4dbf-a6de-d05036d98df5@172.66.44.211:443?allowInsecure=1&encryption=none&host=vangoghhh.info&path=%2Ftixvuws&security=tls&sni=vangoghhh.info&type=ws#ARISTA🔥
-vless://a73b8135-ec7a-4f70-bac6-81fbccad4515@188.114.96.3:443?allowInsecure=1&encryption=none&host=labeller.neonime83.workers.dev&path=%2F&security=tls&sni=labeller.neonime83.workers.dev&type=ws#ARISTA🔥
-vless://bf4c614f-c46d-4db9-b031-62f7e4b85c2c@104.24.39.51:443?allowInsecure=1&encryption=none&host=hex.1tb.workers.dev&path=ws&security=tls&sni=hex.1tb.workers.dev&type=ws#ARISTA🔥
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.64.145.202:2083?allowInsecure=1&encryption=none&host=newwk1.f1w.de5.net&path=%2F&security=tls&sni=newwk1.f1w.de5.net&type=ws#ARISTA🔥
-vless://e47eba6b-05f1-46d9-82e1-0d145faa7d53@172.64.229.59:443?allowInsecure=1&encryption=none&host=xiaoli0772.ccwu.cc&path=%2Fsocks5%3D123%3A123%408.210.81.59%3A3060&security=tls&sni=xiaoli0772.ccwu.cc&type=ws#ARISTA🔥
-vless://ef23616d-8a9d-4b22-b2f5-9bda864de179@172.67.145.21:443?allowInsecure=1&alpn=http%2F1.1&encryption=none&host=index.arcane509.workers.dev&path=%2Fassets&security=tls&sni=index.arcane509.workers.dev&type=ws#ARISTA🔥
-vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@172.66.47.45:443?allowInsecure=1&encryption=none&host=octopusss4.com&path=%2Ftsghdws&security=tls&sni=octopusss4.com&type=ws#ARISTA🔥
-vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@173.245.59.217:2096?path=%2F45.76.183.217%3D49292&security=tls&encryption=none&host=hetz.x-smm.com&type=ws&sni=hetz.x-smm.com#ARISTA🔥
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@190.93.245.94:2096?security=tls&encryption=none&type=ws&sni=sni.111000.indevs.in#ARISTA🔥
+vless://d85463d6-c213-4ef3-ad5e-9adf8bde2feb@vip-meli5.nightgemshop.com:16019?security=none&encryption=none&headerType=none&type=tcp#ARISTA🔥
+vless://0a4c5a85-7089-446d-a817-26212ff67ed6@vix.nsa03.com:9000?security=none&encryption=none&headerType=none&type=tcp#ARISTA🔥
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.102.254.79:22224?path=%2Ftelegram-channel-bored&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=trojan.burgerip.co.uk#ARISTA🔥
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.159.228.130:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#ARISTA🔥
+vless://18e35ca4-4b6e-43dd-9c28-b3ef89966821@mlh.mynethub99.top:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=mlh.mynethub99.top#ARISTA🔥
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.181.217.149:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#ARISTA🔥
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.47.165.179:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#ARISTA🔥
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.181.217.149:22224?path=%2Ftelegram-channel-vlessconfig&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=trojan.burgerip.co.uk#ARISTA🔥
+vless://1c8e42b0-8a2a-4a35-970d-5b28f6438978@46.38.138.39:7777?encryption=none&type=tcp&headerType=none#ARISTA🔥
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.177.162.163:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#ARISTA🔥
+vless://0377df23-a1d4-4b3f-ae84-0b4f3d3d71dd@pic1.myket.mom:37001?security=reality&encryption=none&pbk=vxdmULi_cO7dha2aQnsjSViARO15hvI9HWyo0pVPlkQ&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=www.amazon.com&sid=c385#ARISTA🔥
+vless://03f75e80-2bfd-5608-cc7c-20eb54ddeab8@cloud3.vpsino.com:6344?security=none&encryption=none&headerType=none&type=tcp#ARISTA🔥
+vless://e81b43d3-bb75-07d0-8b11-f526aef4fef4@212.193.153.187:443?encryption=none=-@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann&type=ws&security=tls&path=/XIXVPN?ed=2560&host=lk-cdn.deploy-assure.ru&fp=chrome&sni=lk-cdn.deploy-assure.ru#ARISTA🔥
+vless://6897c181-24b1-4880-8660-e6c5c7ee13c7@92.60.78.221:443?security=reality&encryption=none&pbk=pkIWxbuPAasjatPaHnAaTnCxVj1RkDFsJEWpLUTOcWY&headerType=none=-@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.tradingview.com&sid=9917d2350096&path=/XIXVPN?ed=2560#ARISTA🔥
+vless://52dbc2d8-00c5-2710-a898-22718fb85c12@ing.anti-vpn.ru:52006?encryption=none=-@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann&flow=xtls-rprx-vision&fp=chrome&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&security=reality&sid=d8c6b58bcbb0c323&sni=max.ru&type=tcp&path=/XIXVPN?ed=2560#ARISTA🔥
+vless://ea286109-d20f-415e-849e-4af20ab04b65@135.148.152.107:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&headerType=none=-@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann&type=tcp&sni=147135001195.sec22org.com&path=/XIXVPN?ed=2560#ARISTA🔥
+vless://7270612b-49f6-4b04-999c-34d8263da767@172.64.35.45:443/?type=ws&encryption=none&flow=&host=picassooo.info&path=%2Faymdlws&security=tls&sni=picassooo.info&allowInsecure=1#ARISTA🔥
+vless://90c9c25c-df6c-4438-83d3-ef97166a9184@89.19.215.209:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=A3PWLCRX9oeSyPvrmrwj2jUXcLo2uCwAISRBHtNE1Xw&security=reality&sni=5post-gate.x5.ru&type=tcp#ARISTA🔥
+vless://94daa8ad-75ed-4dbf-a6de-d05036d98df5@v1.dabache.top:443?allowInsecure=1&encryption=none&host=vangoghhh.info&path=%2Ftixvuws&security=tls&sni=vangoghhh.info&type=ws#ARISTA🔥
+vless://a114d067-b900-4f60-87a5-50d4d63972b8@usa.visa.com:443/?type=ws&encryption=none&flow=&host=PaRiSA-CC5Zk0.paRISa-44c.woRKeRs.dev&path=%2F&security=tls&sni=PaRiSA-CC5Zk0.paRISa-44c.woRKeRs.dev&allowInsecure=1#ARISTA🔥
+vless://b738db04-c73c-4551-b6f2-9041e93914d4@uk2.sanzone.ir:4040?encryption=none&headerType=http&host=soft98.ir&security=none&type=tcp#ARISTA🔥
+vless://cbb2d3b3-9164-46cc-84f9-82722fbf1353@172.67.220.204:443?allowInsecure=1&encryption=none&host=0n0w5jre3ro-p4vmk-dilf-3hcr9u9fc.talumy147.workers.dev&path=%2FeyJqdW5rIjoiVXhYd0VacUYxaUEzIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&security=tls&sni=0n0W5JrE3RO-P4VmK-DILF-3HCr9U9fC.taLUmY147.WOrKErS.deV&type=ws#ARISTA🔥
+vless://d706bf16-124a-417b-aaa0-0d6d5efd58fd@38.60.212.251:29059?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=V_eMkcHXf237wGyfggMHHRvQqw51rW1UJPEIw_T2IE4&security=reality&sid=6ba85179e30d4fc2&sni=mensura.cdn-apple.com&type=tcp#ARISTA🔥
+vless://e5f8a9f6-f164-479b-b3b5-b90f213c7145@141.101.121.11:2053?allowInsecure=1&encryption=none&host=ir1.airpanel.top&security=tls&sni=ir1.airpanel.top&type=ws#ARISTA🔥
+vless://ef23616d-8a9d-4b22-b2f5-9bda864de179@104.19.222.169:2082?encryption=none&host=index.arcane509.workers.dev&path=%2Fgfdn0yadxgfr&security=none&type=ws#ARISTA🔥
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@162.159.12.151:443?path=%2F&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#ARISTA🔥
 vless://5238a315-4427-4915-a1de-4978e3029a1c@www.speedtest.net:2096?path=%2FeyJqdW5rIjoiZjBrTGJtaWQ2MSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0&security=tls&encryption=none&insecure=0&host=long-mode-2783.sepna114.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=loNg-modE-2783.SEpna114.WOrkERs.dEV#ARISTA🔥
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@141.94.220.210:443?encryption=none&security=tls&sni=sni.111000.v6.navy&allowInsecure=1&type=ws&host=sni.111000.v6.navy&path=t.me%2Fv2Line#ARISTA🔥
-vless://8585380d-1d74-4b09-a955-5dbf862d13df@185.143.234.5:443?path=%2F%3Fed%3D443&security=tls&encryption=none&insecure=0&host=alef.ir.oadeflantrogm.airasiadl.com&fp=randomized&type=ws&allowInsecure=0&sni=alef.ir.oadeflantrogm.airasiadl.com#ARISTA🔥
-vless://03f75e80-2bfd-5608-cc7c-20eb54ddeab8@cloud3.vpsino.com:6344?security=&encryption=none&headerType=none&type=tcp#ARISTA🔥
-vless://029cf202-020c-42a5-8186-1a831c8322c5@156.243.83.24:80?encryption=none&security=none&type=ws&host=rain.leemurda187.xyz&path=%2Fvless%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#ARISTA🔥
-vless://1babf197-af69-406e-aae2-83c411ae979f@77.239.126.65:443?type=grpc&security=reality&fp=&pbk=G1QPj-IQQVssEsfjld6gGOlxhgXDYdg56cYdweymLy0&sid=3ef8cdbc&sni=eh.vk.com&mode=gun&serviceName=&authority=#ARISTA🔥
-vless://a340e084-fd57-4884-b983-ac4cb0574462@e.api.plnt.su:443?security=reality&type=tcp&flow=xtls-rprx-vision&sni=e.api.plnt.su&pbk=1he5EyHxI595x0mNkFNxOebUOQZGVGIy_c92bn1qO2o&sid=ac31827454d7f693#ARISTA🔥
-vless://6038d5a7-3ed9-4298-a927-d7fb0a298522@69.12.83.223:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=6Ra2AsVwORJlxqvQ9YHAfHFk8Z0HZIrWuXxlBEYpwQY&sid=e7b5024fd83a16c9&sni=ign.com#ARISTA🔥
-vless://a2253acb-99fd-42ee-b37d-d211d861a904@95.85.249.44:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&sni=m.vkvideo.cs7777.vk.ru&pbk=PzPuIsJG2yyrnO-9TKGyRxmo8DCJ6VCdpQ5l5l62QQQ#ARISTA🔥
-vless://14b02e2a-8930-4afb-8412-ea4a4954ca5b@143.198.85.69:443?encryption=none&security=tls&sni=ylnhh.cc.cd&insecure=0&allowInsecure=0&type=ws&host=ylnhh.cc.cd&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#ARISTA🔥
-vless://14b02e2a-8930-4afb-8412-ea4a4954ca5b@152.42.169.132:443?security=tls&type=ws&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&host=ylnhh.cc.cd&sni=ylnhh.cc.cd#ARISTA🔥
-vless://0a4c5a85-7089-446d-a817-26212ff67ed6@vix.nsa03.com:9000?security=none&encryption=none&headerType=none&type=tcp#ARISTA🔥
-vless://86e480ef-a128-42f9-8233-c9f93cf084d1@pq-romania1.09vpn.com:8443?path=/vless/&security=tls&encryption=none&type=ws#ARISTA🔥
-vless://ad51da8f-c04c-4843-afaa-295accf942e3@185.116.214.253:443?type=tcp&security=reality&fp=random&pbk=upQDBPxUldlllbz4A_Zp4YAHM_sIkyQxIbQvRryKm1s&sid=86&sni=www.google.com&spx=/#ARISTA🔥
+vless://82990c58-26b7-4a75-81fe-66e63489e5e9@vip-meli3.nightgemshop.com:443?security=&encryption=none&headerType=&type=tcp#ARISTA🔥
+vless://3104a981-857e-4e2d-8d58-86e06a33b7f5@109.122.201.62:14500?security=none&encryption=none&host=excoino.com&headerType=http&type=tcp#ARISTA🔥
+vless://430399ca-d329-44c3-949c-0f74e3eb3b09@anten.ir:443?path=%2F%3Fed%3D2048&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=cpcalendars.digital-ping.ir&fp=chrome&type=ws&sni=cpcalendars.digital-ping.ir#ARISTA🔥
+vless://ffb10891-526b-43a6-a4d1-1ea61e0a3a6f@217.149.31.81:443?mode=auto&path=%2F&security=reality&encryption=none&pbk=07mSyG8LHbJZcq8cAydF4ehhnskG3GjdvhnKkSvRsgA&fp=chrome&spx=%2F&type=xhttp&sni=yandex.ru&sid=6d38c1f30520#ARISTA🔥
+vless://5576b07a-23b2-4907-ba2e-7a622951fe77@g2-tun-nl.a1mshop2.xyz:22560?security=none&type=tcp&headerType=http&path=%2F&host=aparat.com#ARISTA🔥
+vless://3b40a0be-995a-4b8a-b927-136facd20896@speedtest.net:80?security=none&type=xhttp&headerType=&path=%2F%3Fed%3D2095&host=jahaninjast.global.ssl.fastly.net&mode=auto&extra=%7B%22scMaxEachPostBytes%22%3A+%221000000%22%2C+%22scMaxConcurrentPosts%22%3A+100%2C+%22scMinPostsIntervalMs%22%3A+30%2C+%22xPaddingBytes%22%3A+%22100-1000%22%2C+%22noGRPCHeader%22%3A+false%7D#ARISTA🔥
 vless://4c910b61-5229-4eb7-bdf4-692fcabf0fc1@dqf21.sdssd1.sadqwdw1.carvan1.mimkiscx.ir:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=beh1.salonemojallal.ir.#ARISTA🔥
 vless://40e9f68c-0ad7-4830-ae32-8c8061f8a6aa@s1.vahshat.xyz:53504?security=none&encryption=none&headerType=none&type=tcp#ARISTA🔥
 vless://42b8b0f3-cac0-49c4-8b84-4f0efbf902f7@185.143.233.232:443?path=%2Fvoip&security=tls&encryption=none&insecure=1&host=pishparda.ir&fp=chrome&type=ws&allowInsecure=1&sni=pishparda.ir#ARISTA🔥
@@ -36,8 +46,6 @@ vless://110d7bad-5e17-4ce3-afd0-2cf2ebc71787@213.176.74.67:2053?type=tcp&securit
 vless://6341758e-cb23-4b35-cb8d-018fdffad9aa@91.192.160.53:44919?path=%2F&security=&encryption=none&type=ws#ARISTA🔥
 vless://b78582f9-07f7-4b47-837c-3ef3e31cafee@185.226.117.223:8443?encryption=none&type=tcp&headerType=none&host=www.speedtest.net#ARISTA🔥
 vless://414d8e3a-f58a-4ae6-852a-ce03c9d705ac@trrt2.aetherdata.pro:2041?security=reality&encryption=none&pbk=fQ1gSf_5tvYXm7g4FiWLUE9KmIOuAaQmxsANrtiBMkM&headerType=none&fp=firefox&type=tcp&sni=zarebin.ir&sid=7f4efc437225df63#ARISTA🔥
-vless://d49b76ff-de4c-4efb-84a1-8fe649748c94@95.164.3.121:443#ARISTA🔥
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.44.2.160:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#ARISTA🔥
 vless://6048472f-0993-4ae0-8203-960b9a0f4113@38.54.23.58:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=i7xxqA7h16NpQQAGiQJKxubs-_IRCUUlredSK7swTkw&security=reality&sni=www.amazon.com&type=tcp#ARISTA🔥
 vless://14b02e2a-8930-4afb-8412-ea4a4954ca5b@161.118.213.45:443?allowInsecure=1&encryption=none&host=ylnhh.cc.cd&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&security=tls&sni=ylnhh.cc.cd&type=ws#ARISTA🔥
 vless://816be889-2d68-4941-acf5-94662015811c@vpn5.osaku.ru:12436?encryption=none&fp=chrome&pbk=8hRsFW43gU0_uB-RhXw0N4Q8gXVlNjlIAWmFnltm6gg&security=reality&sid=41eccb&sni=yahoo.com&type=tcp#ARISTA🔥
@@ -49,6 +57,65 @@ vless://2979477a-f96a-45e0-be6b-c24db8af2026@195.172.138.224:20882?encryption=no
 vless://0ca20960-99aa-4c92-b44d-e08829ef1a69@193.23.211.125:30385?encryption=none&fp=chrome&pbk=BudozUb-DKLwfXzhtlvp_FR8iZoOWwwOvr9K_jd9uQw&security=reality&sid=6232ac20545869&sni=yahoo.com&type=tcp#ARISTA🔥
 vless://130e98f6-18ad-4505-9a6e-6e00424bd058@betty.ns.cloudflare.com:443?allowInsecure=1&encryption=none&host=639073677251729790.corolla-perma.info&path=%2Fjsdrzrws&security=tls&sni=639073677251729790.corolla-perma.info&type=ws#ARISTA🔥
 vless://c3c19bdf-2eff-49e0-9746-4c98206a67b0@104.18.26.90:8443?path=%2FnQrQ1eTYHqjVOYx6%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&host=s1.mitivpn.workers.dev&fp=randomized&type=ws&sni=s1.MitIvpN.wOrkeRs.dEv#ARISTA🔥
+vless://b28eb861-1748-4200-ba72-278669edc33b@104.16.109.107:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=coco.mahmoodchitooz.dpdns.org&fp=random&type=ws&sni=coco.mahmoodchitooz.dpdns.org#ARISTA🔥
+vless://8585380d-1d74-4b09-a955-5dbf862d13df@185.143.234.5:443?path=%2F%3Fed%3D443&security=tls&encryption=none&insecure=0&host=alef.ir.oadeflantrogm.airasiadl.com&fp=randomized&type=ws&allowInsecure=0&sni=alef.ir.oadeflantrogm.airasiadl.com#ARISTA🔥
+vless://d913751b-3ce4-493f-9adb-65bbfc02c991@199.232.242.127:80?type=xhttp&encryption=none&path=%2Fmgvpnir%3Fed%3D2560&host=mgvpniryour-name.global.ssl.fastly.net&mode=auto&security=none#ARISTA🔥
+vless://6e2349d3-a727-4135-8000-c77eab3c4dff@s1.kingserver.org:2086?path=%2F&security=none&encryption=none&type=ws#ARISTA🔥
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.176.237.255:22224?path=%2Ftelegram-channel-vlessconfig&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=trojan.burgerip.co.uk#ARISTA🔥
+vless://9f762e59-3579-44c0-ac9d-cd4b88b28352@hamrahiran.sorenashoping.xyz:45571?path=%2F&security=none&encryption=none&type=ws#ARISTA🔥
+vless://0e9ee23b-7858-4224-be20-70ba74cf4e03@onlazh2.khakimilad.online:443?security=reality&encryption=none&pbk=AAZAKzA6b6g4dvXrZwyEM5WdrKcwisfUyWoXbVDlmVA&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=www.aparat.com&sid=d2537da1d2#ARISTA🔥
+vless://b6337939-de25-41bd-b067-333a15abbd65@185.143.233.122:80?path=%2F&security=none&encryption=none&host=ar.liarashop.ir&type=ws#ARISTA🔥
+vless://4a8ad4a4-1936-4556-9d6a-aa438a05233a@95.85.253.29:44443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&sni=polandnoda.filvless.ru&pbk=iLYCEHwou7AM9pfxcXRaJ-uMjXDvhhRv_2aOgCrApg0&spx=%2F#ARISTA🔥
+vless://4a8ad4a4-1936-4556-9d6a-aa438a05233a@polandnoda.filvless.ru:44443?security=reality&type=tcp&headerType=none&flow=xtls-rprx-vision&sni=polandnoda.filvless.ru&pbk=iLYCEHwou7AM9pfxcXRaJ-uMjXDvhhRv_2aOgCrApg0&spx=/#ARISTA🔥
+vless://ba3ae3f1-366c-4978-a944-7a1607c3db57@51.250.110.102:443?type=tcp&sni=api-maps.yandex.ru&fp=safari&pbk=XQR4nMq5aBnJ4h1RTCRRJdkdtO0Mtitt1cDtY0whkBI&sid=232979c8aeb6fb7c&flow=xtls-rprx-vision&allowInsecure=1#ARISTA🔥
+vless://6cf0f91a-6398-4dfa-941b-3760a8cd58ab@185.234.66.44:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=www.microsoft.com&fp=&pbk=jSx3_X_tBAcNgp7SrKSfZnr5WN0cTN2ShEJv4rHceQU&sid=#ARISTA🔥
+vless://2424febb-43cb-488d-bdd1-401e923c8e48@3h-kazakhstan1.09vpn.com:8443?path=/vless/&security=tls&encryption=none&type=ws#ARISTA🔥
+vless://4358a465-91cf-4814-b137-0acc1b69062c@node1.telegavpn.org:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=node1.telegavpn.org&fp=&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA&sid=#ARISTA🔥
+vless://f7b19108-cb70-4b81-ada4-aabda9b0c83e@67.159.17.43:443?security=reality&type=tcp&flow=xtls-rprx-vision&sni=stats.vk-portal.net&pbk=-LOwNJMRG_3cf3qfUV3cqqRgMIBtHVEmL_T6oyiCfUY#ARISTA🔥
+vless://bc6f9208-ba56-4678-a29c-afc8b8af9b89@77.83.245.135:34205?security=none&encryption=none&type=tcp&headerType=none#ARISTA🔥
+vless://0f69cf64-b959-4631-9ca6-e2b4aab05231@pic3.torob.mom:37003?security=reality&encryption=none&pbk=vxdmULi_cO7dha2aQnsjSViARO15hvI9HWyo0pVPlkQ&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=www.digikala.com&sid=c385#ARISTA🔥
+vless://c1d42043-6a93-48df-85d2-828d4ade176b@185.124.175.236:443?encryption=none&type=grpc&mode=gun&serviceName=qwemmqwoedmqwoemdoqwmedpmqwedmpm&security=reality&fp=firefox&sni=aparat.com&pbk=ize-uZeKIdCj8aB2Lc9zrzQqKLLOeJ1i2klMjyGznjU&sid=280fd83aff#ARISTA🔥
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.102.254.79:22224?path=%2Ftelegram-channel-vlessconfig&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=trojan.burgerip.co.uk#ARISTA🔥
+vless://3816f0b2-692f-4ced-bbfe-e903d3946d9c@f1.springpaatogh8.store:8443?path=%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=takken.sorza.ir&type=ws&allowInsecure=0&sni=digikala.sorza.ir#ARISTA🔥
+vless://fa6bcfe7-fdf2-469a-92dc-a5c1ec6d9a2b@pq-moldova1.09vpn.com:8443?path=/vless/&security=tls&encryption=none&type=ws#ARISTA🔥
+vless://c3d10e94-d09c-4231-b9a9-9fa5ece1f1cd@my4.tehranhost.mom:37004?security=reality&encryption=none&pbk=vxdmULi_cO7dha2aQnsjSViARO15hvI9HWyo0pVPlkQ&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=www.digikala.com&sid=c385#ARISTA🔥
+vless://66b2d54e-85ae-4664-88a2-90d70808d624@mv2.amydoodles.com:443?mode=auto&path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=baba-nazan-h1.global.ssl.fastly.net&fp=firefox&type=xhttp&allowInsecure=0&sni=default.ssl.fastly.net#ARISTA🔥
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.102.254.79:22224?security=tls&allowInsecure=0&encryption=none&type=ws&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk&fp=chrome#ARISTA🔥
+vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@cdn.zoom.us:443?path=138.2.5.136&security=tls&encryption=none&insecure=0&host=afrcloud22.mmv.kr&type=ws&allowInsecure=0&sni=afrcloud22.mmv.kr#ARISTA🔥
+vless://8a41fccd-f65d-4eae-9241-f7df4dfeeacc@elite.tornado-ping.com:26261?security=&encryption=none&headerType=none&type=tcp#ARISTA🔥
+vless://af841f76-1d41-4d1d-9752-f5351bbd5e38@ezterar.popol.cfd:8443?path=%2F&security=none&encryption=none&type=ws#ARISTA🔥
+vless://3445138a-d30d-4b7b-ba80-0875c3b60d41@connected3.starpo3.ir:8080?security=&type=tcp&path=/&headerType=http&host=&encryption=none#ARISTA🔥
+vless://090f7ec2-4b69-4d35-9fc4-4aa35ac29e48@vip.gxnetshop.ir:1000?security=&encryption=none&headerType=none&type=tcp#ARISTA🔥
+vless://86e480ef-a128-42f9-8233-c9f93cf084d1@pq-romania1.09vpn.com:8443?path=/vless/&security=tls&encryption=none&type=ws#ARISTA🔥
+vless://a72f055b-8929-4947-bbcd-1eb567e1f69e@62.60.198.57:443?security=none&encryption=none&headerType=none&type=tcp#ARISTA🔥
+vless://420349f3-6024-4457-bde6-b3d11183d728@31.216.62.198:20391?security=none&encryption=none&headerType=none&type=tcp#ARISTA🔥
+vless://c843ed62-34da-44be-87b8-8b4ad34f6deb@f1.springpaatogh8.store:2087?path=%2F%3Fed%3D2560%20PuLaFreeBOT%20PuLaVPN%20PuLaVPN%20PuLaVPN&security=tls&encryption=none&insecure=0&host=gamepc.sorza.ir&type=ws&allowInsecure=0&sni=digikala.sorza.ir#ARISTA🔥
+vless://71563be9-f375-459c-9091-2b1d1df71d14@178.104.67.88:30707?type=tcp&encryption=none&security=reality&pbk=&fp=chrome&sni=www.amd.com&sid=cdb0410c884dbc&spx=%2F#ARISTA🔥
+vless://e863faa1-7505-493b-963a-909fa5984041@srv1.safeunity.shop:18510?security=&encryption=none&type=ws#ARISTA🔥
+vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@172.64.152.170:2052?mode=auto&path=pabloping&security=&encryption=none&host=updn.pabloping.pro&type=xhttp#ARISTA🔥
+vless://eea43b1a-4411-4ff7-f5b4-a860a81cad63@18.153.207.52:28706?security=&encryption=none&headerType=none&type=tcp#ARISTA🔥
+vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@b.pabloping.cloud:2052?mode=auto&path=pabloping&security=&encryption=none&host=nlbv2.pabloping.pro&type=xhttp#ARISTA🔥
+vless://22f196a2-cf9c-470d-b310-0ee76a2d433f@217.198.190.3:443?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#ARISTA🔥
+vless://3816f0b2-692f-4ced-bbfe-e903d3946d9c@f1.springpaatogh8.store:2053?path=%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=chess.sorza.ir&type=ws&allowInsecure=0&sni=digikala.sorza.ir#ARISTA🔥
+vless://eabcbf59-2b9f-4c22-8079-41b69e0e1b74@193.151.151.183:2086?security=&encryption=none&host=check-host.net&headerType=none&type=tcp#ARISTA🔥
+vless://ed5edb92-4301-a628-e5a7-1bfd039ed8a3@cloud3.vpsino.com:6344?security=none&type=tcp&headerType=none&path=%2F#ARISTA🔥
+vless://1d509c22-4e43-4067-9185-873ec5bb49da@de1.b762plus.shop:2013?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#ARISTA🔥
+vless://8d144af5-b97c-4449-bde6-2b3056f54844@hamrahiran.sorenashoping.xyz:45571?path=%2F&security=none&encryption=none&type=ws#ARISTA🔥
+vless://062fa1c7-6033-49d1-bf05-830ece50a320@ir1.hicli001.ir:28763?security=&encryption=none&host=soft98.ir&headerType=http&type=tcp#ARISTA🔥
+vless://02919851-ca80-492f-8bd3-b8fb0b8577a6@hamrahiran.sorenashoping.xyz:50552?security=&encryption=none&host=Fast.com&headerType=http&type=tcp#ARISTA🔥
+vless://22753114-c3cb-4613-9f2d-759a871489f7@ir.gafe-lorbad.ir:443?security=none&allowInsecure=0&encryption=none&type=tcp&headerType=none#ARISTA🔥
+vless://1f55bdb2-c9ee-4e4f-b899-ba89f1d69d38@rocket.clearpa66thdata.shop:18273?type=tcp&encryption=none&security=none#ARISTA🔥
+vless://cd931a7c-62be-4121-bf84-de1c7e8cef60@77.83.245.135:34205?encryption=none&security=none&type=tcp#ARISTA🔥
+vless://be3bed8d-5cf6-460b-b2fc-2a0b94b2f890@meli.coffenet.shop:2083?encryption=none&type=tcp&security=none#ARISTA🔥
+vless://bc6f9208-ba56-4678-a29c-afc8b8af9b89@77.83.245.135:34205?security=none&encryption=none&headerType=none&type=tcp#ARISTA🔥
+vless://825947d4-fe13-42d2-8dad-299623e5a979@193.151.149.45:18699?security=&encryption=none&headerType=http&type=tcp#ARISTA🔥
+vless://a428d150-caaa-4fe6-ad0c-07445264a514@188.121.118.233:443?path=%2Fws%3Fed%3D400%26p%3Dmks&security=tls&encryption=none&fp=chrome&type=ws&sni=archive-azd1111.telewebion.ir#ARISTA🔥
+vless://dcc74510-ed17-4b06-9aef-149bed1214bb@185.143.233.235:443?path=%2Fvoip&security=tls&encryption=none&insecure=1&host=pishparda.ir&fp=chrome&type=ws&allowInsecure=1&sni=pishparda.ir#ARISTA🔥
+vless://09f26a47-9953-4cd6-a83f-5265ff2f46a6@vip2.usertun.com:8080?security=none&encryption=none&headerType=none&type=tcp#ARISTA🔥
+vless://9d0fba31-6231-42a5-a1d3-1162720bf136@jkdsafksuefh.sajdqhiufd.ajdahwuq.soft98ver2.com:43552?security=&encryption=none&headerType=none&type=tcp#ARISTA🔥
+vless://b62ffdfa-e1e5-ce44-a7a3-e8874ce1efa1@91.107.129.147:23142?security=none&type=ws&path=%2F&host=i#ARISTA🔥
+vless://b62ffdfa-e1e5-ce44-a7a3-e8874ce1efa1@185.143.234.122:80?security=none&type=tcp&headerType=none&path=%2F&host=dl.avenflow.ir#ARISTA🔥
+vless://6341758e-cb23-4b35-cb8d-018fdffad9aa@91.192.160.53:44919?path=%2F&security=none&encryption=none&type=ws#ARISTA🔥
 vless://e5f8a9f6-f164-479b-b3b5-b90f213c7145@162.159.36.20:2053?allowInsecure=1&encryption=none&host=ir1.airpanel.top&path=%2F&security=tls&sni=ir1.airpanel.top&type=ws#ARISTA🔥
 vless://d1209ffb-c159-48d5-b40d-542ce11fc768@94.141.123.146:10965?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=lHxeD2nYtDb1V7JseV-sUTEuqH6_jie7U_iOARX7cT0&security=reality&sid=9f3a7c6d2e8b41af&sni=deepl.com&type=tcp#ARISTA🔥
 vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@173.245.58.75:443?allowInsecure=1&encryption=none&host=octopusss4.com&path=%2Ftsghdws&security=tls&sni=octopusss4.com&type=ws#ARISTA🔥
@@ -62,85 +129,8 @@ vless://5ce84688-f535-46ad-a512-37b17becf6ea@152.228.162.19:80?encryption=none&h
 vless://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@vip3.kaixincloud.top:443?allowInsecure=1&encryption=none&host=terazhediii.info&path=%2Fsghiyws&security=tls&sni=terazhediii.info&type=ws#ARISTA🔥
 vless://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@vip2.kaixincloud.top:443?allowInsecure=1&encryption=none&host=terazhediii.info&path=%2Fsghiyws&security=tls&sni=terazhediii.info&type=ws#ARISTA🔥
 vless://110d7bad-5e17-4ce3-afd0-2cf2ebc71787@es1.zqwerty.ru:2053?encryption=none&fp=chrome&pbk=aFsY-EZjSNTomlAFShKwQIQMJ5pHiZQXXJpWvcz8WkQ&security=reality&sid=0858af97f4e7324d&sni=music.yandex.ru&type=tcp#ARISTA🔥
-vless://116980b3-d4dc-49cc-acae-30c08766b060@85.133.197.114:2083?security=&encryption=none&headerType=none&type=tcp#ARISTA🔥
-vless://c8c61b88-acf5-4e25-8128-b7c92bc719f8@it.jemspeed.top:39296?security=&encryption=none&headerType=http&type=tcp#ARISTA🔥
-vless://414d8e3a-f58a-4ae6-852a-ce03c9d705ac@sgrt2.aetherdata.pro:2043?security=reality&encryption=none&pbk=fQ1gSf_5tvYXm7g4FiWLUE9KmIOuAaQmxsANrtiBMkM&headerType=none&fp=firefox&type=tcp&sni=zarebin.ir&sid=7f4efc437225df63#ARISTA🔥
-vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@104.18.32.47:2052?mode=auto&path=pabloping&security=&encryption=none&host=nlbv1.pabloping.pro&type=xhttp#ARISTA🔥
-vless://fcb3cf91-34ce-47a0-8343-945e0645996f@cdn.bio4cdn.com:443?mode=auto&path=%2Fphoto-index%3Ftype%3Dphpme&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&fp=chrome&type=xhttp&sni=Megaman.esportplusnews.top#ARISTA🔥
-vless://a9d5dd8b-9eb3-4b4f-f69b-90abc8af99c9@3.76.248.84:58445?security=&encryption=none&headerType=&type=tcp#ARISTA🔥
-vless://turboo-server@188.114.97.3:443?mode=auto&security=tls&encryption=none&insecure=0&host=turvfsogotgbdfkmvgmkleklf.infinitecreativehorizons.com&fp=chrome&type=xhttp&allowInsecure=0&sni=turvfsogotgbdfkmvgmkleklf.infinitecreativehorizons.com#ARISTA🔥
-vless://0fff5f1b-370d-4e98-829d-7dca653fbca8@185.226.117.160:443?security=none&encryption=none&headerType=none&type=tcp#ARISTA🔥
-vless://c3d10e94-d09c-4231-b9a9-9fa5ece1f1cd@my4.tehranhost.mom:37004?security=reality&encryption=none&pbk=vxdmULi_cO7dha2aQnsjSViARO15hvI9HWyo0pVPlkQ&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=www.digikala.com&sid=c385#ARISTA🔥
-vless://8545c44f-b1b4-4295-ae98-f0b6301a537f@172.66.46.214:2053?path=/?ed=2048&security=tls&encryption=none&host=ios-azadnet.pages.dev&type=ws&sni=ios-azadnet.pages.dev#ARISTA🔥
-vless://2424febb-43cb-488d-bdd1-401e923c8e48@3h-kazakhstan1.09vpn.com:8443?path=/vless/&security=tls&encryption=none&type=ws#ARISTA🔥
-vless://2beeeb33-8365-4396-b88a-9ef196842bf9@meeeliii.marzabarvana.com:5355?path=%2F&security=none&encryption=none&type=ws#ARISTA🔥
-vless://a2a7636b-25d9-4f83-941c-ba88cef9e2e2@102.37.155.79:443?type=xhttp&encryption=none&path=%2Fstream%2Fcubic&host=&mode=auto&security=reality&pbk=2Y_6l4fk42l4SRZ2XKPQHu27uEWCWZnYOdh_dtQzcAI&fp=chrome&sni=mirror.arvancloud.ir&sid=33a6&spx=%2F#ARISTA🔥
+vless://d49b76ff-de4c-4efb-84a1-8fe649748c94@95.164.3.121:443#ARISTA🔥
 vless://3cbad916-d882-4773-8dfb-15564f2d29fe@zone.ca.f2zone.ir:17759?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#ARISTA🔥
-vless://82990c58-26b7-4a75-81fe-66e63489e5e9@vip-meli3.nightgemshop.com:443?security=&encryption=none&headerType=&type=tcp#ARISTA🔥
-vless://430399ca-d329-44c3-949c-0f74e3eb3b09@anten.ir:443?path=%2F%3Fed%3D2048&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=cpcalendars.digital-ping.ir&fp=chrome&type=ws&sni=cpcalendars.digital-ping.ir#ARISTA🔥
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.102.254.79:22224?path=%2Ftelegram-channel-vlessconfig&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=trojan.burgerip.co.uk#ARISTA🔥
-vless://ffb10891-526b-43a6-a4d1-1ea61e0a3a6f@217.149.31.81:443?mode=auto&path=%2F&security=reality&encryption=none&pbk=07mSyG8LHbJZcq8cAydF4ehhnskG3GjdvhnKkSvRsgA&fp=chrome&spx=%2F&type=xhttp&sni=yandex.ru&sid=6d38c1f30520#ARISTA🔥
-vless://bc6f9208-ba56-4678-a29c-afc8b8af9b89@77.83.245.135:34205?security=none&encryption=none&headerType=none&type=tcp#ARISTA🔥
-vless://3104a981-857e-4e2d-8d58-86e06a33b7f5@109.122.201.62:14500?security=none&encryption=none&host=excoino.com&headerType=http&type=tcp#ARISTA🔥
-vless://5576b07a-23b2-4907-ba2e-7a622951fe77@g2-tun-nl.a1mshop2.xyz:22560?security=none&type=tcp&headerType=http&path=%2F&host=aparat.com#ARISTA🔥
-vless://3b40a0be-995a-4b8a-b927-136facd20896@speedtest.net:80?security=none&type=xhttp&headerType=&path=%2F%3Fed%3D2095&host=jahaninjast.global.ssl.fastly.net&mode=auto&extra=%7B%22scMaxEachPostBytes%22%3A+%221000000%22%2C+%22scMaxConcurrentPosts%22%3A+100%2C+%22scMinPostsIntervalMs%22%3A+30%2C+%22xPaddingBytes%22%3A+%22100-1000%22%2C+%22noGRPCHeader%22%3A+false%7D#ARISTA🔥
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.102.254.79:22224?path=%2Ftelegram-channel-bored&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=trojan.burgerip.co.uk#ARISTA🔥
-vless://498af883-da46-4fbb-ac03-2f982dbb9558@193.151.149.45:65531?security=&encryption=none&headerType=http&type=tcp#ARISTA🔥
-vless://a93d9bae-ecc1-4f2c-bba1-cf7db9462b4e@mh52m5fsx0ztzs0jb1r6g4z9mn9o2c.ipsumnetwork.com:8540?security=none&encryption=none&headerType=none&type=tcp#ARISTA🔥
-vless://b6337939-de25-41bd-b067-333a15abbd65@185.143.233.122:80?path=%2F&security=none&encryption=none&host=ar.liarashop.ir&type=ws#ARISTA🔥
-vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@b.pabloping.cloud:2052?mode=auto&path=pabloping&security=&encryption=none&host=upnl.pabloping.pro&type=xhttp#ARISTA🔥
-vless://738d8767-5eff-49dd-b9b9-766d377afd27@6t8q56c58d.0g97vcf0bhjg6sa4n1xx.realytag.com:882?security=none&encryption=none&host=skyroom.online%2Cgharar.ir%2Cigap.net&headerType=http&type=tcp#ARISTA🔥
-vless://d230f0f7-6826-4f8e-8dbb-69ee2c837358@24dc5c91924c5346.freestly.sapienza-mahan.ir:443?mode=auto&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=1&host=nazan-baba-z1.global.ssl.fastly.net&fp=firefox&type=xhttp&allowInsecure=1&sni=speedtest.net#ARISTA🔥
-vless://ac60e14d-f364-417a-ade7-860a70db061f@193.58.119.134:443?security=&encryption=none&host=google.com&headerType=http&type=tcp#ARISTA🔥
-vless://a9c28cf3-1962-8824-1175-a69268a0e213@92.42.203.170:5690?security=&encryption=none&headerType=none&type=tcp#ARISTA🔥
-vless://3104a981-857e-4e2d-8d58-86e06a33b7f5@g1-de2-user.a1mshop.ir:14300?security=none&encryption=none&host=aparat.com&headerType=http&type=tcp#ARISTA🔥
-vless://6ca2c654-53b3-4ac1-a2ef-c4b4ee88727a@ae2.suio.me:443?security=tls&encryption=none&headerType=none&type=tcp&sni=ae2.suio.me#ARISTA🔥
-vless://f91c1cc2-05fe-4efd-ba09-86cb6bec19e3@23.95.113.104:443?path=%2F&security=none&encryption=none&type=ws#ARISTA🔥
-vless://03f75e80-2bfd-5608-cc7c-20eb54ddeab8@cloud3.vpsino.com:6344?security=none&allowInsecure=0&encryption=none&type=tcp&headerType=none#ARISTA🔥
-vless://11e3cbed-a0da-4c2f-a295-0397451a2d54@fanstar.yournamephoto.com:5443?security=&encryption=none&headerType=none&type=tcp#ARISTA🔥
-vless://ed5edb92-4301-a628-e5a7-1bfd039ed8a3@cloud3.vpsino.com:6344?security=none&type=tcp&headerType=none&path=%2F#ARISTA🔥
-vless://d40e96b2-0203-4e62-bffb-cc8f338917dd@L-iq-emergency2-7788yo.j0je.ir:5480?security=none&encryption=none&host=anten.ir&headerType=http&type=tcp#ARISTA🔥
-vless://1041e05d-ecb9-4fe1-bde2-429abff13e8f@176.124.199.71:443?security=reality&type=grpc&headerType=&authority=&serviceName=&flow=&mode=gun&sni=ads.x5.ru&fp=&pbk=XrXK3qb2CKCBP80Vkg3WfNBB4gpy4YOADmQ7mhHfDWE&sid=#ARISTA🔥
-vless://1041e05d-ecb9-4fe1-bde2-429abff13e8f@gosuslugiru.outlinekeys.net:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=node12.telegavpn.org&fp=&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA&sid=#ARISTA🔥
-vless://1041e05d-ecb9-4fe1-bde2-429abff13e8f@node1.telegavpn.org:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=node1.telegavpn.org&fp=&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA&sid=#ARISTA🔥
-vless://1041e05d-ecb9-4fe1-bde2-429abff13e8f@213.176.18.99:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=telegavpn.com&fp=&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA&sid=#ARISTA🔥
-vless://1041e05d-ecb9-4fe1-bde2-429abff13e8f@113.30.152.46:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=telegavpn.com&fp=&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA&sid=#ARISTA🔥
-vless://1041e05d-ecb9-4fe1-bde2-429abff13e8f@185.39.204.27:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=sun1-90.userapi.com&fp=&pbk=fsQFwBuDqsc-AylhF85Yu4jI81hn7LkYtNQCT5FFyiw&sid=#ARISTA🔥
-vless://4358a465-91cf-4814-b137-0acc1b69062c@185.221.199.194:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=telegavpn.com&fp=&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA&sid=#ARISTA🔥
-vless://4358a465-91cf-4814-b137-0acc1b69062c@node5.telegavpn.org:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=node5.telegavpn.org&fp=&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA&sid=#ARISTA🔥
-vless://4358a465-91cf-4814-b137-0acc1b69062c@176.124.199.71:443?security=reality&type=grpc&headerType=&authority=&serviceName=&flow=&mode=gun&sni=ads.x5.ru&fp=&pbk=XrXK3qb2CKCBP80Vkg3WfNBB4gpy4YOADmQ7mhHfDWE&sid=#ARISTA🔥
-vless://4358a465-91cf-4814-b137-0acc1b69062c@gosuslugiru.outlinekeys.net:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=node12.telegavpn.org&fp=&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA&sid=#ARISTA🔥
-vless://4358a465-91cf-4814-b137-0acc1b69062c@node1.telegavpn.org:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=node1.telegavpn.org&fp=&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA&sid=#ARISTA🔥
-vless://4358a465-91cf-4814-b137-0acc1b69062c@213.176.18.99:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=telegavpn.com&fp=&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA&sid=#ARISTA🔥
-vless://4358a465-91cf-4814-b137-0acc1b69062c@113.30.152.46:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=telegavpn.com&fp=&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA&sid=#ARISTA🔥
-vless://4358a465-91cf-4814-b137-0acc1b69062c@185.39.204.27:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=sun1-90.userapi.com&fp=&pbk=fsQFwBuDqsc-AylhF85Yu4jI81hn7LkYtNQCT5FFyiw&sid=#ARISTA🔥
-vless://d85463d6-c213-4ef3-ad5e-9adf8bde2feb@vip-meli5.nightgemshop.com:16019?security=none&encryption=none&headerType=none&type=tcp#ARISTA🔥
-vless://062fa1c7-6033-49d1-bf05-830ece50a320@ir1.hicli001.ir:28763?security=&encryption=none&host=soft98.ir&headerType=http&type=tcp#ARISTA🔥
-vless://02919851-ca80-492f-8bd3-b8fb0b8577a6@hamrahiran.sorenashoping.xyz:50552?security=&encryption=none&host=Fast.com&headerType=http&type=tcp#ARISTA🔥
-vless://22753114-c3cb-4613-9f2d-759a871489f7@ir.gafe-lorbad.ir:443?security=none&allowInsecure=0&encryption=none&type=tcp&headerType=none#ARISTA🔥
-vless://1f55bdb2-c9ee-4e4f-b899-ba89f1d69d38@rocket.clearpa66thdata.shop:18273?type=tcp&encryption=none&security=none#ARISTA🔥
-vless://cd931a7c-62be-4121-bf84-de1c7e8cef60@77.83.245.135:34205?encryption=none&security=none&type=tcp#ARISTA🔥
-vless://be3bed8d-5cf6-460b-b2fc-2a0b94b2f890@meli.coffenet.shop:2083?encryption=none&type=tcp&security=none#ARISTA🔥
-vless://825947d4-fe13-42d2-8dad-299623e5a979@193.151.149.45:18699?security=&encryption=none&headerType=http&type=tcp#ARISTA🔥
-vless://a428d150-caaa-4fe6-ad0c-07445264a514@188.121.118.233:443?path=%2Fws%3Fed%3D400%26p%3Dmks&security=tls&encryption=none&fp=chrome&type=ws&sni=archive-azd1111.telewebion.ir#ARISTA🔥
-vless://dcc74510-ed17-4b06-9aef-149bed1214bb@185.143.233.235:443?path=%2Fvoip&security=tls&encryption=none&insecure=1&host=pishparda.ir&fp=chrome&type=ws&allowInsecure=1&sni=pishparda.ir#ARISTA🔥
-vless://09f26a47-9953-4cd6-a83f-5265ff2f46a6@vip2.usertun.com:8080?security=none&encryption=none&headerType=none&type=tcp#ARISTA🔥
-vless://bc6f9208-ba56-4678-a29c-afc8b8af9b89@77.83.245.135:34205?security=none&encryption=none&type=tcp&headerType=none#ARISTA🔥
-vless://430399ca-d329-44c3-949c-0f74e3eb3b09@anten.ir:443?path=%2F%3Fed%3D2048&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=0&host=cpcalendars.digital-ping.ir&fp=chrome&type=ws&allowInsecure=0&sni=cpcalendars.digital-ping.ir#ARISTA🔥
-vless://e81b43d3-bb75-07d0-8b11-f526aef4fef4@212.193.153.187:443?encryption=none=-@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann&type=ws&security=tls&path=/XIXVPN?ed=2560&host=lk-cdn.deploy-assure.ru&fp=chrome&sni=lk-cdn.deploy-assure.ru#ARISTA🔥
-vless://6897c181-24b1-4880-8660-e6c5c7ee13c7@92.60.78.221:443?security=reality&encryption=none&pbk=pkIWxbuPAasjatPaHnAaTnCxVj1RkDFsJEWpLUTOcWY&headerType=none=-@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.tradingview.com&sid=9917d2350096&path=/XIXVPN?ed=2560#ARISTA🔥
-vless://52dbc2d8-00c5-2710-a898-22718fb85c12@ing.anti-vpn.ru:52006?encryption=none=-@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann&flow=xtls-rprx-vision&fp=chrome&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&security=reality&sid=d8c6b58bcbb0c323&sni=max.ru&type=tcp&path=/XIXVPN?ed=2560#ARISTA🔥
-vless://ea286109-d20f-415e-849e-4af20ab04b65@135.148.152.107:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&headerType=none=-@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann&type=tcp&sni=147135001195.sec22org.com&path=/XIXVPN?ed=2560#ARISTA🔥
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.159.228.130:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#ARISTA🔥
-vless://18e35ca4-4b6e-43dd-9c28-b3ef89966821@mlh.mynethub99.top:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=mlh.mynethub99.top#ARISTA🔥
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.181.217.149:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#ARISTA🔥
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.47.165.179:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#ARISTA🔥
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.181.217.149:22224?path=%2Ftelegram-channel-vlessconfig&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=trojan.burgerip.co.uk#ARISTA🔥
-vless://1c8e42b0-8a2a-4a35-970d-5b28f6438978@46.38.138.39:7777?encryption=none&type=tcp&headerType=none#ARISTA🔥
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.177.162.163:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#ARISTA🔥
-vless://0377df23-a1d4-4b3f-ae84-0b4f3d3d71dd@pic1.myket.mom:37001?security=reality&encryption=none&pbk=vxdmULi_cO7dha2aQnsjSViARO15hvI9HWyo0pVPlkQ&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=www.amazon.com&sid=c385#ARISTA🔥
-vless://03f75e80-2bfd-5608-cc7c-20eb54ddeab8@cloud3.vpsino.com:6344?security=none&encryption=none&headerType=none&type=tcp#ARISTA🔥
-vless://430399ca-d329-44c3-949c-0f74e3eb3b09@anten.ir:443?type=ws&path=%2F%3Fed%3D2048&host=cpcalendars.digital-ping.ir&security=tls&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&sni=cpcalendars.digital-ping.ir#ARISTA🔥
 vless://6a74a3a0-71ee-4286-bbd5-91d977fc7e31@turbocdn.melonet.best:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=cdn12.persianfilmdl.ir&fp=chrome&type=ws&allowInsecure=0&sni=cdn12.persianfilmdl.ir#ARISTA🔥
 vless://6c49485f-843c-4e96-abfe-046bc473c7b0@45.144.51.22:443?security=reality&encryption=none&pbk=euR8poucesDF-UxANxJ7Uqg1t4cfiDtAzAQcTVhRQCE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=github.com&sid=140d8b3989bf5116#ARISTA🔥
 vless://788d2a40-12fe-4296-b802-d218308e769b@94.101.179.197:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=archive-azd1101.telewebion.ir&sid=6ba85179e30d4fc2#ARISTA🔥
@@ -155,13 +145,9 @@ vless://97b35c84-5174-ab39-3ec8-8e5288d1316c@cloud3.vpsino.com:6344?security=non
 vless://98bd825a-6195-4d1b-ae4f-50085f37e558@p.gostargate.top:443?security=&encryption=none&host=static.telewebion.ir&headerType=http&type=tcp#ARISTA🔥
 vless://a49131a1-fbb1-4e7b-8d8b-7441cdf622b8@185.143.233.5:80?path=%2Fgraphql%3Fed%3D30&security=none&encryption=none&host=dulphin111-90331252af-viv.apps.ir-central1.arvancaas.ir&type=ws#ARISTA🔥
 vless://a5b8c376-6bfe-41eb-b816-42a8a5811d55@178.104.67.88:40317?type=httpupgrade&encryption=none&path=%2F&host=&security=none#ARISTA🔥
-vless://d913751b-3ce4-493f-9adb-65bbfc02c991@199.232.242.127:80?type=xhttp&encryption=none&path=%2Fmgvpnir%3Fed%3D2560&host=mgvpniryour-name.global.ssl.fastly.net&mode=auto&security=none#ARISTA🔥
-vless://22ad3702-d9ac-4a03-ade2-0697013467cd@www.speedtest.net:8443?encryption=none&type=ws&host=cloud.zipfly.org&path=/&security=tls&fp=chrome&sni=cloud.zipfly.org&alpn=h2,http/1.1#ARISTA🔥
-vless://a72f055b-8929-4947-bbcd-1eb567e1f69e@62.60.198.57:443?security=none&encryption=none&headerType=none&type=tcp#ARISTA🔥
-vless://9f762e59-3579-44c0-ac9d-cd4b88b28352@hamrahiran.sorenashoping.xyz:45571?path=%2F&security=none&encryption=none&type=ws#ARISTA🔥
-vless://0f69cf64-b959-4631-9ca6-e2b4aab05231@pic3.torob.mom:37003?security=reality&encryption=none&pbk=vxdmULi_cO7dha2aQnsjSViARO15hvI9HWyo0pVPlkQ&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=www.digikala.com&sid=c385#ARISTA🔥
-vless://6e2349d3-a727-4135-8000-c77eab3c4dff@s1.kingserver.org:2086?path=%2F&security=none&encryption=none&type=ws#ARISTA🔥
-vless://c1d42043-6a93-48df-85d2-828d4ade176b@185.124.175.236:443?encryption=none&type=grpc&mode=gun&serviceName=qwemmqwoedmqwoemdoqwmedpmqwedmpm&security=reality&fp=firefox&sni=aparat.com&pbk=ize-uZeKIdCj8aB2Lc9zrzQqKLLOeJ1i2klMjyGznjU&sid=280fd83aff#ARISTA🔥
+vless://430399ca-d329-44c3-949c-0f74e3eb3b09@anten.ir:443?path=%2F%3Fed%3D2048&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=0&host=cpcalendars.digital-ping.ir&fp=chrome&type=ws&allowInsecure=0&sni=cpcalendars.digital-ping.ir#ARISTA🔥
+vless://430399ca-d329-44c3-949c-0f74e3eb3b09@anten.ir:443?type=ws&path=%2F%3Fed%3D2048&host=cpcalendars.digital-ping.ir&security=tls&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&sni=cpcalendars.digital-ping.ir#ARISTA🔥
+vless://498af883-da46-4fbb-ac03-2f982dbb9558@193.151.149.45:65531?security=&encryption=none&headerType=http&type=tcp#ARISTA🔥
 vless://a44e0875-210f-4941-9062-89b6361a14c6@94.131.123.167:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=apple.com&security=reality&pbk=i5a8i2AWUSMZ-rYA6hGBRCBBoe7W5ah33SCdF5JkMk4&sid=8bcfe256cf216fd8#T.ME: @aristapnel
 vless://3f42b528-59ef-45f9-9ba3-6292ca46f909@wolfb24.servers1mart.ir:2096/?type=tcp&encryption=none&flow=&sni=play.google.com&fp=firefox&security=reality&pbk=K0iITauuYEqIayR3IB5Ny8MVKyORDJ65rUSHc3tLe1E&sid=42c0b628ba6a42a9#T.ME: @aristapnel
 vless://cff6f361-828a-43c8-a8b5-8d10b32e57fb@45.130.125.69:8443/?type=ws&encryption=none&flow=&host=zh.hollowspot.ir&path=%2F&security=tls&sni=zh.hollowspot.ir&alpn=http%2F1.1#T.ME: @aristapnel
@@ -2663,78 +2649,88 @@ vless://fba7dc74-ed99-03e8-8b5f-a822f254475f@5.188.140.35:52006?flow=xtls-rprx-v
 vless://13ad36e6-c091-43f2-8505-47d868dd544c@ffv.xx6.ccwu.cc:443?flow=&fp=chrome&host=ffv.xx6.ccwu.cc&path=%2FXR8So0uqFVa3vY9ZbxgW4&security=tls&sni=ffv.xx6.ccwu.cc&type=ws#T.ME: @aristapnel
 vless://8ea1b89f-21d5-49b9-9bcd-1ad9ac39b4ba@dfvbg6.0oz.ccwu.cc:80?flow=&host=dfvbg6.0oz.ccwu.cc&path=%2FIq3945ZsqJBAQ5Ah&type=ws#T.ME: @aristapnel
 vless://a2af6e7c-a792-4e51-9460-fff4bd74fbfc@104.18.15.19:80?flow=&host=vahidqaz-ft33vt-1.vahidqaz.workers.dev&path=%2F%3Fed%3D2560&type=ws#T.ME: @aristapnel
+vless://a1056081-76c5-4185-a16d-da6657e088d0@82.41.181.60:443?encryption=none&fp=chrome&pbk=R8DxeKsBWjG5_roszdd2bT_jW5Lq5WyBKSKuoQjvcAE&security=reality&sid=c0&sni=www.google.com&type=tcp#T.ME: @aristapnel
+vless://b9662467-171c-4afc-8fac-dabf62fc47cc@64.188.106.173:2443?encryption=none&fp=chrome&pbk=EeM87Tb64-rdyOYJmKlx3OqxVXCLHIJvGGuDrc-In1k&security=reality&serviceName=TestChatGRPC&sid=a1b2c3d4&sni=www.microsoft.com&type=grpc#T.ME: @aristapnel
+vless://426c7830-1d5c-11f1-add8-52ac00d0e60c@nl1.vpnjantit.com:10004?encryption=none&path=%2Fvpnjantit&security=none&type=ws#T.ME: @aristapnel
+vless://90c9c25c-df6c-4438-83d3-ef97166a9184@89.19.215.209:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=A3PWLCRX9oeSyPvrmrwj2jUXcLo2uCwAISRBHtNE1Xw&security=reality&sni=5post-gate.x5.ru&type=tcp#T.ME: @aristapnel
+vless://a1afced8-420b-430d-b25a-08db1c3332da@144.31.238.232:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=2IOXPZdkxdHts0gzVYWjAWTjuM1-OuPFGgHeFMVvNwY&security=reality&sid=3aee9bf2757b2d1f&sni=www.apple.com&type=tcp#T.ME: @aristapnel
+vless://ad51da8f-c04c-4843-afaa-295accf942e3@185.116.214.253:443?encryption=none&fp=chrome&pbk=upQDBPxUldlllbz4A_Zp4YAHM_sIkyQxIbQvRryKm1s&security=reality&sid=86&sni=www.google.com&type=tcp#T.ME: @aristapnel
+vless://d70415c7-b3fb-43e9-915a-df66b2274c32@e2.aurorix.net:25930?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=iyV9M7K4Et9DgpzehijZ61ih3H1DnYCvjpSb-zC_qhk&sid=911451a18252bb5a&sni=www.microsoft.com#T.ME: @aristapnel
+vless://110d7bad-5e17-4ce3-afd0-2cf2ebc71787@94.131.8.31:2053?encryption=none&fp=chrome&pbk=aFsY-EZjSNTomlAFShKwQIQMJ5pHiZQXXJpWvcz8WkQ&security=reality&sid=0858af97f4e7324d&sni=music.yandex.ru&type=tcp#T.ME: @aristapnel
+vless://66143a11-6e84-466e-9b83-5cfebfd2aea8@82.26.94.193:443?encryption=none&fp=chrome&pbk=Qk4CqeROBNOLujmefdp-SbW9eTfDr6BCN3Bo04IzbDI&security=reality&sid=a26f9030ae&sni=www.nvidia.com&type=tcp#T.ME: @aristapnel
+vless://110d7bad-5e17-4ce3-afd0-2cf2ebc71787@5.253.40.7:2053?encryption=none&fp=chrome&pbk=aFsY-EZjSNTomlAFShKwQIQMJ5pHiZQXXJpWvcz8WkQ&security=reality&sid=0858af97f4e7324d&sni=music.yandex.ru&type=tcp#T.ME: @aristapnel
+vless://5f98c4f8-19f4-471d-8ed5-10c0550c0423@150.241.75.139:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=K0J7MeoQdkINpubvpI7F0sqfx3TYonr35gCj3xlxRnw&security=reality&sid=c34685e6&sni=tunnel.vk-apps.com&type=tcp#T.ME: @aristapnel
+vless://5f98c4f8-19f4-471d-8ed5-10c0550c0423@150.241.74.185:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=cqsvMHPf2pc9Z54Q-apTtcYfesNjjPSecAKaKrsoL0Y&security=reality&sid=4d94c4fb&sni=tunnel.vk-apps.com&type=tcp#T.ME: @aristapnel
+vless://40fb2d29-374c-4255-ae56-bf3ad95b8b37@144.31.239.139:25340?encryption=none&fp=chrome&pbk=fmLlp7Vg3qzskePTLeNWmgppe3TPYlHb_yqBzRxaxUE&security=reality&sid=4830d187&sni=www.sony.com&type=tcp#T.ME: @aristapnel
+vless://c01733dd-3e58-4da9-910b-cdd4560295bc@80.209.241.190:2443?encryption=none&fp=chrome&pbk=IRv8qDf76Ix5WouZ-mznx7AZbGSM8JdyTuZy3UB19AE&security=reality&serviceName=TestChatGRPC&sid=a1b2c3d4&sni=www.tradingview.com&type=grpc#T.ME: @aristapnel
+vless://ae0e984d-423e-4d80-8c0e-1d127340b3b9@150.241.203.76:11846?encryption=none&fp=chrome&pbk=e0Ab0q-jsGRsEclV-tUUoNM3-g79sWQqSL4k7UYft3w&security=reality&sid=49&sni=www.google.com&type=tcp#T.ME: @aristapnel
 vless://8de7627c-1995-41f7-93e6-7fd9715514a2@85.192.49.230:443?encryption=none&fp=chrome&pbk=VMMc3QkOG66O2cD0Ki36VOEDQxpGT5aK8KAwLGklJzw&security=reality&sid=c2&sni=www.google.com&type=tcp#T.ME: @aristapnel
 vless://3d737761-5951-462e-86c1-ff921d9f9999@cdn-gr-cf.barryvpn.com:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=tZ-tscsitfHIe63_9FAqruCnJaNFhRaKCnR8G-e4-CM&security=reality&sid=ae&sni=images.apple.com&type=tcp#T.ME: @aristapnel
 vless://fdc8d6e7-9520-4580-aefb-50185b539bdd@de12.frostbot.ru:6443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=x-VSf_bBIC1iELDvaoM4SKMTK2YAAnUlVkhAWBbvpSc&security=reality&sid=b9605803fb4b&sni=github.com&type=tcp#T.ME: @aristapnel
-vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@betty.ns.cloudflare.com:443?allowInsecure=1&encryption=none&host=octopusss4.com&path=/tsghdws&security=tls&sni=octopusss4.com&type=ws#T.ME: @aristapnel
+vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@108.162.192.75:443?allowInsecure=1&encryption=none&host=octopusss4.com&path=/tsghdws&security=tls&sni=octopusss4.com&type=ws#T.ME: @aristapnel
 vless://7e0a9f75-b424-493b-b7e6-cebd7ea8642d@144.31.4.127:443?allowInsecure=1&encryption=none&security=tls&sni=plcdn14.melodramaonline.net&type=tcp#T.ME: @aristapnel
 vless://4da4c9c7-a587-4894-bfa1-63e2c50aa21e@141.98.24.151:443?encryption=none&fp=chrome&pbk=GUykK5D2mcYcPS6SDQdzNYFE3EtKIMoYbSlcjij5yA0&security=reality&sid=e8&sni=www.google.com&type=tcp#T.ME: @aristapnel
 vless://53821f3c-5b03-456a-89f3-f8379f130752@51.89.229.134:443?encryption=none&fp=chrome&pbk=4e4FI0siWxFtLCRCVDQurn1wLTuvKWhRY0zj1SaUcyw&security=reality&sid=a13a7cc5&sni=www.samsung.com&type=tcp#T.ME: @aristapnel
-vless://576993a0-3b23-4c65-8c6d-2165b098826b@plcdn6.dramatorg.net:443?allowInsecure=1&encryption=none&security=tls&sni=plcdn6.dramatorg.net&type=tcp#T.ME: @aristapnel
+vless://28a6ce90-7fd8-4aff-99b1-726083fcd5dc@138.124.32.50:2443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=jyAmrIladACAoSP0EEcUhxvYUNj0ftL132BFqhtcK2Q&security=reality&sid=0ec0e06a8bb19bc1&sni=use.typekit.net&type=tcp#T.ME: @aristapnel
 vless://90c9c25c-df6c-4438-83d3-ef97166a9184@45.66.163.194:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=A3PWLCRX9oeSyPvrmrwj2jUXcLo2uCwAISRBHtNE1Xw&security=reality&sni=5post-gate.x5.ru&type=tcp#T.ME: @aristapnel
+vless://098fd515-29de-4d74-b77d-d8ab878a7e2c@lucy.ns.cloudflare.com:443?allowInsecure=1&encryption=none&host=rivvers.info&path=%2Fresgdws&security=tls&sni=rivvers.info&type=ws#T.ME: @aristapnel
 vless://90c9c25c-df6c-4438-83d3-ef97166a9184@194.124.250.51:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=A3PWLCRX9oeSyPvrmrwj2jUXcLo2uCwAISRBHtNE1Xw&security=reality&sni=5post-gate.x5.ru&type=tcp#T.ME: @aristapnel
-vless://c35050ce-01ab-45a9-91b8-54cec637d0a8@elliot.ns.cloudflare.com:443?allowInsecure=1&encryption=none&host=octopusss5.info&path=/udfyfws&security=tls&sni=octopusss5.info&type=ws#T.ME: @aristapnel
-vless://7a0ae662-eee7-44c0-8998-d575870bd749@64.188.106.202:38765?encryption=none&fp=chrome&pbk=fUyUwpKV_0yleQhE_dZF0TuD1lw3BJ-Jo9M6iOaEFEY&security=reality&sid=d789a31a7a7014&sni=aws.amazon.com&type=tcp#T.ME: @aristapnel
-vless://53f0bca8-f170-4ef7-8031-c7d441189dbf@delilah.ns.cloudflare.com:443?allowInsecure=1&encryption=none&host=639073677259599430.civic-perma.info&path=/cahttingws&security=tls&sni=639073677259599430.civic-perma.info&type=ws#T.ME: @aristapnel
+vless://c35050ce-01ab-45a9-91b8-54cec637d0a8@172.64.33.162:443?allowInsecure=1&encryption=none&host=octopusss5.info&path=%2Fudfyfws&security=tls&sni=octopusss5.info&type=ws#T.ME: @aristapnel
+vless://53f0bca8-f170-4ef7-8031-c7d441189dbf@delilah.ns.cloudflare.com:443?allowInsecure=1&encryption=none&host=639073677259599430.civic-perma.info&path=%2Fcahttingws&security=tls&sni=639073677259599430.civic-perma.info&type=ws#T.ME: @aristapnel
 vless://53f0bca8-f170-4ef7-8031-c7d441189dbf@172.64.33.91:443?allowInsecure=1&encryption=none&host=639073677260074624.civic-perma.info&path=%2Fcahttingws&security=tls&sni=639073677260074624.civic-perma.info&type=ws#T.ME: @aristapnel
 vless://7270612b-49f6-4b04-999c-34d8263da767@162.159.44.45:443?allowInsecure=1&encryption=none&host=picassooo.info&path=%2Faymdlws&security=tls&sni=picassooo.info&type=ws#T.ME: @aristapnel
-vless://a487adab-0644-4f80-9643-d3036b9f17c6@169.40.3.171:465?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=k5VAU_3EaQMgR9FB7cqIu-lp35aZttOvAYNZW0TOki0&security=reality&sid=336f5d66c86BcED2&sni=download.docker.com&type=tcp#T.ME: @aristapnel
 vless://a16bd0e2-ff2e-4e4c-a955-0c684255a065@ch.fasti.win:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=-YTGWg5DjsLDyaDfr1D83kiUK22LVcrK3yC53lqqigs&security=reality&sid=feedbacc&sni=ch.fasti.win&type=tcp#T.ME: @aristapnel
-vless://35b9becb-2488-447c-ad69-e839f2fc13c1@45.151.106.62:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=5vKf_Ni653huMNUl6V34EJxEGPCC0hZ6rFCPwu2Z300&security=reality&sid=3ef8cdbc&sni=google.com&type=tcp#T.ME: @aristapnel
-vless://a487adab-0644-4f80-9643-d3036b9f17c6@144.31.221.174:8083?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=SziXMkSTuvedEFS4DE-WY0a4Hb87Y22VW0TgE9IPDjA&security=reality&sid=425ba80cd1a821a8&sni=www.apple.com&type=tcp#T.ME: @aristapnel
+vless://18f2f9bc-c55b-40c4-a762-0394b2e11fcf@45.151.106.62:5443?encryption=none&fp=chrome&pbk=MNtVuRK9ydQoPjI2vMSkZMUpwAEjH5qq3hr9kTt2CHk&security=reality&sid=4ef7cdbc&sni=eh.vk.com&type=grpc#T.ME: @aristapnel
 vless://fd37be2f-f8d1-47de-97e8-13c28107d31e@45.15.152.226:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=iCY6H8CpnIfqmIkEABduJEAeJrnYS089R1-jKEyVp3w&security=reality&sid=be91008fd0a4&sni=fin2.frostbot.ru&type=tcp#T.ME: @aristapnel
-vless://fd37be2f-f8d1-47de-97e8-13c28107d31e@138.124.104.221:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=iCY6H8CpnIfqmIkEABduJEAeJrnYS089R1-jKEyVp3w&security=reality&sid=e043995937&sni=pol2.frostbot.ru&type=tcp#T.ME: @aristapnel
+vless://fd37be2f-f8d1-47de-97e8-13c28107d31e@138.124.104.221:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=pol2.frostbot.ru&pbk=iCY6H8CpnIfqmIkEABduJEAeJrnYS089R1-jKEyVp3w&sid=e043995937#T.ME: @aristapnel
 vless://3ddce082-7e03-429c-8af8-9a873d23f0ba@188.253.22.2:443?encryption=none&path=%2F&security=none&type=ws#T.ME: @aristapnel
 vless://f2a806c6-f36b-4cd9-8bb6-7addb218ad2d@178.173.250.59:443?encryption=none&path=%2F&security=none&type=ws#T.ME: @aristapnel
-vless://ab1ddafb-9514-40ab-9e4b-a3878f70931d@144.31.1.59:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=_KTsOFhGnC0W28ZqO8_FApozMp7tJ9cVBTLKLAA_OR0&security=reality&sid=ae64c9b46bff174a&sni=pl.sky-vault.top&type=tcp#T.ME: @aristapnel
-vless://4e607c90-e3cf-4e02-9d3e-5aa5a5567f71@usap01.jumperservice.com:19001?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=cDaDzPr3PlS3NM8lreHZbdo-Mhqz8vMBzMSkHXhGIUA&security=reality&sni=www.icloud.com&type=tcp#T.ME: @aristapnel
+vless://f7bae22e-20ab-11f1-835c-0242ac110002@141.98.169.100:443?encryption=none&type=tcp&security=reality&fp=chrome&sni=fi1.cyphervpn.pro&pbk=z_mZq7riCGYKcTsXGCFX3KyhLL5PYgG3ydZ8_wM_ZkU&sid=5bfa0c&spx=/#T.ME: @aristapnel
+vless://f2a806c6-f36b-4cd9-8bb6-7addb218ad2d@94.158.218.63:443?security=none&type=ws&headerType=&path=/&host=#T.ME: @aristapnel
 vless://b5be8e3f-a17d-479c-ebdb-9c3265c2cab7@usadt01.jumperservice.com:19001?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=IiuIighvDsor2v-vb5s3IJbNiqwLw568auiqoXxc7FM&security=reality&sni=www.speedtest.org&type=tcp#T.ME: @aristapnel
-vless://fd37be2f-f8d1-47de-97e8-13c28107d31e@193.109.120.119:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=est15.frostbot.ru&pbk=3u-RoUuzGFtfVwCbUJ4GxAhNUyR6DcyAzeyaSdNXG0A&sid=8c#T.ME: @aristapnel
+vless://19cb2ba5-d074-42d6-8400-6d9183514f48@148.135.195.143:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=nPcUKydxoRI66O3tT9O4QCZpLjOBvkGsiXG7pDX1BBw&security=reality&sid=6ba85179e30d4fc2&sni=www.google.com&type=tcp#T.ME: @aristapnel
 vless://e384913f-8863-47b4-8858-a84b68abb4a6@104.167.197.59:23335?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=7Gi8eiUU9TIVbGuvSU16gl5-Aqt7tcCSB9x6CSxyvik&security=reality&sid=67b1e94e4dd1ef90&sni=icloud.com&type=tcp#T.ME: @aristapnel
-vless://ca73d911-29f4-42d8-ada5-81dee679e96a@vps.zakir.web.id:80?encryption=none&host=vps.zakir.web.id&path=vless&security=none&type=ws#T.ME: @aristapnel
 vless://ee248e40-9468-4ef6-81b7-707a1e47c54a@192.200.160.20:443?fp=chrome&host=639073677243557970.camry-perma.info&path=%2Fyaeungws&security=tls&sni=639073677243557970.camry-perma.info&type=ws#T.ME: @aristapnel
 vless://5952ea01-0669-4f5e-8010-61f8abee3600@fi2.grizzlyvpn.work:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=rPuuq2HGz8VfN9xjDjnjoi-HgTFi-ZvY5l8Ebktuqmc&security=reality&sid=7501ae7ef79c300d&sni=fi2.grizzlyvpn.work&type=tcp#T.ME: @aristapnel
 vless://d1209ffb-c159-48d5-b40d-542ce11fc768@it1.axinode.sbs:10965?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=lHxeD2nYtDb1V7JseV-sUTEuqH6_jie7U_iOARX7cT0&security=reality&sid=9f3a7c6d2e8b41af&sni=deepl.com&type=tcp#T.ME: @aristapnel
+vless://5952ea01-0669-4f5e-8010-61f8abee3600@138.124.75.6:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=c3W9GpyDD3dKT_KPBn6X2eH4nvTX016JqmGRSGFrSF8&security=reality&sid=1644d7de8a2d71bd&sni=fi.grizzlyvpn.work&type=tcp#T.ME: @aristapnel
 vless://d1209ffb-c159-48d5-b40d-542ce11fc768@5rp8xz.maps-yandex.com:10121?security=reality&encryption=none&pbk=4DdA8dBVn5zB_UTbgBY45YqM0HU8zrjXYdzg3-wz5Rg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=apple.com&sid=9c2a7d4e5f18b6a3#T.ME: @aristapnel
-vless://d1209ffb-c159-48d5-b40d-542ce11fc768@144.31.103.34:10121?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=apple.com&pbk=4DdA8dBVn5zB_UTbgBY45YqM0HU8zrjXYdzg3-wz5Rg&sid=9c2a7d4e5f18b6a3#T.ME: @aristapnel
 vless://5952ea01-0669-4f5e-8010-61f8abee3600@185.132.53.177:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=P70wPy3T4FVBRTLGD96E9qucETsCj0Iuf1PFquZ1-y4&security=reality&sid=63c63d102d5c29c9&sni=nla.grizzlyvpn.work&type=tcp#T.ME: @aristapnel
 vless://d1209ffb-c159-48d5-b40d-542ce11fc768@94.141.123.146:10965?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=lHxeD2nYtDb1V7JseV-sUTEuqH6_jie7U_iOARX7cT0&security=reality&sid=9f3a7c6d2e8b41af&sni=deepl.com&type=tcp#T.ME: @aristapnel
 vless://d1209ffb-c159-48d5-b40d-542ce11fc768@144.31.213.101:10121?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=apple.com&pbk=4DdA8dBVn5zB_UTbgBY45YqM0HU8zrjXYdzg3-wz5Rg&sid=9c2a7d4e5f18b6a3#T.ME: @aristapnel
 vless://d1209ffb-c159-48d5-b40d-542ce11fc768@144.31.213.102:10121?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=apple.com&pbk=4DdA8dBVn5zB_UTbgBY45YqM0HU8zrjXYdzg3-wz5Rg&sid=9c2a7d4e5f18b6a3#T.ME: @aristapnel
 vless://d1209ffb-c159-48d5-b40d-542ce11fc768@138.124.6.182:10965?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=deepl.com&pbk=lHxeD2nYtDb1V7JseV-sUTEuqH6_jie7U_iOARX7cT0&sid=9f3a7c6d2e8b41af#T.ME: @aristapnel
 vless://9caafed4-04ba-41b2-9c64-e4ce39a985d6@s1.eldoradu.ir:2053?allowInsecure=1&encryption=none&host=fz3.sellink.ir&path=%2F&security=tls&sni=fz3.sellink.ir&type=ws#T.ME: @aristapnel
-vless://478cc26d-16b3-4fdd-be64-60d5a58c1622@172.64.147.255:80?encryption=none&host=tt.andishehparenting.com&path=%2F&security=none&type=ws#T.ME: @aristapnel
-vless://1401682c-0e47-4eb9-b5ab-98243655be9b@by.telega.store:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=8WQHCqfqEp4X6Jh0E-Uuvw1Z1b8p_VC3_kN1fwxfB0o&security=reality&sid=e31b66be0cd67c8b&sni=www.apple.com&type=tcp#T.ME: @aristapnel
+vless://478cc26d-16b3-4fdd-be64-60d5a58c1622@104.17.25.173:80?encryption=none&host=tt.andishehparenting.com&path=%2F&security=none&type=ws#T.ME: @aristapnel
+vless://21915536-afb5-4a0c-b047-fcf549d3a173@ny-meow.nethcloud.top:443?encryption=none&fp=chrome&pbk=1HeKf_8KDjfzXfUi9P7WBaGStMvr96TKdUbofpkwBzQ&security=reality&sid=8bd29483ded126b4&sni=wikihow.com&type=tcp#T.ME: @aristapnel
 vless://7a8faa8d-1af3-46e8-aede-90aad5faa0c6@77.42.67.4:47141?security=reality&encryption=none&pbk=9SwM8eaL5DEVodUUTlUAlv-D92LVg71VB2g-prhVAn0&headerType=none&fp=chrome&spx=/&type=tcp&sni=www.cloudflare.com&sid=f4fa9f410d7134ea#T.ME: @aristapnel
 vless://478cc26d-16b3-4fdd-be64-60d5a58c1622@188.114.98.0:80?host=tt.andishehparenting.com&path=/&security=none&type=ws#T.ME: @aristapnel
 vless://d1209ffb-c159-48d5-b40d-542ce11fc768@80.253.249.251:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=Wvt6tuMcFY9rWF2BsdAD4DXgLAoxQJxHWlao2BPR23Y&security=reality&sni=apple.com&type=tcp#T.ME: @aristapnel
-vless://21915536-afb5-4a0c-b047-fcf549d3a173@185.125.103.147:443?security=reality&encryption=none&pbk=1HeKf_8KDjfzXfUi9P7WBaGStMvr96TKdUbofpkwBzQ&headerType=none&fp=chrome&type=tcp&sni=wikihow.com&sid=8bd29483ded126b4#T.ME: @aristapnel
+vless://21915536-afb5-4a0c-b047-fcf549d3a173@185.125.103.147:443?encryption=none&fp=chrome&pbk=1HeKf_8KDjfzXfUi9P7WBaGStMvr96TKdUbofpkwBzQ&security=reality&sid=8bd29483ded126b4&sni=wikihow.com&type=tcp#T.ME: @aristapnel
+vless://a774f61d-a518-4c61-902f-807797da6caf@scvad1tel-ru.golden-cards.me:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=whYmACpNNY4B3Yv8iBJ9AmxokZL2Tb7O210utmzvGSo&security=reality&sid=6ba85179e30d4fc2&sni=avatars.mds.yandex.net&type=tcp#T.ME: @aristapnel
+vless://a44e0875-210f-4941-9062-89b6361a14c6@94.131.123.167:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=i5a8i2AWUSMZ-rYA6hGBRCBBoe7W5ah33SCdF5JkMk4&security=reality&sid=8bcfe256cf216fd8&sni=apple.com&type=tcp#T.ME: @aristapnel
 vless://9bde09b3-09b5-4d7a-b5fd-3fae8dfeed5a@185.72.9.200:56126?encryption=none&security=none&type=tcp#T.ME: @aristapnel
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@167.88.160.144:8443?encryption=none&security=tls&sni=sni.111000.indevs.in&fp=chrome&insecure=1&allowInsecure=1&type=ws&host=sni.111000.indevs.in&path=/?ed=2560#T.ME: @aristapnel
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@194.59.5.238:2096?path=%2F%3Ftelegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%2B%2540wangcai2%3D&security=tls&encryption=none&insecure=0&host=sni.jpmj.dev&type=ws&allowInsecure=0&sni=sni.jpmj.dev#T.ME: @aristapnel
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@188.244.122.138:2096?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&path=%2F&security=tls&sni=sni.111000.indevs.in&type=ws#T.ME: @aristapnel
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.18.32.47:8443?allowInsecure=1&encryption=none&host=sni.111000.dynv6.net&path=%2F%3FTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&security=tls&sni=sni.111000.dynv6.net&type=ws#T.ME: @aristapnel
-vless://22620697-6fba-4b71-a348-0cef2f7bec1e@172.64.146.27:443?allowInsecure=1&encryption=none&host=do88.cmddo.ggff.net&path=%2F&security=tls&sni=do88.cmddo.ggff.net&type=ws#T.ME: @aristapnel
-vless://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@brenna.ns.cloudflare.com:443?allowInsecure=1&encryption=none&host=terazhediii.info&path=%2Fsghiyws&security=tls&sni=terazhediii.info&type=ws#T.ME: @aristapnel
-vless://94daa8ad-75ed-4dbf-a6de-d05036d98df5@v1.dabache.top:443?allowInsecure=1&encryption=none&host=vangoghhh.info&path=%2Ftixvuws&security=tls&sni=vangoghhh.info&type=ws#T.ME: @aristapnel
+vless://7a169e43-ff85-4572-9843-ba7207d07319@192.9.162.122:1443?security=reality&sni=swdist.apple.com&fp=chrome&pbk=ZIBYUH_qQSeI1T6xImXG6MEZXP2yZW3NqGa8W69Cfyk&sid=dde50f55d81116&type=tcp&flow=xtls-rprx-vision&packetEncoding=xudp&encryption=none#T.ME: @aristapnel
+vless://1679af35-6dd6-4c09-ae3b-18f239217f3e@adf.ly:443?encryption=none&security=tls&sni=rAyAn-007.pArViN.DpDnS.OrG&allowInsecure=1&type=ws&host=rAyAn-007.pArViN.DpDnS.OrG&path=%2F%3Fed%3D2560fp%3Dchrome#T.ME: @aristapnel
+vless://73a4456a-0442-4550-8b4f-c719871a4eeb@chatgpt.com:443?security=tls&type=ws&host=011.electrocellco-cf-011.workers.dev&path=/eyJqdW5rIjoibWRiMjNWaUwxNHVWIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMjE3LjE0Mi4yMzYuOTMiXX0=?ed=2560&sni=011.electrOCELlCO-CF-011.WorKERS.dEV&fp=chrome#T.ME: @aristapnel
+vless://2ac6e527-6410-48ce-b9ba-cc8135ee2a3b@104.16.9.24:80?encryption=none&host=fragrant-recipe-09f4.wopecuyubak61.workers.dev&path=%2F&security=none&type=ws#T.ME: @aristapnel
+vless://d37a75db-76b6-4db8-b213-0d5b044d138d@104.19.174.68:2053?allowInsecure=1&encryption=none&host=hio-awx.pages.dev&path=%2Ffast&security=tls&sni=hio-awx.pages.dev&type=ws#T.ME: @aristapnel
+vless://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@162.159.36.5:443?allowInsecure=1&encryption=none&host=terazhediii.info&path=%2Fsghiyws&security=tls&sni=terazhediii.info&type=ws#T.ME: @aristapnel
+vless://94daa8ad-75ed-4dbf-a6de-d05036d98df5@162.159.36.20:443?allowInsecure=1&encryption=none&host=vangoghhh.info&path=%2Ftixvuws&security=tls&sni=vangoghhh.info&type=ws#T.ME: @aristapnel
 vless://48ddd7e3-5d31-46ab-9153-16c0e4d92adc@139.59.3.70:24725?security=reality&encryption=none&pbk=PAAYOscWvc6-DIWjJ8cHWpgX-xkMUVmu8Nz24itmo34&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=dash.cloudflare.com#T.ME: @aristapnel
 vless://8b8f4dfb-cd48-4dab-bb75-b304971176cd@45.95.233.85:61873?security=reality&amp;encryption=none&amp;pbk=wEU32qHhiQq-FDYUvuEl7_HAM6r5nDh6M4F8WGnEhjE&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=yandex.ru&amp;sid=34d8e80d8fa40501#T.ME: @aristapnel
-vless://a02e0f63-d96e-4b0f-8270-56c28caef171@51.158.151.24:31727?security=none&encryption=none&headerType=none&type=tcp#T.ME: @aristapnel
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@72.18.132.149:2053?&security=tls&fp=chrome&sni=sni.111000.indevs.in&type=ws&headerType=none&host=sni.111000.indevs.in&path=/?ed=2560&Telegram#T.ME: @aristapnel
+vless://4dc817f7-2595-4330-a1b0-e35e7c6b803a@168.222.16.102:80?encryption=none&host=www.ptnk.sry-vpn.com&path=%2Fvless&security=none&type=ws#T.ME: @aristapnel
 vless://e8fb0f43-3497-4ef3-8a89-35bae56549b7@93.94.51.8:13380?security=reality&encryption=none&pbk=JitkQnVQffSjGpth1UKvZP4yLX6HmcshmClfzbC70T4&headerType=none&fp=chrome&spx=/&type=tcp&sni=yandex.ru&sid=99de062f46387d3e#T.ME: @aristapnel
 vless://b9e5c4b7-1e9b-4ca5-82dc-43f3a440484c@45.15.125.8:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=YF_Vfx9VdDFXKM4bL1RZx6vsUqlSMtT56wPt987Aul8&security=reality&sid=db49831a996244d8&sni=max.ru&type=tcp#T.ME: @aristapnel
-vless://8f09e644-7208-4f38-ac2f-db6d23cc647f@80.253.251.122:13686?encryption=none&fp=chrome&pbk=E2rSTxjCs8arrVzkG0htKf5OQt6wyoIsvwnsvkmKanQ&security=reality&sid=fd38dd693669e822&sni=yandex.ru&type=tcp#T.ME: @aristapnel
-vless://203b0744-f943-4bba-a8d2-cab635467c46@45.136.126.16:443?security=reality&encryption=none&pbk=_L_eqCCzVbP0fzWTA_AqtmlyZVscCzrJ5b2nXFnq3U0&headerType=none&fp=chrome&type=tcp&sni=google.com&sid=d020b2#T.ME: @aristapnel
+vless://203b0744-f943-4bba-a8d2-cab635467c46@45.136.126.16:443?security=reality&amp;encryption=none&amp;pbk=_L_eqCCzVbP0fzWTA_AqtmlyZVscCzrJ5b2nXFnq3U0&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=google.com&amp;sid=d020b2#T.ME: @aristapnel
+vless://a8da758c-510d-4827-83cf-2f2b51c49c5b@download.lastilhame.monster:443?security=reality&amp;encryption=none&amp;pbk=WOPZy8oOnvHN21pLYobZAGa7sVp7op3q575B5BaFxkU&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=www.techradar.com&amp;sid=faa900664bad#T.ME: @aristapnel
+vless://fad2b7e0-d80c-4b7b-a84f-d86e0e49f627@45.15.128.75:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=BSsqyfTD-avgb1CyUdy_qJA95HwyMadBMJt7-EQjggk&security=reality&sid=e473bbc75224b9df&sni=max.ru&type=tcp#T.ME: @aristapnel
 vless://a384c715-aeb5-45e8-859b-f687ca6c083f@5.180.97.139:443?security=reality&encryption=none&pbk=wBrGfTI9PaFf966aN6KaCY0cL6QRLlop4nzNa6bJsiQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=9f35da6c9412b832#T.ME: @aristapnel
 vless://9c42aa2d-3e57-4ce1-ba85-0b11f685dd6b@45.136.126.26:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=pRvemrnDzUPhjXIYQC933GlpoomcZI9LwL4DPW5-aQc&security=reality&sid=b93d114f6a85e9&sni=max.ru&type=tcp#T.ME: @aristapnel
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@pqh18v7.viripdirect.shop:8880?mode=gun&security=none&encryption=none&type=grpc#T.ME: @aristapnel
+vless://5e62ddcf-78c9-4b15-803a-436c8c839ddc@v3.dabache.top:2052?path=%2F&security=none&encryption=none&host=oBEDiENt-noiseqJf5ja18yF.wIndLer.CO.UK&type=ws#T.ME: @aristapnel
 vless://79149019-5abe-46f9-91ae-e1e7d1d2c408@dns.dressforida.monster:443?type=tcp&security=reality&sni=www.techradar.com&fp=chrome&flow=xtls-rprx-vision&pbk=4YLfHf90V012Oyd2wHbwAXaJNvNUGrKWmatTKc165U8&sid=174c6cf22e22#T.ME: @aristapnel
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.97:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#T.ME: @aristapnel
-vless://8b648e4c-ac38-4809-951b-e1c8862b13d1@45.149.115.148:443?security=reality&amp;encryption=none&amp;pbk=0pX0dvxDHHJS2uK0t_SHauP1LB65JsRD1kQp9MK9vjI&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=google.com&amp;sid=96#T.ME: @aristapnel
-vless://8b575b35-3c7c-42b0-ac80-2aa6b0d7717c@90.156.255.198:51114?encryption=none&security=reality&sni=yahoo.com&fp=chrome&pbk=lf7NJGZAcj3b-YdbsmD6oEISr0dZRjp_gM8ZhLHwb0U&sid=772e&spx=%2F&type=tcp&headerType=none#T.ME: @aristapnel
-vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@172.64.33.91:2096?path=%2F45.76.183.217%3D49292&security=tls&encryption=none&insecure=0&host=hetz.x-smm.com&type=ws&allowInsecure=0&sni=hetz.x-smm.com#T.ME: @aristapnel
-vless://6fd9f786-d974-49d0-b5c4-397678de69a2@193.233.127.219:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs&security=reality&sni=www.cybo.com&type=tcp#T.ME: @aristapnel
-vless://2ba7f500-017b-4891-87a0-e4e62a4ad52d@staging.lastilhame.monster:443?security=reality&encryption=none&pbk=FjcEZNQ8t5E4R04_11T6ghsOutdqwKKrelkuadakoQg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.microsoft.com&sid=9409f73c2fd7#T.ME: @aristapnel
-vless://cca053d5-7123-4a87-83d6-babe4e9c8115@103.245.237.124:58202?encryption=none&path=%2F&security=none&type=ws#T.ME: @aristapnel
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@72.18.132.149:2053?&security=tls&fp=chrome&sni=sni.111000.indevs.in&type=ws&headerType=none&host=sni.111000.indevs.in&path=/?ed=2560&Telegram#T.ME: @aristapnel
 vless://3e7f67de-648e-4871-b51a-a225214d41ee@47.81.39.100:443?security=tls&encryption=none&sni=api.digital-help-prd.autodesk.com&fp=random&pbk=TRP10HqKUXEQ3O-cfsq93DycfBmbJe9KM36yvSa8Mmw&type=tcp&headerType=none&path=%2f&allow_insecure=0#T.ME: @aristapnel
 vless://3e7f67de-648e-4871-b51a-a225214d41ee@47.81.12.38:443?security=tls&encryption=none&sni=api.digital-help-prd.autodesk.com&fp=random&pbk=TRP10HqKUXEQ3O-cfsq93DycfBmbJe9KM36yvSa8Mmw&type=tcp&headerType=none&path=%2f&allow_insecure=0#T.ME: @aristapnel
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.80:23576?flow=xtls-rprx-vision&security=reality&encryption=none&sni=fuck.rkn&fp=chrome&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01&spx=%2fPuLaVPN%2fPuLaVPN%2fPuLaVPN%2f%2fPuLaVPN%2fPuLaVPN%2fPuLaVPN%2fPuLaVPN%2f%2fPuLaVPN&type=tcp&headerType=none&path=%2f#T.ME: @aristapnel
@@ -2760,261 +2756,269 @@ vless://f667a096-5231-4cfb-8759-92bb32473139@77.91.68.70:55983?security=reality&
 vless://e977d854-33f3-4345-abee-bf3fa9a6d880@37.233.82.140:40478?security=reality&encryption=none&sni=yahoo.com&fp=chrome&pbk=lcJ0LSh015XRfz5-7wB_hln3-bq5ZatFgPugSUCrdR0&sid=3c&type=tcp&headerType=none&path=%2f#T.ME: @aristapnel
 vless://d1209ffb-c159-48d5-b40d-542ce11fc768@us1.axinode.sbs:10965?flow=xtls-rprx-vision&security=reality&encryption=none&sni=deepl.com&fp=chrome&pbk=lHxeD2nYtDb1V7JseV-sUTEuqH6_jie7U_iOARX7cT0&sid=9f3a7c6d2e8b41af&type=tcp&path=%2f#T.ME: @aristapnel
 vless://d1209ffb-c159-48d5-b40d-542ce11fc768@144.31.213.103:10121?flow=xtls-rprx-vision&security=reality&encryption=none&sni=apple.com&fp=chrome&pbk=4DdA8dBVn5zB_UTbgBY45YqM0HU8zrjXYdzg3-wz5Rg&sid=9c2a7d4e5f18b6a3&type=tcp&headerType=none&path=%2f#T.ME: @aristapnel
-vless://nasnet@162.19.10.94:443?security=tls&encryption=none&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=nasnet-162191094-direct.sharghdaily.co#T.ME: @aristapnel
 vless://ffb6d3c1-103d-4168-9b75-e1cb5b7212b9@w8013.smarteracloud.com:443?mode=stream-one&path=%2F&security=tls&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=Tp021Y35zT.tRuStFoRtEaM.cOm#T.ME: @aristapnel
-vless://ffb6d3c1-103d-4168-9b75-e1cb5b7212b9@36sw.smarteracloud.com:443?mode=stream-one&path=%2F&security=tls&encryption=none&insecure=0&host=Tp013HrJ3f.TrUsTfOrTeAm.CoM&type=xhttp&allowInsecure=0&sni=Tp013HrJ3f.TrUsTfOrTeAm.CoM#T.ME: @aristapnel
+vless://ffb6d3c1-103d-4168-9b75-e1cb5b7212b9@670w.smarteracloud.com:443?mode=stream-one&path=%2F&security=tls&encryption=none&insecure=0&host=Tp022Kz66C.tRuStFoRtEaM.cOm&type=xhttp&allowInsecure=0&sni=Tp022Kz66C.tRuStFoRtEaM.cOm#T.ME: @aristapnel
 vless://ffb60d6e-25cf-4f5b-b43e-487bc81536cc@ia.a.clearriverlab.sbs:8081?security=none&encryption=none&host=gbaz.ir&headerType=http&type=tcp#T.ME: @aristapnel
 vless://ff2e4efa-e38a-45b5-9782-ea34dbd6b7d6@haji.arezoni1.ir:666?security=none&encryption=none&headerType=none&type=tcp#T.ME: @aristapnel
-vless://ff236795-8582-1faa-9209-d9ea7e577b1e@lord.socialxxmedia.pro:440?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#T.ME: @aristapnel
+vless://ff236795-8582-1faa-9209-d9ea7e577b1e@lord.socialxxmedia.pro:440?security=&encryption=none&host=fast.com&headerType=http&type=tcp&sni=lord.socialxxmedia.pro#T.ME: @aristapnel
 vless://fe08cb95-a7bd-48d3-b3e8-e083ab8cd9bc@217.114.40.151:9000?security=none&encryption=none&headerType=http&type=tcp#T.ME: @aristapnel
 vless://fe08cb95-a7bd-48d3-b3e8-e083ab8cd9bc@193.151.158.133:9000?security=&encryption=none&headerType=http&type=tcp#T.ME: @aristapnel
+vless://fc9fbf54-6818-42ab-813a-5c89bc601921@iran.oranicvip.ir:28797?security=none&encryption=none&host=p30afzar.com&headerType=http&type=tcp#T.ME: @aristapnel
 vless://fc8f56b0-7433-4e8f-9798-ab072af1e423@93.115.240.88:20000?security=none&encryption=none&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI&type=ws#T.ME: @aristapnel
+vless://fc383cb1-93f9-42c4-83f6-a4c2bc8581ac@4l.gexar.top:21791?security=none&encryption=none&headerType=http&type=tcp#T.ME: @aristapnel
 vless://fc383cb1-93f9-42c4-83f6-a4c2bc8581ac@4l.gexar.top:21791?security=&encryption=none&headerType=http&type=tcp#T.ME: @aristapnel
-vless://fa6c5f03-dcf6-4e01-86d3-4a2216ff41fb@x0w43u0yz9.6qlgd5y4s60ljllfzwpz.realytag.com:885?security=&encryption=none&host=skyroom.online%2C%2Bgharar.ir%2C%2Bigap.net&headerType=http&type=tcp#T.ME: @aristapnel
+vless://facbfb6d-873b-4faa-f998-945fcb03674c@94.183.149.205:8882?path=%2F&security=&encryption=none&type=ws#T.ME: @aristapnel
+vless://fa424e28-6cec-4c95-a9de-b7589cd48b00@drop3.iransport90.ir:3478?security=&encryption=none&headerType=http&type=tcp#T.ME: @aristapnel
+vless://f81b7cb0-70c6-3d1a-9b30-c95b1227f6ed@103.81.86.158:443?security=tls&encryption=none&insecure=0&fp=ios&type=grpc&serviceName=ssp&allowInsecure=0&sni=u710297u3374s249.okgfw.top#T.ME: @aristapnel
 vless://f7ce4158-d115-405d-bf6a-eb739734e1c7@link.mizbanertebatfarda.site:3010?path=%2Fws%3Fed%3D2048&security=&encryption=none&host=myket.ir&type=ws&sni=myket.ir#T.ME: @aristapnel
 vless://f7ce4158-d115-405d-bf6a-eb739734e1c7@link.mizbanertebatfarda.site:3010?path=%2Fws%3Fed%3D2048&security=&encryption=none&host=myket.ir&type=ws#T.ME: @aristapnel
+vless://f79d200c-ac04-45a8-98a7-031d629f705c@45.43.79.73:443?security=reality&encryption=none&pbk=sSxz8on32QOT9c9J-03K911U9vFr6xBKcK2zVfvk4QI&headerType=none&fp=chrome&type=tcp&sni=google.com&sid=cd620180#T.ME: @aristapnel
 vless://f6f63745-ec4a-4fa7-bac4-04aa571a4ae0@emergency2.layer-ziro.ir:2002?security=&encryption=none&host=anten.ir&headerType=http&type=tcp#T.ME: @aristapnel
 vless://f59cb954-d3b1-4075-aafb-b1ebfad2833c@titan.socialxxmedia.pro:1937?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#T.ME: @aristapnel
-vless://f2f17144-6b9a-494d-a1cd-dc146514a719@37.152.175.201:40001?security=&encryption=none&host=cafeariel.ir&headerType=http&type=tcp#T.ME: @aristapnel
 vless://f0874314-b134-4d38-84c2-d1b32cd30136@vipde1.persianpinggame.com:9091?security=&encryption=none&host=myket.ir&headerType=http&type=tcp#T.ME: @aristapnel
-vless://f0874314-b134-4d38-84c2-d1b32cd30136@vipde1.persianpinggame.com:9091?security=&encryption=none&headerType=none&type=tcp#T.ME: @aristapnel
-vless://f04a3e92-fdde-4996-9659-dc53b903ee2d@custom2.rezaedvr.shop:43433?security=none&encryption=none&headerType=http&type=tcp#T.ME: @aristapnel
-vless://eef39638-45eb-47c1-ba53-708eea36210c@haji.arezoni1.ir:666?security=none&encryption=none&headerType=none&type=tcp#T.ME: @aristapnel
+vless://f04a3e92-fdde-4996-9659-dc53b903ee2d@custom2.rezaedvr.shop:43433?security=&encryption=none&type=http#T.ME: @aristapnel
 vless://eef39638-45eb-47c1-ba53-708eea36210c@haji.arezoni1.ir:666?security=&encryption=none&headerType=none&type=tcp#T.ME: @aristapnel
-vless://ee33fe22-aae6-4f52-8ce4-b5373c9af35f@gerfan.rjwarehousing.ir:9987?security=&encryption=none&host=refersion.com&headerType=http&type=tcp#T.ME: @aristapnel
-vless://ed8cd325-e1b2-64dc-68dd-7ed60e278b5c@srv-s0.netmaster.cam:801?path=%2F&security=&encryption=none&type=ws#T.ME: @aristapnel
-vless://ece350a5-35d4-47fa-a5d7-9dd60409634a@94.183.241.82:1000?security=&encryption=none&headerType=none&type=tcp#T.ME: @aristapnel
+vless://ed76b56c-9009-46f0-9f97-c37bf2375815@151.101.10.79:443?security=tls&encryption=none&insecure=0&host=frenchboijji.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=frenchboijji.global.ssl.fastly.net#T.ME: @aristapnel
+vless://ecd14e28-48c2-402d-8ea2-0652f79dccbe@mp.kharazmi.top:30086?security=&encryption=none&headerType=none&type=tcp#T.ME: @aristapnel
+vless://ec9ad2c4-0a26-4233-be07-b1d2176386ae@s1.fastsnap.info:29253?security=none&encryption=none&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&type=tcp#T.ME: @aristapnel
 vless://ec9ad2c4-0a26-4233-be07-b1d2176386ae@s1.fastsnap.info:29253?security=&encryption=none&host=%2F%3FBIA_TELEGRAM%40YamYamProxy_YamYamProxy_YamYamProxy_YamYamProxy_YamYamProxy&headerType=none&type=tcp#T.ME: @aristapnel
 vless://ec9ad2c4-0a26-4233-be07-b1d2176386ae@s1.fastsnap.info:29253?security=&encryption=none&headerType=none&type=tcp#T.ME: @aristapnel
 vless://ec47e192-ce21-4204-9d2e-7720f9acd8f7@91.92.182.230:443?security=tls&encryption=none&insecure=0&host=rex.parhamm1.ir&headerType=none&fp=chrome&type=tcp&allowInsecure=0#T.ME: @aristapnel
-vless://eb4f770d-f8d7-4e15-acbe-d42f16bf1cda@gamix.ncop.ir:2086?security=&encryption=none&host=soft98.ir&headerType=http&type=tcp#T.ME: @aristapnel
+vless://ec47e192-ce21-4204-9d2e-7720f9acd8f7@91.92.182.230:443?mode=auto&path=%2Fsibzaminiz&security=tls&encryption=none&insecure=0&host=rex.parhamm1.ir&fp=chrome&type=xhttp&allowInsecure=0#T.ME: @aristapnel
 vless://eb071647-72a6-46be-8e89-ff3d228d52f6@jp.cdn.stun.su:443?security=reality&encryption=none&pbk=2Q0J_OPL73qhEIYf3YBLCuY4RIBurgz5QDVchQ8e9ks&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=jp.cdn.stun.su&sid=f189d91760bb6663#T.ME: @aristapnel
+vless://ea4a6d78-adeb-45bf-a68a-699725a7c722@gr1.iranishops.com:2083?security=&encryption=none&host=myket.ir&headerType=http&type=tcp#T.ME: @aristapnel
+vless://e9adbac6-90e1-4c1f-ad17-46226d45a262@85.133.221.52:3001?security=none&encryption=none&host=fast.con&headerType=http&type=tcp#T.ME: @aristapnel
 vless://e8f8d7d6-8c21-4499-b6b4-2bc9972fff72@melli.tehransnr.com:443?security=&encryption=none&headerType=none&type=tcp#T.ME: @aristapnel
+vless://e81a36d5-b3c3-48e0-bf08-d8938a247391@194.85.249.173:433?mode=gun&security=reality&encryption=none&pbk=LSqEbA7EfGiohFgxMYtFJq61jSd9wuSWqR__krgtERc&fp=chrome&type=grpc&sni=www.google.com&sid=d239de8e#T.ME: @aristapnel
 vless://e51a6f44-8fc3-402b-889a-405c7228ad5c@q.panel.digikalapro.ir:2095?path=%2FHellshop&security=&encryption=none&host=ikcosales.ir&type=ws#T.ME: @aristapnel
 vless://e3e6e7a6-eebc-4c66-a16f-7aab5d695e39@109.95.70.232:80?security=none&encryption=none&headerType=http&type=tcp#T.ME: @aristapnel
-vless://e384913f-8863-47b4-8858-a84b68abb4a6@4.cdnconn.com:23335?security=reality&encryption=none&pbk=7Gi8eiUU9TIVbGuvSU16gl5-Aqt7tcCSB9x6CSxyvik&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=icloud.com&sid=67b1e94e4dd1ef90#T.ME: @aristapnel
+vless://e384913f-8863-47b4-8858-a84b68abb4a6@5.cdnconn.com:23335?security=reality&encryption=none&pbk=7Gi8eiUU9TIVbGuvSU16gl5-Aqt7tcCSB9x6CSxyvik&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=icloud.com#T.ME: @aristapnel
 vless://e384913f-8863-47b4-8858-a84b68abb4a6@3.cdnconn.com:23335?security=reality&encryption=none&pbk=7Gi8eiUU9TIVbGuvSU16gl5-Aqt7tcCSB9x6CSxyvik&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=icloud.com&sid=67b1e94e4dd1ef90#T.ME: @aristapnel
-vless://e3713ba4-a8fc-44ec-b401-3b736e67718d@109.120.176.90:8443?path=%2F%3Ftelegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%2B%2540wangcai2%3D&security=tls&encryption=none&insecure=1&host=002.ljk-clouflare.dns.army&type=ws&allowInsecure=1&sni=002.ljk-clouflare.dns.army#T.ME: @aristapnel
-vless://e20bdce4-bc7a-48ef-841f-cfab846a5494@2.188.212.54:80?path=%2Fapi%2F&security=&encryption=none&host=tk_tor.irannet.top&type=ws&sni=tk_tor.irannet.top#T.ME: @aristapnel
+vless://e0f6e954-8ca5-44d6-b434-61af7c8d36f3@taktun3.kheyrienoor.ir:80?security=none&encryption=none&headerType=http&type=tcp#T.ME: @aristapnel
+vless://e0f6e954-8ca5-44d6-b434-61af7c8d36f3@taktun2.majalekhodrostore.ir:50325?security=none&encryption=none&host=ikcosales.ir&headerType=http&type=tcp#T.ME: @aristapnel
 vless://e0c50817-86dd-4ee1-bca3-6e296d85dd59@grok.com:2083?mode=multi&security=tls&encryption=none&insecure=1&fp=chrome&type=grpc&serviceName=Love&allowInsecure=1&sni=blouck-nl.gozarcloud.ir#T.ME: @aristapnel
-vless://e0c50817-86dd-4ee1-bca3-6e296d85dd59@grok.com:2083?mode=multi&security=tls&encryption=none&insecure=0&fp=chrome&type=grpc&serviceName=Love&allowInsecure=0&sni=blouck-de.gozarcloud.ir#T.ME: @aristapnel
-vless://e0c50817-86dd-4ee1-bca3-6e296d85dd59@chatgpt.com:2083?mode=multi&security=tls&encryption=none&insecure=0&fp=chrome&type=grpc&serviceName=Love&allowInsecure=0&sni=blouck-de.gozarcloud.ir#T.ME: @aristapnel
 vless://e0c50817-86dd-4ee1-bca3-6e296d85dd59@c27.prodnsspeed10.ir:443?mode=auto&path=%2F&security=tls&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=black-tr.gozarcloud.ir#T.ME: @aristapnel
 vless://e0c50817-86dd-4ee1-bca3-6e296d85dd59@c27.prodnsspeed10.ir:443?mode=auto&path=%2F&security=tls&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%2B1000000%2C%2B%22scMaxConcurrentPosts%22%3A%2B100%2C%2B%22scMinPostsIntervalMs%22%3A%2B30%2C%2B%22xPaddingBytes%22%3A%2B%22100-1000%22%2C%2B%22noGRPCHeader%22%3A%2Bfalse%7D&insecure=0&host=black-tr.gozarcloud.ir&type=xhttp&allowInsecure=0&sni=black-tr.gozarcloud.ir#T.ME: @aristapnel
-vless://e0c50817-86dd-4ee1-bca3-6e296d85dd59@c27.prodnsspeed10.ir:443?mode=auto&path=%2F&security=tls&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%2B1000000%2C%2B%22scMaxConcurrentPosts%22%3A%2B100%2C%2B%22scMinPostsIntervalMs%22%3A%2B30%2C%2B%22xPaddingBytes%22%3A%2B%22100-1000%22%2C%2B%22noGRPCHeader%22%3A%2Bfalse%7D&insecure=0&host=black-de.gozarcloud.ir&type=xhttp&allowInsecure=0&sni=black-de.gozarcloud.ir#T.ME: @aristapnel
-vless://e0c50817-86dd-4ee1-bca3-6e296d85dd59@c23.prodnsspeed10.ir:443?mode=auto&path=%2F&security=tls&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%2B1000000%2C%2B%22scMaxConcurrentPosts%22%3A%2B100%2C%2B%22scMinPostsIntervalMs%22%3A%2B30%2C%2B%22xPaddingBytes%22%3A%2B%22100-1000%22%2C%2B%22noGRPCHeader%22%3A%2Bfalse%7D&insecure=0&host=bloue-tr.gozarcloud.ir&type=xhttp&allowInsecure=0&sni=bloue-tr.gozarcloud.ir#T.ME: @aristapnel
-vless://e0c50817-86dd-4ee1-bca3-6e296d85dd59@c23.prodnsspeed10.ir:443?mode=auto&path=%2F&security=tls&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%2B1000000%2C%2B%22scMaxConcurrentPosts%22%3A%2B100%2C%2B%22scMinPostsIntervalMs%22%3A%2B30%2C%2B%22xPaddingBytes%22%3A%2B%22100-1000%22%2C%2B%22noGRPCHeader%22%3A%2Bfalse%7D&insecure=0&host=bloue-nl.gozarcloud.ir&type=xhttp&allowInsecure=0&sni=bloue-nl.gozarcloud.ir#T.ME: @aristapnel
 vless://e0c50817-86dd-4ee1-bca3-6e296d85dd59@c23.prodnsspeed10.ir:443?mode=auto&path=%2F&security=tls&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%2B1000000%2C%2B%22scMaxConcurrentPosts%22%3A%2B100%2C%2B%22scMinPostsIntervalMs%22%3A%2B30%2C%2B%22xPaddingBytes%22%3A%2B%22100-1000%22%2C%2B%22noGRPCHeader%22%3A%2Bfalse%7D&insecure=0&host=bloue-de.gozarcloud.ir&type=xhttp&allowInsecure=0&sni=bloue-de.gozarcloud.ir#T.ME: @aristapnel
-vless://dfe13f5a-9ce4-44fc-be96-1067bbf9202d@ep.tehrantolidi.ir:443?mode=auto&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=www.designseda.ir&fp=firefox&type=xhttp&allowInsecure=0&sni=65kcnqjbg1.designseda.ir#T.ME: @aristapnel
-vless://df72c0a1-699a-484b-8024-db6807ca5252@d1.farsitwocl.ir:443?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#T.ME: @aristapnel
-vless://dd533b73-8369-44f0-b51c-95bd2a2fed92@81.12.34.209:443?security=none&encryption=none&headerType=http&type=tcp#T.ME: @aristapnel
-vless://dd533b73-8369-44f0-b51c-95bd2a2fed92@81.12.34.209:443?security=&encryption=none&headerType=http&type=tcp#T.ME: @aristapnel
-vless://db971c36-635d-40fb-bebf-5a49c669d0b8@nt5.vhuma.com:8443?security=&encryption=none&host=bama.ir&headerType=http&type=tcp#T.ME: @aristapnel
-vless://db764e29-170a-4f2e-8c5e-c7e33b2d1344@1mobile.cfd:10738?security=none&encryption=none&headerType=none&type=tcp#T.ME: @aristapnel
+vless://e08f1ad7-0c60-446d-baec-08b3b69bb3d0@nl-90w-c.southnetworks.cloud:80?path=%2FgetWorkerUpdates&security=&encryption=none&type=ws#T.ME: @aristapnel
 vless://d9d163e3-793c-4fd4-8026-690d422bf8ea@s2.fastsnap.info:21113?security=&encryption=none&headerType=none&type=tcp#T.ME: @aristapnel
-vless://d9438566-ecb5-47e8-8aa1-cf4ff68b3e66@index.sandis.space:8443?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#T.ME: @aristapnel
+vless://d9bddbc8-7d3a-498c-92b5-f19e61d9cc71@151.101.129.194:80?mode=auto&path=%2FTignaliSWithYou&security=&encryption=none&host=tignaltofan.global.ssl.fastly.net&type=xhttp#T.ME: @aristapnel
+vless://d83ca435-1c51-4395-94ee-454770a1ac98@emergency2.layer-ziro.ir:2002?security=&encryption=none&host=anten.ir&headerType=http&type=tcp#T.ME: @aristapnel
 vless://d749c2c0-4ba4-45fe-f8f4-2f422d689a21@pxqhkkokwtgf.eu-central-1.clawcloudrun.com:43144?security=tls&encryption=none&insecure=1&headerType=none&type=tcp&allowInsecure=1&flow=xtls-rprx-vision&sni=devblogs.microsoft.com#T.ME: @aristapnel
-vless://d5ba8104-07dc-4029-ae9a-c316f32ac3ce@185.136.135.148:8700?security=&encryption=none&host=telewebion.com&headerType=http&type=tcp#T.ME: @aristapnel
 vless://d24e1b75-d80f-4818-d621-ee919ea71c16@94.183.149.168:8880?path=%2F&security=&encryption=none&type=ws#T.ME: @aristapnel
-vless://ceb9feae-27a3-4be6-8e68-5e4bc277f46c@151.101.193.194:80?mode=auto&path=%2FTignaliSWithYou&security=&encryption=none&host=tignaltofan.global.ssl.fastly.net&type=xhttp#T.ME: @aristapnel
+vless://d1e89786-3367-48c4-8b3f-42ad12dac1f0@nl1.vnet500.xyz:26084?security=&encryption=none&host=soft98.ir&headerType=http&type=tcp#T.ME: @aristapnel
+vless://ccac781d-1f3e-4e5b-99c2-d07d653b81e8@rk4no3.cdnhoo.top:80?security=&encryption=none&type=ws#T.ME: @aristapnel
 vless://cbe94ed6-0628-6343-4332-a565fce5483f@srv-s0.netmaster.cam:802?security=&encryption=none&type=ws&sni=1#T.ME: @aristapnel
 vless://cbe7ca55-5865-41f6-a010-c860ab3d7257@st3.zlpmsa.top:21443?security=none&encryption=none&host=isna.ir&headerType=http&type=tcp#T.ME: @aristapnel
 vless://ca492b57-4e98-49d5-aed2-61b67a2ec559@85.133.227.68:35812?security=reality&encryption=none&pbk=LOS87LofEJA0paPzrS2mIFhmTaqkOZC-AUFgNvE1UEs&headerType=none&fp=chrome&type=tcp&sni=www.microsoft.com&sid=82cada35130f1ef2#T.ME: @aristapnel
 vless://c9360999-71a4-470f-b2a9-52446beea99c@de-5-tun-single.starping5.fun:8083?security=&encryption=none&host=www.speedtest.net&headerType=http&type=tcp#T.ME: @aristapnel
-vless://c72511d7-1729-403d-92c5-7448533a369a@Platform.snapp.ir.green-gaming-company.ir:1011?security=&encryption=none&host=s.cafebazaar.ir&headerType=http&type=tcp#T.ME: @aristapnel
-vless://c723ad72-c8b5-4d7b-aea5-2aa7c007fee3@vfbh5h398f.hy7gqx14x0vb75ry2ac1.realytag.com:884?security=&encryption=none&host=skyroom.online%2Cigap.net%2Cgharar.ir&headerType=http&type=tcp#T.ME: @aristapnel
-vless://c723ad72-c8b5-4d7b-aea5-2aa7c007fee3@mh52M5fSx0.zTZS0jb1r6G4z9mN9o2c.realytag.com:883?security=&encryption=none&host=skyroom.online%2Cgharar.ir%2Cigap.net&headerType=http&type=tcp#T.ME: @aristapnel
+vless://c7834148-21a6-454f-a2b9-339c73249f9c@79.175.149.236:1555?security=&encryption=none&host=snapp.ir&headerType=http&type=tcp#T.ME: @aristapnel
 vless://c723ad72-c8b5-4d7b-aea5-2aa7c007fee3@mh52M5fSx0.zTZS0jb1r6G4z9mN9o2c.realytag.com:883?security=&encryption=none&host=skyroom.online%2C%2Bgharar.ir%2C%2Bigap.net&headerType=http&type=tcp#T.ME: @aristapnel
 vless://c723ad72-c8b5-4d7b-aea5-2aa7c007fee3@ek742h5pq3.ka739lofomsg28bshdul.realytag.com:1884?security=&encryption=none&host=skyroom.online%2Cgharar.ir%2Cigap.net&headerType=http&type=tcp#T.ME: @aristapnel
-vless://c4c09531-58b4-43ce-aff3-b7f9d15225cf@mx2.tehrantolidi.ir:80?path=%2Fsite&security=&encryption=none&host=dcparvaz.global.ssl.fastly.net&type=ws#T.ME: @aristapnel
-vless://c3f30d4c-2ba7-4cb8-aee1-a1ce9652d5aa@6t8q56c58d.0g97vcf0bhjg6sa4n1xx.realytag.com:882?security=&encryption=none&host=skyroom.online%2C%2Bgharar.ir%2C%2Bigap.net&headerType=http&type=tcp#T.ME: @aristapnel
+vless://c71a9084-637b-43d5-8d26-802677443b89@109.95.65.242:900?security=&encryption=none&headerType=none&type=tcp#T.ME: @aristapnel
+vless://c6be0a05-6105-4c0a-8af5-3e227f10735f@cid.wlrus.lol:37016?security=reality&encryption=none&pbk=YlwO0m3fxSkKzi0RqOadx0fDPUyDTmUEmHP97bvV7QQ&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=www.nvidia.com&sid=6d37bd51#T.ME: @aristapnel
+vless://c3e909cc-584b-4c62-af48-34c9acef928b@vip-meli2.nightgemshop.com:443?security=&encryption=none&host=alef.ir&headerType=http&type=tcp#T.ME: @aristapnel
 vless://c3d4cac5-9d84-4424-b3cb-3ac1d8664903@Si.sanflow.ir:921?security=&encryption=none&host=pro30afzar.com&headerType=http&type=tcp#T.ME: @aristapnel
 vless://c2691112-a756-862e-da3d-1e0f3846b0bb@tunn.vpsino.com:2087?security=&encryption=none&headerType=none&type=tcp#T.ME: @aristapnel
 vless://c0b8751d-3bcd-4f55-9cca-4a00fc955a15@ip-data.turkserver.ir:2083?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=all-nm1.netsnap.ir.&fp=firefox&type=ws&allowInsecure=0&sni=all-nm1.netsnap.ir.#T.ME: @aristapnel
-vless://c049b9e1-3b34-4b3c-9e10-4978f11dec75@109.95.65.242:8032?security=none&encryption=none&host=soft98.ir&headerType=http&type=tcp#T.ME: @aristapnel
-vless://c031d6c7-5132-4d81-8efc-3b13a947984e@81.88.25.20:59029?security=&encryption=none&headerType=none&type=tcp#T.ME: @aristapnel
+vless://bf77f272-4220-4655-ab76-5ccdf0d2a60f@212.193.26.199:443?security=reality&encryption=none&pbk=JaP4bhvIMW-l7T0_RkLra59DeBYI6W9XemKa8MyRPSY&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=eh.vk.com&sid=6c6082a2223c1d03#T.ME: @aristapnel
+vless://bf6fe550-023e-4b64-ab85-158d84308111@94.183.149.168:8880?path=%2F&security=&encryption=none&type=ws#T.ME: @aristapnel
 vless://bf4c614f-c46d-4db9-b031-62f7e4b85c2c@104.24.39.51:443?path=ws&security=tls&encryption=none&insecure=0&host=hex.1tb.workers.dev&type=ws&allowInsecure=0&sni=hex.1tb.workers.dev#T.ME: @aristapnel
-vless://be8884b2-ecf4-4d37-abc2-e5a23c76f7bb@us1.googel-arana.online:1007?security=none&encryption=none&host=iranserver.com&headerType=http&type=tcp#T.ME: @aristapnel
-vless://be8884b2-ecf4-4d37-abc2-e5a23c76f7bb@us1.googel-arana.online:1007?security=&encryption=none&host=iranserver.com&headerType=http&type=tcp#T.ME: @aristapnel
+vless://becd8a5a-775e-4613-beae-4c537721bc60@2.144.22.84:8008?security=&encryption=none&headerType=none&type=tcp#T.ME: @aristapnel
+vless://be8884b2-ecf4-4d37-abc2-e5a23c76f7bb@tr1.googel-arana.online:1005?security=none&encryption=none&host=iranserver.com&headerType=http&type=tcp#T.ME: @aristapnel
+vless://bddaee6c-3145-4817-acfc-ab028578989b@s5.laptopstock7.com:9976?security=none&encryption=none&headerType=http&type=tcp#T.ME: @aristapnel
 vless://bd5bcf92-5a9b-429f-998c-8e4115ed5357@94.183.241.159:22222?security=none&encryption=none&headerType=none&type=tcp#T.ME: @aristapnel
-vless://ba2bb9d8-9baa-45d6-9e0a-38c9cb6a6a9a@nodejs.org:80?path=%2F%3Fed&security=&encryption=none&host=WeaK-preSSUrE3Ga6bzof92.sPorTlaNd.coMPANY.&type=ws#T.ME: @aristapnel
-vless://b9c5f438-a69a-4aad-ea2b-b98d0bc48cbd@94.183.241.26:33553?security=&encryption=none&headerType=http&type=tcp#T.ME: @aristapnel
 vless://b83264f1-be67-4d09-9e32-fe3f28895f02@fn44.finuxmaster.shop:2087?security=&encryption=none&host=soft98.ir&headerType=http&type=tcp#T.ME: @aristapnel
 vless://b6c0b793-ce27-48bb-a18b-ca1e6b6a90a7@finland.411r324.ir:1313?security=&encryption=none&host=skyroom.online%2C%20igap.net%2C%20gharar.ir&headerType=http&type=tcp#T.ME: @aristapnel
+vless://b581f8ec-f169-4cd1-b0ba-95eea26df06c@tr.vhuma.com:30165?security=&encryption=none&host=bama.ir&headerType=http&type=tcp#T.ME: @aristapnel
+vless://b5131722-cc98-409e-8b04-5aeb97a5ee38@193.151.130.43:41295?security=&encryption=none&headerType=none&type=tcp#T.ME: @aristapnel
 vless://b38d13c2-ad93-4702-b6ff-f6b17f684334@ir3.reata1.ir:40003?security=none&encryption=none&host=cafeariel.ir&headerType=http&type=tcp#T.ME: @aristapnel
 vless://b31fa821-b818-4eb2-9242-241b930152b2@81.12.33.166:1001?security=none&encryption=none&host=myket.ir&headerType=http&type=tcp#T.ME: @aristapnel
-vless://b31c46fe-25db-4109-ab46-3f1343bd752b@airman-defense.oblivionspark.com:5874?security=&encryption=none&headerType=http&type=tcp#T.ME: @aristapnel
 vless://b083b539-a43a-44d1-a7dd-f90f94b9cfc6@connected5.starpo5.ir:8080?security=none&encryption=none&host=divarcdn.com&headerType=http&type=tcp#T.ME: @aristapnel
 vless://ad2879c1-7f77-4a4c-ba50-c24dd5ceffa4@81.19.141.190:51529?security=reality&encryption=none&pbk=9smFk5QZXifHGrtwDwhbROsLBh179bExNWABnvUCvSw&headerType=none&fp=chrome&type=tcp&sni=yandex.ru&sid=b77a294515ecc200#T.ME: @aristapnel
-vless://aab1a536-7a2c-4357-a0e0-8cdde41845c6@glob.thisiswe.uno:8443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&host=nobitex.sylu.net&fp=chrome&type=ws&sni=nobitex.sylu.net#T.ME: @aristapnel
 vless://a9f312c8-2f5d-41fa-8164-faf70df239e2@81.12.35.97:80?mode=stream-one&path=%2F&security=&encryption=none&type=xhttp#T.ME: @aristapnel
-vless://a91bfd34-3d81-42b2-b8d0-4a29e0a57889@Si.sanflow.ir:921?security=&encryption=none&host=pro30afzar.com&headerType=http&type=tcp#T.ME: @aristapnel
+vless://a80cc27a-14a6-4147-bc1b-70fcca27253d@81.12.33.175:700?security=none&encryption=none&host=myket.ir&headerType=http&type=tcp#T.ME: @aristapnel
 vless://a7be5b32-3741-4b1b-9f17-c1e537de1a25@tlg333bc65.furp558d9vuid4durqxe.realytag.com:887?security=&encryption=none&host=skyroom.online%2Cgharar.ir%2Cigap.net&headerType=http&type=tcp#T.ME: @aristapnel
 vless://a7be5b32-3741-4b1b-9f17-c1e537de1a25@3p20h3k7oz.8w600lykky5rzr1f97ew.realytag.com:890?security=&encryption=none&host=skyroom.online%2Cgharar.ir%2Cigap.net&headerType=http&type=tcp#T.ME: @aristapnel
 vless://a7be5b32-3741-4b1b-9f17-c1e537de1a25@3p20h3k7oz.8w600lykky5rzr1f97ew.realytag.com:890?security=&encryption=none&host=skyroom.online%2C%2Bgharar.ir%2C%2Bigap.net&headerType=http&type=tcp#T.ME: @aristapnel
-vless://a62c4be7-04b0-405c-ae9f-d04f2a43ec13@138.199.150.141:44344?security=none&encryption=none&headerType=http&type=tcp#T.ME: @aristapnel
+vless://a7444b2b-20fb-461f-9840-63e5c8c7d883@104.16.158.162:80?path=%2F%3Fed%3D2048&security=&encryption=none&host=mute-violet-c674.poviy66273.workers.dev&type=ws#T.ME: @aristapnel
+vless://a63a8ff3-dec9-4aeb-b263-80365b154b74@haji.arezoni1.ir:666?security=&encryption=none&headerType=none&type=tcp#T.ME: @aristapnel
 vless://a5e746f7-328f-4b65-a65f-e2e2a4a5b1a9@212.34.142.191:8443?security=reality&encryption=none&pbk=wNcFqVd4_PkgJbfgJJeouSU6Pn_Swuce4q4Chw5T0hY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tradingview.com&sid=f7aa9e61197d3ac6#T.ME: @aristapnel
 vless://a589a8c6-ddbb-496f-92bd-7422ea8c9fb7@isv31x.smrfy.online:45965?security=&encryption=none&host=trexplus.org&headerType=http&type=tcp#T.ME: @aristapnel
 vless://a5694222-f90c-4423-ae93-434bcb4ece38@70.34.201.158:9130?mode=stream-up&path=%2Fapi%2Fstream&security=reality&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%2016777216%2C%20%22scMaxConcurrentPosts%22%3A%201024%2C%20%22scMinPostsIntervalMs%22%3A%201%2C%20%22xPaddingBytes%22%3A%20%22200-2000%22%2C%20%22noGRPCHeader%22%3A%20true%7D&pbk=g23nq_R9TIMbMIGQHB6gjDNewFzrHXPcj72bTS-RtX8&host=tgju.org&fp=chrome&type=xhttp&sni=mdundo.com#T.ME: @aristapnel
+vless://a5694222-f90c-4423-ae93-434bcb4ece38@104.21.55.47:2095?path=%2F%3Fed%3D2096&security=&encryption=none&host=aza002.vaslbash.site&type=httpupgrade#T.ME: @aristapnel
 vless://a242cff5-2d44-4e83-927c-2ff37f09e66d@emergency3.layer-ziro.ir:2003?security=&encryption=none&host=anten.ir&headerType=http&type=tcp#T.ME: @aristapnel
-vless://a1a04d74-79e6-e5c8-5380-b74ed56f7b04@armenia.unlimiteds.sbs:874?security=none&encryption=none&host=fast.com&headerType=http&type=tcp&sni=armenia.unlimiteds.sbs#T.ME: @aristapnel
-vless://9f4fa241-2576-40f3-ac95-8fb8400cf3ca@www.tomandjery.eu:1003?security=reality&encryption=none&pbk=3LRzcL17BaZqZ-I7kZ6HtRGPPhxAubqCprP_USHd_g4&headerType=none&fp=firefox&type=tcp&sni=play.google.com&sid=6ba85179e30d4fc2#T.ME: @aristapnel
+vless://a0d7cdab-5821-4477-b0c2-33c0060baf62@vip-meli3.nightgemshop.com:443?security=&encryption=none&headerType=none&type=tcp#T.ME: @aristapnel
+vless://9f5c3eb5-de7a-44ab-912e-3b4f64a4bfbd@turkey.dehnavy.ir:36135?security=&encryption=none&host=skyroom.online%2C%20igap.net%2C%20gharar.ir&headerType=http&type=tcp#T.ME: @aristapnel
 vless://9f4fa241-2576-40f3-ac95-8fb8400cf3ca@mail.tomandjery.eu:1001?security=reality&encryption=none&pbk=xrZlXeuTYmAC97-RbRi-aM7U67TOBMGCHVu3DovZihw&headerType=none&fp=firefox&type=tcp&sni=play.google.com&sid=6ba85179e30d4fc2#T.ME: @aristapnel
-vless://9d78b6b9-bfaf-4f2f-b5b8-3051ee3f7722@194.145.119.216:8082?security=&encryption=none&host=virgool.io&headerType=http&type=tcp#T.ME: @aristapnel
+vless://9e8a14d4-093b-ba53-fd6f-4ff23e058e3c@94.183.241.192:2092?security=&encryption=none&host=nobitex.ir&headerType=http&type=tcp#T.ME: @aristapnel
+vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@95.164.18.16:2096?path=%2F&security=tls&encryption=none&insecure=1&type=ws&allowInsecure=1#T.ME: @aristapnel
 vless://9d67ed3c-4ad0-4eee-87a0-544d13fd619e@u.usa.forbes.com.chellservice.ir:1820?security=&encryption=none&host=anten.ir&headerType=http&type=tcp#T.ME: @aristapnel
-vless://9cb2d5c5-c5e0-409b-ad3b-7c057b7971b1@37.139.42.234:4443?security=reality&encryption=none&pbk=-kDgSQgouE56cqDIDwgCco1LNQ-8q61WllL5egDI0yI&headerType=none&fp=chrome&type=tcp&sni=yandex.ru&sid=6670#T.ME: @aristapnel
-vless://9c39fe98-35a7-4ffb-ac58-2a21a4d23765@4l.gexar.top:21791?security=&encryption=none&headerType=http&type=tcp#T.ME: @aristapnel
-vless://9bc96c14-89fb-e475-0078-5b55db238d7c@caz6l.uk.digit-verse.com:8804?mode=auto&path=%2F&security=reality&encryption=none&pbk=LTi4um2kTdX2yCczh2KdI1_JzRw1q94Gr9AK5NB6-mg&fp=chrome&type=xhttp&sni=yahoo.com&sid=123d5baacd15b48c#T.ME: @aristapnel
-vless://9b5ac6e0-f057-400c-bd26-a1224b7b306b@vip.nanaopano.com:42651?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#T.ME: @aristapnel
-vless://96953ea1-4d07-4b8a-aeb4-795bbfaf38ad@link.mizbanertebatfarda.site:3010?path=%2Fws%3Fed%3D%23TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D2048&security=&encryption=none&host=myket.ir&type=ws&sni=myket.ir#T.ME: @aristapnel
+vless://9d67ed3c-4ad0-4eee-87a0-544d13fd619e@el.mcin.digikalapro.ir:50330?security=&encryption=none&host=anten.ir&headerType=http&type=tcp#T.ME: @aristapnel
+vless://96953ea1-4d07-4b8a-aeb4-795bbfaf38ad@link.mizbanertebatfarda.site:3010?path=%2Fws%3Fed%3D2048&security=&encryption=none&host=myket.ir&type=ws&sni=myket.ir#T.ME: @aristapnel
 vless://958f6b9f-1628-4816-b3b6-7cdf4dc8cf03@6kdksjskskwkwodk.lskwposkrjgso.ncniwlqnxbdje.wizardxray.ir:705?security=none&encryption=none&host=rubika.ir%2Cigap.net%2Csplus.ir%2Cskyroom.online%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=http&type=tcp#T.ME: @aristapnel
 vless://958f6b9f-1628-4816-b3b6-7cdf4dc8cf03@6kdksjskskwkwodk.lskwposkrjgso.ncniwlqnxbdje.wizardxray.ir:705?security=&encryption=none&host=rubika.ir%2Cigap.net%2Csplus.ir%2Cskyroom.online&headerType=http&type=tcp#T.ME: @aristapnel
-vless://95795ee5-e9aa-405e-9c45-1d64dfb3b6c3@bufa.heliyadak.ir:2455?path=%2F&security=&encryption=none&type=ws#T.ME: @aristapnel
+vless://958f6b9f-1628-4816-b3b6-7cdf4dc8cf03@6kdksjskskwkwodk.lskwposkrjgso.ncniwlqnxbdje.wizardxray.ir:705?security=&encryption=none&host=rubika.ir%2Cigap.net%2Csplus.ir%2Cskyroom.online%2F%3FBIA_TELEGRAM%40YamYamProxy_YamYamProxy_YamYamProxy_YamYamProxy_YamYamProxy&headerType=http&type=tcp#T.ME: @aristapnel
 vless://95473681-e26d-4ab3-8f90-c61e47881866@start.x22pro.com:1001?security=none&encryption=none&headerType=none&type=tcp#T.ME: @aristapnel
 vless://9534971e-aab0-4deb-98e5-4319a48bec64@44kdksjskskwkwodk.lskwposkrjgso.ncniwlqnxbdje.wizardxray.ir:703?security=&encryption=none&host=rubika.ir%2C%2Bigap.net%2C%2Bsplus.ir%2C%2Bskyroom.online&headerType=http&type=tcp#T.ME: @aristapnel
 vless://94161499-d94b-4f0d-9cd4-723e5b228cb3@m3.anthurium-wave.com:4845?path=%2F&security=&encryption=none&type=ws#T.ME: @aristapnel
-vless://9208edb9-83c9-433f-bc56-90ffa33800e8@www.tomandjery.eu:1003?security=reality&encryption=none&pbk=3LRzcL17BaZqZ-I7kZ6HtRGPPhxAubqCprP_USHd_g4&headerType=none&fp=firefox&type=tcp&sni=play.google.com&sid=6ba85179e30d4fc2#T.ME: @aristapnel
-vless://910e3778-bbee-492b-a1e5-5f9c1cfe4194@85.133.250.87:41679?security=&encryption=none&headerType=none&type=tcp#T.ME: @aristapnel
-vless://9103470a-948d-45bd-a648-ae232f7de38a@connected5.starpo5.ir:8080?security=&encryption=none&host=divarcdn.com&headerType=http&type=tcp#T.ME: @aristapnel
-vless://8fc78561-405a-4b02-bd13-36bfa9738e53@ir2.yooznet.top:9003?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#T.ME: @aristapnel
+vless://926b8fc8-cb95-4f65-816b-1a736c547966@SPEEDTEST.NET:80?mode=auto&path=%2F&security=&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A1000000%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&host=tor2.global.ssl.fastly.net&type=xhttp#T.ME: @aristapnel
+vless://91ba27b9-2daf-4f1d-b94e-f3ef4c4a1d03@haji.arezoni1.ir:666?security=none&encryption=none&headerType=none&type=tcp#T.ME: @aristapnel
+vless://917c427f-2c3f-4b25-abd8-314b167e27cf@taktun1.kheyrienoor.ir:80?security=&encryption=none&headerType=http&type=tcp#T.ME: @aristapnel
 vless://8f31ac58-b70f-4c56-8b24-93b56ee5df2d@gb1.vnet500.xyz:32044?security=&encryption=none&host=soft98.ir&headerType=http&type=tcp#T.ME: @aristapnel
-vless://8ebd3e05-ffc2-4193-e0cf-94987f98b77b@arz.radargame.site:8443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&type=tcp&sni=arz.radargame.site#T.ME: @aristapnel
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@yesok42v2.ip4exordir.shop:8880?mode=gun&security=none&encryption=none&type=grpc#T.ME: @aristapnel
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@45.82.251.208:8880?mode=gun&security=&encryption=none&type=grpc#T.ME: @aristapnel
+vless://8b8f4dfb-cd48-4dab-bb75-b304971176cd@45.95.233.85:61873?security=reality&encryption=none&pbk=wEU32qHhiQq-FDYUvuEl7_HAM6r5nDh6M4F8WGnEhjE&headerType=none&fp=chrome&type=tcp&sni=yandex.ru&sid=34d8e80d8fa40501#T.ME: @aristapnel
 vless://8b7df747-8680-45fe-80a2-934bfe983024@nwugrmnene.ultraserver.store:6274?security=&encryption=none&headerType=http&type=tcp#T.ME: @aristapnel
 vless://8b766686-cedc-4172-94ed-bb64414e9539@91.192.160.155:8443?security=&encryption=none&host=43614691-0272-49f9-84c2-04c5b213fbcf&headerType=http&type=tcp#T.ME: @aristapnel
 vless://8b3eb5a9-2f8d-435f-865d-3437b02444b6@ja1.diiginet.ir:2000?security=&encryption=none&host=reata.ir&headerType=http&type=tcp#T.ME: @aristapnel
 vless://8ae7cac7-36f7-d208-367d-2322dcb73973@104.17.133.188:443?path=%2F&security=tls&encryption=none&insecure=1&host=qtto.6xp.snl.cc.cd&type=ws&allowInsecure=1&sni=qtto.6xp.snl.cc.cd#T.ME: @aristapnel
 vless://8ab64168-be12-4620-9ed3-055ac69c2e0f@Si.sanflow.ir:921?security=&encryption=none&host=pro30afzar.com&headerType=http&type=tcp#T.ME: @aristapnel
+vless://885ed9e3-3bd5-40d9-a513-78883870c35b@141.101.114.165:443?path=%2FlFFuDv2fgYSedn2lPLZvN%23TELEGRAM-anotherme_night---%23TELEGRAM-anotherme_night---%23TELEGRAM-anotherme_night---%23TELEGRAM-anotherme_night---%23TELEGRAM-anotherme_night&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=cas.teamv.ir&fp=chrome&type=ws&allowInsecure=0&sni=cas.teamv.ir#T.ME: @aristapnel
+vless://872d459e-f0fd-4646-97d3-bf1da75a4a07@5.10.248.188:56431?security=&encryption=none&headerType=none&type=tcp#T.ME: @aristapnel
 vless://859b7d71-a9fc-4234-8e03-42eb876a170a@151.115.96.243:7242?security=reality&encryption=none&pbk=jGmjU0vrRXCnIwn0rVatYKf5ihWZhMvqidp2ceY1QAM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=modily.net&sid=8c01e365#T.ME: @aristapnel
+vless://84b5a48a-4c69-493c-87cb-09cbdfa7a450@103.213.249.62:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=ign.dev&sid=6ba85179e30d4fc2#T.ME: @aristapnel
+vless://81b73edd-d42d-ff2f-051d-6600595e406d@turbo.unlimiteds.site:550?security=&encryption=none&host=fast.com&headerType=http&type=tcp&sni=turbo.unlimiteds.site#T.ME: @aristapnel
 vless://816d0dc6-2081-48b0-baea-0c8f1852640b@185.126.11.183:8443?security=none&encryption=none&headerType=none&type=tcp#T.ME: @aristapnel
-vless://80b5c94a-fb80-45c2-b0f9-a97a7bec6586@0-1cdnir2.dailydoseofmeme.uno:701?security=&encryption=none&host=varzesh3.com&headerType=http&type=tcp#T.ME: @aristapnel
+vless://80b5c94a-fb80-45c2-b0f9-a97a7bec6586@0-1cdnir.dailydoseofmeme.uno:701?security=&encryption=none&host=www.varzesh3.com&headerType=http&type=tcp#T.ME: @aristapnel
+vless://808d297b-0901-46e0-8332-0af832e184ed@new-vip-meli2.nightgemshop.com:443?security=&encryption=none&host=alef.ir&headerType=http&type=tcp#T.ME: @aristapnel
 vless://8058fd1c-28ca-4e6c-9828-ce7cf4433b5c@134.255.204.17:443?security=&encryption=none&headerType=none&type=tcp#T.ME: @aristapnel
+vless://7e01bdb1-07b2-415d-abe4-e94e75f15dfc@fn22.finuxmaster.shop:2095?security=none&encryption=none&host=soft98.ir%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=http&type=tcp#T.ME: @aristapnel
 vless://7e01bdb1-07b2-415d-abe4-e94e75f15dfc@fn22.finuxmaster.shop:2095?security=&encryption=none&host=soft98.ir&headerType=http&type=tcp#T.ME: @aristapnel
-vless://7bddd0a1-aefb-41e0-8e05-96456186c093@51.250.14.48:7445?security=reality&encryption=none&pbk=1nX2U0-rg8Lw6Bz0i16x1YItJUs8X9CsvzQjCk-DOhA&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru#T.ME: @aristapnel
-vless://7b3ba8c0-0bb2-469a-a396-1c360e7da8d7@azaranik.ir:2053?path=%2F&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=1&host=kffoepwiqmiovvunwoowow2jowpqpwkc892.mrpixanos.ir&fp=chrome&type=ws&allowInsecure=1&sni=kffoepwiqmiovvunwoowow2jowpqpwkc892.mrpixanos.ir#T.ME: @aristapnel
-vless://7b3ba8c0-0bb2-469a-a396-1c360e7da8d7@18betasia.com:8443?mode=auto&path=%2F&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=0&host=hsygw246920lsh.mrpixanos.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=hsygw246920lsh.mrpixanos.ir#T.ME: @aristapnel
-vless://7b3ba8c0-0bb2-469a-a396-1c360e7da8d7@18betasia.com:8443?mode=auto&path=%2F&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=0&host=fdlqoqigovlwqiq8gngoqoiqwnvowhnwq829202.mrpixanos.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=fdlqoqigovlwqiq8gngoqoiqwnvowhnwq829202.mrpixanos.ir#T.ME: @aristapnel
+vless://7de6208b-01fd-f02d-4a38-5b7541c4e14e@lord.socialxxmedia.pro:440?security=&encryption=none&host=fast.com&headerType=http&type=tcp#T.ME: @aristapnel
 vless://7b3ba8c0-0bb2-469a-a396-1c360e7da8d7@18betasia.com:2053?path=%2F&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=0&host=mskyehfojwown7dooejenggsjsp73839.mrpixanos.ir&fp=chrome&type=ws&allowInsecure=0&sni=mskyehfojwown7dooejenggsjsp73839.mrpixanos.ir#T.ME: @aristapnel
-vless://78f027b7-440f-4473-9cad-3ff01bc3e9a5@fi.emshabshabe.ir:8086?security=none&encryption=none&headerType=http&type=tcp#T.ME: @aristapnel
+vless://78f027b7-440f-4473-9cad-3ff01bc3e9a5@hol.emshabshabe.ir:442?security=&encryption=none&headerType=http&type=tcp#T.ME: @aristapnel
+vless://78f027b7-440f-4473-9cad-3ff01bc3e9a5@fi.emshabshabe.ir:8086?security=&encryption=none&headerType=http&type=tcp#T.ME: @aristapnel
 vless://77a2fa7d-39b5-45af-9758-74e1fbaf1995@home1.metaworkcloud.ir:8449?security=&encryption=none&headerType=none&type=tcp#T.ME: @aristapnel
 vless://762d1797-d62b-4f1d-ac10-f19943af67c7@melli.ciliko.ir:4010?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#T.ME: @aristapnel
-vless://750a3613-ff1b-9bcc-d61a-3abe6dfcfec2@rocket.unlimiteds.site:9874?security=&encryption=none&host=fast.com%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=http&type=tcp&sni=rocket.unlimiteds.site#T.ME: @aristapnel
-vless://73954be3-fb0b-4fea-bff1-29c6adfd1ad9@germany.411r324.ir:1313?security=&encryption=none&host=skyroom.online%2C%2Bigap.net%2C%2Bgharar.ir&headerType=http&type=tcp#T.ME: @aristapnel
+vless://751cf965-3e11-4267-9a72-b390ba9ace98@vl.rahagozar.com:5050?security=none&encryption=none&host=anten.ir&headerType=http&type=tcp#T.ME: @aristapnel
+vless://750a3613-ff1b-9bcc-d61a-3abe6dfcfec2@rocket.unlimiteds.site:9874?security=&encryption=none&host=fast.com&headerType=http&type=tcp#T.ME: @aristapnel
 vless://72d62b0a-73f1-4273-a472-2b52de852eeb@gb1.vnet500.xyz:32040?security=&encryption=none&host=soft98.ir&headerType=http&type=tcp#T.ME: @aristapnel
 vless://70f7934d-c54a-4294-a00d-0908ac9f3068@www.tomandjery.eu:1003?security=reality&encryption=none&pbk=3LRzcL17BaZqZ-I7kZ6HtRGPPhxAubqCprP_USHd_g4&headerType=none&fp=firefox&type=tcp&sni=play.google.com&sid=6ba85179e30d4fc2#T.ME: @aristapnel
+vless://70f7934d-c54a-4294-a00d-0908ac9f3068@beta.tomandjery.eu:1002?security=reality&encryption=none&pbk=8kF3OSt4WYVsMqvbgoq2wGzRXk05az1AeVE2v9596V8&headerType=none&fp=firefox&type=tcp&sni=play.google.com&sid=6ba85179e30d4fc2#T.ME: @aristapnel
+vless://6e3e76bf-9928-4eec-be2b-f8ea12fcc47d@dash.mobileemdad.top:9560?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#T.ME: @aristapnel
 vless://6dddb6aa-e174-4e55-9eb8-04c7592ee462@ninja.thegameuhb.ir:1340?security=&encryption=none&host=speedtest.net&headerType=http&type=tcp#T.ME: @aristapnel
+vless://6da8b872-302f-462a-8730-568073f128f1@unl.sanflow.ir:520?security=&encryption=none&host=pro30afzar.com&headerType=http&type=tcp#T.ME: @aristapnel
 vless://6da8b872-302f-462a-8730-568073f128f1@Si.sanflow.ir:921?security=&encryption=none&host=pro30afzar.com&headerType=http&type=tcp#T.ME: @aristapnel
 vless://6bf2c61f-db69-4e00-9dc5-249b83e69d73@94.183.171.3:41314?security=&encryption=none&host=bmw.com&headerType=http&type=tcp#T.ME: @aristapnel
-vless://686c62d9-17a7-43c9-a40a-f6747df60a9f@chatgpt.com:2096?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=ca.adobe-connect.top&fp=chrome&type=ws&allowInsecure=0&sni=ca.adobe-connect.top#T.ME: @aristapnel
-vless://686c62d9-17a7-43c9-a40a-f6747df60a9f@chatgpt.com:2096?path=%2F%3FTELEGRAM-YamYamProxy_YamYamProxy_YamYamProxy_YamYamProxy_YamYamProxy%3Fed%3D512&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=ca.adobe-connect.top&fp=chrome&type=ws&allowInsecure=0&sni=ca.adobe-connect.top#T.ME: @aristapnel
 vless://686c62d9-17a7-43c9-a40a-f6747df60a9f@chatgpt.com:2096?path=%2F%3FTELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D512&security=tls&alpn=http%2F1.1&encryption=none&insecure=1&host=ca.adobe-connect.top&fp=chrome&type=ws&allowInsecure=1&sni=ca.adobe-connect.top#T.ME: @aristapnel
-vless://686c62d9-17a7-43c9-a40a-f6747df60a9f@chatgpt.com:2096?path=%2F%3FTELEGRAM-%3Fed%3D512&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=ca.adobe-connect.top&fp=chrome&type=ws&allowInsecure=0&sni=ca.adobe-connect.top#T.ME: @aristapnel
+vless://67bfe904-b4d4-41b2-a846-932c8f74bd43@afk.mrsf.ir:52477?security=&encryption=none&host=telewebion.com&headerType=http&type=tcp#T.ME: @aristapnel
 vless://67361594-89ea-4a78-a5e5-c58ce9b74eec@tun78.avaaal.ir:4545?security=&encryption=none&host=skyroom.online&headerType=http&type=tcp#T.ME: @aristapnel
+vless://67361594-89ea-4a78-a5e5-c58ce9b74eec@tun78.avaaal.ir:41864?security=&encryption=none&host=cloudflare.com&headerType=http&type=tcp#T.ME: @aristapnel
 vless://67361594-89ea-4a78-a5e5-c58ce9b74eec@tun78.avaaal.ir:15909?security=&encryption=none&host=cloudflare.com&headerType=http&type=tcp#T.ME: @aristapnel
 vless://66b2d54e-85ae-4664-88a2-90d70808d624@mv2.amydoodles.com:443?mode=auto&path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=baba-nazan-h1.global.ssl.fastly.net&fp=firefox&type=xhttp&allowInsecure=0&sni=default.ssl.fastly.net#T.ME: @aristapnel
+vless://66b2d54e-85ae-4664-88a2-90d70808d624@mv2.amydoodles.com:443?mode=auto&path=%2F%3FTELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=baba-nazan-h1.global.ssl.fastly.net&fp=firefox&type=xhttp&allowInsecure=0&sni=default.ssl.fastly.net#T.ME: @aristapnel
 vless://65e7f833-78f3-4013-9402-2694b09de74d@tu5.pokerpings.com:2052?security=none&encryption=none&host=filimo.com&headerType=http&type=tcp#T.ME: @aristapnel
-vless://65e0671a-3a42-4f6d-9cd5-3e0d4c6bc43f@40.rexg.ir:11001?security=&encryption=none&host=fire194.centerplus.xyz&headerType=http&type=tcp#T.ME: @aristapnel
 vless://64aafe63-ef36-4da5-8bf9-838d767bfe74@51.250.3.183:443?security=reality&encryption=none&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&sid=cd57a927f6b72d81#T.ME: @aristapnel
+vless://62da658c-9641-4615-8180-14db65694cc5@nl1.vnet500.xyz:26082?security=&encryption=none&host=soft98.ir&headerType=http&type=tcp#T.ME: @aristapnel
+vless://62d2aba5-6565-4994-b19c-f664b5715b25@fans2.mahoshid.ir:9560?security=&encryption=none&host=varzesh3.com&headerType=http&type=tcp#T.ME: @aristapnel
 vless://6263516e-13f4-4a29-8c6b-a999aafa438b@185.231.115.48:2053?security=&encryption=none&headerType=none&type=tcp#T.ME: @aristapnel
+vless://6251f84e-9c02-4140-921c-6b47d394fb96@40.160.14.104:8880?mode=gun&security=&encryption=none&type=grpc#T.ME: @aristapnel
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@88.218.78.167:443?path=%2F&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#T.ME: @aristapnel
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@162.159.153.231:2096?path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#T.ME: @aristapnel
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@141.11.203.238:2096?path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2&security=tls&encryption=none&insecure=0&host=sni.jpmj.dev&fp=chrome&type=ws&allowInsecure=0&sni=sni.jpmj.dev#T.ME: @aristapnel
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@141.11.203.238:2096?path=%2F%3Fed%3D%23TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D512&security=tls&encryption=none&insecure=0&host=sni.jpmj.dev&fp=chrome&type=ws&allowInsecure=0&sni=sni.jpmj.dev#T.ME: @aristapnel
+vless://5ee4a55f-5f6b-4a97-8670-8631238e4c6f@85.133.240.160:35812?security=reality&encryption=none&pbk=LOS87LofEJA0paPzrS2mIFhmTaqkOZC-AUFgNvE1UEs&headerType=none&fp=chrome&type=tcp&sni=www.microsoft.com&sid=82cada35130f1ef2#T.ME: @aristapnel
 vless://5ed92f6b-a45e-0196-9ab9-b54bdf05fb95@tunn.vpsino.com:2096?security=&encryption=none&host=nobitex.ir&headerType=none&type=tcp#T.ME: @aristapnel
-vless://5e62ddcf-78c9-4b15-803a-436c8c839ddc@v3.dabache.top:2052?path=%2F&security=none&encryption=none&host=oBEDiENt-noiseqJf5ja18yF.wIndLer.CO.UK&type=ws#T.ME: @aristapnel
 vless://5cf2426d-df2b-4a12-a7f8-ab740aebcb87@tr1.iranishops.com:2083?security=&encryption=none&host=myket.ir&headerType=http&type=tcp#T.ME: @aristapnel
-vless://5cdc9b95-1563-4cde-92e7-d31a2eea0f70@drop3.iransport90.ir:3478?security=&encryption=none&headerType=http&type=tcp#T.ME: @aristapnel
+vless://5c7da942-a197-45ad-9c4b-5a135e1f6a31@nl1.vnet500.xyz:26087?security=&encryption=none&host=soft98.ir&headerType=http&type=tcp#T.ME: @aristapnel
 vless://5c5b3529-57b9-638b-9998-a2c0e4e26981@melli.ciliko.ir:2096?security=&encryption=none&headerType=none&type=tcp#T.ME: @aristapnel
 vless://59a1aebc-1f47-eb72-7321-7eef03c7095a@titan.socialxxmedia.pro:1937?security=&encryption=none&host=fast.com&headerType=http&type=tcp#T.ME: @aristapnel
-vless://5774ae61-7402-41db-9388-1db9c43c11c3@84.200.33.52:8080?security=&encryption=none&host=testspeed-foreign.tci.ir&headerType=http&type=tcp#T.ME: @aristapnel
+vless://5976b860-e481-41e2-b2f2-9f8901bf84a2@94.183.241.159:22222?security=&encryption=none&headerType=none&type=tcp#T.ME: @aristapnel
+vless://55981ad0-8786-4678-92be-071fb99fb9ab@37.32.8.234:80?security=&encryption=none&headerType=none&type=tcp#T.ME: @aristapnel
 vless://541de3b2-5b5f-4e27-b671-f32b28b811af@185.136.135.164:8086?security=&encryption=none&headerType=none&type=tcp#T.ME: @aristapnel
+vless://5354f779-aede-48dc-8190-1210865f7ab6@overvpn.overvpn.site:2013?security=&encryption=none&host=myket.ir&headerType=http&type=tcp#T.ME: @aristapnel
+vless://53236589-ccf4-462d-ac0a-2bf21d2782cc@api2.sane-new-eb.net:8443?path=%2Fdskdskalwqrev&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=1&host=swiftpass.pre-medical.ac&fp=chrome&type=ws&allowInsecure=1&sni=swiftpass.pre-medical.ac#T.ME: @aristapnel
 vless://501dfe1a-be73-4b89-b3bf-7f8a21c6f2ee@emergency3.layer-ziro.ir:2003?security=&encryption=none&host=anten.ir&headerType=http&type=tcp#T.ME: @aristapnel
+vless://4f6c3dab-9574-474b-933a-0e96ab248f71@mac.sordoservice.site:80?security=&encryption=none&headerType=none&type=tcp#T.ME: @aristapnel
 vless://4f5def46-1a54-11f1-9053-92000723b4ab@vipde2.persianpinggame.com:9091?security=none&encryption=none&host=filmnet.ir&headerType=http&type=tcp#T.ME: @aristapnel
-vless://4dd14167-ddce-49d1-8322-133e82c0cbfb@109.95.65.242:900?security=&encryption=none&headerType=none&type=tcp#T.ME: @aristapnel
+vless://4e125438-1a39-440e-95fc-36b9dec03e5f@141.101.115.71:443?path=%2Ffaq&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=adderall.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=adderall.adaspoloandco.com#T.ME: @aristapnel
 vless://4db7cfed-0171-4ff7-95d1-0535179ba916@denew3.hexogate.com:5052?security=reality&encryption=none&pbk=G9VRKdI0lkkYaPWk80dAneuxi7Me9RspWZ86qDRBXlg&headerType=none&fp=firefox&type=tcp&sni=www.bing.com&sid=a9c3f17b5d2e8a01#T.ME: @aristapnel
 vless://4ce367e8-89bf-43f7-a04d-d94bab948fc6@v10.atlax.ir:59680?security=none&encryption=none&headerType=none&type=tcp#T.ME: @aristapnel
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@57.129.53.181:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#T.ME: @aristapnel
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@57.129.49.1:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#T.ME: @aristapnel
-vless://487509a1-ebf6-4488-b837-d753075cedba@STAR-17.starz-net.com:2075?security=none&encryption=none&headerType=none&type=tcp#T.ME: @aristapnel
-vless://456ad5c1-ac34-4e50-87d8-faec61ce462c@a1-gfawbcx.maxriser.ir:8082?security=&encryption=none&host=bama.ir&headerType=http&type=tcp#T.ME: @aristapnel
-vless://425b7d48-b737-4850-aed1-14c763be44ae@irmon.ipng.site:9056?security=&encryption=none&host=refersion.com%2Cplay.google.com&headerType=http&type=tcp#T.ME: @aristapnel
-vless://412312d2-4325-448c-b4dd-b418447fbfd4@albani.irweather.art:8090?security=&encryption=none&headerType=http&type=tcp#T.ME: @aristapnel
-vless://408563da-f597-4e07-8cfd-92bffd821543@2.144.7.223:1981?security=none&encryption=none&headerType=none&type=tcp#T.ME: @aristapnel
-vless://3fceb82d-bbe7-446f-89e1-bea39b611816@79.175.167.147:80?security=&encryption=none&headerType=none&type=tcp#T.ME: @aristapnel
-vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@betty.ns.cloudflare.com:2096?path=%2F45.76.183.217%3D49292&security=tls&encryption=none&host=hetz.x-smm.com&fp=chrome&type=ws&sni=hetz.x-smm.com#T.ME: @aristapnel
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.93:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#T.ME: @aristapnel
+vless://46be28d6-8cd7-472e-ab87-65e51083e27c@Si.sanflow.ir:921?security=&encryption=none&host=pro30afzar.com&headerType=http&type=tcp#T.ME: @aristapnel
+vless://457887f6-eb7d-441d-9c08-87c70cc7f05f@178.173.250.59:443?path=%2F&security=&encryption=none&type=ws#T.ME: @aristapnel
+vless://425b7d48-b737-4850-aed1-14c763be44ae@hol.pngcon.top:9051?security=&encryption=none&host=refersion.com%2Cplay.google.com&headerType=http&type=tcp#T.ME: @aristapnel
+vless://425b7d48-b737-4850-aed1-14c763be44ae@1:1?security=&encryption=none&headerType=none&type=tcp#T.ME: @aristapnel
+vless://3f5c08c2-c8b0-4af8-85cf-c28bb5b8cc6b@89.42.139.69:3530?security=&encryption=none&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=http&type=tcp#T.ME: @aristapnel
 vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@162.159.38.176:2096?path=%2F45.76.183.217%3D49292&security=tls&encryption=none&insecure=0&host=hetz.x-smm.com&type=ws&allowInsecure=0&sni=hetz.x-smm.com#T.ME: @aristapnel
 vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@104.17.147.22:2096?path=%2F45.76.183.217%3D49292&security=tls&encryption=none&host=hetz.x-smm.com&type=ws&sni=hetz.x-smm.com#T.ME: @aristapnel
 vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@104.17.147.22:2096?path=%2F45.76.183.217%3D49292&security=tls&encryption=none&host=hetz.x-smm.com&fp=chrome&type=ws&sni=hetz.x-smm.com#T.ME: @aristapnel
 vless://3d9eba8f-868a-7196-dd3a-5847d3536807@titan.socialxxmedia.pro:1937?security=&encryption=none&host=fast.com&headerType=http&type=tcp&sni=titan.socialxxmedia.pro#T.ME: @aristapnel
 vless://3d9eba8f-868a-7196-dd3a-5847d3536807@titan.socialxxmedia.pro:1937?security=&encryption=none&host=fast.com&headerType=http&type=tcp#T.ME: @aristapnel
-vless://3d5e111b-7347-49a9-a74f-c68d05c1fc48@194.50.169.169:58202?path=%2F&security=&encryption=none&type=ws#T.ME: @aristapnel
 vless://3c74a11b-1676-4f58-921f-7399bea00880@v4.mesterking8786.cfd:55948?security=&encryption=none&host=www.soft98.ir&headerType=http&type=tcp#T.ME: @aristapnel
-vless://39ad7d26-09a1-41c1-9a30-d17dfd28de2d@45.90.99.242:8443?security=reality&encryption=none&pbk=LJkDgEjaOEpTTHz4NDhDfE-NUqHVrSIx_OWUekbCqTY&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=aws.amazon.com&sid=22#T.ME: @aristapnel
-vless://3811e832-817b-48b8-cd1f-b650439ce79b@sites.mtanaco.top:443?security=none&encryption=none&host=s1.mediaad.org&headerType=http&type=tcp#T.ME: @aristapnel
-vless://3811e832-817b-48b8-cd1f-b650439ce79b@sites.mtanaco.top:443?security=&encryption=none&host=s1.mediaad.org&headerType=http&type=tcp#T.ME: @aristapnel
-vless://3363394e-d5ce-4b71-8281-39a3469924c5@tr.speadnet.ir:2087?security=none&encryption=none&host=taaghche.com&headerType=http&type=tcp#T.ME: @aristapnel
+vless://39c118c6-37ed-4bce-916f-2d3730a29650@pan1.tanupload.top:61443?security=&encryption=none&headerType=none&type=tcp#T.ME: @aristapnel
 vless://32aaaf36-9f97-4730-a5d5-248159f46022@emergency3.layer-ziro.ir:2003?security=&encryption=none&host=anten.ir&headerType=http&type=tcp#T.ME: @aristapnel
+vless://31cdaf4b-0c1d-4b7c-ba19-e9d0ced5007b@nl1.vnet500.xyz:26077?security=&encryption=none&host=soft98.ir&headerType=http&type=tcp#T.ME: @aristapnel
 vless://312fc303-f529-4283-8acb-a1db2aace2e3@185.215.229.66:2037?security=none&encryption=none&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=http&type=tcp#T.ME: @aristapnel
-vless://2e405a11-f11b-49a7-9d5a-022eb86ca54e@de2.googel-arana.online:1002?security=&encryption=none&host=iranserver.com&headerType=http&type=tcp#T.ME: @aristapnel
+vless://2ecd11c8-677f-4a28-81cf-c60d0f8b786e@37.32.9.9:80?security=&encryption=none&headerType=none&type=tcp#T.ME: @aristapnel
+vless://2d47e6df-962d-4527-b089-30e4ff82e3d7@denl1314.atlasg.ir:1314?security=none&encryption=none&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&type=tcp#T.ME: @aristapnel
 vless://2c6d95d6-773c-4d94-9302-a89959fad270@ed.piko-network.top:3306?security=&encryption=none&headerType=none&type=tcp#T.ME: @aristapnel
-vless://27ff411f-cd12-4392-80cc-55146e72d5cc@109.122.251.197:56685?security=&encryption=none&host=aparat.com&headerType=http&type=tcp#T.ME: @aristapnel
+vless://280c9ff0-7efd-449f-818e-fe46b21aeafe@s3.tomandjery.eu:1004?security=reality&encryption=none&pbk=J6KjO1kPQZPPDhex23IhZwCbSlc2beKmsDGZ8em7sGg&headerType=none&fp=firefox&type=tcp&sni=play.google.com&sid=6ba85179e30d4fc2#T.ME: @aristapnel
+vless://27b05085-9b96-4ee6-9c94-c2b4cafdb7d2@fl.v2online3.site:24025?security=none&encryption=none&host=myket.ir%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=http&type=tcp#T.ME: @aristapnel
 vless://253817a2-f6ed-4701-919d-89ec5caa8d63@link.mizbanertebatfarda.site:3010?path=%2Fws%3Fed&security=&encryption=none&host=myket.ir&type=ws&sni=myket.ir#T.ME: @aristapnel
+vless://253817a2-f6ed-4701-919d-89ec5caa8d63@link.mizbanertebatfarda.site:3010?path=%2Fws%3Fed%3D2048&security=&encryption=none&host=myket.ir&type=ws&sni=myket.ir#T.ME: @aristapnel
+vless://24d75d1c-4745-4df6-80f9-4a0de7eb4b2f@65.109.221.209:49797?security=none&encryption=none&headerType=none&type=tcp#T.ME: @aristapnel
+vless://2471c5fc-8a93-434b-8caf-177ff8849936@g2-de2-hz.a1mshop2.xyz:22560?security=none&encryption=none&host=aparat.com%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=http&type=tcp#T.ME: @aristapnel
 vless://234e7684-18d1-40b8-b71b-066400c18ae6@mapi.timapsee.com:5003?security=&encryption=none&headerType=none&type=tcp#T.ME: @aristapnel
-vless://22d8e907-a875-43fc-9e3e-903ed801bb34@185.136.135.172:41002?security=&encryption=none&host=fast.com&headerType=http&type=tcp#T.ME: @aristapnel
 vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@b.pabloping.cloud:2052?mode=auto&path=%2Fpabloping&security=&encryption=none&host=s5.nakosgol.com&type=xhttp#T.ME: @aristapnel
-vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@b.pabloping.cloud:2052?mode=auto&path=%2Fpabloping&security=&encryption=none&host=s4.nakosgol.com&type=xhttp#T.ME: @aristapnel
 vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@b.pabloping.cloud:2052?mode=auto&path=%2Fpabloping&security=&encryption=none&host=s3.nakosgol.com&type=xhttp#T.ME: @aristapnel
 vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@b.pabloping.cloud:2052?mode=auto&path=%2Fpabloping&security=&encryption=none&host=s2.nakosgol.com&type=xhttp#T.ME: @aristapnel
+vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@a.pabloping.cloud:2052?mode=auto&path=%2Fpabloping&security=none&encryption=none&host=s2.nakosgol.com&type=xhttp#T.ME: @aristapnel
 vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@a.pabloping.cloud:2052?mode=auto&path=%2Fpabloping&security=&encryption=none&host=s5.nakosgol.com&type=xhttp#T.ME: @aristapnel
 vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@a.pabloping.cloud:2052?mode=auto&path=%2Fpabloping&security=&encryption=none&host=s4.nakosgol.com&type=xhttp#T.ME: @aristapnel
 vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@a.pabloping.cloud:2052?mode=auto&path=%2Fpabloping&security=&encryption=none&host=s3.nakosgol.com&type=xhttp#T.ME: @aristapnel
-vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@a.pabloping.cloud:2052?mode=auto&path=%2Fpabloping&security=&encryption=none&host=s2.nakosgol.com&type=xhttp#T.ME: @aristapnel
 vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@a.pabloping.cloud:2052?mode=auto&path=%2Fpabloping%2F%3FTELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&security=none&encryption=none&host=s5.nakosgol.com&type=xhttp#T.ME: @aristapnel
-vless://213426db-afb7-48d1-ae51-5093317212df@45.130.125.160:2095?path=%2F%3Fed%3D2096&security=&encryption=none&host=aza002.vaslbash.site&type=httpupgrade#T.ME: @aristapnel
+vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@a.pabloping.cloud:2052?mode=auto&path=%2Fpabloping%2F%3FTELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&security=&encryption=none&host=s5.nakosgol.com&type=xhttp#T.ME: @aristapnel
+vless://213426db-afb7-48d1-ae51-5093317212df@94.140.0.74:2087?path=%2F&security=tls&encryption=none&insecure=1&host=iopl90nn.bingnet.online&type=ws&allowInsecure=1&sni=iopl90nn.bingnet.online#T.ME: @aristapnel
 vless://213426db-afb7-48d1-ae51-5093317212df@172.64.152.23:2095?path=%2F%3Fed%3D2096&security=&encryption=none&host=aza002.vaslbash.site&type=httpupgrade#T.ME: @aristapnel
 vless://213426db-afb7-48d1-ae51-5093317212df@172.64.152.23:2087?path=%2F&security=tls&encryption=none&insecure=0&host=iopl90nn.bingnet.online&fp=chrome&type=ws&allowInsecure=0&sni=iopl90nn.bingnet.online#T.ME: @aristapnel
 vless://213426db-afb7-48d1-ae51-5093317212df@162.159.152.225:2087?path=%2F&security=tls&encryption=none&insecure=1&host=iopl90nn.bingnet.online&type=ws&allowInsecure=1&sni=iopl90nn.bingnet.online#T.ME: @aristapnel
 vless://213426db-afb7-48d1-ae51-5093317212df@104.21.55.47:2095?path=%2F%3Fed%3D2096&security=&encryption=none&host=aza002.vaslbash.site&type=httpupgrade#T.ME: @aristapnel
-vless://213325c6-ef4b-4cdb-850b-24a06f2865c8@95.214.181.51:443?security=reality&encryption=none&pbk=l6RZ7aQ4MX_q39a5wLgZt36f4JldG6aZTT8p79hzFx0&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=www.debian.org&sid=63d80d5199a2bc#T.ME: @aristapnel
-vless://1fa45133-4c47-45d4-badb-cd7c4b5c0bda@mh52M5fSx0.zTZS0jb1r6G4z9mN9o2c.realytag.com:883?security=&encryption=none&host=skyroom.online%2Cgharar.ir%2Cigap.net&headerType=http&type=tcp#T.ME: @aristapnel
+vless://213426db-afb7-48d1-ae51-5093317212df@104.18.26.90:2087?security=tls&encryption=none&insecure=1&host=iopl90nn.bingnet.online&type=ws&allowInsecure=1&sni=iopl90nn.bingnet.online#T.ME: @aristapnel
+vless://20adc847-4159-4f39-b79f-d563b660945f@simurgh.adslimit.info:2345?security=none&encryption=none&headerType=none&type=tcp#T.ME: @aristapnel
+vless://20968d4d-b971-4077-bd15-74ed2f6029c5@index.sandis.space:8443?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#T.ME: @aristapnel
+vless://1fa45133-4c47-45d4-badb-cd7c4b5c0bda@ek742h5pq3.ka739lofomsg28bshdul.realytag.com:1884?security=&encryption=none&host=skyroom.online%2Cgharar.ir%2Cigap.net&headerType=http&type=tcp#T.ME: @aristapnel
 vless://1fa45133-4c47-45d4-badb-cd7c4b5c0bda@94.183.169.8:882?security=&encryption=none&host=skyroom.online%2Cgharar.ir%2Cigap.net&headerType=http&type=tcp#T.ME: @aristapnel
+vless://1cd81ae4-369d-469e-9245-e09733f54dbf@c3viip.forredeye.com:4013?security=&encryption=none&host=myket.ir&headerType=http&type=tcp#T.ME: @aristapnel
 vless://1c4aceb6-bff7-4737-8c5d-43afb3dc350b@kz01-vlr01.tcp-reset-club.net:443?security=reality&encryption=none&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&sid=8453e5fd9af927#T.ME: @aristapnel
 vless://1bb38106-17fd-46e2-8559-a0cdf52b5243@mh52M5fSx0.zTZS0jb1r6G4z9mN9o2c.realytag.com:883?security=&encryption=none&host=skyroom.online%2Cgharar.ir%2Cigap.net&headerType=http&type=tcp#T.ME: @aristapnel
 vless://1bb38106-17fd-46e2-8559-a0cdf52b5243@ek742h5pq3.ka739lofomsg28bshdul.realytag.com:1884?security=&encryption=none&host=skyroom.online%2Cgharar.ir%2Cigap.net&headerType=http&type=tcp#T.ME: @aristapnel
-vless://1b0b95da-aeb3-8d3e-b03c-63eee27c92a1@turbo.unlimiteds.site:550?security=&encryption=none&host=fast.com&headerType=http&type=tcp#T.ME: @aristapnel
+vless://1b0b95da-aeb3-8d3e-b03c-63eee27c92a1@turbo.unlimiteds.site:550?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#T.ME: @aristapnel
+vless://19542a29-e734-41c9-b372-b30286a61048@entekhabat.iran.asiatech.numtwo.iranvatanam.com:440?security=&encryption=none&host=rubika.ir%2Cigap.net%2Csplus.ir%2Cskyroom.online&headerType=http&type=tcp#T.ME: @aristapnel
 vless://19542a29-e734-41c9-b372-b30286a61048@entekhabat.iran.asiatech.numtwo.iranvatanam.com:440?security=&encryption=none&host=rubika.ir%2C%2Bigap.net%2C%2Bsplus.ir%2C%2Bskyroom.online&headerType=http&type=tcp#T.ME: @aristapnel
 vless://1864aa1e-03ec-4f54-9bce-28fdd1047dd8@pm5.vhuma.com:443?security=&encryption=none&host=bama.ir&headerType=http&type=tcp#T.ME: @aristapnel
 vless://18164b40-8a2d-46f8-b758-bf6c87cb5e9e@ir-www-germani1.khabarkamkwww.fun:8081?security=&encryption=none&host=www.speedtest.net&headerType=http&type=tcp#T.ME: @aristapnel
 vless://17ebee4e-97ea-4cad-8737-cc228478ca9d@162.159.36.5:443?security=tls&encryption=none&insecure=1&host=lively-brook-c471.nedena3319.workers.dev&type=ws&allowInsecure=1&sni=lively-brook-c471.nedena3319.workers.dev#T.ME: @aristapnel
 vless://17c4e377-ea15-0bb8-98b2-3e348c9ff5d9@109.120.189.142:443?security=reality&encryption=none&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=d8c6b58bcbb0c323#T.ME: @aristapnel
-vless://17b16eb9-c1d0-4c12-8520-0b400567d8e4@sr4.laptopstock7.com:3030?security=reality&encryption=none&pbk=wVG0SzD_MnGA_q_DtgzirtOY8bGIeZwxrHd7aoK8Uwk&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=tgju.org&sid=42c0b628ba6a42a9#T.ME: @aristapnel
 vless://179ddf63-c263-40ff-98a1-f53708573059@188.40.210.8:1083?security=none&encryption=none&headerType=none&type=tcp#T.ME: @aristapnel
 vless://17740a24-5c75-4914-b7a0-97e9abe4aafa@37.32.42.90:48794?security=none&encryption=none&headerType=none&type=tcp#T.ME: @aristapnel
 vless://16032366-a9b7-4e5b-af1e-19e6470681df@194.60.228.79:50325?security=&encryption=none&host=ikcosales.ir%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=http&type=tcp#T.ME: @aristapnel
 vless://14c80e0e-f7ce-4991-94fc-99a1db4a9b1e@159.89.87.21:28190?security=reality&encryption=none&pbk=ZJRnFU-1s1JOnO8E9uZ7b00l1fPEh63fGRbdBANFRno&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=aws.amazon.com#T.ME: @aristapnel
 vless://1432da0a-77ed-4536-982a-683403e53fb5@de-5-tun-single.starping5.fun:8083?security=&encryption=none&host=www.speedtest.net&headerType=http&type=tcp#T.ME: @aristapnel
-vless://11e42830-922a-50df-8414-b34c206c3356@meli2.ertebatgoostar.ir:2087?security=&encryption=none&host=tv3.ir&headerType=http&type=tcp&sni=51.68.220.27#T.ME: @aristapnel
-vless://112a043b-22be-4967-9390-6fc07011e01b@ip.xqnetwork.ir:2086?path=%2F%3Fed%3D2056&security=&encryption=none&host=span.dl101movis.ir&type=httpupgrade#T.ME: @aristapnel
 vless://0fff5f1b-370d-4e98-829d-7dca653fbca8@185.226.117.160:443?security=none&encryption=none&headerType=none&type=tcp#T.ME: @aristapnel
-vless://0cac6955-f1ed-4eff-941c-bef4adbee920@nl1.vnet500.xyz:26083?security=none&encryption=none&host=soft98.ir&headerType=http&type=tcp#T.ME: @aristapnel
+vless://0c5f4380-272d-46dc-94c4-77f3b05046f7@94.183.172.46:29297?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#T.ME: @aristapnel
 vless://0c04d4c1-3ff9-4844-a7e4-aadc902acdb0@hv344zom.novinpardazanpayam.net:48908?security=none&encryption=none&host=www.uptvs.com%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=http&type=tcp#T.ME: @aristapnel
-vless://0a49d081-6420-40ad-8ba5-8dc38be9d670@151.101.129.194:80?mode=auto&path=%2FTignaliSWithYou&security=&encryption=none&host=tignaltofan.global.ssl.fastly.net&type=xhttp#T.ME: @aristapnel
-vless://0a1eeba7-c308-e278-35d6-42bde8b67488@79.175.167.111:12864?security=&encryption=none&headerType=none&type=tcp#T.ME: @aristapnel
+vless://0bd4fdec-1d5b-4d72-bf09-c7f4b1930a2d@94.182.101.113:8443?security=none&encryption=none&headerType=http&type=tcp#T.ME: @aristapnel
+vless://0a1fb9b5-c417-40b8-bcc8-c56dca1703f4@62.60.146.14:16020?security=&encryption=none&host=igap.net&headerType=http&type=tcp#T.ME: @aristapnel
 vless://090e759d-0083-406a-a36d-fd1b15c25b9b@185.141.107.57:13648?type=tcp&encryption=none&security=none#T.ME: @aristapnel
-vless://0833debf-4a9e-4c31-a5b7-a88574bddf18@172.64.155.209:443?path=%2F&security=tls&encryption=none&insecure=1&host=fancy-haze-01e3.ipv4-917.workers.dev&type=ws&allowInsecure=1&sni=fancy-haze-01e3.ipv4-917.workers.dev#T.ME: @aristapnel
-vless://0833debf-4a9e-4c31-a5b7-a88574bddf18@162.159.36.20:443?path=%2F&security=tls&encryption=none&insecure=1&host=fancy-haze-01e3.ipv4-917.workers.dev&type=ws&allowInsecure=1&sni=fancy-haze-01e3.ipv4-917.workers.dev#T.ME: @aristapnel
+vless://08426869-4fe0-4f44-baf0-1273acd31f08@tak8.khabaronlinestar.site:8083?security=none&encryption=none&host=www.speedtest.net%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=http&type=tcp#T.ME: @aristapnel
 vless://08169811-a348-4d67-8332-876f9996174a@194.50.169.169:44328?path=%2F&security=&encryption=none&type=ws#T.ME: @aristapnel
+vless://07cd9dbe-21ac-4871-817d-c772687e4b7c@37.16.74.19:2053?security=reality&encryption=none&pbk=WckOSneVajAzpH0sZSAFAWPnmwuuEXKZrTICNj5_hHU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.ibm.com&sid=4a5b6c7d#T.ME: @aristapnel
 vless://0773112d-c3fc-4a9f-aea0-d9be521452ce@85.133.240.82:8443?security=reality&encryption=none&pbk=LOS87LofEJA0paPzrS2mIFhmTaqkOZC-AUFgNvE1UEs&headerType=none&fp=chrome&type=tcp&sni=www.microsoft.com&sid=82cada35130f1ef2#T.ME: @aristapnel
-vless://06792207-b128-447b-b257-a0df0f5c899b@1kdksjskskwkwodk.lskwposkrjgso.ncniwlqnxbdje.wizardxray.ir:700?security=&encryption=none&host=rubika.ir%2C%2Bigap.net%2C%2Bsplus.ir%2C%2Bskyroom.online&headerType=http&type=tcp#T.ME: @aristapnel
-vless://06442da2-c71e-4f5d-b2f3-e327b3f515b5@cdntr222.b2n.ir.nic.stp.debian.org.ubuntu.ir.reservedns.website:1087?security=none&encryption=none&host=soft98.ir%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=http&type=tcp#T.ME: @aristapnel
-vless://06120d66-16c1-0bb6-6e49-782335153281@titan.socialxxmedia.pro:1937?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#T.ME: @aristapnel
-vless://05a17ccb-a231-4e8c-af1a-810691c27d88@VIP2.xQFire.iR:811?security=&encryption=none&headerType=none&type=tcp#T.ME: @aristapnel
+vless://0773112d-c3fc-4a9f-aea0-d9be521452ce@85.133.227.68:35812?security=reality&encryption=none&pbk=LOS87LofEJA0paPzrS2mIFhmTaqkOZC-AUFgNvE1UEs&headerType=none&fp=chrome&type=tcp&sni=www.microsoft.com&sid=82cada35130f1ef2#T.ME: @aristapnel
+vless://0773112d-c3fc-4a9f-aea0-d9be521452ce@85.133.227.13:35812?security=reality&encryption=none&pbk=LOS87LofEJA0paPzrS2mIFhmTaqkOZC-AUFgNvE1UEs&headerType=none&fp=chrome&type=tcp&sni=learn.microsoft.com&sid=82cada35130f1ef2#T.ME: @aristapnel
+vless://06c7a413-6c2d-e356-d0df-d4ac594a24f1@meli2.ertebatgoostar.ir:2087?security=&encryption=none&host=tv3.ir&headerType=http&type=tcp&sni=54.38.242.158#T.ME: @aristapnel
+vless://06120d66-16c1-0bb6-6e49-782335153281@titan.socialxxmedia.pro:1937?security=&encryption=none&host=fast.com&headerType=http&type=tcp&sni=titan.socialxxmedia.pro#T.ME: @aristapnel
+vless://06120d66-16c1-0bb6-6e49-782335153281@titan.socialxxmedia.pro:1937?security=&encryption=none&host=fast.com&headerType=http&type=tcp#T.ME: @aristapnel
 vless://0596d8de-cf34-402a-b533-163b15e642eb@198.41.199.255:443?path=%2Fdownloader.php&security=tls&encryption=none&insecure=0&host=windy.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=windy.adaspoloandco.com#T.ME: @aristapnel
+vless://051e0777-6446-48cd-ab2a-9ba93ef6cb8d@gb2.vnet500.xyz:31005?security=&encryption=none&host=soft98.ir&headerType=http&type=tcp#T.ME: @aristapnel
 vless://047d94e3-f07b-4754-918e-88b8faeafcd0@custom2.rezaedvr.shop:43433?security=&encryption=none&headerType=http&type=tcp#T.ME: @aristapnel
 vless://0413702d-739b-4c8a-80b1-8296ba54cfe6@gb1.vnet500.xyz:32030?security=none&encryption=none&host=soft98.ir&headerType=http&type=tcp#T.ME: @aristapnel
-vless://03dd7e7c-8d2a-4cd2-b920-f5ed564fc8c4@77.110.114.1:443?security=reality&encryption=none&pbk=3zn513ilYXOJngXLRP0MUnK23HuB9TKLjQ7YG20dzTQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=srv27.outlinekeys.com#T.ME: @aristapnel
-vless://02d9d91a-22b5-47a3-b586-caecd96ec030@94.183.241.159:22222?security=&encryption=none&headerType=none&type=tcp#T.ME: @aristapnel
-vless://0195d3b8-8bfa-4c6e-9988-56396952a50a@finland.dehnavy.ir:39461?path=%2F&security=&encryption=none&type=ws#T.ME: @aristapnel
+vless://0331b690-79fc-49d5-85f0-54faa4eff89f@go.adslimit.info:2345?security=none&encryption=none&headerType=none&type=tcp#T.ME: @aristapnel
+vless://0251d33b-1d39-7fd6-0839-3fbab84db355@lord.socialxxmedia.pro:440?security=none&encryption=none&host=fast.com&headerType=http&type=tcp&sni=lord.socialxxmedia.pro#T.ME: @aristapnel
+vless://0251d33b-1d39-7fd6-0839-3fbab84db355@lord.socialxxmedia.pro:440?security=&encryption=none&host=fast.com&headerType=http&type=tcp&sni=lord.socialxxmedia.pro#T.ME: @aristapnel
 vless://00f7fe75-1203-4b54-be1b-50351d2e3f50@home.bbursaries.ir:6089?security=&encryption=none&host=www.tgju.org&headerType=http&type=tcp#T.ME: @aristapnel
 vless://148c2937-fb6d-07d0-93a8-369b1fbc9791@212.193.153.187:443?encryption=none&type=ws&security=tls&path=%2F%2F&host=lk-cdn.deploy-assure.ru&fp=chrome&sni=lk-cdn.deploy-assure.ru&alpn=h2%2Chttp%2F1.1#T.ME: @aristapnel
 vless://001a44d7-69e6-07d0-8d11-828fe2119621@212.193.156.236:443?encryption=none&type=ws&security=tls&path=%2F%2F&host=lk-cdn.deploy-assure.ru&fp=chrome&sni=lk-cdn.deploy-assure.ru&alpn=h2%2Chttp%2F1.1#T.ME: @aristapnel
@@ -3439,71 +3443,3 @@ vless://bca31910-f6da-4658-90c2-cdfafd1e8298@176.109.110.120:8443?flow=xtls-rprx
 vless://bca31910-f6da-4658-90c2-cdfafd1e8298@176.109.110.120:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=tradingview.com&pbk=EMS0wzISeSbEe4JABPD8EgDnyLXgDmrX4_lcfG6VVX4&sid=60e104f7126798c4#T.ME: @aristapnel
 vless://bca31910-f6da-4658-90c2-cdfafd1e8298@82.202.159.119:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=tradingview.com&pbk=EMS0wzISeSbEe4JABPD8EgDnyLXgDmrX4_lcfG6VVX4&sid=c76ba2c2fb172e8b#T.ME: @aristapnel
 vless://14b02e2a-8930-4afb-8412-ea4a4954ca5b@38.180.203.118:443?encryption=none&type=ws&security=tls&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2&host=ylnhh.cc.cd&sni=ylnhh.cc.cd#T.ME: @aristapnel
-vless://fa816c36-e70f-07d0-b0e7-ec92b333f994@212.193.156.229:443?encryption=none&type=ws&security=tls&path=%2F%2F&host=lk-cdn.deploy-assure.ru&fp=chrome&sni=lk-cdn.deploy-assure.ru&alpn=h2%2Chttp%2F1.1#T.ME: @aristapnel
-vless://a22f6494-f371-07d0-bad0-8df9594b8e45@212.193.156.229:443?encryption=none&type=ws&security=tls&path=%2F%2F&fp=chrome&sni=lk-cdn.deploy-assure.ru&alpn=h2%2Chttp%2F1.1#T.ME: @aristapnel
-vless://e928d85d-f223-07d0-a1d2-a56e9fbd50e0@212.193.156.229:443?encryption=none&type=ws&security=tls&path=%2F%2F&fp=chrome&sni=lk-cdn.deploy-assure.ru&alpn=h2%2Chttp%2F1.1#T.ME: @aristapnel
-vless://001a44d7-69e6-07d0-8d11-828fe2119621@212.193.156.229:443?encryption=none&type=ws&security=tls&path=%2F%2F&fp=chrome&sni=lk-cdn.deploy-assure.ru&alpn=h2%2Chttp%2F1.1#T.ME: @aristapnel
-vless://148c2937-fb6d-07d0-93a8-369b1fbc9791@212.193.156.229:443?encryption=none&type=ws&security=tls&path=%2F%2F&fp=chrome&sni=lk-cdn.deploy-assure.ru&alpn=h2%2Chttp%2F1.1#T.ME: @aristapnel
-vless://c60c4bb1-8886-07d0-b411-7aa0a7dc8a83@212.193.156.229:443?encryption=none&type=ws&security=tls&path=%2F%2F&host=lk-cdn.deploy-assure.ru&fp=chrome&sni=lk-cdn.deploy-assure.ru&alpn=h2%2Chttp%2F1.1#T.ME: @aristapnel
-vless://f5908698-6114-4d93-bc1a-81058e12a391@79.137.174.98:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&sni=eh.vk.com&pbk=3v-9P94hjSE1fw6we1J4RvyIYnFhySQUAe1DUKqkaBo&sid=7f2e9c4b1a8d6a53#T.ME: @aristapnel
-vless://56022eef-4ade-4240-b0cc-eb006797e7ac@94.126.207.245:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=api.vk.com&pbk=V32osv0u9T3QItvyk4UgK-mjJuXkXLn4u_3pbk8eNgs&sid=9339#T.ME: @aristapnel
-vless://56022eef-4ade-4240-b0cc-eb006797e7ac@94.126.207.245:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=api.vk.com&pbk=V32osv0u9T3QItvyk4UgK-mjJuXkXLn4u_3pbk8eNgs&sid=9339&spx=%25252525252525252525252525252525252525252525252525252525252F#T.ME: @aristapnel
-vless://56022eef-4ade-4240-b0cc-eb006797e7ac@94.126.207.245:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=api.vk.com&pbk=V32osv0u9T3QItvyk4UgK-mjJuXkXLn4u_3pbk8eNgs&sid=9339&spx=%2525252525252525252525252525252525252525252F#T.ME: @aristapnel
-vless://56022eef-4ade-4240-b0cc-eb006797e7ac@94.126.207.245:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=api.vk.com&pbk=V32osv0u9T3QItvyk4UgK-mjJuXkXLn4u_3pbk8eNgs&sid=9339&spx=%2525252525252525252525252525252525252525252525252525252F#T.ME: @aristapnel
-vless://601f893c-8ee9-4bdd-895f-6bbc86178c50@95.163.211.150:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=bank.ozon.ru&pbk=PvWc7oWXT7IE6Wby25nYGIlZsAojuOXJ9nzJhQc_KjA&sid=e1988408#T.ME: @aristapnel
-vless://fa816c36-e70f-0bb8-b0e7-ec92b333f994@212.193.156.229:443?encryption=none&type=ws&security=tls&path=%2F%2F&host=lk-cdn.deploy-assure.ru&fp=chrome&sni=lk-cdn.deploy-assure.ru&alpn=h2%2Chttp%2F1.1#T.ME: @aristapnel
-vless://fa816c36-e70f-03e8-b0e7-ec92b333f994@212.193.156.229:443?encryption=none&type=ws&security=tls&path=%2F%2F&host=lk-cdn.deploy-assure.ru&fp=chrome&sni=lk-cdn.deploy-assure.ru&alpn=h2%2Chttp%2F1.1#T.ME: @aristapnel
-vless://001a44d7-69e6-03e8-8d11-828fe2119621@212.193.156.229:443?encryption=none&type=ws&security=tls&path=%2F%2F&fp=chrome&sni=lk-cdn.deploy-assure.ru&alpn=h2%2Chttp%2F1.1#T.ME: @aristapnel
-vless://e928d85d-f223-03e8-a1d2-a56e9fbd50e0@212.193.156.229:443?encryption=none&type=ws&security=tls&path=%2F%2F&fp=chrome&sni=lk-cdn.deploy-assure.ru&alpn=h2%2Chttp%2F1.1#T.ME: @aristapnel
-vless://a22f6494-f371-0bb8-bad0-8df9594b8e45@212.193.156.229:443?encryption=none&type=ws&security=tls&path=%2F%2F&fp=chrome&sni=lk-cdn.deploy-assure.ru&alpn=h2%2Chttp%2F1.1#T.ME: @aristapnel
-vless://148c2937-fb6d-03e8-93a8-369b1fbc9791@212.193.156.229:443?encryption=none&type=ws&security=tls&path=%2F%2F&fp=chrome&sni=lk-cdn.deploy-assure.ru&alpn=h2%2Chttp%2F1.1#T.ME: @aristapnel
-vless://a22f6494-f371-03e8-bad0-8df9594b8e45@212.193.156.229:443?encryption=none&type=ws&security=tls&path=%2F%2F&fp=chrome&sni=lk-cdn.deploy-assure.ru&alpn=h2%2Chttp%2F1.1#T.ME: @aristapnel
-vless://497c159d-76ff-4d2d-a8bc-6d9d72090ac9@51.250.10.231:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=booking.com&pbk=6r6uq4tZym5wRhJ5uti-h-UvN6uatQodMcG8rBU79Q4&spx=%2F#T.ME: @aristapnel
-vless://c60c4bb1-8886-03e8-b411-7aa0a7dc8a83@212.193.156.229:443?encryption=none&type=ws&security=tls&path=%2F%2F&host=lk-cdn.deploy-assure.ru&fp=chrome&sni=lk-cdn.deploy-assure.ru&alpn=h2%2Chttp%2F1.1#T.ME: @aristapnel
-vless://c60c4bb1-8886-0bb8-b411-7aa0a7dc8a83@212.193.156.229:443?encryption=none&type=ws&security=tls&path=%2F%2F&host=lk-cdn.deploy-assure.ru&fp=chrome&sni=lk-cdn.deploy-assure.ru&alpn=h2%2Chttp%2F1.1#T.ME: @aristapnel
-vless://f598c4ee-0422-489c-9571-65f0abd43e17@84.201.131.239:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=web.max.ru&pbk=1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs&sid=428ef87fd47a3a32#T.ME: @aristapnel
-vless://de0fd7c5-0855-4a68-913c-f02e59f2e845@188.225.78.223:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=randomized&sni=sun6-22.userapi.com&pbk=BSEOh7qZKDVrBACzRb3MzRg7g2WjLsq3WxHWe7j2MRo&spx=%2F#T.ME: @aristapnel
-vless://de0fd7c5-0855-4a68-913c-f02e59f2e845@212.233.97.103:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=randomized&sni=api-maps.yandex.ru&pbk=7cLaPUUKcWjTMasCAp_kMwWgqi0_tvczCjf4D8nSAW8&spx=%2F#T.ME: @aristapnel
-vless://de0fd7c5-0855-4a68-913c-f02e59f2e845@188.225.85.44:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=randomized&sni=api-maps.yandex.ru&pbk=gkXWyBWBgObexMJGfDoDLbX2xKJbQwLLEEkzt-4j3ik&spx=%2F#T.ME: @aristapnel
-vless://3d737761-5951-462e-86c1-ff921d9f9999@185.86.145.238:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=5post-gate-test.x5.ru&pbk=3MQ8keneMeXCznwXalfPuzwPM3bR7gIoA5Hvow2KKj0#T.ME: @aristapnel
-vless://3d737761-5951-462e-86c1-ff921d9f9999@89.208.84.207:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=5post-gate-test.x5.ru&pbk=3MQ8keneMeXCznwXalfPuzwPM3bR7gIoA5Hvow2KKj0#T.ME: @aristapnel
-vless://3d737761-5951-462e-86c1-ff921d9f9999@89.208.86.199:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=5post-gate-test.x5.ru&pbk=3MQ8keneMeXCznwXalfPuzwPM3bR7gIoA5Hvow2KKj0#T.ME: @aristapnel
-vless://02517b3e-0bdb-439e-89d8-8b2e68c7a74d@91.243.86.160:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=api-maps.yandex.ru&pbk=nIEdZCSWE8FnO1f260LimY7O_yLtPdoM5MLZ_K9Wv1k&sid=905596aaf46b&spx=%2F#T.ME: @aristapnel
-vless://02517b3e-0bdb-439e-89d8-8b2e68c7a74d@91.243.86.160:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=eh.vk.com&pbk=nIEdZCSWE8FnO1f260LimY7O_yLtPdoM5MLZ_K9Wv1k&sid=d3aa73faec502b&spx=%2F#T.ME: @aristapnel
-vless://02517b3e-0bdb-439e-89d8-8b2e68c7a74d@91.243.86.160:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=nIEdZCSWE8FnO1f260LimY7O_yLtPdoM5MLZ_K9Wv1k&sid=f02ef629&spx=%2F#T.ME: @aristapnel
-vless://3d737761-5951-462e-86c1-ff921d9f9999@146.185.242.216:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=api-maps.yandex.ru&pbk=p3NLbCMW1-8HSlloMZDTvZMbtsL8wthKhIHp1wKkfkI&sid=ee#T.ME: @aristapnel
-vless://6cabb434-f480-478a-9586-a5667167eeb1@146.185.242.216:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=api-maps.yandex.ru&pbk=p3NLbCMW1-8HSlloMZDTvZMbtsL8wthKhIHp1wKkfkI&sid=ee#T.ME: @aristapnel
-vless://001a44d7-69e6-0bb8-8d11-828fe2119621@212.193.156.229:443?encryption=none&type=ws&security=tls&path=%2F%2F&fp=chrome&sni=lk-cdn.deploy-assure.ru&alpn=h2%2Chttp%2F1.1#T.ME: @aristapnel
-vless://148c2937-fb6d-0bb8-93a8-369b1fbc9791@212.193.156.229:443?encryption=none&type=ws&security=tls&path=%2F%2F&fp=chrome&sni=lk-cdn.deploy-assure.ru&alpn=h2%2Chttp%2F1.1#T.ME: @aristapnel
-vless://86ce1750-797e-4627-8baf-6bda9ddd3d4f@91.243.86.160:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=eh.vk.com&pbk=nIEdZCSWE8FnO1f260LimY7O_yLtPdoM5MLZ_K9Wv1k&sid=6df0&spx=%2F#T.ME: @aristapnel
-vless://86ce1750-797e-4627-8baf-6bda9ddd3d4f@91.243.86.160:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=api-maps.yandex.ru&pbk=nIEdZCSWE8FnO1f260LimY7O_yLtPdoM5MLZ_K9Wv1k&sid=73f3f450814cb4c6&spx=%2F#T.ME: @aristapnel
-vless://86ce1750-797e-4627-8baf-6bda9ddd3d4f@91.243.86.160:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=nIEdZCSWE8FnO1f260LimY7O_yLtPdoM5MLZ_K9Wv1k&sid=f6&spx=%2F#T.ME: @aristapnel
-vless://e1447753-cbba-4d72-a1f7-a06a880ed54d@91.243.86.160:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=api-maps.yandex.ru&pbk=nIEdZCSWE8FnO1f260LimY7O_yLtPdoM5MLZ_K9Wv1k&sid=73f3f450814cb4c6&spx=%2F#T.ME: @aristapnel
-vless://e1447753-cbba-4d72-a1f7-a06a880ed54d@91.243.86.160:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=eh.vk.com&pbk=nIEdZCSWE8FnO1f260LimY7O_yLtPdoM5MLZ_K9Wv1k&sid=73f3f450814cb4c6&spx=%2F#T.ME: @aristapnel
-vless://e1447753-cbba-4d72-a1f7-a06a880ed54d@91.243.86.160:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=nIEdZCSWE8FnO1f260LimY7O_yLtPdoM5MLZ_K9Wv1k&sid=ea13b2e639ac7b3d&spx=%2F#T.ME: @aristapnel
-vless://e928d85d-f223-0bb8-a1d2-a56e9fbd50e0@212.193.156.229:443?encryption=none&type=ws&security=tls&path=%2F%2F&fp=chrome&sni=lk-cdn.deploy-assure.ru&alpn=h2%2Chttp%2F1.1#T.ME: @aristapnel
-vless://6cabb434-f480-478a-9586-a5667167eeb1@95.163.210.49:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=api-maps.yandex.ru&pbk=p3NLbCMW1-8HSlloMZDTvZMbtsL8wthKhIHp1wKkfkI&sid=ee#T.ME: @aristapnel
-vless://53821f3c-5b03-456a-89f3-f8379f130752@57.128.81.193:443?encryption=none&type=tcp&security=reality&fp=firefox&sni=www.samsung.com&pbk=fXdtB8vImCUJMQBLcCNK7p1v3rVzx6HllaDLk8Vc4EU&sid=239dcd11&spx=%2F#T.ME: @aristapnel
-vless://aee85cee-2b03-4d6e-be6d-379794e26c4c@213.219.215.80:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=vgKCDxOlThCeLG5I6e_n9o7EG7zAcXboGsF-n2qpqW4&sid=e3b46c2a&spx=%2F#T.ME: @aristapnel
-vless://aee85cee-2b03-4d6e-be6d-379794e26c4c@213.219.215.80:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=market.yandex.ru&pbk=vgKCDxOlThCeLG5I6e_n9o7EG7zAcXboGsF-n2qpqW4&sid=18a5b713de&spx=%2F#T.ME: @aristapnel
-vless://aee85cee-2b03-4d6e-be6d-379794e26c4c@213.219.215.80:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=eh.vk.ru&pbk=vgKCDxOlThCeLG5I6e_n9o7EG7zAcXboGsF-n2qpqW4&sid=c25a8302&spx=%2F#T.ME: @aristapnel
-vless://ad9d1e99-cc1d-4f05-ae31-36b9f22d9bf9@85.17.118.16:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=nl.reality.tv123.ru&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#T.ME: @aristapnel
-vless://0691dbb9-3f24-4b77-b739-0d5ca941a236@85.17.118.16:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=nl.reality.tv123.ru&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#T.ME: @aristapnel
-vless://71bbe55c-67e0-4ac7-a0f7-d3020b0602a3@109.120.189.83:443?encryption=none&type=tcp&security=reality&fp=edge&sni=api-maps.yandex.ru&pbk=Mkxs9LT0tRg208EbLXmP-_dQYlsPOgaTwZ3acwgVVWs&sid=fff8&spx=%2F#T.ME: @aristapnel
-vless://555f19d4-48e1-4817-b03f-7cde4a905d3d@109.120.189.83:443?encryption=none&type=tcp&security=reality&fp=edge&sni=api-maps.yandex.ru&pbk=Mkxs9LT0tRg208EbLXmP-_dQYlsPOgaTwZ3acwgVVWs&sid=fff8&spx=%2F#T.ME: @aristapnel
-vless://4d15cb9e-0acf-4c90-8b39-36504a664a18@109.120.189.83:443?encryption=none&type=tcp&security=reality&fp=edge&sni=api-maps.yandex.ru&pbk=Mkxs9LT0tRg208EbLXmP-_dQYlsPOgaTwZ3acwgVVWs&sid=fff8&spx=%2F#T.ME: @aristapnel
-vless://3ce0ef6f-3488-40dc-9083-7b199c70ef15@89.208.230.215:443?encryption=none&type=tcp&security=reality&fp=edge&sni=ads.x5.ru&pbk=Mkxs9LT0tRg208EbLXmP-_dQYlsPOgaTwZ3acwgVVWs&sid=fff8&spx=%2F#T.ME: @aristapnel
-vless://23adc73f-3755-459d-a619-6560da5f779e@89.208.230.215:443?encryption=none&type=tcp&security=reality&fp=edge&sni=ads.x5.ru&pbk=Mkxs9LT0tRg208EbLXmP-_dQYlsPOgaTwZ3acwgVVWs&sid=fff8&spx=%2F#T.ME: @aristapnel
-vless://f6d225f9-9ce2-4a13-a7cf-ee13ae24dbd0@89.208.230.215:443?encryption=none&type=tcp&security=reality&fp=edge&sni=ads.x5.ru&pbk=Mkxs9LT0tRg208EbLXmP-_dQYlsPOgaTwZ3acwgVVWs&sid=fff8&spx=%2F#T.ME: @aristapnel
-vless://3d8e0b35-04bf-4cc4-a21b-a6f42f76b36f@37.139.33.63:443?encryption=none&type=tcp&security=reality&fp=edge&sni=ads.x5.ru&pbk=Mkxs9LT0tRg208EbLXmP-_dQYlsPOgaTwZ3acwgVVWs&sid=fff8&spx=%2F#T.ME: @aristapnel
-vless://a16954eb-0c04-41a5-a323-67b3e7fa2dc5@89.208.230.215:443?encryption=none&type=tcp&security=reality&fp=edge&sni=ads.x5.ru&pbk=Mkxs9LT0tRg208EbLXmP-_dQYlsPOgaTwZ3acwgVVWs&sid=fff8&spx=%2F#T.ME: @aristapnel
-vless://f598c4ee-0422-489c-9571-65f0abd43e17@84.201.131.239:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=api-maps.yandex.ru&pbk=1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs&sid=428ef87fd47a3a32#T.ME: @aristapnel
-vless://f598c4ee-0422-489c-9571-65f0abd43e17@84.201.131.239:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=sso.passport.yandex.ru&pbk=1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs&sid=428ef87fd47a3a32#T.ME: @aristapnel
-vless://f598c4ee-0422-489c-9571-65f0abd43e17@84.201.131.239:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=smartcaptcha.yandexcloud.net&pbk=1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs&sid=428ef87fd47a3a32#T.ME: @aristapnel
-vless://f598c4ee-0422-489c-9571-65f0abd43e17@84.201.131.239:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=ads.x5.ru&pbk=1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs&sid=428ef87fd47a3a32#T.ME: @aristapnel
-vless://e611be74-346d-4749-992d-4cb8516e0e10@85.193.82.212:8443?encryption=none&type=xhttp&security=reality&host=max.ru&path=%2F&mode=packet-up&extra=null&fp=randomized&sni=ads.x5.ru&pbk=n4W7M0UT2YPDCJdOmRJjvbaTTg_q1DJAekjhmiF3xSE&sid=12ed63fd&spx=%2F#T.ME: @aristapnel
-vless://48a38a6b-4f1f-4da1-be1d-78fe10d0b286@85.193.82.212:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=randomized&sni=ads.x5.ru&pbk=ih_3wyqWcpNLruyYV30dhDfVW4kg1loY3JStENbxrAs&sid=7f&spx=%2F#T.ME: @aristapnel
-vless://969d526e-277f-4799-8d8a-4168965cb458@85.193.82.212:40443?encryption=none&type=grpc&security=reality&mode=gun&serviceName=max.ru&fp=randomized&sni=ads.x5.ru&pbk=9i3QE5zmmrr_kl0gO9P-knIp5XPlxsZcBjzrrKJlKSw&sid=58&spx=%2F#T.ME: @aristapnel
-vless://c2865552-4e87-4dfc-bbcc-470d95776869@85.193.82.212:40443?encryption=none&type=grpc&security=reality&mode=gun&serviceName=max.ru&fp=randomized&sni=ads.x5.ru&pbk=9i3QE5zmmrr_kl0gO9P-knIp5XPlxsZcBjzrrKJlKSw&sid=58&spx=%2F#T.ME: @aristapnel
-vless://b22cbec0-99ec-49f0-ab84-e51063afd495@85.193.82.212:8443?encryption=none&type=xhttp&security=reality&host=max.ru&path=%2F&mode=packet-up&extra=null&fp=randomized&sni=ads.x5.ru&pbk=n4W7M0UT2YPDCJdOmRJjvbaTTg_q1DJAekjhmiF3xSE&sid=12ed63fd&spx=%2F#T.ME: @aristapnel
-vless://bac51059-f1b0-4b35-8cf1-5c7fe2f4d7dd@85.193.82.212:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=randomized&sni=ads.x5.ru&pbk=ih_3wyqWcpNLruyYV30dhDfVW4kg1loY3JStENbxrAs&sid=7f&spx=%2F#T.ME: @aristapnel

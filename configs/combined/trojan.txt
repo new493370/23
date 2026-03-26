@@ -1,7 +1,7 @@
 # Combined TROJAN Configurations
-# Updated: 2026-03-26 17:52:29
-# Count: 190
-# Sources: Telegram (7) + GitHub (183)
+# Updated: 2026-03-26 19:25:44
+# Count: 191
+# Sources: Telegram (8) + GitHub (183)
 
 trojan://telegram-id-privatevpns@52.58.26.183:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#ARISTA🔥
 trojan://telegram-id-v2rayvpnchannel@3.69.71.108:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#ARISTA🔥
@@ -10,6 +10,7 @@ trojan://telegram-id-v2rayvpnchannel@18.195.15.58:22223?security=tls&alpn=http/1
 trojan://telegram-id-v2rayvpnchannel@13.36.214.151:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#ARISTA🔥
 trojan://telegram-id-v2rayvpnchannel@13.36.51.154:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#ARISTA🔥
 trojan://telegram-id-v2rayvpnchannel@52.58.26.183:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#ARISTA🔥
+trojan://telegram-id-v2rayvpnchannel@13.37.25.182:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#ARISTA🔥
 trojan://4eddbd4a-ae04-49b9-9e6d-90f88eb4ef36@vpn.nnet.online:443?security=tls&sni=VPN.NNET.Online&type=ws&host=nnet.online&path=/trojan-tls&allow_insecure=0#T.ME: @aristapnel
 trojan://4eddbd4a-ae04-49b9-9e6d-90f88eb4ef36@vpn.nnet.online:443?security=tls&sni=VPN.NNET.Online&type=ws&host=nnet.online&path=/trojan-tls#T.ME: @aristapnel
 trojan://4eddbd4a-ae04-49b9-9e6d-90f88eb4ef36@vpn.nnet.online:443?sni=VPN.NNET.Online&type=ws&host=nnet.online&path=/trojan-tls#T.ME: @aristapnel

@@ -1,8 +1,9 @@
 # Telegram TROJAN Configurations
-# Updated: 2026-03-28 11:12:53
+# Updated: 2026-03-28 11:53:11
 # Count: 19
 # Source: Telegram Channels
 
+trojan://strong-secret-pass-777@94.131.105.125:4443?allowInsecure=1#ARISTA🔥
 trojan://WF42809561@62.112.222.54:443?security=tls&headerType=nonegithub.com#ARISTA🔥
 trojan://telegram-id-privatevpns@15.236.83.28:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#ARISTA🔥
 trojan://c42a7944a4af979@n.nyav2.info:85?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=filmnet.ir#ARISTA🔥
@@ -19,6 +20,5 @@ trojan://telegram-id-v2rayvpnchannel@63.183.59.137:22223?security=tls&alpn=http/
 trojan://telegram-id-v2rayvpnchannel@52.47.80.167:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#ARISTA🔥
 trojan://telegram-id-v2rayvpnchannel@18.158.157.203:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#ARISTA🔥
 trojan://telegram-id-v2rayvpnchannel@13.37.130.107:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#ARISTA🔥
-trojan://telegram-id-privatevpns@18.158.157.203:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#ARISTA🔥
 trojan://WF42809561@62.112.222.76:443?allowInsecure=1&sni=top-goshawk.rooster465.autos#ARISTA🔥
-trojan://telegram-id-directvpn@18.158.157.203:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#ARISTA🔥
+trojan://telegram-id-privatevpns@13.37.130.107:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#ARISTA🔥

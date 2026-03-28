@@ -1,6 +1,6 @@
 # All GitHub Configurations
-# Updated: 2026-03-28 20:51:51
-# Total Count: 4865
+# Updated: 2026-03-28 21:48:33
+# Total Count: 4863
 # Source: GitHub Repositories
 
 vmess://eyJ2IjoiMiIsInBzIjoiVC5NRTogQGFyaXN0YXBuZWwiLCJhZGQiOiIxNzIuMjMzLjIyOS45MSIsInBvcnQiOjE0MTAyLCJpZCI6IjI3YmE4N2ZjLTU4M2YtNDc2My05MDYwLTgzY2YwYjkyNjRkYiIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiIiwicGF0aCI6IiIsInRscyI6IiIsInNuaSI6IiIsImFscG4iOiIiLCJmcCI6IiIsIm5hbWUiOiLwn4yQIFRDUC1Ob25lIHwgQEV4cHJlc3NfYWxha2kgfCBzcmMgQHYyTGluZSJ9
@@ -28,12 +28,10 @@ vmess://eyJhZGQiOiIxNjQuMTM4LjIwMi41NSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJo
 vmess://eyJhZGQiOiI1LjIzMS41Ni45OCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI1ZjJmMDc2NS1mMzMxLTRkMWUtODU2MC1kMmZiNTMzZGQ2ZmUiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIiLCJwb3J0IjoiMzcyMSIsInBzIjoiVC5NRTogQGFyaXN0YXBuZWwiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
 vmess://eyJhZGQiOiJubTczODYudGVlb29tYm9vbS5kZSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0Ijoibm03Mzg2LnRlZW9vbWJvb20uZGUiLCJpZCI6IjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsImluc2VjdXJlIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii92aWRlby8ydXB2eGxhLm0zdTgiLCJwb3J0IjoiNDQzIiwicHMiOiJULk1FOiBAYXJpc3RhcG5lbCIsInNjeSI6ImF1dG8iLCJzbmkiOiJubTczODYudGVlb29tYm9vbS5kZSIsInRscyI6InRscyIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
 vmess://eyJhZGQiOiJqbDJrbGoudGVlb29tYm9vbS5kZSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0Ijoiamwya2xqLnRlZW9vbWJvb20uZGUiLCJpZCI6IjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsImluc2VjdXJlIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii92aWRlby83bXRjMWYubTN1OCIsInBvcnQiOiI0NDMiLCJwcyI6IlQuTUU6IEBhcmlzdGFwbmVsIiwic2N5IjoiYXV0byIsInNuaSI6ImpsMmtsai50ZWVvb21ib29tLmRlIiwidGxzIjoidGxzIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
-vmess://eyJhZGQiOiJjaHVuY2hlb24wMy56Z2pvay5jb20iLCJhaWQiOiIwIiwiaG9zdCI6ImNodW5jaGVvbjAzLnpnam9rLmNvbSIsImlkIjoiODFkNWNhYzQtZDAzOS00ODc0LTlhMjAtYzM5MWY1ODAwMTJkIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiI0NDMiLCJwcyI6IlQuTUU6IEBhcmlzdGFwbmVsIiwidGxzIjoidGxzIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9
-vmess://eyJhZGQiOiJ2MzAuaGRhY2QuY29tIiwiYWlkIjoiMCIsImhvc3QiOiI1MWFhOGY3LmhmLmdsYWRvcy1jb25maWcubmV0IiwiaWQiOiJjYmIzZjg3Ny1kMWZiLTM0NGMtODdhOS1kMTUzYmZmZDU0ODQiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiIzMDgzMCIsInBzIjoiVC5NRTogQGFyaXN0YXBuZWwiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZX0=
-vmess://eyJhZGQiOiJ2MTIuaGRhY2QuY29tIiwiYWlkIjoiMCIsImhvc3QiOiJBWkVSQi5ORVQiLCJpZCI6ImNiYjNmODc3LWQxZmItMzQ0Yy04N2E5LWQxNTNiZmZkNTQ4NCIsIm5ldCI6InRjcCIsInBhdGgiOiIvP0JJQV9URUxFR1JBTUBBWkFSQkFZSkFCMV9BWkFSQkFZSkFCMV9BWkFSQkFZSkFCMV9BWkFSQkFZSkFCMSIsInBvcnQiOiIzMDgxMiIsInBzIjoiVC5NRTogQGFyaXN0YXBuZWwiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZX0=
-vmess://eyJhZGQiOiI2Ni4xNjMuMTE3LjU4IiwiYWlkIjoiMCIsImhvc3QiOiIiLCJpZCI6IjA0NjIxYmFlLWFiMzYtMTFlYy1iOTA5LTAyNDJhYzEyMDAwMiIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6IjIyMzI0IiwicHMiOiJULk1FOiBAYXJpc3RhcG5lbCIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
+vmess://eyJ2IjoiMiIsInBzIjoiVC5NRTogQGFyaXN0YXBuZWwiLCJhZGQiOiJ2MzAuaGRhY2QuY29tIiwicG9ydCI6IjMwODMwIiwidHlwZSI6Im5vbmUiLCJpZCI6ImNiYjNmODc3LWQxZmItMzQ0Yy04N2E5LWQxNTNiZmZkNTQ4NCIsImFpZCI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsImhvc3QiOiJ2MzAuaGRhY2QuY29tIiwidGxzIjoiIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZX0=
+vmess://eyJ2IjoiMiIsInBzIjoiVC5NRTogQGFyaXN0YXBuZWwiLCJhZGQiOiJ2MTIuaGRhY2QuY29tIiwicG9ydCI6IjMwODEyIiwidHlwZSI6Im5vbmUiLCJpZCI6ImNiYjNmODc3LWQxZmItMzQ0Yy04N2E5LWQxNTNiZmZkNTQ4NCIsImFpZCI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLz9CSUFfVEVMRUdSQU1AQVpBUkJBWUpBQjFfQVpBUkJBWUpBQjFfQVpBUkJBWUpBQjFfQVpBUkJBWUpBQjEiLCJob3N0IjoiQVpFUkIuTkVUIiwidGxzIjoiIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZX0=
 vmess://eyJhZGQiOiJmc2RuczEuZWN0dW5uZWx2cG4ubWUiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImZzZG5zMS5lY3R1bm5lbHZwbi5tZSIsImlkIjoiNmIyZDg2ZTUtZGYwNS00NTExLWE3OWYtODJkNTNjZTk5YjM2IiwiaW5zZWN1cmUiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiL3ZtZXNzIiwicG9ydCI6IjgwIiwicHMiOiJULk1FOiBAYXJpc3RhcG5lbCIsInNjeSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
-vmess://eyJhZGQiOiI0Ni4yMjUuNTQuNzUiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiMDY1NGQ2NGQtMDhiZi00M2U1LWFkNDQtMThhN2QxYThkNmY3IiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIxMDQxMCIsInBzIjoiVC5NRTogQGFyaXN0YXBuZWwiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZX0=
+vmess://eyJhZGQiOiJuZXZhLmF6bGFuLmJpei5pZCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoibmV2YS5hemxhbi5iaXouaWQiLCJpZCI6IjgwNzIyOThmLWNkMjgtNGE2MS04ZTA1LTU4NzljODRiOTEwMCIsIm5ldCI6IndzIiwicGF0aCI6Ii92bWVzcyIsInBvcnQiOiI0NDMiLCJwcyI6IlQuTUU6IEBhcmlzdGFwbmVsIiwic2N5IjoiYXV0byIsInNuaSI6Im5ldmEuYXpsYW4uYml6LmlkIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZX0=
 vmess://eyJ2IjpudWxsLCJwcyI6IlQuTUU6IEBhcmlzdGFwbmVsIiwiYWRkIjoiMjA5LjEyNi44NC4xODkiLCJwb3J0Ijo0NDMsImlkIjoiMmM5ODExNjQtOWI5My00YmNhLTk0ZmYtYjc4ZDNmODQ5OGQ3IiwiYWlkIjoiMCIsInNjeSI6bnVsbCwibmV0Ijoid3MiLCJ0eXBlIjpudWxsLCJob3N0IjoiMjA5LjEyNi44NC4xODkiLCJhbHBuIjpudWxsLCJwYXRoIjoiL3ZtZXNzd3MiLCJ0bHMiOiIiLCJzbmkiOm51bGwsImZwIjpudWxsfQ==
 vmess://eyJ2IjpudWxsLCJwcyI6IlQuTUU6IEBhcmlzdGFwbmVsIiwiYWRkIjoidDEuNjIwNzIwLnh5eiIsInBvcnQiOjg0NDMsImlkIjoiNTE2ZDhhN2EtM2YwYi00MWQzLWJhZDAtMjQ2MTE2MzgxNTE2IiwiYWlkIjoiMCIsInNjeSI6bnVsbCwibmV0Ijoid3MiLCJ0eXBlIjpudWxsLCJob3N0IjoidDEuNjIwNzIwLnh5eiIsImFscG4iOm51bGwsInBhdGgiOiIvIiwidGxzIjoidGxzIiwic25pIjoiIiwiZnAiOm51bGx9
 vmess://eyJhZGQiOiJzdy5zcnZ0b2dvLmNvbSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIwNmVmYjdkYi0yOWRjLTQzM2MtOTJkZi01NjRmMWJhN2YzYmQiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6Ijk5NzUiLCJwcyI6IlQuTUU6IEBhcmlzdGFwbmVsIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
@@ -2528,55 +2526,70 @@ vless://fba7dc74-ed99-03e8-8b5f-a822f254475f@5.188.140.35:52006?flow=xtls-rprx-v
 vless://13ad36e6-c091-43f2-8505-47d868dd544c@ffv.xx6.ccwu.cc:443?flow=&fp=chrome&host=ffv.xx6.ccwu.cc&path=%2FXR8So0uqFVa3vY9ZbxgW4&security=tls&sni=ffv.xx6.ccwu.cc&type=ws#T.ME: @aristapnel
 vless://8ea1b89f-21d5-49b9-9bcd-1ad9ac39b4ba@dfvbg6.0oz.ccwu.cc:80?flow=&host=dfvbg6.0oz.ccwu.cc&path=%2FIq3945ZsqJBAQ5Ah&type=ws#T.ME: @aristapnel
 vless://a2af6e7c-a792-4e51-9460-fff4bd74fbfc@104.18.15.19:80?flow=&host=vahidqaz-ft33vt-1.vahidqaz.workers.dev&path=%2F%3Fed%3D2560&type=ws#T.ME: @aristapnel
-vless://e033ef6e-ab4b-47d4-a523-ff568d2c8dbb@94.131.101.19:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=TH8C9sgNuMRVR3o5QehXPgYw8PWjoHrH2rVQF4JWwGI&security=reality&sni=tradingview.com&type=tcp#T.ME: @aristapnel
-vless://e033ef6e-ab4b-47d4-a523-ff568d2c8dbb@45.149.114.75:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=TH8C9sgNuMRVR3o5QehXPgYw8PWjoHrH2rVQF4JWwGI&security=reality&sni=tradingview.com&type=tcp#T.ME: @aristapnel
-vless://e033ef6e-ab4b-47d4-a523-ff568d2c8dbb@82.117.255.37:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=TH8C9sgNuMRVR3o5QehXPgYw8PWjoHrH2rVQF4JWwGI&security=reality&sni=tradingview.com&type=tcp#T.ME: @aristapnel
-vless://7d40449f-92df-4256-9607-679241455d49@144.31.197.250:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=xFK9hFrgSLkNeStFFk3gi9BLxWxFNHSd8ID9SyHCAAo&security=reality&sni=n.sni-347-default.ssl.fastly.net&type=tcp#T.ME: @aristapnel
-vless://394f6981-a782-4779-9a85-e6cf22935d93@195.181.173.199:8443?allowInsecure=0&sni=ams1.fromblancwithlove.com&security=tls#T.ME: @aristapnel
-vless://e033ef6e-ab4b-47d4-a523-ff568d2c8dbb@103.231.73.181:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=TH8C9sgNuMRVR3o5QehXPgYw8PWjoHrH2rVQF4JWwGI&security=reality&sni=tradingview.com&type=tcp#T.ME: @aristapnel
-vless://e033ef6e-ab4b-47d4-a523-ff568d2c8dbb@45.12.146.179:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=TH8C9sgNuMRVR3o5QehXPgYw8PWjoHrH2rVQF4JWwGI&security=reality&sni=tradingview.com&type=tcp#T.ME: @aristapnel
-vless://a47fb050-8477-4d86-9332-5f687f572d94@185.42.163.177:1888?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=GaVpyGU5Xqyd5SYmchrCIajjTiXF69bmCnUdftmrwTM&security=reality&sid=16b7f8a207cda6e3&sni=www.kernel.org&type=tcp#T.ME: @aristapnel
-vless://a47fb050-8477-4d86-9332-5f687f572d94@147.45.60.78:1888?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=GaVpyGU5Xqyd5SYmchrCIajjTiXF69bmCnUdftmrwTM&security=reality&sid=16b7f8a207cda6e3&sni=www.kernel.org&type=tcp#T.ME: @aristapnel
-vless://c1a5ecfa-8a01-4070-91e0-0328b82388ad@192.200.160.20:443?allowInsecure=1&encryption=none&host=639073677243396643.camry-perma.info&path=%2Fphnkfhws&security=tls&sni=639073677243396643.camry-perma.info&type=ws#T.ME: @aristapnel
-vless://7d40449f-92df-4256-9607-679241455d49@64.188.80.212:2053?encryption=none&fp=chrome&pbk=r2aSpm3VVvDjJbwr2l6yVdTv_pwkUzfOqxD7FQfBTkc&security=reality&sni=stats.vk-portal.net&type=grpc#T.ME: @aristapnel
-vless://7d40449f-92df-4256-9607-679241455d49@45.84.222.114:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=BNfMVy6ybQ583FDTVVjqoADC8vxR9fMNrHktgpzxeTI&security=reality&sni=pingless.com&type=tcp#T.ME: @aristapnel
-vless://bf263367-bb63-4663-b4a1-34946107a72e@45.144.49.116:8443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=5qvcOTHr_izGbsRz-j2xC3BMMdugFMsl7MnANjzwZ0I&sid=b2a1c97a38&sni=www.apple.com&spx=/#T.ME: @aristapnel
-vless://1babf197-af69-406e-aae2-83c411ae979f@77.239.126.65:443?encryption=none&fp=chrome&pbk=G1QPj-IQQVssEsfjld6gGOlxhgXDYdg56cYdweymLy0&security=reality&sid=3ef8cdbc&sni=eh.vk.com&type=grpc#T.ME: @aristapnel
-vless://92b82d0f-d2f8-4f6f-b177-08f681a337e6@192.200.160.20:443?allowInsecure=1&encryption=none&host=639073677243791121.camry-perma.info&path=%2Fnjvqoews&security=tls&sni=639073677243791121.camry-perma.info&type=ws#T.ME: @aristapnel
-vless://130e98f6-18ad-4505-9a6e-6e00424bd058@172.64.32.75:443?allowInsecure=1&encryption=none&host=639073677251729790.corolla-perma.info&path=%2Fjsdrzrws&security=tls&sni=639073677251729790.corolla-perma.info&type=ws#T.ME: @aristapnel
-vless://a1056081-76c5-4185-a16d-da6657e088d0@82.41.181.60:443?encryption=none&fp=chrome&pbk=R8DxeKsBWjG5_roszdd2bT_jW5Lq5WyBKSKuoQjvcAE&security=reality&sid=c0&sni=www.google.com&type=tcp#T.ME: @aristapnel
+vless://c1a5ecfa-8a01-4070-91e0-0328b82388ad@192.200.160.20:443?allowInsecure=1&encryption=none&host=639073677243396643.camry-perma.info&path=/phnkfhws&security=tls&sni=639073677243396643.camry-perma.info&type=ws#T.ME: @aristapnel
+vless://1f0a8364-ae34-07d0-b999-34a723111ebd@45.151.182.205:52006?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&security=reality&sid=d8c6b58bcbb0c323&sni=max.ru&type=tcp#T.ME: @aristapnel
+vless://c01733dd-3e58-4da9-910b-cdd4560295bc@45.84.0.217:2443?encryption=none&fp=chrome&pbk=ZMvMtsHKNd39qVM9CuPLMEXUL19ViL4Qqqk1y5mMjko&security=reality&serviceName=TestChatGRPC&sid=a1b2c3d4&sni=eh.vk.com&type=grpc#T.ME: @aristapnel
+vless://41808414-6496-4d3c-89d6-9442f76a155a@94.131.86.204:443?encryption=none&fp=chrome&pbk=pl0X8gUdDuJlCmJkPIgVL3HIbD8pL9LHGVUMgqQIlio&security=reality&sid=c6&sni=www.google.com&type=tcp#T.ME: @aristapnel
+vless://92b82d0f-d2f8-4f6f-b177-08f681a337e6@192.200.160.20:443?allowInsecure=1&encryption=none&host=639073677243791121.camry-perma.info&path=/njvqoews&security=tls&sni=639073677243791121.camry-perma.info&type=ws#T.ME: @aristapnel
+vless://f1f26b76-ebc8-4f46-a3cf-8438c2f249a0@185.181.208.246:443?encryption=none&fp=chrome&pbk=UjNPtE5lA4RH0KXJjmaXUEnue8ezfzyI86lJBosZTQE&security=reality&sid=dc&sni=www.google.com&type=tcp#T.ME: @aristapnel
+vless://5f98c4f8-19f4-471d-8ed5-10c0550c0423@150.241.74.1:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=vMinYb8gKWa5nS3KpDcpr31s1guSnow99f_ffRKK3Dg&security=reality&sid=12af0dd9&sni=tunnel.vk-apps.com&type=tcp#T.ME: @aristapnel
+vless://90c9c25c-df6c-4438-83d3-ef97166a9184@85.209.159.22:443?security=reality&type=tcp&headerType=none&flow=xtls-rprx-vision&sni=5post-gate.x5.ru&fp=chrome&pbk=A3PWLCRX9oeSyPvrmrwj2jUXcLo2uCwAISRBHtNE1Xw&spx=/#T.ME: @aristapnel
+vless://a1afced8-420b-430d-b25a-08db1c3332da@144.31.238.232:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=2IOXPZdkxdHts0gzVYWjAWTjuM1-OuPFGgHeFMVvNwY&security=reality&sid=3aee9bf2757b2d1f&sni=www.apple.com&type=tcp#T.ME: @aristapnel
+vless://d70415c7-b3fb-43e9-915a-df66b2274c32@e2.aurorix.net:25930?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=iyV9M7K4Et9DgpzehijZ61ih3H1DnYCvjpSb-zC_qhk&sid=911451a18252bb5a&sni=www.microsoft.com#T.ME: @aristapnel
 vless://c01733dd-3e58-4da9-910b-cdd4560295bc@94.103.0.92:2443?encryption=none&fp=chrome&pbk=ZMvMtsHKNd39qVM9CuPLMEXUL19ViL4Qqqk1y5mMjko&security=reality&serviceName=TestChatGRPC&sid=a1b2c3d4&sni=crowdtest.payment-widget-smarttv.plus.tst.kinopoisk.ru&type=grpc#T.ME: @aristapnel
+vless://66143a11-6e84-466e-9b83-5cfebfd2aea8@82.26.94.193:443?encryption=none&fp=chrome&pbk=Qk4CqeROBNOLujmefdp-SbW9eTfDr6BCN3Bo04IzbDI&security=reality&sid=a26f9030ae&sni=www.nvidia.com&type=tcp#T.ME: @aristapnel
+vless://5f98c4f8-19f4-471d-8ed5-10c0550c0423@150.241.75.139:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=K0J7MeoQdkINpubvpI7F0sqfx3TYonr35gCj3xlxRnw&security=reality&sid=c34685e6&sni=tunnel.vk-apps.com&type=tcp#T.ME: @aristapnel
 vless://40fb2d29-374c-4255-ae56-bf3ad95b8b37@144.31.239.139:25340?encryption=none&fp=chrome&pbk=fmLlp7Vg3qzskePTLeNWmgppe3TPYlHb_yqBzRxaxUE&security=reality&sid=4830d187&sni=www.sony.com&type=tcp#T.ME: @aristapnel
+vless://ae0e984d-423e-4d80-8c0e-1d127340b3b9@150.241.203.76:11846?encryption=none&fp=chrome&pbk=e0Ab0q-jsGRsEclV-tUUoNM3-g79sWQqSL4k7UYft3w&security=reality&sid=49&sni=www.google.com&type=tcp#T.ME: @aristapnel
 vless://8de7627c-1995-41f7-93e6-7fd9715514a2@85.192.49.230:443?encryption=none&fp=chrome&pbk=VMMc3QkOG66O2cD0Ki36VOEDQxpGT5aK8KAwLGklJzw&security=reality&sid=c2&sni=www.google.com&type=tcp#T.ME: @aristapnel
-vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@108.162.192.75:443?allowInsecure=1&encryption=none&host=octopusss4.com&path=%2Ftsghdws&security=tls&sni=octopusss4.com&type=ws#T.ME: @aristapnel
+vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@162.159.36.20:443?allowInsecure=1&encryption=none&host=octopusss4.com&path=/tsghdws&security=tls&sni=octopusss4.com&type=ws#T.ME: @aristapnel
 vless://7e0a9f75-b424-493b-b7e6-cebd7ea8642d@144.31.4.127:443?allowInsecure=1&encryption=none&security=tls&sni=plcdn14.melodramaonline.net&type=tcp#T.ME: @aristapnel
+vless://4da4c9c7-a587-4894-bfa1-63e2c50aa21e@141.98.24.151:443?encryption=none&fp=chrome&pbk=GUykK5D2mcYcPS6SDQdzNYFE3EtKIMoYbSlcjij5yA0&security=reality&sid=e8&sni=www.google.com&type=tcp#T.ME: @aristapnel
 vless://53821f3c-5b03-456a-89f3-f8379f130752@51.89.229.134:443?encryption=none&fp=chrome&pbk=4e4FI0siWxFtLCRCVDQurn1wLTuvKWhRY0zj1SaUcyw&security=reality&sid=a13a7cc5&sni=www.samsung.com&type=tcp#T.ME: @aristapnel
 vless://90c9c25c-df6c-4438-83d3-ef97166a9184@45.66.163.194:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=A3PWLCRX9oeSyPvrmrwj2jUXcLo2uCwAISRBHtNE1Xw&security=reality&sni=5post-gate.x5.ru&type=tcp#T.ME: @aristapnel
 vless://098fd515-29de-4d74-b77d-d8ab878a7e2c@lucy.ns.cloudflare.com:443?allowInsecure=1&encryption=none&host=rivvers.info&path=%2Fresgdws&security=tls&sni=rivvers.info&type=ws#T.ME: @aristapnel
 vless://90c9c25c-df6c-4438-83d3-ef97166a9184@194.124.250.51:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=A3PWLCRX9oeSyPvrmrwj2jUXcLo2uCwAISRBHtNE1Xw&security=reality&sni=5post-gate.x5.ru&type=tcp#T.ME: @aristapnel
-vless://c35050ce-01ab-45a9-91b8-54cec637d0a8@elliot.ns.cloudflare.com:443?allowInsecure=1&encryption=none&host=octopusss5.info&path=%2Fudfyfws&security=tls&sni=octopusss5.info&type=ws#T.ME: @aristapnel
+vless://c35050ce-01ab-45a9-91b8-54cec637d0a8@172.64.147.236:443?allowInsecure=1&encryption=none&host=octopusss5.info&path=/udfyfws&security=tls&sni=octopusss5.info&type=ws#T.ME: @aristapnel
 vless://7a0ae662-eee7-44c0-8998-d575870bd749@64.188.106.202:38765?type=tcp&security=reality&encryption=none&fp=chrome&pbk=fUyUwpKV_0yleQhE_dZF0TuD1lw3BJ-Jo9M6iOaEFEY&sid=d789a31a7a7014&sni=aws.amazon.com&spx=/#T.ME: @aristapnel
-vless://53f0bca8-f170-4ef7-8031-c7d441189dbf@vip2.kaixincloud.top:443?allowInsecure=1&encryption=none&host=639073677259599430.civic-perma.info&path=%2Fcahttingws&security=tls&sni=639073677259599430.civic-perma.info&type=ws#T.ME: @aristapnel
+vless://53f0bca8-f170-4ef7-8031-c7d441189dbf@108.162.194.99:443?allowInsecure=1&encryption=none&host=639073677259599430.civic-perma.info&path=/cahttingws&security=tls&sni=639073677259599430.civic-perma.info&type=ws#T.ME: @aristapnel
 vless://c5a7ef27-9f32-4acf-bf28-6421fb579f9b@tr.morty02.shop:46567?encryption=none&security=none&type=tcp#T.ME: @aristapnel
 vless://7270612b-49f6-4b04-999c-34d8263da767@162.159.44.45:443?allowInsecure=1&encryption=none&host=picassooo.info&path=%2Faymdlws&security=tls&sni=picassooo.info&type=ws#T.ME: @aristapnel
-vless://6f99ed2f-9879-40e3-b5b4-5590c60f8e4a@82.26.91.244:443?mode=gun&security=reality&encryption=none&pbk=g8IbVqG1g7ht5ckWvYgOxZ9CrStwZt8QYQmTEwIWsTU&fp=chrome&type=grpc&sni=vk.ru&sid=b5#T.ME: @aristapnel
+vless://6f99ed2f-9879-40e3-b5b4-5590c60f8e4a@pl5.lckdwn.ru:443?encryption=none&fp=chrome&pbk=g8IbVqG1g7ht5ckWvYgOxZ9CrStwZt8QYQmTEwIWsTU&security=reality&sid=b5&sni=vk.ru&type=grpc#T.ME: @aristapnel
 vless://a16bd0e2-ff2e-4e4c-a955-0c684255a065@ch.fasti.win:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=-YTGWg5DjsLDyaDfr1D83kiUK22LVcrK3yC53lqqigs&security=reality&sid=feedbacc&sni=ch.fasti.win&type=tcp#T.ME: @aristapnel
+vless://18f2f9bc-c55b-40c4-a762-0394b2e11fcf@45.151.106.62:5443?encryption=none&fp=chrome&pbk=MNtVuRK9ydQoPjI2vMSkZMUpwAEjH5qq3hr9kTt2CHk&security=reality&sid=4ef7cdbc&sni=eh.vk.com&type=grpc#T.ME: @aristapnel
+vless://fd37be2f-f8d1-47de-97e8-13c28107d31e@45.15.152.226:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=iCY6H8CpnIfqmIkEABduJEAeJrnYS089R1-jKEyVp3w&security=reality&sid=be91008fd0a4&sni=fin2.frostbot.ru&type=tcp#T.ME: @aristapnel
 vless://3ddce082-7e03-429c-8af8-9a873d23f0ba@188.253.22.2:443?encryption=none&path=%2F&security=none&type=ws#T.ME: @aristapnel
-vless://fd37be2f-f8d1-47de-97e8-13c28107d31e@45.150.65.43:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=iCY6H8CpnIfqmIkEABduJEAeJrnYS089R1-jKEyVp3w&security=reality&sid=5589c1&sni=us1.frostbot.ru&type=tcp#T.ME: @aristapnel
-vless://f7bae22e-20ab-11f1-835c-0242ac110002@fi1.cyphervpn.pro:443?encryption=none&fp=chrome&pbk=z_mZq7riCGYKcTsXGCFX3KyhLL5PYgG3ydZ8_wM_ZkU&security=reality&sid=5bfa0c&sni=fi1.cyphervpn.pro&type=tcp#T.ME: @aristapnel
-vless://ab1ddafb-9514-40ab-9e4b-a3878f70931d@144.31.1.59:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=_KTsOFhGnC0W28ZqO8_FApozMp7tJ9cVBTLKLAA_OR0&security=reality&sid=ae64c9b46bff174a&sni=pl.sky-vault.top&type=tcp#T.ME: @aristapnel
+vless://f2a806c6-f36b-4cd9-8bb6-7addb218ad2d@94.158.218.63:443?security=none&type=ws&headerType=&path=/&host=#T.ME: @aristapnel
 vless://b5be8e3f-a17d-479c-ebdb-9c3265c2cab7@usadt01.jumperservice.com:19001?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=IiuIighvDsor2v-vb5s3IJbNiqwLw568auiqoXxc7FM&security=reality&sni=www.speedtest.org&type=tcp#T.ME: @aristapnel
 vless://fd37be2f-f8d1-47de-97e8-13c28107d31e@193.109.120.119:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=est15.frostbot.ru&pbk=3u-RoUuzGFtfVwCbUJ4GxAhNUyR6DcyAzeyaSdNXG0A&sid=8c#T.ME: @aristapnel
 vless://e384913f-8863-47b4-8858-a84b68abb4a6@104.167.197.59:23335?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=7Gi8eiUU9TIVbGuvSU16gl5-Aqt7tcCSB9x6CSxyvik&security=reality&sid=67b1e94e4dd1ef90&sni=icloud.com&type=tcp#T.ME: @aristapnel
 vless://ee248e40-9468-4ef6-81b7-707a1e47c54a@192.200.160.20:443?fp=chrome&host=639073677243557970.camry-perma.info&path=%2Fyaeungws&security=tls&sni=639073677243557970.camry-perma.info&type=ws#T.ME: @aristapnel
 vless://5952ea01-0669-4f5e-8010-61f8abee3600@fi2.grizzlyvpn.work:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=rPuuq2HGz8VfN9xjDjnjoi-HgTFi-ZvY5l8Ebktuqmc&security=reality&sid=7501ae7ef79c300d&sni=fi2.grizzlyvpn.work&type=tcp#T.ME: @aristapnel
+vless://5952ea01-0669-4f5e-8010-61f8abee3600@213.21.240.91:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=5VRdrOjXKSEfzv0b-rEeYA4B9azYQYC30NZK7y3ciCk&security=reality&sid=791b6fd5edbd57f2&sni=swe.grizzlyvpn.work&type=tcp#T.ME: @aristapnel
+vless://d1209ffb-c159-48d5-b40d-542ce11fc768@it1.axinode.sbs:10965?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=lHxeD2nYtDb1V7JseV-sUTEuqH6_jie7U_iOARX7cT0&security=reality&sid=9f3a7c6d2e8b41af&sni=deepl.com&type=tcp#T.ME: @aristapnel
+vless://d1209ffb-c159-48d5-b40d-542ce11fc768@5rp8xz.maps-yandex.com:10121?security=reality&encryption=none&pbk=4DdA8dBVn5zB_UTbgBY45YqM0HU8zrjXYdzg3-wz5Rg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=apple.com&sid=9c2a7d4e5f18b6a3#T.ME: @aristapnel
+vless://5952ea01-0669-4f5e-8010-61f8abee3600@185.132.53.177:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=P70wPy3T4FVBRTLGD96E9qucETsCj0Iuf1PFquZ1-y4&security=reality&sid=63c63d102d5c29c9&sni=nla.grizzlyvpn.work&type=tcp&note=Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---#T.ME: @aristapnel
+vless://d1209ffb-c159-48d5-b40d-542ce11fc768@94.141.123.146:10965?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=lHxeD2nYtDb1V7JseV-sUTEuqH6_jie7U_iOARX7cT0&security=reality&sid=9f3a7c6d2e8b41af&sni=deepl.com&type=tcp#T.ME: @aristapnel
+vless://b2f99930-7d48-4a22-8d67-539c440b6a7a@8adeefa1-96b4-42d4-b163-1e0bf13bae5d.quadzero.online:443?allowInsecure=1&alpn=http%2F1.1&encryption=none&host=8adeefa1-96b4-42d4-b163-1e0bf13bae5d.quadzero.online&path=%2F01119417&security=tls&sni=8adeefa1-96b4-42d4-b163-1e0bf13bae5d.quadzero.online&type=ws#T.ME: @aristapnel
+vless://d1209ffb-c159-48d5-b40d-542ce11fc768@us1.axinode.sbs:10965?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=lHxeD2nYtDb1V7JseV-sUTEuqH6_jie7U_iOARX7cT0&security=reality&sid=9f3a7c6d2e8b41af&sni=deepl.com&type=tcp#T.ME: @aristapnel
 vless://d1209ffb-c159-48d5-b40d-542ce11fc768@144.31.213.101:10121?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=apple.com&pbk=4DdA8dBVn5zB_UTbgBY45YqM0HU8zrjXYdzg3-wz5Rg&sid=9c2a7d4e5f18b6a3#T.ME: @aristapnel
 vless://d1209ffb-c159-48d5-b40d-542ce11fc768@144.31.213.102:10121?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=apple.com&pbk=4DdA8dBVn5zB_UTbgBY45YqM0HU8zrjXYdzg3-wz5Rg&sid=9c2a7d4e5f18b6a3#T.ME: @aristapnel
 vless://d1209ffb-c159-48d5-b40d-542ce11fc768@138.124.6.182:10965?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=deepl.com&pbk=lHxeD2nYtDb1V7JseV-sUTEuqH6_jie7U_iOARX7cT0&sid=9f3a7c6d2e8b41af#T.ME: @aristapnel
-vless://478cc26d-16b3-4fdd-be64-60d5a58c1622@172.64.146.143:80?encryption=none&host=tt.andishehparenting.com&path=%2F&security=none&type=ws#T.ME: @aristapnel
+vless://478cc26d-16b3-4fdd-be64-60d5a58c1622@188.114.98.0:80?host=tt.andishehparenting.com&path=/&security=none&type=ws#T.ME: @aristapnel
+vless://21915536-afb5-4a0c-b047-fcf549d3a173@185.161.70.10:443?security=reality&sni=wikihow.com&type=tcp&fp=chrome&pbk=1HeKf_8KDjfzXfUi9P7WBaGStMvr96TKdUbofpkwBzQ&sid=8bd29483ded126b4&allowInsecure=0#T.ME: @aristapnel
 vless://d1209ffb-c159-48d5-b40d-542ce11fc768@80.253.249.251:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=Wvt6tuMcFY9rWF2BsdAD4DXgLAoxQJxHWlao2BPR23Y&security=reality&sni=apple.com&type=tcp#T.ME: @aristapnel
-vless://7f37b28b-cfcb-4c2a-ae41-8f2ddc9325dd@est.vles.space:8443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=5Tz44GqhEgM6Q-kOX0WQ6voGySL5sOEeABSUsFDY8Uw&sid=21c7fb5ed34c260c&sni=sun2-16.userapi.com#T.ME: @aristapnel
-vless://21915536-afb5-4a0c-b047-fcf549d3a173@185.125.103.147:443?security=reality&encryption=none&pbk=1HeKf_8KDjfzXfUi9P7WBaGStMvr96TKdUbofpkwBzQ&headerType=none&fp=chrome&type=tcp&sni=wikihow.com&sid=8bd29483ded126b4#T.ME: @aristapnel
+vless://21915536-afb5-4a0c-b047-fcf549d3a173@185.125.103.147:443?encryption=none&fp=chrome&pbk=1HeKf_8KDjfzXfUi9P7WBaGStMvr96TKdUbofpkwBzQ&security=reality&sid=8bd29483ded126b4&sni=wikihow.com&type=tcp#T.ME: @aristapnel
+vless://a774f61d-a518-4c61-902f-807797da6caf@scvad1tel-ru.golden-cards.me:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=whYmACpNNY4B3Yv8iBJ9AmxokZL2Tb7O210utmzvGSo&security=reality&sid=6ba85179e30d4fc2&sni=avatars.mds.yandex.net&type=tcp#T.ME: @aristapnel
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@72.18.132.149:2053?&security=tls&fp=chrome&sni=sni.111000.indevs.in&type=ws&headerType=none&host=sni.111000.indevs.in&path=/?ed=2560&Telegram#T.ME: @aristapnel
+vless://a44e0875-210f-4941-9062-89b6361a14c6@94.131.123.167:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=i5a8i2AWUSMZ-rYA6hGBRCBBoe7W5ah33SCdF5JkMk4&security=reality&sid=8bcfe256cf216fd8&sni=apple.com&type=tcp#T.ME: @aristapnel
+vless://9bde09b3-09b5-4d7a-b5fd-3fae8dfeed5a@185.72.9.200:56126?encryption=none&security=none&type=tcp#T.ME: @aristapnel
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@188.114.98.0:2096?path=%2F&amp;security=tls&amp;encryption=none&amp;insecure=1&amp;host=sni.111000.indevs.in&amp;type=ws&amp;allowInsecure=1&amp;sni=sni.111000.indevs.in#T.ME: @aristapnel
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@192.0.54.238:2096?path=%2F%3Fed%3D2560%26telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40wangcai2&amp;security=tls&amp;encryption=none&amp;insecure=1&amp;host=sni.jpmj.dev&amp;fp=chrome&amp;type=ws&amp;allowInsecure=1&amp;sni=sni.jpmj.dev#T.ME: @aristapnel
+vless://53342b53-157e-4475-9f3a-40439434e689@104.18.173.174:80?encryption=none&security=none&type=ws&host=c.iamdt.dpdns.org&path=%2F%3Fed%3D2048#T.ME: @aristapnel
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@188.114.98.0:2096?path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=sni.111000.indevs.in&amp;type=ws&amp;allowInsecure=0&amp;sni=sni.111000.indevs.in#T.ME: @aristapnel
+vless://94daa8ad-75ed-4dbf-a6de-d05036d98df5@v1.dabache.top:443?allowInsecure=1&encryption=none&host=vangoghhh.info&path=%2Ftixvuws&security=tls&sni=vangoghhh.info&type=ws#T.ME: @aristapnel
+vless://48ddd7e3-5d31-46ab-9153-16c0e4d92adc@139.59.3.70:24725?security=reality&encryption=none&pbk=PAAYOscWvc6-DIWjJ8cHWpgX-xkMUVmu8Nz24itmo34&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=dash.cloudflare.com#T.ME: @aristapnel
+vless://e8fb0f43-3497-4ef3-8a89-35bae56549b7@93.94.51.8:13380?security=reality&encryption=none&pbk=JitkQnVQffSjGpth1UKvZP4yLX6HmcshmClfzbC70T4&headerType=none&fp=chrome&spx=/&type=tcp&sni=yandex.ru&sid=99de062f46387d3e#T.ME: @aristapnel
 vless://e033ef6e-ab4b-47d4-a523-ff568d2c8dbb@94.131.101.19:8443?flow=xtls-rprx-vision&security=reality&encryption=none&sni=tradingview.com&fp=chrome&pbk=TH8C9sgNuMRVR3o5QehXPgYw8PWjoHrH2rVQF4JWwGI&type=tcp&path=%2f#T.ME: @aristapnel
 vless://b74bbaca-8bbe-41e1-9af9-18d467836282@017.electrocellco-cf-017.workers.dev:443?security=tls&encryption=none&type=ws&host=017.electrocellco-cf-017.workers.dev&path=%2feyJqdW5rIjoibnhUbllUVXY1OWIiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119#T.ME: @aristapnel
 vless://a91e1b4f-09f0-48af-a0c8-cd389bd3223c@vpn.nnet.online:443?security=tls&encryption=none&sni=VPn.nnet.Online&type=ws&host=nnet.online&path=%2fvless-tls#T.ME: @aristapnel
@@ -3781,11 +3794,6 @@ trojan://d5604db8-1f31-403d-a315-d8bafc70f7d2@nju.taipei104.indevs.in:443?path=%
 trojan://f7dbed8b1ca85124e793ba6c0bcfd0db@58.152.18.2:443?security=tls&sni=www.nintendogames.net&type=raw#T.ME: @aristapnel
 trojan://trojan@178.157.50.221:8001?allowInsecure=1&fp=chrome&host=jflsjlaf.pages.dev&path=%2F&security=tls&sni=jflsjlaf.pages.dev&type=ws#T.ME: @aristapnel
 trojan://trojan@38.95.73.40:587?allowInsecure=1&fp=chrome&host=jflsjlaf.pages.dev&path=%2F&security=tls&sni=jflsjlaf.pages.dev&type=ws#T.ME: @aristapnel
-trojan://strong-secret-pass-777@94.131.105.125:4443?allowInsecure=1#T.ME: @aristapnel
-trojan://WF42809561@nearby-muskrat.rooster465.autos:443?allowInsecure=0#T.ME: @aristapnel
-trojan://de7d6444-a7a8-4b3a-bf26-bc6939bb0279@n3.chateditimage.com:443?security=tls&sni=n3.chateditimage.com#T.ME: @aristapnel
-trojan://WF42809561@premium-lab.rooster465.autos:443?allowInsecure=0#T.ME: @aristapnel
-trojan://WF42809561@fun-seagull.rooster465.autos:443?allowInsecure=0&sni=fun-seagull.rooster465.autos#T.ME: @aristapnel
 trojan://WF42809561@model-stingray.crayfish192.xyz:443?security=tls&sni=model-stingray.crayfish192.xyz#T.ME: @aristapnel
 trojan://WF42809561@evolving-kangaroo.rooster465.autos:443?security=tls&sni=evolving-kangaroo.rooster465.autos#T.ME: @aristapnel
 trojan://de7d6444-a7a8-4b3a-bf26-bc6939bb0279@n1.chateditimage.com:443?security=tls&sni=n1.chateditimage.com#T.ME: @aristapnel
@@ -3796,13 +3804,18 @@ trojan://WF42809561@top-goshawk.rooster465.autos:443?security=tls&sni=top-goshaw
 trojan://6d29eb2f74293cb01a19b32cf08ad2e9@160.16.70.180:3700?security=tls&sni=www.nintendogames.net#T.ME: @aristapnel
 trojan://IL37892054@steady-lemming.rooster465.autos:443?security=tls&sni=steady-lemming.rooster465.autos#T.ME: @aristapnel
 trojan://IL37892054@fluent-stingray.crayfish192.xyz:443?security=tls&sni=fluent-stingray.crayfish192.xyz#T.ME: @aristapnel
+trojan://IL37892054@caring-ghoul.rooster465.autos:443?security=tls#T.ME: @aristapnel
 trojan://IL37892054@enhanced-crayfish.rooster465.autos:443?security=tls&sni=enhanced-crayfish.rooster465.autos#T.ME: @aristapnel
 trojan://IL37892054@growing-tuna.rooster465.autos:443?security=tls#T.ME: @aristapnel
 trojan://IL37892054@select-marmoset.rooster465.autos:443?security=tls&sni=select-marmoset.rooster465.autos#T.ME: @aristapnel
-trojan://IL37892054@outgoing-ladybird.rooster465.autos:443?security=tls&type=tcp&headerType=none#T.ME: @aristapnel
+trojan://IL37892054@outgoing-ladybird.rooster465.autos:443?security=tls&sni=outgoing-ladybird.rooster465.autos#T.ME: @aristapnel
 trojan://BxceQaOe@95.40.57.225:1850?allowInsecure=1&sni=t.me%2Fripaojiedian#T.ME: @aristapnel
 trojan://ZY07256934@glowing-deer.rooster465.autos:443?security=tls&sni=glowing-deer.rooster465.autos#T.ME: @aristapnel
-trojan://MeaDiUmPlkWbZJ2BON8tz@78.159.131.12:28259?allowInsecure=0&sni=ads.x5.ru#T.ME: @aristapnel
+trojan://MeaDiUmPlkWbZJ2BON8tz@78.159.131.12:28259?security=tls&sni=ads.x5.ru#T.ME: @aristapnel
+trojan://q2GRUM1-odJBWq_KV6xv2fuNvu8ed-@8443.golden-cards.me:443?security=tls&sni=8443.golden-cards.me#T.ME: @aristapnel
+trojan://6d29eb2f74293cb01a19b32cf08ad2e9@160.16.124.17:34818?security=tls&sni=www.nintendogames.net#T.ME: @aristapnel
+trojan://6d29eb2f74293cb01a19b32cf08ad2e9@160.16.106.99:4937?security=tls&sni=www.nintendogames.net#T.ME: @aristapnel
+trojan://13c169be-8592-4eaa-94cb-69c859e7d987@ubu.okaoclax.me:443?path=/trojan-ws&security=tls&host=ubu.okaoclax.me&type=ws&sni=ubu.okaoclax.me#T.ME: @aristapnel
 trojan://humanity@www.multiplydose.com:443?security=tls&sni=www.multiplydose.com&type=ws&host=www.multiplydose.com&path=%2fassignment#T.ME: @aristapnel
 trojan://humanity@www.calmlunch.com:443?security=tls&sni=www.calmlunch.com&type=ws&host=www.calmlunch.com&path=%2fassignment&allow_insecure=0#T.ME: @aristapnel
 trojan://4eddbd4a-ae04-49b9-9e6d-90f88eb4ef36@vpn.nnet.online:443?sni=VPN.NNET.Online&type=ws&host=nnet.online&path=%2ftrojan-tls#T.ME: @aristapnel
@@ -4044,54 +4057,43 @@ ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFN
 ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.180.113.194:8119#T.ME: @aristapnel
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5aHJITURnWjJlZ0tmdHZyZWN2a3BVUHFwVVR5YWM3cQ@scvad1.golden-cards.me:8388#T.ME: @aristapnel
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@20.49.200.10:443#T.ME: @aristapnel
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ@r3mrcg001257bhv.cybervena.com:50099#T.ME: @aristapnel
+ss://YWVzLTI1Ni1nY206OEpDc1Bzc2ZnUzh0aVJ3aU1saEFSZz09@57.128.214.100:12000#T.ME: @aristapnel
 ss://YWVzLTI1Ni1nY206OEpDc1Bzc2ZnUzh0aVJ3aU1saEFSZz09@144.217.164.29:12000#T.ME: @aristapnel
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@193.135.174.135:990#T.ME: @aristapnel
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ@r3mrcg007117fb8.cybervena.com:50099#T.ME: @aristapnel
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ=@r3mrcg001188p8v.cybervena.com:50099#T.ME: @aristapnel
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ=@nbmrcg003505rnd.cybervena.com:50099#T.ME: @aristapnel
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ@n8mrcg005938lsz.cybervena.com:50099#T.ME: @aristapnel
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ=@ncmrcg000138e7b.cybervena.com:50099#T.ME: @aristapnel
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ=@n8mrcg0060292s3.cybervena.com:50099#T.ME: @aristapnel
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ@r3mrcg0011778me.cybervena.com:50099#T.ME: @aristapnel
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ=@r3mrcg001121x36.cybervena.com:50099#T.ME: @aristapnel
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ@r3mrcg001121x36.cybervena.com:50099#T.ME: @aristapnel
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ@namrcg002771r35.cybervena.com:50099#T.ME: @aristapnel
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ=@r3mrcg001142988.cybervena.com:50099#T.ME: @aristapnel
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ=@r3mrcg0011305nw.cybervena.com:50099#T.ME: @aristapnel
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ=@r3mrcg007169a5m.cybervena.com:50099#T.ME: @aristapnel
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ@r3mrcg007153btm.cybervena.com:50099#T.ME: @aristapnel
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ@ncmrcg0001797nk.cybervena.com:50099#T.ME: @aristapnel
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ@r3mrcg001286ek2.cybervena.com:50099#T.ME: @aristapnel
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ@r3mrcg001233myh.cybervena.com:50099#T.ME: @aristapnel
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ@n8mrcg006021kdp.cybervena.com:50099#T.ME: @aristapnel
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ@n8mrcg005977h4d.cybervena.com:50099#T.ME: @aristapnel
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ@nbmrcg003507ck6.cybervena.com:50099#T.ME: @aristapnel
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ=@nbmrcg0034305hx.cybervena.com:50099#T.ME: @aristapnel
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ@r3mrcg0071643p7.cybervena.com:50099#T.ME: @aristapnel
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ=@nbmrcg003507ck6.cybervena.com:50099#T.ME: @aristapnel
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ@nbmrcg0034305hx.cybervena.com:50099#T.ME: @aristapnel
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ=@r3mrcg0071643p7.cybervena.com:50099#T.ME: @aristapnel
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ=@n8mrcg005958sxh.cybervena.com:50099#T.ME: @aristapnel
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ@r3mrcg001222869.cybervena.com:50099#T.ME: @aristapnel
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ=@r3mrcg001222869.cybervena.com:50099#T.ME: @aristapnel
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ=@namrcg001662wgh.cybervena.com:50099#T.ME: @aristapnel
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ=@r3mrcg00121233v.cybervena.com:50099#T.ME: @aristapnel
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ=@nbmrcg003437cgb.cybervena.com:50099#T.ME: @aristapnel
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ=@n8mrcg005972g7w.cybervena.com:50099#T.ME: @aristapnel
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ=@ncmrcg000110w54.cybervena.com:50099#T.ME: @aristapnel
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ@r3mrcg0011993za.cybervena.com:50099#T.ME: @aristapnel
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ@nbmrcg003466pb9.cybervena.com:50099#T.ME: @aristapnel
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ=@n8mrcg005988a7z.cybervena.com:50099#T.ME: @aristapnel
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ@n8mrcg006015jsm.cybervena.com:50099#T.ME: @aristapnel
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ=@n8mrcg005961xa6.cybervena.com:50099#T.ME: @aristapnel
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ@36.224.130.97:50099#T.ME: @aristapnel
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ@r3mrcg007144ll4.cybervena.com:50099#T.ME: @aristapnel
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ=@nbmrcg003494xuj.cybervena.com:50099#T.ME: @aristapnel
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ@r3mrcg0011606bh.cybervena.com:50099#T.ME: @aristapnel
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ=@nbmrcg003466pb9.cybervena.com:50099#T.ME: @aristapnel
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ=@r3mrcg00129437x.cybervena.com:50099#T.ME: @aristapnel
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ=@r3mrcg007175dsk.cybervena.com:50099#T.ME: @aristapnel
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ@nbmrcg0034458by.cybervena.com:50099#T.ME: @aristapnel
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ@r3mrcg001162ctc.cybervena.com:50099#T.ME: @aristapnel
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ=@n8mrcg004732fk8.cybervena.com:50099#T.ME: @aristapnel
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ=@r3mrcg007116sfa.cybervena.com:50099#T.ME: @aristapnel
 ss://YWVzLTI1Ni1nY206WmZiUEZEZGVCajBCMVR4cw@154.53.60.212:80#T.ME: @aristapnel
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ@namrcg002762ymv.cybervena.com:50099#T.ME: @aristapnel
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ@ncmrcg000021myh.cybervena.com:50099#T.ME: @aristapnel
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ@r3mrcg001244wfw.cybervena.com:50099#T.ME: @aristapnel
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ=@r3mrcg007147vhp.cybervena.com:50099#T.ME: @aristapnel
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5aHJITURnWjJlZ0tmdHZyZWN2a3BVUHFwVVR5YWM3cQ==@195.66.25.220:8388#T.ME: @aristapnel
+ss://YWVzLTI1Ni1nY206NW1DSDQ2MjRRZmxPMWNGUg@185.111.156.33:80#T.ME: @aristapnel
 ss://YWVzLTI1Ni1nY206UXpNME5mdU1ObmdiVm5aSw@144.126.145.77:443#T.ME: @aristapnel
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@158.173.20.171:443#T.ME: @aristapnel
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnQzdhUXY5RHNFTmFWZkt6VFBES1lW@212.192.14.226:41968#T.ME: @aristapnel
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ=@36.230.13.161:50099#T.ME: @aristapnel
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@154.223.20.79:989#T.ME: @aristapnel
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@223.165.4.173:989#T.ME: @aristapnel
@@ -4853,18 +4855,14 @@ hysteria2://dongtaiwang.com@62.210.124.146:22000/?insecure=1&sni=www.microsoft.c
 hysteria2://be8cc8f6-0c6a-11f0-a5a3-f23c93141fad@107.167.18.123:1743?sni=ea9466bf-t3dk00-t3i5yp-b4pt.la.shifen.uk&obfs=none&insecure=1#T.ME: @aristapnel
 hysteria2://123456789StrongPass@144.31.224.14:443?insecure=1&sni=www.cloudflare.com#T.ME: @aristapnel
 hysteria2://poland_hysteria2_fastlane_l6g004xu9%3AEK8tFhwRFxFmxwrQQesFLQR2YYq7oPov@144.31.63.58:1935?sni=de4.h.fastlanehosting.ru#T.ME: @aristapnel
-hysteria2://dc6a6c45-b13c-4f1d-8729-19b4d8bba4aa@129.153.25.59:35000?insecure=1&sni=www.lamer.com.hk#T.ME: @aristapnel
-hysteria2://9d80dd14-ac44-11ee-a116-f23c9164ca5d@a27b1341-t59gg0-tb74a6-1q9g2.us.hyhuawei.com:443?obfs=none&insecure=1#T.ME: @aristapnel
-hysteria2://8e0f8ef2-5fe3-11ec-a8bf-f23c91cfbbc9@e4a41201-t6ngg0-tasftf-duku.us.hyhuawei.com:443?sni=e4a41201-t6ngg0-tasftf-duku.us.hyhuawei.com&obfs=none&insecure=1#T.ME: @aristapnel
-hysteria2://94931862-1484-11f0-9ab7-f23c95b6f51d@98f4acfe-t4un40-tdini3-cdfn.la.shifen.uk:1743?obfs=none&insecure=1#T.ME: @aristapnel
-hysteria2://537d7098-fdbe-11ef-8ebc-f23c93141fad@107.167.18.123:1743?sni=14ff4864-t4x400-tcjtj6-d70y.la.shifen.uk&obfs=none&insecure=1#T.ME: @aristapnel
-hysteria2://6286105c-fb6d-11ef-be96-f23c93136cb3@cc65f71a-t4v9c0-t5waci-4550.la.shifen.uk:1743?sni=cc65f71a-t4v9c0-t5waci-4550.la.shifen.uk&obfs=none&insecure=1#T.ME: @aristapnel
-hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@206.71.158.41:35000?sni=api.kermanshahi.org&obfs=salamander&obfs-password=%2540JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=1#T.ME: @aristapnel
-hysteria2://Yet-Another-Public-Config-1@%5B2a14:3f87:f001:13::a%5D:36600:443?sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1#T.ME: @aristapnel
+hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@206.71.158.40:35000?sni=api.kermanshahi.org&obfs=salamander&obfs-password=%252540JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=1#T.ME: @aristapnel
+hysteria2://17cdeb6c-f046-11ee-bdac-f23c93141fad@107.167.18.123:1743?sni=6adab57e-t53wg0-tdvgqe-2gok.la.shifen.uk&obfs=none&insecure=1#T.ME: @aristapnel
+hysteria2://6ce63b80-8b5b-11ef-b635-f23c9164ca5d@1088d113-t6pb40-tbac1z-1j3zm.hk2.hyhuawei.com:443?sni=1088d113-t6pb40-tbac1z-1j3zm.hk2.hyhuawei.com&obfs=none&insecure=1#T.ME: @aristapnel
+hysteria2://0abd5d38-fdf1-11ed-bade-f23c91369f2d@1d4e3b3b-t6ngg0-tedirp-1fli7.us.hyhuawei.com:443?sni=1d4e3b3b-t6ngg0-tedirp-1fli7.us.hyhuawei.com&obfs=none&insecure=1#T.ME: @aristapnel
+hysteria2://ea800f9e-ca6c-11ef-8e74-f23c913c8d2b@6b62b419-t6t0g0-tfjz9x-1t5n1.hk1.hyhuawei.com:443?sni=6b62b419-t6t0g0-tfjz9x-1t5n1.hk1.hyhuawei.com&obfs=none&insecure=1#T.ME: @aristapnel
+hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000?sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1#T.ME: @aristapnel
 hysteria2://auth@65.109.178.92:443?insecure=1&sni=cdn.cloudflare.com&alpn=h3&fastopen=1&up=150&down=300#T.ME: @aristapnel
-hysteria2://759bf004-6137-11ec-bd7c-f23c913c8d2b@cb6ccdef-t53wg0-thiwul-1gcq2.hk1.hyhuawei.com:443?sni=cb6ccdef-t53wg0-thiwul-1gcq2.hk1.hyhuawei.com&obfs=none&insecure=1#T.ME: @aristapnel
-hysteria2://a2b0fd2b-716f-0df8-d4e2-03a1c00e5f1a@934099b9-t6pb40-t7om7n-luwe.us.hyhuawei.com:443?sni=934099b9-t6pb40-t7om7n-luwe.us.hyhuawei.com&obfs=none&insecure=1#T.ME: @aristapnel
-hysteria2://dc6a6c45-b13c-4f1d-8729-19b4d8bba4aa@134.195.101.199:443?insecure=1&sni=www.apple.com#T.ME: @aristapnel
-hysteria2://b9c9905c-1627-11ec-a0fc-f23c913c8d2b@74cba7ec-t57ls0-t6nlrg-ach1.hk1.hyhuawei.com:443?sni=74cba7ec-t57ls0-t6nlrg-ach1.hk1.hyhuawei.com&obfs=none&insecure=1#T.ME: @aristapnel
-hysteria2://E35FD247-3464-493A-AA34-AE0972EDFA8C@hk5.dexlos.com:9610?sni=hk5.dexlos.com&obfs=none&insecure=1#T.ME: @aristapnel
-hysteria2://dc6a6c45-b13c-4f1d-8729-19b4d8bba4aa@143.47.56.230:35000?insecure=1&sni=www.lamer.com.hk#T.ME: @aristapnel
+hysteria2://40639730-e027-11ea-87ad-f23c913c8d2b@96d1fb9f-t6ngg0-t9lc3n-z93q.hk1.hyhuawei.com:443?sni=96d1fb9f-t6ngg0-t9lc3n-z93q.hk1.hyhuawei.com&obfs=none&insecure=1#T.ME: @aristapnel
+hysteria2://be8cc8f6-0c6a-11f0-a5a3-f23c93141fad@ea9466bf-t3dk00-t3i5yp-b4pt.la.shifen.uk:1743?sni=ea9466bf-t3dk00-t3i5yp-b4pt.la.shifen.uk&obfs=none&insecure=1#T.ME: @aristapnel
+hysteria2://E35FD247-3464-493A-AA34-AE0972EDFA8C@hk3.dexlos.com:5343?sni=hk3.dexlos.com&obfs=none&insecure=1#T.ME: @aristapnel
+hysteria2://Yet-Another-Public-Config-1@2a14:3f87:f001:13::a:36400:443?sni=YAPC-1.afshin.ir&obfs=Yet-Another-Public-Config-1&insecure=1#T.ME: @aristapnel

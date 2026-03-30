@@ -1,6 +1,6 @@
 # Telegram TROJAN Configurations
-# Updated: 2026-03-30 03:04:11
-# Count: 8
+# Updated: 2026-03-30 05:42:39
+# Count: 9
 # Source: Telegram Channels
 
 trojan://telegram-id-v2rayvpnchannel@3.122.157.102:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#ARISTA🔥
@@ -10,4 +10,5 @@ trojan://telegram-id-v2rayvpnchannel@15.236.184.73:22223?security=tls&alpn=http/
 trojan://telegram-id-v2rayvpnchannel@15.188.132.93:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#ARISTA🔥
 trojan://telegram-id-v2rayvpnchannel@3.78.2.6:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#ARISTA🔥
 trojan://telegram-id-v2rayvpnchannel@51.44.121.226:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#ARISTA🔥
+trojan://WF42809561@touching-pigeon.rooster465.autos:443?allowInsecure=1#ARISTA🔥
 trojan://telegram-id-privatevpns@15.236.184.73:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#ARISTA🔥

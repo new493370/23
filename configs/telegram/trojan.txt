@@ -1,6 +1,6 @@
 # Telegram TROJAN Configurations
-# Updated: 2026-04-05 14:20:44
-# Count: 7
+# Updated: 2026-04-05 15:19:30
+# Count: 9
 # Source: Telegram Channels
 
 trojan://q2jXRWncMA7pQren_VjQKhSQfoBWK_@170.168.102.234:2083?allowInsecure=1&host=xo.e0f.cx&path=%2Ftrojan-ws&sni=xo.e0f.cx&type=ws#ARISTA🔥
@@ -10,3 +10,5 @@ trojan://telegram-id-v2rayvpnchannel@51.44.53.220:22223?security=tls&alpn=http/1
 trojan://telegram-id-v2rayvpnchannel@52.59.32.38:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#ARISTA🔥
 trojan://telegram-id-v2rayvpnchannel@15.237.155.59:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#ARISTA🔥
 trojan://telegram-id-v2rayvpnchannel@3.77.109.217:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#ARISTA🔥
+trojan://q2jXRWncMA7pQren_VjQKhSQfoBWK_@194.87.30.69:2083?allowInsecure=1&host=xo.e0f.cx&path=%2Ftrojan-ws&sni=xo.e0f.cx&type=ws#ARISTA🔥
+trojan://humanity@172.64.147.24:443?allowInsecure=1&host=www.gossipglove.com&path=%2Fassignment&sni=www.gossipglove.com&type=ws#ARISTA🔥

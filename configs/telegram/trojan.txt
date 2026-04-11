@@ -1,9 +1,10 @@
 # Telegram TROJAN Configurations
-# Updated: 2026-04-11 19:51:32
-# Count: 15
+# Updated: 2026-04-11 20:53:25
+# Count: 14
 # Source: Telegram Channels
 
-trojan://telegram-id-v2rayvpnchannel@35.181.252.180:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#ARISTA🔥
+trojan://telegram-id-privatevpns@63.183.254.133:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#ARISTA🔥
+trojan://telegram-id-privatevpns@35.180.104.104:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#ARISTA🔥
 trojan://telegram-id-v2rayvpnchannel@13.36.189.95:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#ARISTA🔥
 trojan://telegram-id-v2rayvpnchannel@63.180.162.248:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#ARISTA🔥
 trojan://telegram-id-v2rayvpnchannel@35.180.106.44:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#ARISTA🔥
@@ -16,5 +17,3 @@ trojan://humanity@www.calmlunch.com:443?allowInsecure=1&host=www.calmlunch.com&p
 trojan://humanity@104.18.32.47:443?allowInsecure=1&host=www.gossipglove.com&path=%2Fassignment&sni=www.gossipglove.com&type=ws#ARISTA🔥
 trojan://humanity@www.multiplydose.com:443?host=www.multiplydose.com&path=%2F%2Fassignment&type=ws#ARISTA🔥
 trojan://humanity@www.gossipglove.com:443?path=%2Fassignment&type=ws#ARISTA🔥
-trojan://telegram-id-privatevpns@63.183.254.133:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#ARISTA🔥
-trojan://telegram-id-privatevpns@35.180.104.104:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#ARISTA🔥

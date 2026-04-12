@@ -1,6 +1,6 @@
 # All GitHub Configurations
-# Updated: 2026-04-12 12:14:35
-# Total Count: 2760
+# Updated: 2026-04-12 13:36:41
+# Total Count: 2768
 # Source: GitHub Repositories
 
 vmess://eyJ2IjoiMiIsInBzIjoiVC5NRTogQGFyaXN0YXBuZWwiLCJhZGQiOiIxNzIuNjQuMTU1LjIwOSIsInBvcnQiOjg0NDMsImlkIjoiMTllNTJiZjQtMWI3ZC00YmQ0LWFlNjYtNmNhMDI0NDM2YzE3IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiItLS0iLCJob3N0IjoiIiwicGF0aCI6Ii9nYnQiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJmcnN5cy5mbC1kbC5jb20iLCJhbHBuIjoiIiwiZnAiOiIiLCJpbnNlY3VyZSI6IjAiLCJuYW1lIjoiQGNoaWxsZ3V5X3ZwbiJ9
@@ -2763,3 +2763,11 @@ hysteria2://dongtaiwang.com@62.210.124.146:22000/?insecure=1&sni=www.microsoft.c
 hysteria2://1469e09e-027c-11ec-a0fc-f23c913c8d2b@73260474-t6ngg0-to8xn3-l4nv.us.hyhuawei.com:443?obfs=none&insecure=1#T.ME: @aristapnel
 hysteria2://strong-secret-pass-777@45.15.171.80:444/?insecure=1&obfs=salamander&obfs-password=cry_me_a_r1ver_2026&sni=www.microsoft.com#T.ME: @aristapnel
 hysteria2://strong-secret-pass-777@94.131.105.125:444/?insecure=1&obfs=salamander&obfs-password=cry_me_a_r1ver_2026&sni=www.microsoft.com#T.ME: @aristapnel
+hysteria2://0da8651e-e1f6-11ec-bd7c-f23c913c8d2b@a033d21f-t6ngg0-tcinla-hrtf.us.hyhuawei.com:443?sni=a033d21f-t6ngg0-tcinla-hrtf.us.hyhuawei.com&obfs=none&insecure=1#T.ME: @aristapnel
+hysteria2://48b36b6a-eaa6-4843-9231-0bb8b38b5da5@jp-hy2.onetaplink.app:5443?obfs=salamander&obfs-password=CF7WJGiw6r1c8imX&sni=hy2-jp.onetaplink.app#T.ME: @aristapnel
+hysteria2://df7bed3c-06eb-11f0-8ebc-f23c93141fad@e10829f0-t4un40-t9lb2a-1glq.la.shifen.uk:1743?sni=e10829f0-t4un40-t9lb2a-1glq.la.shifen.uk&obfs=none&insecure=1#T.ME: @aristapnel
+hysteria2://zhangyang@130.61.50.75:6443?obfs=none&insecure=1#T.ME: @aristapnel
+hysteria2://b9c9905c-1627-11ec-a0fc-f23c913c8d2b@f1ba91b1-t6ngg0-t6nlrg-ach1.us.hyhuawei.com:443?sni=f1ba91b1-t6ngg0-t6nlrg-ach1.us.hyhuawei.com&obfs=none&insecure=1#T.ME: @aristapnel
+hysteria2://1469e09e-027c-11ec-a0fc-f23c913c8d2b@73260474-t6ngg0-to8xn3-l4nv.us.hyhuawei.com:443?sni=73260474-t6ngg0-to8xn3-l4nv.us.hyhuawei.com&obfs=none&insecure=1#T.ME: @aristapnel
+hysteria2://d18bcaf4-1323-11ec-a0fc-f23c913c8d2b@a6a24529-t6ngg0-t7fz1r-8rja.us.hyhuawei.com:443?sni=a6a24529-t6ngg0-t7fz1r-8rja.us.hyhuawei.com&obfs=none&insecure=1#T.ME: @aristapnel
+hysteria2://6286105c-fb6d-11ef-be96-f23c93136cb3@227fd503-t4ssg0-t5vo4i-4550.la.shifen.uk:1743?obfs=none&insecure=1#T.ME: @aristapnel

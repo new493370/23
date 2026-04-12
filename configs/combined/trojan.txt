@@ -1,27 +1,26 @@
 # Combined TROJAN Configurations
-# Updated: 2026-04-12 13:36:41
-# Count: 111
-# Sources: Telegram (19) + GitHub (92)
+# Updated: 2026-04-12 14:24:04
+# Count: 110
+# Sources: Telegram (18) + GitHub (92)
 
-trojan://humanity@104.18.12.149:443?security=tls&sni=www.gossipglove.com&type=ws&host=www.gossipglove.com&path=%2Fassignment#ARISTA🔥
+trojan://humanity@104.18.12.149:443?path=%2Fassignment&security=tls&host=www.calmlunch.com&type=ws&sni=www.calmlunch.com#ARISTA🔥
+trojan://humanity@188.114.99.0:443?path=%2Fassignment&security=tls&host=www.gossipglove.com&type=ws&sni=www.gossipglove.com#ARISTA🔥
+trojan://humanity@104.18.12.149:443?path=%2Fassignment&security=tls&host=www.multiplydose.com&type=ws&sni=www.multiplydose.com#ARISTA🔥
+trojan://humanity@104.18.12.149:443?path=%2Fassignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#ARISTA🔥
+trojan://humanity@104.18.12.149:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#ARISTA🔥
+trojan://humanity@104.18.12.149:443?path=%2Fassignment&security=tls&insecure=0&host=www.multiplydose.com&type=ws&allowInsecure=0&sni=www.multiplydose.com#ARISTA🔥
 trojan://telegram-id-v2rayvpnchannel@35.180.106.44:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#ARISTA🔥
 trojan://telegram-id-v2rayvpnchannel@3.75.144.171:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#ARISTA🔥
 trojan://telegram-id-v2rayvpnchannel@15.236.102.48:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#ARISTA🔥
 trojan://telegram-id-v2rayvpnchannel@15.237.97.29:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#ARISTA🔥
 trojan://telegram-id-v2rayvpnchannel@63.183.254.133:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#ARISTA🔥
 trojan://telegram-id-v2rayvpnchannel@35.180.104.104:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#ARISTA🔥
-trojan://humanity@104.18.12.149:443?path=%2Fassignment&security=tls&insecure=0&host=www.multiplydose.com&type=ws&allowInsecure=0&sni=www.multiplydose.com#ARISTA🔥
 trojan://humanity@www.multiplydose.com:443?host=www.multiplydose.com&path=%2F%2Fassignment&type=ws#ARISTA🔥
 trojan://humanity@www.gossipglove.com:443?path=%2Fassignment&type=ws#ARISTA🔥
 trojan://humanity@104.18.11.110:443?host=www.multiplydose.com&path=%2Fassignment&sni=www.multiplydose.com&type=ws#ARISTA🔥
 trojan://humanity@www.multiplydose.com:443?allowInsecure=1&host=www.multiplydose.com&path=%2Fassignment&type=ws#ARISTA🔥
-trojan://22367c45-f6c4-4ca8-8d52-d9787d7bbe91@104.18.12.149:2096?path=%2Fdl%2Fep%2Fpage%2Fproxyip&security=tls&insecure=0&type=ws&allowInsecure=0&sni=cm22-bgphhh.pages.dev#ARISTA🔥
-trojan://95tguyDtPydNyzAV1HK-2g@backfall.azadiconfig.top:443?path=%2Fblog&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=backfall.azadiconfig.top#ARISTA🔥
-trojan://humanity@104.18.12.149:443?path=%2Fassignment&security=tls&insecure=0&host=www.gossipglove.com&type=ws&allowInsecure=0&sni=www.gossipglove.com#ARISTA🔥
-trojan://telegram-id-privatevpns@3.121.58.242:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#ARISTA🔥
-trojan://telegram-id-privatevpns@13.39.249.232:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#ARISTA🔥
-trojan://humanity@104.18.12.149:443?path=%2Fassignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#ARISTA🔥
-trojan://humanity@104.18.12.149:443?security=tls&sni=www.multiplydose.com&insecure=0&allowInsecure=0&type=ws&host=www.multiplydose.com&path=%2Fassignment#ARISTA🔥
+trojan://humanity@www.ignitelimit.com:443?security=tls&sni=www.ignitelimit.com&fp=chrome&type=ws&path=/assignment#ARISTA🔥
+trojan://humanity@104.18.12.149:443?security=tls&sni=www.gossipglove.com&type=ws&host=www.gossipglove.com&path=%2Fassignment#ARISTA🔥
 trojan://humanity@104.18.32.47:443?security=tls&sni=www.multiplydose.com&type=ws&host=www.multiplydose.com&path=%2Fassignment#T.ME: @aristapnel
 trojan://humanity@188.114.98.0:443?security=tls&sni=www.creationlong.org&type=ws&host=www.creationlong.org&path=%2Fassignment#T.ME: @aristapnel
 trojan://humanity@172.64.152.23:443?security=tls&sni=www.calmlunch.com&type=ws&host=www.calmlunch.com&path=%2Fassignment#T.ME: @aristapnel

@@ -1,7 +1,7 @@
 # Combined HYSTERIA2 Configurations
-# Updated: 2026-04-19 03:34:16
-# Count: 41
-# Sources: Telegram (0) + GitHub (41)
+# Updated: 2026-04-19 05:54:26
+# Count: 50
+# Sources: Telegram (0) + GitHub (50)
 
 hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@mumbai-3.nezhasu.com:443?sni=mumbai-3.nezhasu.com&insecure=1&mport=50000-65535#T.ME: @aristapnel
 hysteria2://e42a38c4-4bea-42d6-90f1-3076e12f8c51@lsdg1.lansecs.top:58338?sni=lsdg1.lansecs.top&insecure=1#T.ME: @aristapnel
@@ -43,4 +43,13 @@ hysteria2://4d092122-268a-4a1a-b23f-83931c5abc3a@37.114.49.38:2056/?insecure=1&s
 hysteria2://ad49d6ea-c453-4a2e-b36a-2b71a3e0ed12@132.145.28.17:65535/?insecure=1&sni=www.microsoft.com#T.ME: @aristapnel
 hysteria2://1469e09e-027c-11ec-a0fc-f23c913c8d2b@73260474-t6ngg0-to8xn3-l4nv.us.hyhuawei.com:443?obfs=none&insecure=1#T.ME: @aristapnel
 hysteria2://dongtaiwang.com@163.172.113.118:40022/?insecure=1&sni=www.microsoft.com#T.ME: @aristapnel
+hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35200?sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1#T.ME: @aristapnel
+hysteria2://Yet-Another-Public-Config-1@2a14:3f87:f001:13::a:36600:443?sni=YAPC-1.afshin.ir&obfs=Yet-Another-Public-Config-1&insecure=1#T.ME: @aristapnel
+hysteria2://9c23940e-efd8-4763-bfb5-54739b50893d@156.226.173.8:8443?sni=hy5.hy2yydsapi.top&obfs=none&insecure=1#T.ME: @aristapnel
+hysteria2://Yet-Another-Public-Config-1@2a14:3f87:f001:13::a:35200:443?sni=YAPC-1.afshin.ir&obfs=Yet-Another-Public-Config-1&insecure=1#T.ME: @aristapnel
+hysteria2://Yet-Another-Public-Config-1@206.71.158.37:36400?sni=YAPC-1.afshin.ir&obfs=Yet-Another-Public-Config-1&insecure=1#T.ME: @aristapnel
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-us-021.fastervpn.world:443?insecure=1&sni=vpn-us-021.fastervpn.world#T.ME: @aristapnel
+hysteria2://9d80dd14-ac44-11ee-a116-f23c9164ca5d@a27b1341-t59gg0-tb74a6-1q9g2.us.hyhuawei.com:443?sni=a27b1341-t59gg0-tb74a6-1q9g2.us.hyhuawei.com&obfs=none&insecure=1#T.ME: @aristapnel
+hysteria2://dongtaiwang.com@163.172.113.118:40022?sni=www.microsoft.com&obfs=none&insecure=1#T.ME: @aristapnel
+hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000?sni=YAPC-1.afshin.ir&obfs=Yet-Another-Public-Config-1&insecure=1#T.ME: @aristapnel
 hy2://123456789StrongPass@144.31.224.14:443?sni=www.cloudflare.com&path=%2f&allow_insecure=1#T.ME: @aristapnel

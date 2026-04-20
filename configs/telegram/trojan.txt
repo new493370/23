@@ -1,11 +1,10 @@
 # Telegram TROJAN Configurations
-# Updated: 2026-04-20 21:26:23
-# Count: 6
+# Updated: 2026-04-20 22:21:58
+# Count: 5
 # Source: Telegram Channels
 
-trojan://telegram-id-v2rayvpnchannel@3.64.145.4:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#ARISTA🔥
+trojan://telegram-id-directvpn@51.44.101.255:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#ARISTA🔥
 trojan://telegram-id-v2rayvpnchannel@15.237.148.202:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#ARISTA🔥
 trojan://telegram-id-v2rayvpnchannel@15.188.12.141:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#ARISTA🔥
 trojan://telegram-id-v2rayvpnchannel@18.193.0.159:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#ARISTA🔥
 trojan://telegram-id-v2rayvpnchannel@51.44.101.255:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#ARISTA🔥
-trojan://telegram-id-directvpn@51.44.101.255:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#ARISTA🔥

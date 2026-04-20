@@ -1,16 +1,13 @@
 # Combined TROJAN Configurations
-# Updated: 2026-04-20 20:15:09
-# Count: 152
-# Sources: Telegram (9) + GitHub (143)
+# Updated: 2026-04-20 21:26:25
+# Count: 158
+# Sources: Telegram (6) + GitHub (152)
 
 trojan://telegram-id-v2rayvpnchannel@3.64.145.4:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#ARISTA🔥
 trojan://telegram-id-v2rayvpnchannel@15.237.148.202:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#ARISTA🔥
 trojan://telegram-id-v2rayvpnchannel@15.188.12.141:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#ARISTA🔥
 trojan://telegram-id-v2rayvpnchannel@18.193.0.159:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#ARISTA🔥
 trojan://telegram-id-v2rayvpnchannel@51.44.101.255:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#ARISTA🔥
-trojan://6202b230-417c-4d8e-b624-0f71afa9c75d@172.64.147.29:443?allowInsecure=1&alpn=http%2F1.1&fp=chrome&host=sni.111000.dynv6.net&path=%2F%3Fproxyip%3Dip.111000.de5.net%253A443&sni=sni.111000.dynv6.net&type=ws#ARISTA🔥
-trojan://6202b230-417c-4d8e-b624-0f71afa9c75d@162.159.36.5:443?allowInsecure=1&alpn=http%2F1.1&host=sni.111000.dynv6.net&path=%2F%3Fproxyip%3Dip.111000.de5.net%3A443&sni=sni.111000.dynv6.net&type=ws#ARISTA🔥
-trojan://telegram-id-privatevpns@51.44.101.255:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#ARISTA🔥
 trojan://telegram-id-directvpn@51.44.101.255:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#ARISTA🔥
 trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&insecure=1&host=www.calmlunch.com&type=ws&allowInsecure=1&sni=www.calmlunch.com#T.ME: @aristapnel
 trojan://humanity@172.64.152.23:443?security=tls&sni=www.calmlunch.com&type=ws&host=www.calmlunch.com&path=%2Fassignment#T.ME: @aristapnel
@@ -42,11 +39,17 @@ trojan://6202b230-417c-4d8e-b624-0f71afa9c75d@172.64.147.29:443?allowInsecure=1&
 trojan://6202b230-417c-4d8e-b624-0f71afa9c75d@bestcf.030101.xyz:443?allowInsecure=1&alpn=http/1.1&host=sni.111000.dynv6.net&path=/?proxyip=ip.111000.de5.net%3A443&sni=sni.111000.dynv6.net&type=ws#T.ME: @aristapnel
 trojan://6202b230-417c-4d8e-b624-0f71afa9c75d@jp.111000.cc.cd:443?allowInsecure=1&alpn=http/1.1&host=sni.111000.dynv6.net&path=/?proxyip=ip.111000.de5.net%3A443&sni=sni.111000.dynv6.net&type=ws#T.ME: @aristapnel
 trojan://6202b230-417c-4d8e-b624-0f71afa9c75d@saas.sin.fan:443?allowInsecure=1&alpn=http/1.1&host=sni.111000.dynv6.net&path=/?proxyip=ip.111000.de5.net%3A443&sni=sni.111000.dynv6.net&type=ws#T.ME: @aristapnel
+trojan://6202b230-417c-4d8e-b624-0f71afa9c75d@sni.111000.dynv6.net:443?security=tls&sni=sni.111000.dynv6.net&alpn=http/1.1&fp=chrome&type=ws&path=/#T.ME: @aristapnel
+trojan://Nova-Proxy@spring-tooth-7fa3.ahmadrj.workers.dev:443?security=tls&sni=spring-tooth-7fa3.ahmadrj.workers.dev&fp=random&type=ws&path=/?ed=2560#T.ME: @aristapnel
+trojan://Nova-Proxy@spring-tooth-7fa3.ahmadrj.workers.dev:443?security=tls&type=ws&path=/#T.ME: @aristapnel
+trojan://bpb-trojan@vless.herogoing.top:443?security=tls&sni=vless.herogoing.top&type=ws&host=vless.herogoing.top&path=/tr?ed=2560#T.ME: @aristapnel
 trojan://bpb-trojan@wing2452.nyc.mn:443?security=tls&sni=wing2452.nyc.mn&type=ws&host=wing2452.nyc.mn&path=/tr#T.ME: @aristapnel
+trojan://bpb-trojan@wing2452.nyc.mn:443?security=tls&sni=wing2452.nyc.mn&type=ws&host=wing2452.nyc.mn&path=/tr?ed=2560#T.ME: @aristapnel
 trojan://e136d465-0558-43b9-b50c-b1f45d4cb2c2@jp2-8sb.6121999.dpdns.org:24534?allowInsecure=0&sni=jp2-8sb.6121999.dpdns.org#T.ME: @aristapnel
+trojan://e136d465-0558-43b9-b50c-b1f45d4cb2c2@jp2-8sb.6121999.dpdns.org:24534?security=tls&sni=jp2-8sb.6121999.dpdns.org&type=tcp&headerType=none&path=/&allow_insecure=0#T.ME: @aristapnel
+trojan://fQmMJwOLMlqHednu2SVED8gi-+H-db9kbg@194.87.10.31:23357?allowInsecure=0&sni=sgp9.node-resource.click#T.ME: @aristapnel
 trojan://humanity@104.17.150.76:443?alpn=http/1.1&host=www.calmloud.com&path=/assignment&sni=www.calmloud.com&type=ws#T.ME: @aristapnel
 trojan://humanity@104.18.11.110:443?host=www.multiplydose.com&path=/assignment&sni=www.multiplydose.com&type=ws#T.ME: @aristapnel
-trojan://fQmMJwOLMlqHednu2SVED8gi-+H-db9kbg@194.87.10.31:23357?allowInsecure=0&sni=sgp9.node-resource.click#T.ME: @aristapnel
 trojan://humanity@104.18.12.149:443?host=www.ignitelimit.com&path=/assignment&sni=www.ignitelimit.com&type=ws#T.ME: @aristapnel
 trojan://humanity@104.18.12.149:443?path=/assignment&security=tls&host=www.gossipglove.com&type=ws&sni=www.gossipglove.com#T.ME: @aristapnel
 trojan://humanity@104.18.12.149:443?path=/assignment&security=tls&insecure=0&host=www.gossipglove.com&type=ws&allowInsecure=0&sni=www.gossipglove.com#T.ME: @aristapnel
@@ -61,16 +64,16 @@ trojan://humanity@172.64.147.24:443?allowInsecure=1&host=www.gossipglove.com&pat
 trojan://humanity@172.64.149.54:443?path=/assignment&security=tls&insecure=0&host=www.gossipglove.com&type=ws&allowInsecure=0&sni=www.gossipglove.com#T.ME: @aristapnel
 trojan://humanity@172.64.152.23:443?allowInsecure=1&host=www.calmlunch.com&path=/assignment&sni=www.calmlunch.com&type=ws#T.ME: @aristapnel
 trojan://humanity@172.64.152.23:443?path=/assignment&security=tls&alpn=h2,http/1.1&insecure=0&host=www.creationlong.org&fp=chrome&type=ws&allowInsecure=0&sni=www.creationlong.org#T.ME: @aristapnel
-trojan://humanity@172.64.152.23:443?path=/assignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#T.ME: @aristapnel
 trojan://humanity@172.64.152.23:443?path=/assignment&security=tls&insecure=0&host=www.gossipglove.com&fp=chrome&type=ws&allowInsecure=0&sni=www.gossipglove.com#T.ME: @aristapnel
+trojan://humanity@172.64.152.23:443?path=/assignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#T.ME: @aristapnel
 trojan://humanity@172.64.152.23:443?path=/assignment&security=tls&insecure=1&host=www.calmlunch.com&type=ws&allowInsecure=1&sni=www.calmlunch.com#T.ME: @aristapnel
 trojan://humanity@172.64.152.23:443?path=/assignment&security=tls&insecure=1&host=www.gossipglove.com&type=ws&allowInsecure=1&sni=www.gossipglove.com#T.ME: @aristapnel
 trojan://humanity@172.64.152.23:443?security=tls&sni=www.calmlunch.com&type=ws&host=www.calmlunch.com&path=/assignment#T.ME: @aristapnel
-trojan://humanity@172.67.180.92:443?path=/assignment&security=tls&host=www.multiplydose.com&type=ws&sni=www.multiplydose.com#T.ME: @aristapnel
 trojan://humanity@172.67.180.92:443?path=/assignment&security=tls&host=www.multiplydose.com&fp=chrome&type=ws&sni=www.multiplydose.com#T.ME: @aristapnel
+trojan://humanity@172.67.180.92:443?path=/assignment&security=tls&host=www.multiplydose.com&type=ws&sni=www.multiplydose.com#T.ME: @aristapnel
 trojan://humanity@172.67.180.92:443?security=tls&sni=www.multiplydose.com&fp=chrome&allowInsecure=1&type=ws&host=www.multiplydose.com&path=/assignment#T.ME: @aristapnel
-trojan://humanity@185.18.250.252:443?security=tls&sni=www.gossipglove.com&type=ws&host=www.gossipglove.com&path=/assignment#T.ME: @aristapnel
 trojan://humanity@185.18.250.245:443?security=tls&sni=www.calmlunch.com&allowInsecure=1&type=ws&host=www.calmlunch.com&path=/assignment#T.ME: @aristapnel
+trojan://humanity@185.18.250.252:443?security=tls&sni=www.gossipglove.com&type=ws&host=www.gossipglove.com&path=/assignment#T.ME: @aristapnel
 trojan://humanity@188.114.96.3:443?path=/assignment&security=tls&host=www.creationlong.org&type=ws&sni=www.creationlong.org#T.ME: @aristapnel
 trojan://humanity@188.114.96.3:443?security=tls&sni=www.creationlong.org&allowInsecure=1&type=ws&host=www.creationlong.org&path=/assignment#T.ME: @aristapnel
 trojan://humanity@188.114.96.3:443?type=ws&host=www.gossipglove.com&path=/assignment&security=tls&fp=chrome&sni=www.gossipglove.com#T.ME: @aristapnel
@@ -86,70 +89,73 @@ trojan://humanity@8.6.112.6:443?path=/assignment&security=tls&alpn=http/1.1&inse
 trojan://humanity@8.6.112.6:443?path=/assignment&security=tls&insecure=1&host=www.creationlong.org&type=ws&allowInsecure=1&sni=www.creationlong.org#T.ME: @aristapnel
 trojan://humanity@chatgpt.com:443?allowInsecure=1&host=www.gossipglove.com&path=/assignment&sni=www.gossipglove.com&type=ws#T.ME: @aristapnel
 trojan://humanity@sourceforge.net:443?allowInsecure=1&alpn=http/1.1&host=www.calmloud.com&path=/assignment&sni=www.calmloud.com&type=ws#T.ME: @aristapnel
+trojan://humanity@v1.dabache.top:443?path=/assignment&security=tls&insecure=1&host=www.multiplydose.com&type=ws&allowInsecure=1&sni=www.multiplydose.com#T.ME: @aristapnel
 trojan://humanity@v1.dabache.top:443?path=/assignment&security=tls&host=www.multiplydose.com&type=ws&sni=www.multiplydose.com#T.ME: @aristapnel
 trojan://humanity@v1.dabache.top:443?allowInsecure=1&host=www.creationlong.org&path=/assignment&sni=www.creationlong.org&type=ws#T.ME: @aristapnel
-trojan://humanity@v1.dabache.top:443?path=/assignment&security=tls&insecure=1&host=www.multiplydose.com&type=ws&allowInsecure=1&sni=www.multiplydose.com#T.ME: @aristapnel
 trojan://humanity@www.calmlunch.com:443?allowInsecure=1&host=www.calmlunch.com&path=/assignment&type=ws#T.ME: @aristapnel
 trojan://humanity@www.calmlunch.com:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#T.ME: @aristapnel
 trojan://humanity@v3.dabache.top:443?allowInsecure=1&host=www.gossipglove.com&path=/assignment&sni=www.gossipglove.com&type=ws#T.ME: @aristapnel
 trojan://humanity@www.calmlunch.com:443?security=tls&sni=www.calmlunch.com&type=ws&host=www.calmlunch.com&path=/assignment#T.ME: @aristapnel
 trojan://humanity@www.calmlunch.com:443?security=tls&sni=www.calmlunch.com&type=ws&host=www.calmlunch.com&path=/assignment&allow_insecure=0#T.ME: @aristapnel
+trojan://humanity@www.calmlunch.com:443?security=tls&type=ws&host=www.calmlunch.com&path=/assignment#T.ME: @aristapnel
+trojan://humanity@www.calmlunch.com:443?security=tls&type=ws&path=/assignment#T.ME: @aristapnel
 trojan://humanity@www.creationlong.org:443?path=/assignment&security=tls&fp=chrome&type=ws&sni=www.creationlong.org#T.ME: @aristapnel
+trojan://humanity@www.creationlong.org:443?security=tls&sni=www.creationlong.org&alpn=h2,http/1.1&fp=chrome&type=ws&path=/assignment#T.ME: @aristapnel
+trojan://humanity@www.creationlong.org:443?security=tls&sni=www.creationlong.org&alpn=h2,http/1.1&type=ws&path=/assignment#T.ME: @aristapnel
 trojan://humanity@www.creationlong.org:443?security=tls&sni=www.creationlong.org&fp=chrome&type=ws&path=/assignment#T.ME: @aristapnel
 trojan://humanity@www.gossipglove.com:443?allowInsecure=1&path=/assignment&type=ws#T.ME: @aristapnel
-trojan://humanity@www.gossipglove.com:443?security=tls&sni=www.gossipglove.com&fp=chrome&type=ws&path=/assignment#T.ME: @aristapnel
-trojan://humanity@www.gossipglove.com:443?security=tls&sni=www.gossipglove.com&fp=chrome&type=ws&path=/assignment&allow_insecure=0#T.ME: @aristapnel
-trojan://humanity@www.gossipglove.com:443?security=tls&sni=www.gossipglove.com&fp=chrome&type=ws&path=/assignment&allow_insecure=1#T.ME: @aristapnel
-trojan://humanity@www.gossipglove.com:443?security=tls&type=ws&path=/assignment#T.ME: @aristapnel
+trojan://humanity@www.gossipglove.com:443?security=tls&fp=chrome&type=ws&path=/assignment#T.ME: @aristapnel
+trojan://humanity@www.gossipglove.com:443?security=tls&sni=www.gossipglove.com&alpn=http/1.1&fp=chrome&type=ws&path=/assignment#T.ME: @aristapnel
+trojan://humanity@www.gossipglove.com:443?security=tls&type=ws&host=www.gossipglove.com&path=/assignment#T.ME: @aristapnel
 trojan://humanity@www.ignitelimit.com:443?allowInsecure=1&path=/assignment&type=ws#T.ME: @aristapnel
+trojan://humanity@www.ignitelimit.com:443?security=tls&sni=www.ignitelimit.com&alpn=http/1.1&fp=chrome&type=ws&path=/assignment#T.ME: @aristapnel
 trojan://humanity@www.multiplydose.com:443?allowInsecure=1&host=www.multiplydose.com&path=//assignment&type=ws#T.ME: @aristapnel
+trojan://humanity@www.multiplydose.com:443?security=tls&type=ws&host=www.multiplydose.com&path=//assignment#T.ME: @aristapnel
+trojan://humanity@www.multiplydose.com:443?security=tls&type=ws&host=www.multiplydose.com&path=/assignment#T.ME: @aristapnel
+trojan://n5ix4FcMQYENMQPL+YKbvyJ8nZ84+bNTsj@82.26.155.105:10369?allowInsecure=1&sni=fra32.chasem2026sud.com#T.ME: @aristapnel
+trojan://n5ix4FcMQYENMQPL+YKbvyJ8nZ84+bNTsj@82.26.155.121:10369?allowInsecure=1&sni=fra33.chasem2026sud.com#T.ME: @aristapnel
+trojan://n5ix4FcMQYENMQPL+YKbvyJ8nZ84+bNTsj@82.26.155.20:10369?allowInsecure=1&sni=fra35.chasem2026sud.com#T.ME: @aristapnel
+trojan://n5ix4FcMQYENMQPL+YKbvyJ8nZ84+bNTsj@82.26.155.237:10369?allowInsecure=1&sni=fra5.chasem2026sud.com#T.ME: @aristapnel
+trojan://n5ix4FcMQYENMQPL+YKbvyJ8nZ84+bNTsj@82.26.155.237:10369?sni=fra5.chasem2026sud.com&fp=chrome&type=tcp&path=/#T.ME: @aristapnel
 trojan://q2jXRWncMA7pQren_VjQKhSQfoBWK_@149.33.19.105:2083?allowInsecure=1&host=xo.e0f.cx&path=/trojan-ws&sni=xo.e0f.cx&type=ws#T.ME: @aristapnel
 trojan://q2jXRWncMA7pQren_VjQKhSQfoBWK_@160.119.251.210:2083?allowInsecure=1&host=xo.e0f.cx&path=/trojan-ws&sni=xo.e0f.cx&type=ws#T.ME: @aristapnel
+trojan://q2jXRWncMA7pQren_VjQKhSQfoBWK_@170.168.102.234:2083?allowInsecure=1&host=xo.e0f.cx&path=/trojan-ws&sni=xo.e0f.cx&type=ws#T.ME: @aristapnel
 trojan://q2jXRWncMA7pQren_VjQKhSQfoBWK_@192.142.4.232:2083?allowInsecure=1&host=xo.e0f.cx&path=/trojan-ws&sni=xo.e0f.cx&type=ws#T.ME: @aristapnel
 trojan://q2jXRWncMA7pQren_VjQKhSQfoBWK_@194.87.240.185:2083?allowInsecure=1&host=xo.e0f.cx&path=/trojan-ws&sni=xo.e0f.cx&type=ws#T.ME: @aristapnel
-trojan://q2jXRWncMA7pQren_VjQKhSQfoBWK_@170.168.102.234:2083?allowInsecure=1&host=xo.e0f.cx&path=/trojan-ws&sni=xo.e0f.cx&type=ws#T.ME: @aristapnel
 trojan://q2jXRWncMA7pQren_VjQKhSQfoBWK_@86.107.100.13:2083?allowInsecure=1&host=xo.e0f.cx&path=/trojan-ws&sni=xo.e0f.cx&type=ws#T.ME: @aristapnel
 trojan://q2jXRWncMA7pQren_VjQKhSQfoBWK_@87.236.146.32:2083?allowInsecure=1&host=xo.e0f.cx&path=/trojan-ws&sni=xo.e0f.cx&type=ws#T.ME: @aristapnel
 trojan://q2jXRWncMA7pQren_VjQKhSQfoBWK_@91.184.250.116:2083?allowInsecure=1&host=xo.e0f.cx&path=/trojan-ws&sni=xo.e0f.cx&type=ws#T.ME: @aristapnel
-trojan://q2jXRWncMA7pQren_VjQKhSQfoBWK_@95.85.243.216:2083?allowInsecure=1&host=xo.e0f.cx&path=/trojan-ws&sni=xo.e0f.cx&type=ws#T.ME: @aristapnel
 trojan://r137979f@162.159.153.212:2087?host=sheleqaz.emotionreza.workers.dev&path=/&sni=sheleqaz.emotionreza.workers.dev&type=ws#T.ME: @aristapnel
+trojan://q2jXRWncMA7pQren_VjQKhSQfoBWK_@95.85.243.216:2083?allowInsecure=1&host=xo.e0f.cx&path=/trojan-ws&sni=xo.e0f.cx&type=ws#T.ME: @aristapnel
 trojan://trojan@103.136.70.115:443?path=/?ed=2560&https://t.me/WangCai2🇨🇳&security=tls&insecure=1&host=jflsjlaf.pages.dev&type=ws&allowInsecure=1&sni=jflsjlaf.pages.dev#T.ME: @aristapnel
 trojan://tpCznR-P5%3DjZUb%23c@66.245.193.152:17126?security=tls&headerType=none&type=tcp&sni=ctaldikgfyw.uefahpgsyz.click#T.ME: @aristapnel
 trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@202.181.103.246:1334?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=www.nintendogames.net#T.ME: @aristapnel
 trojan://q2jXRWncMA7pQren_VjQKhSQfoBWK_@91.184.250.116:2083?security=tls&sni=xo.e0f.cx&type=ws&host=xo.e0f.cx&path=/trojan-ws#T.ME: @aristapnel
-trojan://telegram-id-privatevpns@3.125.219.119:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#T.ME: @aristapnel
+trojan://e136d465-0558-43b9-b50c-b1f45d4cb2c2@jp2-8sb.6121999.dpdns.org:24534?security=tls&sni=jp2-8sb.6121999.dpdns.org#T.ME: @aristapnel
+trojan://humanity@v1.dabache.top:443?security=tls&type=ws&sni=www.multiplydose.com&path=/assignment&host=www.multiplydose.com#T.ME: @aristapnel
 trojan://humanity@104.18.32.47:443?path=%2Fassignment&security=tls&insecure=1&host=www.multiplydose.com&type=ws&allowInsecure=1&sni=www.multiplydose.com#T.ME: @aristapnel
+trojan://fQmMJwOLMlqHednu2SVED8gi-+H-db9kbg@194.87.10.31:23357?security=tls&sni=sgp9.node-resource.click#T.ME: @aristapnel
 trojan://UNWA6USASAb6=uAAZeZMFd+2uKB4.d5KOm@166.88.197.60:26650?security=tls&sni=sea9.firewallcontract.click#T.ME: @aristapnel
+trojan://humanity@v1.dabache.top:443?path=%2Fassignment&security=tls&insecure=1&host=www.multiplydose.com&type=ws&allowInsecure=1&sni=www.multiplydose.com#T.ME: @aristapnel
 trojan://humanity@172.67.180.92:443?security=tls&sni=www.multiplydose.com&fp=chrome&allowInsecure=1&type=ws&host=www.multiplydose.com&path=%2Fassignment#T.ME: @aristapnel
 trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&insecure=0&host=www.multiplydose.com&type=ws&allowInsecure=0&sni=www.multiplydose.com#T.ME: @aristapnel
-trojan://n5ix4FcMQYENMQPL+YKbvyJ8nZ84+bNTsj@82.26.155.105:10369?security=tls&sni=fra32.chasem2026sud.com#T.ME: @aristapnel
+trojan://n5ix4FcMQYENMQPL+YKbvyJ8nZ84+bNTsj@82.26.155.20:10369?security=tls&sni=fra35.chasem2026sud.com#T.ME: @aristapnel
 trojan://868ecdaf6aed618ec98cf78585672b2b@160.16.85.33:4380?security=tls&sni=www.nintendogames.net#T.ME: @aristapnel
 trojan://trojan@152.53.45.251:8888?security=tls&sni=jflsjlaf.pages.dev&type=ws&host=jflsjlaf.pages.dev&path=%2F%2F#T.ME: @aristapnel
 trojan://868ecdaf6aed618ec98cf78585672b2b@160.16.132.38:3057?security=tls&sni=www.nintendogames.net#T.ME: @aristapnel
 trojan://868ecdaf6aed618ec98cf78585672b2b@160.16.132.38:4019?security=tls&sni=www.nintendogames.net#T.ME: @aristapnel
 trojan://868ecdaf6aed618ec98cf78585672b2b@160.16.85.33:4937?security=tls&sni=www.nintendogames.net#T.ME: @aristapnel
-trojan://49197da7-4f74-4c34-8229-35561043c113@159.195.6.151:443?security=reality&sni=www.google.com&fp=random&pbk=TEFfOIgYRUunDwRv_ycZiN8oXGROPx5AQvUCbp9171Q&sid=fd&spx=%2f&type=tcp&path=%2f#T.ME: @aristapnel
+trojan://13c169be-8592-4eaa-94cb-69c859e7d987@ubu.okaoclax.me:443?path=/trojan-ws&security=tls&host=ubu.okaoclax.me&type=ws&sni=ubu.okaoclax.me#T.ME: @aristapnel
 trojan://n5ix4FcMQYENMQPL+YKbvyJ8nZ84+bNTsj@82.26.155.237:10369?sni=fra5.chasem2026sud.com&fp=chrome&type=tcp&path=%2f#T.ME: @aristapnel
-trojan://bpb-trojan@vless.herogoing.top:443?security=tls&sni=vless.herogoing.top&type=ws&host=vless.herogoing.top&path=%2ftr%3fed%3d2560#T.ME: @aristapnel
-trojan://bpb-trojan@wing2452.nyc.mn:443?security=tls&sni=wing2452.nyc.mn&type=ws&host=wing2452.nyc.mn&path=%2ftr%3fed%3d2560#T.ME: @aristapnel
-trojan://6202b230-417c-4d8e-b624-0f71afa9c75d@sni.111000.dynv6.net:443?security=tls&sni=sni.111000.dynv6.net&alpn=http%2f1.1&fp=chrome&type=ws&path=%2f#T.ME: @aristapnel
-trojan://Nova-Proxy@spring-tooth-7fa3.ahmadrj.workers.dev:443?security=tls&type=ws&path=%2f#T.ME: @aristapnel
+trojan://a9866469-18db-4e57-9423-55ae5f96faab@141.98.24.234:443?security=reality&sni=www.google.com&fp=chrome&pbk=T_e4Kf_0Pbc5yM0ltYSjLDn2bZnAyl_m96te767mN1g&sid=07&path=%2f#T.ME: @aristapnel
 trojan://bpb-trojan@wing2452.nyc.mn:443?security=tls&sni=wing2452.nyc.mn&type=ws&host=wing2452.nyc.mn&path=%2ftr#T.ME: @aristapnel
-trojan://Nova-Proxy@spring-tooth-7fa3.ahmadrj.workers.dev:443?security=tls&sni=spring-tooth-7fa3.ahmadrj.workers.dev&fp=random&type=ws&path=%2f%3fed%3d2560#T.ME: @aristapnel
-trojan://humanity@www.multiplydose.com:443?security=tls&type=ws&host=www.multiplydose.com&path=%2f%2fassignment#T.ME: @aristapnel
-trojan://humanity@www.calmlunch.com:443?security=tls&type=ws&path=%2fassignment#T.ME: @aristapnel
-trojan://humanity@www.multiplydose.com:443?security=tls&type=ws&host=www.multiplydose.com&path=%2fassignment#T.ME: @aristapnel
-trojan://humanity@www.calmlunch.com:443?security=tls&type=ws&host=www.calmlunch.com&path=%2fassignment#T.ME: @aristapnel
 trojan://humanity@www.calmlunch.com:443?security=tls&sni=www.calmlunch.com&type=ws&host=www.calmlunch.com&path=%2fassignment&allow_insecure=0#T.ME: @aristapnel
+trojan://humanity@www.gossipglove.com:443?security=tls&type=ws&path=%2fassignment#T.ME: @aristapnel
 trojan://humanity@www.calmlunch.com:443?security=tls&sni=www.calmlunch.com&type=ws&host=www.calmlunch.com&path=%2fassignment#T.ME: @aristapnel
-trojan://humanity@www.gossipglove.com:443?security=tls&fp=chrome&type=ws&path=%2fassignment#T.ME: @aristapnel
-trojan://humanity@www.ignitelimit.com:443?security=tls&sni=www.ignitelimit.com&alpn=http%2f1.1&fp=chrome&type=ws&path=%2fassignment#T.ME: @aristapnel
-trojan://humanity@www.gossipglove.com:443?security=tls&sni=www.gossipglove.com&alpn=http%2f1.1&fp=chrome&type=ws&path=%2fassignment#T.ME: @aristapnel
-trojan://humanity@www.creationlong.org:443?security=tls&sni=www.creationlong.org&alpn=h2%2chttp%2f1.1&fp=chrome&type=ws&path=%2fassignment#T.ME: @aristapnel
-trojan://humanity@www.gossipglove.com:443?security=tls&type=ws&host=www.gossipglove.com&path=%2fassignment#T.ME: @aristapnel
+trojan://humanity@www.gossipglove.com:443?security=tls&sni=www.gossipglove.com&fp=chrome&type=ws&path=%2fassignment#T.ME: @aristapnel
+trojan://humanity@www.gossipglove.com:443?security=tls&sni=www.gossipglove.com&fp=chrome&type=ws&path=%2fassignment&allow_insecure=1#T.ME: @aristapnel
+trojan://humanity@www.gossipglove.com:443?security=tls&sni=www.gossipglove.com&fp=chrome&type=ws&path=%2fassignment&allow_insecure=0#T.ME: @aristapnel
 trojan://humanity@www.creationlong.org:443?security=tls&sni=www.creationlong.org&fp=chrome&type=ws&path=%2fassignment#T.ME: @aristapnel
-trojan://humanity@www.creationlong.org:443?security=tls&sni=www.creationlong.org&alpn=h2%2chttp%2f1.1&type=ws&path=%2fassignment#T.ME: @aristapnel
-trojan://e136d465-0558-43b9-b50c-b1f45d4cb2c2@jp2-8sb.6121999.dpdns.org:24534?security=tls&sni=jp2-8sb.6121999.dpdns.org&type=tcp&headerType=none&path=%2f&allow_insecure=0#T.ME: @aristapnel
 trojan://humanity@188.114.98.0:443?path=%2Fassignment&security=tls&host=www.creationlong.org&type=ws&sni=www.creationlong.org#T.ME: @aristapnel
 trojan://humanity@172.67.180.92:443?path=%2Fassignment&security=tls&host=www.multiplydose.com&fp=chrome&type=ws&sni=www.multiplydose.com#T.ME: @aristapnel
 trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&host=www.gossipglove.com&fp=chrome&type=ws&sni=www.gossipglove.com#T.ME: @aristapnel

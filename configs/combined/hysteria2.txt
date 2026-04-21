@@ -1,7 +1,7 @@
 # Combined HYSTERIA2 Configurations
-# Updated: 2026-04-21 00:20:44
-# Count: 48
-# Sources: Telegram (0) + GitHub (48)
+# Updated: 2026-04-21 04:03:58
+# Count: 53
+# Sources: Telegram (0) + GitHub (53)
 
 hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@mumbai-3.nezhasu.com:443?sni=mumbai-3.nezhasu.com&insecure=1&mport=50000-65535#T.ME: @aristapnel
 hysteria2://e42a38c4-4bea-42d6-90f1-3076e12f8c51@lsdg1.lansecs.top:58338?sni=lsdg1.lansecs.top&insecure=1#T.ME: @aristapnel
@@ -40,14 +40,19 @@ hysteria2://dongtaiwang.com@163.172.113.118:41283?sni=www.microsoft.com&obfs=non
 hysteria2://E35FD247-3464-493A-AA34-AE0972EDFA8C@hk5.dexlos.com:9053?sni=hk5.dexlos.com&obfs=none&insecure=1#T.ME: @aristapnel
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@5.175.249.174:35000?security=tls&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=0&sni=api.kermanshahi.org#T.ME: @aristapnel
 hysteria2://bd515574-3b10-11ee-ac14-f23c9164ca5d@ad72fc1d-t70f40-tb016b-1m7l4.hk1.hyhuawei.com:443?obfs=none&insecure=1#T.ME: @aristapnel
-hysteria2://a305ac08-d136-11ee-b6db-f23c91cfbbc9@ffc60249-t53wg0-t92wi1-1qkeg.hk2.hyhuawei.com:443?sni=ffc60249-t53wg0-t92wi1-1qkeg.hk2.hyhuawei.com&obfs=none&insecure=1#T.ME: @aristapnel
-hysteria2://17cdeb6c-f046-11ee-bdac-f23c93141fad@6adab57e-t53wg0-tdvgqe-2gok.la.shifen.uk:1743?obfs=none&insecure=1#T.ME: @aristapnel
-hysteria2://be8cc8f6-0c6a-11f0-a5a3-f23c93141fad@ea9466bf-t3dk00-t3i5yp-b4pt.la.shifen.uk:1743?obfs=none&insecure=1#T.ME: @aristapnel
-hysteria2://ca9c0c54-1513-11f0-8a7b-f23c913c8d2b@2a25ca75-t6ngg0-tdahby-1tnab.us.hyhuawei.com:443?sni=2a25ca75-t6ngg0-tdahby-1tnab.us.hyhuawei.com&obfs=none&insecure=1#T.ME: @aristapnel
-hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@206.71.158.41:35000?sni=api.kermanshahi.org&obfs=salamander&obfs-password=%2540JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=1#T.ME: @aristapnel
-hysteria2://17cdeb6c-f046-11ee-bdac-f23c93141fad@c37b0be5n-t3kyo0-t3lvgh-2gok.la.shifen.uk:1743?obfs=none&insecure=1#T.ME: @aristapnel
-hysteria2://c3dc8d26-ab2b-11ec-a8bf-f23c91cfbbc9@72b99e3a-t6pb40-t8wh4m-1hpo0.hk1.hyhuawei.com:443?sni=72b99e3a-t6pb40-t8wh4m-1hpo0.hk1.hyhuawei.com&obfs=none&insecure=1#T.ME: @aristapnel
-hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@77.90.41.197:35000?sni=api.kermanshahi.org&obfs=%252540JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=1#T.ME: @aristapnel
-hysteria2://6286105c-fb6d-11ef-be96-f23c93136cb3@227fd503-t4ssg0-t5vo4i-4550.la.shifen.uk:1743?obfs=none&insecure=1#T.ME: @aristapnel
-hysteria2://71504eaf-29ac-4190-89d1-dd9ce2c9ee14@2001:bc8:1640:50eb:dc00:ff:fe57:dd6f:59220:443?sni=Ab.ac&obfs=FnFgQIckcMRtKq7i&insecure=1#T.ME: @aristapnel
-hysteria2://6ce63b80-8b5b-11ef-b635-f23c9164ca5d@1088d113-t6pb40-tbac1z-1j3zm.hk2.hyhuawei.com:443?sni=1088d113-t6pb40-tbac1z-1j3zm.hk2.hyhuawei.com&obfs=none&insecure=1#T.ME: @aristapnel
+hysteria2://github.com%2FAlvin9999-newpac%2Ffanqiang@178.18.147.66:29900?insecure=1&sni=www.microsoft.com#T.ME: @aristapnel
+hysteria2://3286b74d-a633-401f-8e22-6e8e61c5f1d9@45.192.195.52:5555?insecure=1#T.ME: @aristapnel
+hysteria2://17cdeb6c-f046-11ee-bdac-f23c93141fad@c37b0be5-t3kyo0-t3lvgh-2gok.la.shifen.uk:1743?obfs=none&insecure=1#T.ME: @aristapnel
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-jp-005.fastervpn.world:443?insecure=1&sni=vpn-jp-005.fastervpn.world#T.ME: @aristapnel
+hysteria2://c3dc8d26-ab2b-11ec-a8bf-f23c91cfbbc9@72b99e3a-t6pb40-t8wh4m-1hpo0.hk1.hyhuawei.com:443?obfs=none&insecure=1#T.ME: @aristapnel
+hysteria2://a2b0fd2b-716f-0df8-d4e2-03a1c00e5f1a@934099b9-t6pb40-t7om7n-luwe.us.hyhuawei.com:443?sni=934099b9-t6pb40-t7om7n-luwe.us.hyhuawei.com&obfs=none&insecure=1#T.ME: @aristapnel
+hysteria2://5046SHWqk6@91.132.51.160:844?obfs=none&insecure=1#T.ME: @aristapnel
+hysteria2://28213b50-7ed5-11ee-add6-f23c91369f2d@9184ff75-t57ls0-t7hmka-1plv4.hk2.hyhuawei.com:443?sni=9184ff75-t57ls0-t7hmka-1plv4.hk2.hyhuawei.com&obfs=none&insecure=1#T.ME: @aristapnel
+hysteria2://bf36227c-0191-11f0-aee1-f23c91cfbbc9@4ec4fca5-t6r5s0-tc2sod-1tizo.hk1.hyhuawei.com:443?sni=4ec4fca5-t6r5s0-tc2sod-1tizo.hk1.hyhuawei.com&obfs=none&insecure=1#T.ME: @aristapnel
+hysteria2://d18bcaf4-1323-11ec-a0fc-f23c913c8d2b@a6a24529-t6ngg0-t7fz1r-8rja.us.hyhuawei.com:443?sni=a6a24529-t6ngg0-t7fz1r-8rja.us.hyhuawei.com&obfs=none&insecure=1#T.ME: @aristapnel
+hysteria2://b2325ebb-21a3-46db-ae98-44884ef6dc44@fre.guren1.me:8443?insecure=1&sni=python.org#T.ME: @aristapnel
+hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@206.71.158.41:35000?sni=jnir.pichondan.com&obfs=salamander&obfs-password=%252540JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=1#T.ME: @aristapnel
+hysteria2://1469e09e-027c-11ec-a0fc-f23c913c8d2b@73260474-t6ngg0-to8xn3-l4nv.us.hyhuawei.com:443?obfs=none&insecure=1#T.ME: @aristapnel
+hysteria2://bb85e074-b0c2-11ea-ad28-f23c913c8d2b@2adb660c-t6ngg0-t7eqjm-m0b9.us.hyhuawei.com:443?sni=2adb660c-t6ngg0-t7eqjm-m0b9.us.hyhuawei.com&obfs=none&insecure=1#T.ME: @aristapnel
+hysteria2://99129cef-f705-11ee-ada6-f23c91cfbbc9@35f78bc6-t6pb40-tcmtfl-1qudp.hk2.hyhuawei.com:443?sni=35f78bc6-t6pb40-tcmtfl-1qudp.hk2.hyhuawei.com&obfs=none&insecure=1#T.ME: @aristapnel
+hysteria2://96c798f6-4645-11ee-b8a1-f23c9164ca5d@8a40e8c7-t6pb40-th9kx9-1os43.hk2.hyhuawei.com:443?sni=8a40e8c7-t6pb40-th9kx9-1os43.hk2.hyhuawei.com&obfs=none&insecure=1#T.ME: @aristapnel

@@ -1,7 +1,7 @@
 # Combined HYSTERIA2 Configurations
-# Updated: 2026-04-24 03:10:24
-# Count: 54
-# Sources: Telegram (0) + GitHub (54)
+# Updated: 2026-04-24 05:53:36
+# Count: 83
+# Sources: Telegram (0) + GitHub (83)
 
 hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@mumbai-3.nezhasu.com:443?sni=mumbai-3.nezhasu.com&insecure=1&mport=50000-65535#T.ME: @aristapnel
 hysteria2://e42a38c4-4bea-42d6-90f1-3076e12f8c51@lsdg1.lansecs.top:58338?sni=lsdg1.lansecs.top&insecure=1#T.ME: @aristapnel
@@ -53,7 +53,36 @@ hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-in-001.fastervpn.world:443?insecure=1&s
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-uk-002.fastervpn.world:443?insecure=1&sni=vpn-uk-002.fastervpn.world#T.ME: @aristapnel
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-us-006.fastervpn.world:443?insecure=1&sni=vpn-us-006.fastervpn.world#T.ME: @aristapnel
 hysteria2://dongtaiwang.com@163.172.113.118:40022?insecure=1&sni=www.microsoft.com&mport=41000-42000#T.ME: @aristapnel
-hysteria2://426069f8-bd51-4ca1-8be0-406e113e8d6d@hk.mjhy2.com:1443?insecure=1&sni=hk.mjhy2.com#T.ME: @aristapnel
-hysteria2://35cf5b38-abad-4f09-9fb7-89dd924daae2@jp.mjhy2.com:1443?insecure=1&sni=jp.mjhy2.com#T.ME: @aristapnel
-hysteria2://35cf5b38-abad-4f09-9fb7-89dd924daae2@sg.mjhy2.com:1443?insecure=1&sni=sg.mjhy2.com#T.ME: @aristapnel
-hysteria2://3286b74d-a633-401f-8e22-6e8e61c5f1d9@45.192.195.52:5555?insecure=1#T.ME: @aristapnel
+hysteria2://6e73dc5f-5261-4bb0-b116-c28a2144cd7b@jp.mjhy2.com:1443?insecure=1&sni=jp.mjhy2.com#T.ME: @aristapnel
+hysteria2://6e73dc5f-5261-4bb0-b116-c28a2144cd7b@hk.mjhy2.com:1443?insecure=1&sni=hk.mjhy2.com#T.ME: @aristapnel
+hysteria2://A537EA13-778F-4967-953F-EE29617B8E55@jp4.dexlos.com:20708?obfs=salamander&obfs-password=xK9mN2pLq5vR8wB3&sni=jp4.dexlos.com#T.ME: @aristapnel
+hysteria2://A537EA13-778F-4967-953F-EE29617B8E55@sg4.dexlos.com:20702?obfs=salamander&obfs-password=xK9mN2pLq5vR8wB3&sni=sg4.dexlos.com#T.ME: @aristapnel
+hysteria2://A537EA13-778F-4967-953F-EE29617B8E55@jp2.dexlos.com:20233?obfs=salamander&obfs-password=xK9mN2pLq5vR8wB3&sni=jp2.dexlos.com#T.ME: @aristapnel
+hysteria2://A537EA13-778F-4967-953F-EE29617B8E55@sg4.dexlos.com:20623?obfs=salamander&obfs-password=xK9mN2pLq5vR8wB3&sni=sg4.dexlos.com#T.ME: @aristapnel
+hysteria2://A537EA13-778F-4967-953F-EE29617B8E55@jp1.dexlos.com:20067?obfs=salamander&obfs-password=xK9mN2pLq5vR8wB3&sni=jp1.dexlos.com#T.ME: @aristapnel
+hysteria2://A537EA13-778F-4967-953F-EE29617B8E55@sg5.dexlos.com:20947?obfs=salamander&obfs-password=xK9mN2pLq5vR8wB3&sni=sg5.dexlos.com#T.ME: @aristapnel
+hysteria2://A537EA13-778F-4967-953F-EE29617B8E55@jp2.dexlos.com:20301?obfs=salamander&obfs-password=xK9mN2pLq5vR8wB3&sni=jp2.dexlos.com#T.ME: @aristapnel
+hysteria2://A537EA13-778F-4967-953F-EE29617B8E55@jp2.dexlos.com:20261?obfs=salamander&obfs-password=xK9mN2pLq5vR8wB3&sni=jp2.dexlos.com#T.ME: @aristapnel
+hysteria2://A537EA13-778F-4967-953F-EE29617B8E55@sg4.dexlos.com:20651?obfs=salamander&obfs-password=xK9mN2pLq5vR8wB3&sni=sg4.dexlos.com#T.ME: @aristapnel
+hysteria2://A537EA13-778F-4967-953F-EE29617B8E55@sg5.dexlos.com:20954?obfs=salamander&obfs-password=xK9mN2pLq5vR8wB3&sni=sg5.dexlos.com#T.ME: @aristapnel
+hysteria2://A537EA13-778F-4967-953F-EE29617B8E55@jp1.dexlos.com:20075?obfs=salamander&obfs-password=xK9mN2pLq5vR8wB3&sni=jp1.dexlos.com#T.ME: @aristapnel
+hysteria2://6e73dc5f-5261-4bb0-b116-c28a2144cd7b@sg.mjhy2.com:1443?insecure=1&sni=sg.mjhy2.com#T.ME: @aristapnel
+hysteria2://A537EA13-778F-4967-953F-EE29617B8E55@jp3.dexlos.com:20570?obfs=salamander&obfs-password=xK9mN2pLq5vR8wB3&sni=jp3.dexlos.com#T.ME: @aristapnel
+hysteria2://A537EA13-778F-4967-953F-EE29617B8E55@jp1.dexlos.com:20181?obfs=salamander&obfs-password=xK9mN2pLq5vR8wB3&sni=jp1.dexlos.com#T.ME: @aristapnel
+hysteria2://A537EA13-778F-4967-953F-EE29617B8E55@sg5.dexlos.com:20905?obfs=salamander&obfs-password=xK9mN2pLq5vR8wB3&sni=sg5.dexlos.com#T.ME: @aristapnel
+hysteria2://A537EA13-778F-4967-953F-EE29617B8E55@sg5.dexlos.com:20993?obfs=salamander&obfs-password=xK9mN2pLq5vR8wB3&sni=sg5.dexlos.com#T.ME: @aristapnel
+hysteria2://A537EA13-778F-4967-953F-EE29617B8E55@jp3.dexlos.com:20504?obfs=salamander&obfs-password=xK9mN2pLq5vR8wB3&sni=jp3.dexlos.com#T.ME: @aristapnel
+hysteria2://A537EA13-778F-4967-953F-EE29617B8E55@jp5.dexlos.com:20956?obfs=salamander&obfs-password=xK9mN2pLq5vR8wB3&sni=jp5.dexlos.com#T.ME: @aristapnel
+hysteria2://A537EA13-778F-4967-953F-EE29617B8E55@jp1.dexlos.com:20098?obfs=salamander&obfs-password=xK9mN2pLq5vR8wB3&sni=jp1.dexlos.com#T.ME: @aristapnel
+hysteria2://A537EA13-778F-4967-953F-EE29617B8E55@jp1.dexlos.com:20044?obfs=salamander&obfs-password=xK9mN2pLq5vR8wB3&sni=jp1.dexlos.com#T.ME: @aristapnel
+hysteria2://A537EA13-778F-4967-953F-EE29617B8E55@sg4.dexlos.com:20658?obfs=salamander&obfs-password=xK9mN2pLq5vR8wB3&sni=sg4.dexlos.com#T.ME: @aristapnel
+hysteria2://A537EA13-778F-4967-953F-EE29617B8E55@sg4.dexlos.com:20699?obfs=salamander&obfs-password=xK9mN2pLq5vR8wB3&sni=sg4.dexlos.com#T.ME: @aristapnel
+hysteria2://A537EA13-778F-4967-953F-EE29617B8E55@sg4.dexlos.com:20761?obfs=salamander&obfs-password=xK9mN2pLq5vR8wB3&sni=sg4.dexlos.com#T.ME: @aristapnel
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-au-001.fastervpn.world:443?insecure=1&sni=vpn-au-001.fastervpn.world#T.ME: @aristapnel
+hysteria2://A537EA13-778F-4967-953F-EE29617B8E55@sg5.dexlos.com:20826?obfs=salamander&obfs-password=xK9mN2pLq5vR8wB3&sni=sg5.dexlos.com#T.ME: @aristapnel
+hysteria2://A537EA13-778F-4967-953F-EE29617B8E55@jp3.dexlos.com:20442?obfs=salamander&obfs-password=xK9mN2pLq5vR8wB3&sni=jp3.dexlos.com#T.ME: @aristapnel
+hysteria2://A537EA13-778F-4967-953F-EE29617B8E55@jp2.dexlos.com:20264?obfs=salamander&obfs-password=xK9mN2pLq5vR8wB3&sni=jp2.dexlos.com#T.ME: @aristapnel
+hysteria2://A537EA13-778F-4967-953F-EE29617B8E55@jp3.dexlos.com:20449?obfs=salamander&obfs-password=xK9mN2pLq5vR8wB3&sni=jp3.dexlos.com#T.ME: @aristapnel
+hysteria2://A537EA13-778F-4967-953F-EE29617B8E55@jp2.dexlos.com:20278?obfs=salamander&obfs-password=xK9mN2pLq5vR8wB3&sni=jp2.dexlos.com#T.ME: @aristapnel
+hysteria2://A537EA13-778F-4967-953F-EE29617B8E55@sg5.dexlos.com:20832?obfs=salamander&obfs-password=xK9mN2pLq5vR8wB3&sni=sg5.dexlos.com#T.ME: @aristapnel
+hysteria2://A537EA13-778F-4967-953F-EE29617B8E55@jp2.dexlos.com:20251?obfs=salamander&obfs-password=xK9mN2pLq5vR8wB3&sni=jp2.dexlos.com#T.ME: @aristapnel

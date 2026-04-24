@@ -1,6 +1,6 @@
 # GitHub HYSTERIA2 Configurations
-# Updated: 2026-04-24 00:05:58
-# Count: 51
+# Updated: 2026-04-24 03:10:24
+# Count: 54
 # Source: GitHub Repositories
 
 hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@mumbai-3.nezhasu.com:443?sni=mumbai-3.nezhasu.com&insecure=1&mport=50000-65535#T.ME: @aristapnel
@@ -53,4 +53,7 @@ hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-in-001.fastervpn.world:443?insecure=1&s
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-uk-002.fastervpn.world:443?insecure=1&sni=vpn-uk-002.fastervpn.world#T.ME: @aristapnel
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-us-006.fastervpn.world:443?insecure=1&sni=vpn-us-006.fastervpn.world#T.ME: @aristapnel
 hysteria2://dongtaiwang.com@163.172.113.118:40022?insecure=1&sni=www.microsoft.com&mport=41000-42000#T.ME: @aristapnel
+hysteria2://426069f8-bd51-4ca1-8be0-406e113e8d6d@hk.mjhy2.com:1443?insecure=1&sni=hk.mjhy2.com#T.ME: @aristapnel
+hysteria2://35cf5b38-abad-4f09-9fb7-89dd924daae2@jp.mjhy2.com:1443?insecure=1&sni=jp.mjhy2.com#T.ME: @aristapnel
+hysteria2://35cf5b38-abad-4f09-9fb7-89dd924daae2@sg.mjhy2.com:1443?insecure=1&sni=sg.mjhy2.com#T.ME: @aristapnel
 hysteria2://3286b74d-a633-401f-8e22-6e8e61c5f1d9@45.192.195.52:5555?insecure=1#T.ME: @aristapnel

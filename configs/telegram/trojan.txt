@@ -1,10 +1,12 @@
 # Telegram TROJAN Configurations
-# Updated: 2026-04-25 07:05:03
-# Count: 5
+# Updated: 2026-04-25 08:18:32
+# Count: 7
 # Source: Telegram Channels
 
-trojan://gRhMxPMmod@cc.websooj.site:443?security=tls&sni=cc.websooj.site&fp=chrome&allowInsecure=0&alpn=http/1.1&type=ws&path=/heh#ARISTA🔥
+trojan://telegram-id-privatevpns@3.75.103.136:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#ARISTA🔥
 trojan://telegram-id-v2rayvpnchannel@15.224.33.14:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#ARISTA🔥
 trojan://telegram-id-v2rayvpnchannel@15.237.12.135:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#ARISTA🔥
 trojan://telegram-id-v2rayvpnchannel@63.181.194.157:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#ARISTA🔥
 trojan://telegram-id-v2rayvpnchannel@15.237.229.47:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#ARISTA🔥
+trojan://gRhMxPMmod@cc.websooj.site:443?security=tls&sni=cc.websooj.site&fp=chrome&allowInsecure=0&alpn=http/1.1&type=ws&path=/heh#ARISTA🔥
+trojan://BxceQaOe@43.199.206.175:4886?allowInsecure=1&sni=t.me%2Fripaojiedian#ARISTA🔥

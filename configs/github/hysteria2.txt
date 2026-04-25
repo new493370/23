@@ -1,6 +1,6 @@
 # GitHub HYSTERIA2 Configurations
-# Updated: 2026-04-25 07:05:04
-# Count: 49
+# Updated: 2026-04-25 08:18:34
+# Count: 47
 # Source: GitHub Repositories
 
 hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@mumbai-3.nezhasu.com:443?sni=mumbai-3.nezhasu.com&insecure=1&mport=50000-65535#T.ME: @aristapnel
@@ -45,10 +45,8 @@ hysteria2://426069f8-bd51-4ca1-8be0-406e113e8d6d@hk.mjhy2.com:1443?insecure=1&sn
 hysteria2://dongtaiwang.com@163.172.113.118:40022/?insecure=1&sni=www.microsoft.com#T.ME: @aristapnel
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-au-002.fastervpn.world:443?insecure=1&sni=vpn-au-002.fastervpn.world#T.ME: @aristapnel
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-jp-002.fastervpn.world:443?insecure=1&sni=vpn-jp-002.fastervpn.world#T.ME: @aristapnel
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-sg-002.fastervpn.world:443?insecure=1&sni=vpn-sg-002.fastervpn.world#T.ME: @aristapnel
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-tw-001.fastervpn.world:443?insecure=1&sni=vpn-tw-001.fastervpn.world#T.ME: @aristapnel
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-ca-002.fastervpn.world:443?insecure=1&sni=vpn-ca-002.fastervpn.world#T.ME: @aristapnel
-hysteria2://github.com%2FAlvin9999-newpac%2Ffanqiang@178.18.147.66:29900?insecure=1&sni=www.microsoft.com#T.ME: @aristapnel
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-us-001.fastervpn.world:443?insecure=1&sni=vpn-us-001.fastervpn.world#T.ME: @aristapnel
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-de-001.fastervpn.world:443?insecure=1&sni=vpn-de-001.fastervpn.world#T.ME: @aristapnel
-hysteria2://3286b74d-a633-401f-8e22-6e8e61c5f1d9@45.192.195.52:5555?insecure=1#T.ME: @aristapnel
+hysteria2://github.com%2FAlvin9999-newpac%2Ffanqiang@178.18.147.66:29900?insecure=1&sni=www.microsoft.com#T.ME: @aristapnel
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-tw-001.fastervpn.world:443?insecure=1&sni=vpn-tw-001.fastervpn.world#T.ME: @aristapnel
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-sg-002.fastervpn.world:443?insecure=1&sni=vpn-sg-002.fastervpn.world#T.ME: @aristapnel
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-ca-002.fastervpn.world:443?insecure=1&sni=vpn-ca-002.fastervpn.world#T.ME: @aristapnel

@@ -1,22 +1,19 @@
 # Combined TROJAN Configurations
-# Updated: 2026-04-29 16:27:53
-# Count: 132
-# Sources: Telegram (14) + GitHub (118)
+# Updated: 2026-04-29 18:10:40
+# Count: 129
+# Sources: Telegram (11) + GitHub (118)
 
-trojan://4OE9MojBpg@37.32.20.55:80?type=tcp&security=none#ARISTA🔥
 trojan://8r%3C%5B9%27l6hAO%238ZQi@172.64.149.54:2096?path=%2Ftr&security=tls&insecure=0&host=Koma-YT.PAGeS.Dev&type=ws&allowInsecure=0&sni=Koma-YT.PAGeS.Dev#ARISTA🔥
-trojan://1234567890@104.248.132.134:2053?allowInsecure=1&host=kfm-bn0.pages.dev&path=%2F%3Fhttps%253A%252F%252Ft.me%252FWangCai2%25F0%259F%2587%25A8%25F0%259F%2587%25B3%3D&sni=kfm-bn0.pages.dev&type=ws#ARISTA🔥
-trojan://6202b230-417c-4d8e-b624-0f71afa9c75d@162.159.153.2:443?allowInsecure=1&alpn=http%2F1.1&host=sni.111000.dynv6.net&path=%2F&sni=sni.111000.dynv6.net&type=ws#ARISTA🔥
-trojan://1234567890@144.31.139.103:443?allowInsecure=1&host=kfm-bn0.pages.dev&path=%2F&sni=kfm-bn0.pages.dev&type=ws#ARISTA🔥
+trojan://4OE9MojBpg@37.32.20.55:80?type=tcp&security=none#ARISTA🔥
 trojan://6202b230-417c-4d8e-b624-0f71afa9c75d@104.20.6.134:443?alpn=http%2F1.1&host=sni.111000.dynv6.net&path=%2F%3Fproxyip%3Dip.111000.de5.net%3A443&sni=sni.111000.dynv6.net&type=ws#ARISTA🔥
-trojan://telegram-id-v2rayvpnchannel@13.38.248.91:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#ARISTA🔥
+trojan://6202b230-417c-4d8e-b624-0f71afa9c75d@104.17.185.207:443?allowInsecure=1&alpn=http%2F1.1&host=sni.111000.dynv6.net&path=%2F%3Fproxyip%3Dip.111000.de5.net%3A443&sni=sni.111000.dynv6.net&type=ws#ARISTA🔥
+trojan://6202b230-417c-4d8e-b624-0f71afa9c75d@104.16.80.73:443?allowInsecure=1&alpn=http%2F1.1&host=sni.111000.dynv6.net&path=%2F&sni=sni.111000.dynv6.net&type=ws#ARISTA🔥
 trojan://telegram-id-v2rayvpnchannel@51.45.39.44:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#ARISTA🔥
 trojan://telegram-id-v2rayvpnchannel@52.47.129.194:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#ARISTA🔥
 trojan://telegram-id-v2rayvpnchannel@3.123.242.84:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#ARISTA🔥
 trojan://telegram-id-v2rayvpnchannel@13.38.179.226:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#ARISTA🔥
 trojan://telegram-id-v2rayvpnchannel@35.159.185.219:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#ARISTA🔥
-trojan://6202b230-417c-4d8e-b624-0f71afa9c75d@104.17.185.207:443?allowInsecure=1&alpn=http%2F1.1&host=sni.111000.dynv6.net&path=%2F%3Fproxyip%3Dip.111000.de5.net%3A443&sni=sni.111000.dynv6.net&type=ws#ARISTA🔥
-trojan://6202b230-417c-4d8e-b624-0f71afa9c75d@104.16.80.73:443?allowInsecure=1&alpn=http%2F1.1&host=sni.111000.dynv6.net&path=%2F&sni=sni.111000.dynv6.net&type=ws#ARISTA🔥
+trojan://telegram-id-v2rayvpnchannel@63.179.8.52:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#ARISTA🔥
 trojan://humanity@104.18.12.149:443?path=%2Fassignment&security=tls&host=www.gossipglove.com&type=ws&sni=www.gossipglove.com#T.ME: @aristapnel
 trojan://humanity@104.18.12.149:443?path=%2Fassignment&security=tls&insecure=0&host=www.gossipglove.com&type=ws&allowInsecure=0&sni=www.gossipglove.com#T.ME: @aristapnel
 trojan://humanity@172.64.149.54:443?path=%2Fassignment&security=tls&insecure=0&host=www.gossipglove.com&type=ws&allowInsecure=0&sni=www.gossipglove.com#T.ME: @aristapnel

@@ -1,7 +1,7 @@
 # Combined HYSTERIA2 Configurations
-# Updated: 2026-04-29 16:27:53
-# Count: 57
-# Sources: Telegram (0) + GitHub (57)
+# Updated: 2026-04-29 18:10:40
+# Count: 43
+# Sources: Telegram (0) + GitHub (43)
 
 hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@mumbai-3.nezhasu.com:443?sni=mumbai-3.nezhasu.com&insecure=1&mport=50000-65535#T.ME: @aristapnel
 hysteria2://e42a38c4-4bea-42d6-90f1-3076e12f8c51@lsdg1.lansecs.top:58338?sni=lsdg1.lansecs.top&insecure=1#T.ME: @aristapnel
@@ -40,23 +40,9 @@ hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-uk-002.fastervpn.world:443?insecure=1&s
 hysteria2://48b36b6a-eaa6-4843-9231-0bb8b38b5da5@usa-hy2.onetaplink.app:443?obfs=salamander&obfs-password=OrT7yQQIMqcvKdet&sni=hy2-usa.onetaplink.app#T.ME: @aristapnel
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-ca-001.fastervpn.world:443?insecure=1&sni=vpn-ca-001.fastervpn.world#T.ME: @aristapnel
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-us-006.fastervpn.world:443?insecure=1&sni=vpn-us-006.fastervpn.world#T.ME: @aristapnel
-hysteria2://B3EB60B8-98C2-44C0-B8C8-6AE839CDA86C@sg5.dexlos.com:20974?obfs=salamander&obfs-password=xK9mN2pLq5vR8wB3&sni=sg5.dexlos.com#T.ME: @aristapnel
-hysteria2://B3EB60B8-98C2-44C0-B8C8-6AE839CDA86C@jp3.dexlos.com:20591?obfs=salamander&obfs-password=xK9mN2pLq5vR8wB3&sni=jp3.dexlos.com#T.ME: @aristapnel
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-jp-001.fastervpn.world:443?insecure=1&sni=vpn-jp-001.fastervpn.world#T.ME: @aristapnel
-hysteria2://B3EB60B8-98C2-44C0-B8C8-6AE839CDA86C@sg5.dexlos.com:20856?obfs=salamander&obfs-password=xK9mN2pLq5vR8wB3&sni=sg5.dexlos.com#T.ME: @aristapnel
-hysteria2://B3EB60B8-98C2-44C0-B8C8-6AE839CDA86C@jp3.dexlos.com:20523?obfs=salamander&obfs-password=xK9mN2pLq5vR8wB3&sni=jp3.dexlos.com#T.ME: @aristapnel
-hysteria2://B3EB60B8-98C2-44C0-B8C8-6AE839CDA86C@jp4.dexlos.com:20617?obfs=salamander&obfs-password=xK9mN2pLq5vR8wB3&sni=jp4.dexlos.com#T.ME: @aristapnel
-hysteria2://f8af73ed-363a-4dfb-b99f-65bd8ad1a329@jpaws.ccwink.photos:6533?insecure=1&sni=jpdigital.ccwink.cc#T.ME: @aristapnel
-hysteria2://B3EB60B8-98C2-44C0-B8C8-6AE839CDA86C@jp2.dexlos.com:20365?obfs=salamander&obfs-password=xK9mN2pLq5vR8wB3&sni=jp2.dexlos.com#T.ME: @aristapnel
-hysteria2://B3EB60B8-98C2-44C0-B8C8-6AE839CDA86C@sg5.dexlos.com:20965?obfs=salamander&obfs-password=xK9mN2pLq5vR8wB3&sni=sg5.dexlos.com#T.ME: @aristapnel
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-kr-003.fastervpn.world:443?insecure=1&sni=vpn-kr-003.fastervpn.world#T.ME: @aristapnel
-hysteria2://B3EB60B8-98C2-44C0-B8C8-6AE839CDA86C@jp5.dexlos.com:20840?obfs=salamander&obfs-password=xK9mN2pLq5vR8wB3&sni=jp5.dexlos.com#T.ME: @aristapnel
-hysteria2://B3EB60B8-98C2-44C0-B8C8-6AE839CDA86C@jp4.dexlos.com:20676?obfs=salamander&obfs-password=xK9mN2pLq5vR8wB3&sni=jp4.dexlos.com#T.ME: @aristapnel
-hysteria2://B3EB60B8-98C2-44C0-B8C8-6AE839CDA86C@jp4.dexlos.com:20700?obfs=salamander&obfs-password=xK9mN2pLq5vR8wB3&sni=jp4.dexlos.com#T.ME: @aristapnel
-hysteria2://B3EB60B8-98C2-44C0-B8C8-6AE839CDA86C@jp2.dexlos.com:20317?obfs=salamander&obfs-password=xK9mN2pLq5vR8wB3&sni=jp2.dexlos.com#T.ME: @aristapnel
-hysteria2://B3EB60B8-98C2-44C0-B8C8-6AE839CDA86C@sg5.dexlos.com:20825?obfs=salamander&obfs-password=xK9mN2pLq5vR8wB3&sni=sg5.dexlos.com#T.ME: @aristapnel
-hysteria2://B3EB60B8-98C2-44C0-B8C8-6AE839CDA86C@jp2.dexlos.com:20223?obfs=salamander&obfs-password=xK9mN2pLq5vR8wB3&sni=jp2.dexlos.com#T.ME: @aristapnel
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-de-001.fastervpn.world:443?insecure=1&sni=vpn-de-001.fastervpn.world#T.ME: @aristapnel
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-us-004.fastervpn.world:443?insecure=1&sni=vpn-us-004.fastervpn.world#T.ME: @aristapnel
-hysteria2://B3EB60B8-98C2-44C0-B8C8-6AE839CDA86C@jp2.dexlos.com:20203?obfs=salamander&obfs-password=xK9mN2pLq5vR8wB3&sni=jp2.dexlos.com#T.ME: @aristapnel
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-de-002.fastervpn.world:443/?insecure=1&sni=vpn-de-002.fastervpn.world#T.ME: @aristapnel
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-jp-004.fastervpn.world:443?insecure=1&sni=vpn-jp-004.fastervpn.world#T.ME: @aristapnel
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-us-001.fastervpn.world:443?insecure=1&sni=vpn-us-001.fastervpn.world#T.ME: @aristapnel
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-sg-002.fastervpn.world:443?insecure=1&sni=vpn-sg-002.fastervpn.world#T.ME: @aristapnel
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-jp-001.fastervpn.world:443?insecure=1&sni=vpn-jp-001.fastervpn.world#T.ME: @aristapnel
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-de-001.fastervpn.world:443?insecure=1&sni=vpn-de-001.fastervpn.world#T.ME: @aristapnel

@@ -1,27 +1,27 @@
 # Telegram TROJAN Configurations
-# Updated: 2026-04-30 06:47:59
+# Updated: 2026-04-30 09:32:26
 # Count: 22
 # Source: Telegram Channels
 
-trojan://4OE9MojBpg@37.32.20.55:80?type=tcp&security=none#ARISTA🔥
-trojan://8r%3C%5B9%27l6hAO%238ZQi@172.64.149.54:2096?path=%2Ftr&security=tls&insecure=0&host=Koma-YT.PAGeS.Dev&type=ws&allowInsecure=0&sni=Koma-YT.PAGeS.Dev#ARISTA🔥
-trojan://cebc8955-cb85-4c2c-82c3-1909cb897287@svip-tg.xiaobaivpn.icu:28805?allow_insecure=0&headerType=none&security=tls#ARISTA🔥
-trojan://5e982417-debc-4d4f-803f-6b463da3126d@svip-jp.xiaobaivpn.icu:28801?allowInsecure=1&peer=&sni=&type=tcp#ARISTA🔥
-trojan://5e982417-debc-4d4f-803f-6b463da3126d@svip-jp.xiaobaivpn.icu:28802?allowInsecure=0&peer=&sni=&type=tcp#ARISTA🔥
-trojan://5e982417-debc-4d4f-803f-6b463da3126d@svip-jp.xiaobaivpn.icu:28803?allowInsecure=0&peer=&sni=&type=tcp#ARISTA🔥
-trojan://5e982417-debc-4d4f-803f-6b463da3126d@svip-hg.xiaobaivpn.icu:28807?allowInsecure=0&peer=&sni=&type=tcp#ARISTA🔥
-trojan://5e982417-debc-4d4f-803f-6b463da3126d@svip-hg.xiaobaivpn.icu:28808?allowInsecure=0&peer=&sni=&type=tcp#ARISTA🔥
-trojan://5e982417-debc-4d4f-803f-6b463da3126d@svip-hg.xiaobaivpn.icu:28809?allowInsecure=0&peer=&sni=&type=tcp#ARISTA🔥
-trojan://5e982417-debc-4d4f-803f-6b463da3126d@svip-us.xiaobaivpn.icu:28810?allowInsecure=0&peer=&sni=&type=tcp#ARISTA🔥
-trojan://5e982417-debc-4d4f-803f-6b463da3126d@svip-us.xiaobaivpn.icu:28811?allowInsecure=0&peer=&sni=&type=tcp#ARISTA🔥
-trojan://5e982417-debc-4d4f-803f-6b463da3126d@svip-us.xiaobaivpn.icu:28812?allowInsecure=0&peer=&sni=&type=tcp#ARISTA🔥
-trojan://5e982417-debc-4d4f-803f-6b463da3126d@svip-tg.xiaobaivpn.icu:28804?allowInsecure=0&peer=&sni=&type=tcp#ARISTA🔥
-trojan://5e982417-debc-4d4f-803f-6b463da3126d@svip-tg.xiaobaivpn.icu:28805?allowInsecure=0&peer=&sni=&type=tcp#ARISTA🔥
-trojan://telegram-id-v2rayvpnchannel@3.123.242.84:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#ARISTA🔥
 trojan://telegram-id-v2rayvpnchannel@13.38.179.226:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#ARISTA🔥
 trojan://telegram-id-v2rayvpnchannel@35.159.185.219:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#ARISTA🔥
 trojan://telegram-id-v2rayvpnchannel@63.179.8.52:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#ARISTA🔥
-trojan://6202b230-417c-4d8e-b624-0f71afa9c75d@104.20.6.134:443?alpn=http%2F1.1&host=sni.111000.dynv6.net&path=%2F%3Fproxyip%3Dip.111000.de5.net%3A443&sni=sni.111000.dynv6.net&type=ws#ARISTA🔥
-trojan://6202b230-417c-4d8e-b624-0f71afa9c75d@104.17.185.207:443?allowInsecure=1&alpn=http%2F1.1&host=sni.111000.dynv6.net&path=%2F%3Fproxyip%3Dip.111000.de5.net%3A443&sni=sni.111000.dynv6.net&type=ws#ARISTA🔥
-trojan://6202b230-417c-4d8e-b624-0f71afa9c75d@104.16.80.73:443?allowInsecure=1&alpn=http%2F1.1&host=sni.111000.dynv6.net&path=%2F&sni=sni.111000.dynv6.net&type=ws#ARISTA🔥
-trojan://6202b230-417c-4d8e-b624-0f71afa9c75d@172.64.146.129:443?allowInsecure=1&alpn=http%2F1.1&fp=chrome&host=sni.111000.dynv6.net&path=%2F%3Fproxyip%3Dip.111000.de5.net%253A443&sni=sni.111000.dynv6.net&type=ws#ARISTA🔥
+trojan://telegram-id-v2rayvpnchannel@35.158.91.156:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#ARISTA🔥
+trojan://7d38fcc6-e5e3-4ee8-be48-a4abdf6684d6@hk.ikan.su:443?allowInsecure=0&fp=chrome#ARISTA🔥
+trojan://7d38fcc6-e5e3-4ee8-be48-a4abdf6684d6@xg1.ikan.su:443?allowInsecure=0&fp=chrome#ARISTA🔥
+trojan://7d38fcc6-e5e3-4ee8-be48-a4abdf6684d6@xg2.ikan.su:443?allowInsecure=0&fp=chrome#ARISTA🔥
+trojan://7d38fcc6-e5e3-4ee8-be48-a4abdf6684d6@tw.ikan.su:443?allowInsecure=0&fp=chrome#ARISTA🔥
+trojan://7d38fcc6-e5e3-4ee8-be48-a4abdf6684d6@tw2.ikan.su:443?allowInsecure=0&fp=chrome#ARISTA🔥
+trojan://7d38fcc6-e5e3-4ee8-be48-a4abdf6684d6@dongjing.ikan.su:443?allowInsecure=0&fp=chrome#ARISTA🔥
+trojan://7d38fcc6-e5e3-4ee8-be48-a4abdf6684d6@djj.ikan.su:443?allowInsecure=0&fp=chrome#ARISTA🔥
+trojan://7d38fcc6-e5e3-4ee8-be48-a4abdf6684d6@db.ikan.su:443?allowInsecure=0&fp=chrome#ARISTA🔥
+trojan://7d38fcc6-e5e3-4ee8-be48-a4abdf6684d6@seoul.ikan.su:443?allowInsecure=0&fp=chrome#ARISTA🔥
+trojan://7d38fcc6-e5e3-4ee8-be48-a4abdf6684d6@sanjose.ikan.su:443?allowInsecure=0&fp=chrome#ARISTA🔥
+trojan://7d38fcc6-e5e3-4ee8-be48-a4abdf6684d6@ashburn.ikan.su:443?allowInsecure=0&fp=chrome#ARISTA🔥
+trojan://7d38fcc6-e5e3-4ee8-be48-a4abdf6684d6@ms.ikan.su:443?allowInsecure=0&fp=chrome#ARISTA🔥
+trojan://7d38fcc6-e5e3-4ee8-be48-a4abdf6684d6@lsj.ikan.su:443?allowInsecure=0&fp=chrome#ARISTA🔥
+trojan://7d38fcc6-e5e3-4ee8-be48-a4abdf6684d6@xjp.ikan.su:443?allowInsecure=0&fp=chrome#ARISTA🔥
+trojan://7d38fcc6-e5e3-4ee8-be48-a4abdf6684d6@cc1.ikan.su:443?allowInsecure=0&fp=chrome#ARISTA🔥
+trojan://4OE9MojBpg@37.32.20.55:80?type=tcp&security=none#ARISTA🔥
+trojan://telegram-id-privatevpns@35.158.91.156:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#ARISTA🔥
+trojan://8r%3C%5B9%27l6hAO%238ZQi@172.64.149.54:2096?path=%2Ftr&security=tls&insecure=0&host=Koma-YT.PAGeS.Dev&type=ws&allowInsecure=0&sni=Koma-YT.PAGeS.Dev#ARISTA🔥

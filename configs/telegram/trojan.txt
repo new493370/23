@@ -1,10 +1,22 @@
 # Telegram TROJAN Configurations
-# Updated: 2026-04-30 04:11:09
-# Count: 10
+# Updated: 2026-04-30 06:47:59
+# Count: 22
 # Source: Telegram Channels
 
 trojan://4OE9MojBpg@37.32.20.55:80?type=tcp&security=none#ARISTA🔥
 trojan://8r%3C%5B9%27l6hAO%238ZQi@172.64.149.54:2096?path=%2Ftr&security=tls&insecure=0&host=Koma-YT.PAGeS.Dev&type=ws&allowInsecure=0&sni=Koma-YT.PAGeS.Dev#ARISTA🔥
+trojan://cebc8955-cb85-4c2c-82c3-1909cb897287@svip-tg.xiaobaivpn.icu:28805?allow_insecure=0&headerType=none&security=tls#ARISTA🔥
+trojan://5e982417-debc-4d4f-803f-6b463da3126d@svip-jp.xiaobaivpn.icu:28801?allowInsecure=1&peer=&sni=&type=tcp#ARISTA🔥
+trojan://5e982417-debc-4d4f-803f-6b463da3126d@svip-jp.xiaobaivpn.icu:28802?allowInsecure=0&peer=&sni=&type=tcp#ARISTA🔥
+trojan://5e982417-debc-4d4f-803f-6b463da3126d@svip-jp.xiaobaivpn.icu:28803?allowInsecure=0&peer=&sni=&type=tcp#ARISTA🔥
+trojan://5e982417-debc-4d4f-803f-6b463da3126d@svip-hg.xiaobaivpn.icu:28807?allowInsecure=0&peer=&sni=&type=tcp#ARISTA🔥
+trojan://5e982417-debc-4d4f-803f-6b463da3126d@svip-hg.xiaobaivpn.icu:28808?allowInsecure=0&peer=&sni=&type=tcp#ARISTA🔥
+trojan://5e982417-debc-4d4f-803f-6b463da3126d@svip-hg.xiaobaivpn.icu:28809?allowInsecure=0&peer=&sni=&type=tcp#ARISTA🔥
+trojan://5e982417-debc-4d4f-803f-6b463da3126d@svip-us.xiaobaivpn.icu:28810?allowInsecure=0&peer=&sni=&type=tcp#ARISTA🔥
+trojan://5e982417-debc-4d4f-803f-6b463da3126d@svip-us.xiaobaivpn.icu:28811?allowInsecure=0&peer=&sni=&type=tcp#ARISTA🔥
+trojan://5e982417-debc-4d4f-803f-6b463da3126d@svip-us.xiaobaivpn.icu:28812?allowInsecure=0&peer=&sni=&type=tcp#ARISTA🔥
+trojan://5e982417-debc-4d4f-803f-6b463da3126d@svip-tg.xiaobaivpn.icu:28804?allowInsecure=0&peer=&sni=&type=tcp#ARISTA🔥
+trojan://5e982417-debc-4d4f-803f-6b463da3126d@svip-tg.xiaobaivpn.icu:28805?allowInsecure=0&peer=&sni=&type=tcp#ARISTA🔥
 trojan://telegram-id-v2rayvpnchannel@3.123.242.84:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#ARISTA🔥
 trojan://telegram-id-v2rayvpnchannel@13.38.179.226:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#ARISTA🔥
 trojan://telegram-id-v2rayvpnchannel@35.159.185.219:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#ARISTA🔥

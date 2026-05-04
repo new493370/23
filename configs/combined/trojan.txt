@@ -1,14 +1,17 @@
 # Combined TROJAN Configurations
-# Updated: 2026-05-04 15:43:37
-# Count: 200
-# Sources: Telegram (6) + GitHub (194)
+# Updated: 2026-05-04 17:56:36
+# Count: 203
+# Sources: Telegram (9) + GitHub (194)
 
-trojan://q2jXRWncMA7pQren_VjQKhSQfoBWK_@95.85.243.216:2083?allowInsecure=1&host=xo.e0f.cx&path=%2Ftrojan-ws&sni=xo.e0f.cx&type=ws#ARISTA🔥
 trojan://80a47c4e-33c0-49f1-a5d1-618c35fc9c92@svip-jp.xiaobaivpn.icu:28803?security=tls&headerType=none&type=tcp#ARISTA🔥
-trojan://telegram-id-privatevpns@18.185.147.254:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#ARISTA🔥
+trojan://humanity@8.6.112.0:443?path=%2Fassignment&security=tls&insecure=0&host=www.multiplydose.com&type=ws&allowInsecure=0&sni=www.multiplydose.com#ARISTA🔥
 trojan://telegram-id-privatevpns@35.181.209.187:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#ARISTA🔥
 trojan://telegram-id-privatevpns@52.47.165.159:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#ARISTA🔥
-trojan://humanity@172.67.180.92:443?path=%2Fassignment&security=tls&host=www.multiplydose.com&fp=chrome&type=ws&sni=www.multiplydose.com#ARISTA🔥
+trojan://telegram-id-privatevpns@18.192.237.68:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#ARISTA🔥
+trojan://humanity@8.6.112.0:443?path=%2Fassignment&security=tls&host=www.multiplydose.com&type=ws&sni=www.multiplydose.com#ARISTA🔥
+trojan://8r%3C%5B9%27l6hAO%238ZQi@184.174.80.253:443?allowInsecure=1&host=Koma-YT.PAGeS.Dev&path=%2Ftr+%7C+%E5%85%8D%E8%B4%B9%E6%9C%BA%E5%9C%BATG%40proxyshareCN+%7C+&sni=Koma-YT.PAGeS.Dev&type=ws#ARISTA🔥
+trojan://8r%3C%5B9%27l6hAO%238ZQi@199.181.197.253:443?allowInsecure=1&host=Koma-YT.PAGeS.Dev&path=%2Ftr+%7C+%E5%85%8D%E8%B4%B9%E6%9C%BA%E5%9C%BATG%40proxyshareCN+%7C+&sni=Koma-YT.PAGeS.Dev&type=ws#ARISTA🔥
+trojan://8r%3C%5B9%27l6hAO%238ZQi@72.167.25.253:443?allowInsecure=1&host=Koma-YT.PAGeS.Dev&path=%2Ftr+%7C+%E5%85%8D%E8%B4%B9%E6%9C%BA%E5%9C%BATG%40proxyshareCN+%7C+&sni=Koma-YT.PAGeS.Dev&type=ws#ARISTA🔥
 trojan://02948bde80594712b974368035f294dd@88.214.24.235:9443?security=reality&amp;pbk=au0aQ5QVdLNbzMShbL9Anhi5hOPXMNJVBhbkuFP7Sk0&amp;headerType=none&amp;fp=random&amp;type=tcp&amp;sni=apple.com&amp;sid=aabbccdd#T.ME: @aristapnel
 trojan://02948bde80594712b974368035f294dd@88.214.24.235:9443?security=reality&pbk=au0aQ5QVdLNbzMShbL9Anhi5hOPXMNJVBhbkuFP7Sk0&host=/@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-?ed=2560&headerType=none&fp=random&type=tcp&sni=apple.com&sid=aabbccdd#T.ME: @aristapnel
 trojan://13c169be-8592-4eaa-94cb-69c859e7d987@ubu.okaoclax.me:443?path=/trojan-ws&security=tls&host=ubu.okaoclax.me&type=ws&sni=ubu.okaoclax.me#T.ME: @aristapnel

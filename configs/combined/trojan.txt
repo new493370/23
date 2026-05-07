@@ -1,16 +1,16 @@
 # Combined TROJAN Configurations
-# Updated: 2026-05-07 01:34:14
-# Count: 148
-# Sources: Telegram (8) + GitHub (140)
+# Updated: 2026-05-07 05:11:23
+# Count: 149
+# Sources: Telegram (8) + GitHub (141)
 
 trojan://6202b230-417c-4d8e-b624-0f71afa9c75d@172.64.146.129:443?allowInsecure=1&alpn=http%2F1.1&fp=chrome&host=sni.111000.dynv6.net&path=%2F%3Fproxyip%3Dip.111000.de5.net%3A443&sni=sni.111000.dynv6.net&type=ws#ARISTA🔥
 trojan://MeaDiUmPlkWbZJ2BON8tz@78.159.131.12:28259?allowInsecure=1&sni=ads.x5.ru#ARISTA🔥
 trojan://5dc15e15-f285-4a9d-959b-0e4fbdd77b63@172.64.149.209:443?allowInsecure=1&fp=firefox&host=vless.lrdxw.club&path=%2F&sni=vless.lrdxw.club&type=ws#ARISTA🔥
 trojan://GZOof2R1ej4yML1NxajR2frGQ@hl-freedom-1.undef.network:443?allowInsecure=1&sni=HL-FREEDOM-1.UNDEF.NETWORK#ARISTA🔥
 trojan://8r%3C%5B9%27l6hAO%238ZQi@176.124.201.78:2053?host=Koma-YT.PAGeS.Dev&path=%2FtrTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&sni=Koma-YT.PAGeS.Dev&type=ws#ARISTA🔥
-trojan://telegram-id-privatevpns@15.224.94.238:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#ARISTA🔥
+trojan://BxceQaOe@54.248.66.236:4099?allowInsecure=1&sni=t.me%252Fripaojiedian#ARISTA🔥
 trojan://humanity@104.20.6.134:443?path=%2Fassignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#ARISTA🔥
-trojan://da0a777c-3643-47ef-be7a-59c24a7ee8a6@jplic.osaip.net:25055?allowInsecure=0&peer=&sni=&type=grpc&serviceName=violet#ARISTA🔥
+trojan://telegram-id-privatevpns@15.224.94.238:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#ARISTA🔥
 trojan://02948bde80594712b974368035f294dd@88.214.24.235:9443?security=reality&amp;pbk=au0aQ5QVdLNbzMShbL9Anhi5hOPXMNJVBhbkuFP7Sk0&amp;headerType=none&amp;fp=random&amp;type=tcp&amp;sni=apple.com&amp;sid=aabbccdd#T.ME: @aristapnel
 trojan://02948bde80594712b974368035f294dd@88.214.24.235:9443?security=reality&pbk=au0aQ5QVdLNbzMShbL9Anhi5hOPXMNJVBhbkuFP7Sk0&host=/@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-?ed=2560&headerType=none&fp=random&type=tcp&sni=apple.com&sid=aabbccdd#T.ME: @aristapnel
 trojan://13c169be-8592-4eaa-94cb-69c859e7d987@ubu.okaoclax.me:443?path=/trojan-ws&security=tls&host=ubu.okaoclax.me&type=ws&sni=ubu.okaoclax.me#T.ME: @aristapnel
@@ -133,15 +133,16 @@ trojan://telegram-id-privatevpns@35.181.195.29:22222?security=tls&amp;alpn=http/
 trojan://telegram-id-privatevpns@63.182.185.223:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#T.ME: @aristapnel
 trojan://tpCznR-P5%3DjZUb%23c@66.245.193.152:17126?security=tls&headerType=none&type=tcp&sni=ctaldikgfyw.uefahpgsyz.click#T.ME: @aristapnel
 trojan://trojan@ip.sb:8443?path=/&amp;security=tls&amp;host=fofang.pages.dev&amp;type=ws&amp;sni=fofang.pages.dev#T.ME: @aristapnel
+trojan://BxceQaOe@54.248.66.236:4099?allowInsecure=1&sni=t.me%252Fripaojiedian#T.ME: @aristapnel
+trojan://telegram-id-privatevpns@3.123.135.227:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#T.ME: @aristapnel
+trojan://BxceQaOe@bb.bejkn.cn:6463?allowInsecure=1&sni=t.me%252Fripaojiedian#T.ME: @aristapnel
 trojan://ba62c023f9bce796ae334fecb20ef7cc@18.179.108.192:2511?allowInsecure=1&sni=www.nintendogames.net#T.ME: @aristapnel
 trojan://ba62c023f9bce796ae334fecb20ef7cc@18.179.108.192:11541?allowInsecure=1&sni=www.nintendogames.net#T.ME: @aristapnel
 trojan://BxceQaOe@bb.bejkn.cn:11233?allowInsecure=1&sni=t.me%2Fripaojiedian#T.ME: @aristapnel
-trojan://mSzFVhUczD@104.20.5.134:443?security=tls&sni=abest.api-tel.xyz&alpn=http/1.1&type=ws&host=abest.api-tel.xyz&path=/#T.ME: @aristapnel
-trojan://q2jXRWncMA7pQren_VjQKhSQfoBWK_@91.184.250.116:2083?security=tls&sni=xo.e0f.cx&type=ws&host=xo.e0f.cx&path=/trojan-ws#T.ME: @aristapnel
+trojan://mSzFVhUczD@104.20.5.134:443?security=tls&sni=abest.api-tel.xyz&alpn=http%2F1.1&type=ws&host=abest.api-tel.xyz&path=%2F#T.ME: @aristapnel
+trojan://humanity@104.20.6.134:443?type=ws&host=www.calmloud.com&path=/assignment&security=tls&fp=chrome&sni=www.calmloud.com&alpn=http/1.1#T.ME: @aristapnel
 trojan://humanity@104.20.6.134:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#T.ME: @aristapnel
-trojan://humanity@v1.dabache.top:443?security=tls&type=ws&sni=www.multiplydose.com&path=/assignment&host=www.multiplydose.com#T.ME: @aristapnel
 trojan://humanity@104.18.32.47:443?path=%2Fassignment&security=tls&insecure=1&host=www.multiplydose.com&type=ws&allowInsecure=1&sni=www.multiplydose.com#T.ME: @aristapnel
-trojan://humanity@v1.dabache.top:443?path=%2Fassignment&security=tls&insecure=1&host=www.multiplydose.com&type=ws&allowInsecure=1&sni=www.multiplydose.com#T.ME: @aristapnel
 trojan://humanity@172.67.180.92:443?security=tls&sni=www.multiplydose.com&fp=chrome&allowInsecure=1&type=ws&host=www.multiplydose.com&path=%2Fassignment#T.ME: @aristapnel
 trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&insecure=0&host=www.multiplydose.com&type=ws&allowInsecure=0&sni=www.multiplydose.com#T.ME: @aristapnel
 trojan://JaFKnqNcvnBT63t3rquidGsln@hl-freedom-1.undef.network:443?security=tls&sni=HL-FREEDOM-1.UNDEF.NETWORK&type=ws&host=HL-FREEDOM-1.UNDEF.NETWORK&path=%2ff2fc2a1f#T.ME: @aristapnel

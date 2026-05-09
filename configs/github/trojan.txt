@@ -1,5 +1,5 @@
 # GitHub TROJAN Configurations
-# Updated: 2026-05-09 17:46:53
+# Updated: 2026-05-09 19:20:23
 # Count: 136
 # Source: GitHub Repositories
 
@@ -122,11 +122,11 @@ trojan://telegram-id-privatevpns@35.181.195.29:22222?security=tls&amp;alpn=http/
 trojan://telegram-id-privatevpns@63.184.155.101:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#T.ME: @aristapnel
 trojan://tpCznR-P5%3DjZUb%23c@66.245.193.152:17126?security=tls&headerType=none&type=tcp&sni=ctaldikgfyw.uefahpgsyz.click#T.ME: @aristapnel
 trojan://trojan@ip.sb:8443?path=/&amp;security=tls&amp;host=fofang.pages.dev&amp;type=ws&amp;sni=fofang.pages.dev#T.ME: @aristapnel
-trojan://telegram-id-privatevpns@15.188.208.223:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#T.ME: @aristapnel
-trojan://telegram-id-privatevpns@3.79.92.53:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#T.ME: @aristapnel
-trojan://7aXwJPnpAJ@yespaintstudio.rav-kraski.ru:50824?security=tls&sni=yespaintstudio.rav-kraski.ru#T.ME: @aristapnel
+trojan://7aXwJPnpAJ@yespaintstudio.rav-kraski.ru:50824?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=yespaintstudio.rav-kraski.ru#T.ME: @aristapnel
 trojan://BxceQaOe@bb.bejkn.cn:11233?allowInsecure=1&sni=t.me%2Fripaojiedian#T.ME: @aristapnel
+trojan://q2jXRWncMA7pQren_VjQKhSQfoBWK_@170.168.102.234:2083?path=/trojan-ws&security=tls&insecure=0&host=xo.e0f.cx&type=ws&allowInsecure=0&sni=xo.e0f.cx#T.ME: @aristapnel
 trojan://mSzFVhUczD@104.20.5.134:443?security=tls&sni=abest.api-tel.xyz&alpn=http%2F1.1&type=ws&host=abest.api-tel.xyz&path=%2F#T.ME: @aristapnel
+trojan://q2jXRWncMA7pQren_VjQKhSQfoBWK_@91.184.250.116:2083?security=tls&sni=xo.e0f.cx&type=ws&host=xo.e0f.cx&path=/trojan-ws#T.ME: @aristapnel
 trojan://humanity@8.6.112.6:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=0&sni=www.calmloud.com#T.ME: @aristapnel
 trojan://humanity@104.20.6.134:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#T.ME: @aristapnel
 trojan://humanity@v1.dabache.top:443?security=tls&type=ws&sni=www.multiplydose.com&path=/assignment&host=www.multiplydose.com#T.ME: @aristapnel

@@ -1,6 +1,6 @@
 # GitHub HYSTERIA2 Configurations
-# Updated: 2026-05-12 12:40:00
-# Count: 75
+# Updated: 2026-05-12 15:34:35
+# Count: 79
 # Source: GitHub Repositories
 
 hysteria2://37afff84-34bd-4db6-b24a-7d73d2ed48ce@107.173.127.166:25000?insecure=1&sni=www.apple.com#T.ME: @aristapnel
@@ -70,11 +70,15 @@ hysteria2://7c077572-6da9-11ef-b786-f23c91cfbbc9@9e157430-t6pb40-t9hghw-1sdoq.hk
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:36400?sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1#T.ME: @aristapnel
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-jp-004.fastervpn.world:443?sni=vpn-jp-004.fastervpn.world&obfs=none&insecure=1#T.ME: @aristapnel
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000?sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1#T.ME: @aristapnel
-hysteria2://bf36227c-0191-11f0-aee1-f23c91cfbbc9@4ec4fca5-t6r5s0-tc2sod-1tizo.hk1.hyhuawei.com:443?sni=4ec4fca5-t6r5s0-tc2sod-1tizo.hk1.hyhuawei.com&obfs=none&insecure=1#T.ME: @aristapnel
-hysteria2://28a8a4d0-3e02-11eb-a8bf-f23c91cfbbc9@432f44d7-t55r40-t94bdb-mrtr.hk1.hyhuawei.com:443?sni=432f44d7-t55r40-t94bdb-mrtr.hk1.hyhuawei.com&obfs=none&insecure=1#T.ME: @aristapnel
-hysteria2://99129cef-f705-11ee-ada6-f23c91cfbbc9@35f78bc6-t6pb40-tcmtfl-1qudp.hk2.hyhuawei.com:443?sni=35f78bc6-t6pb40-tcmtfl-1qudp.hk2.hyhuawei.com&obfs=none&insecure=1#T.ME: @aristapnel
-hysteria2://79d73809-f5ed-4099-8588-ba77578def1d@iij.mggl.wang:35789?sni=iij.mggl.wang&obfs=none&insecure=1#T.ME: @aristapnel
-hysteria2://Yet-Another-Public-Config-1@2a14:3f87:f001:13::a:36600:443?sni=YAPC-1.afshin.ir&obfs=Yet-Another-Public-Config-1&insecure=1#T.ME: @aristapnel
-hysteria2://cca70979-4f99-449b-9a01-a3ad8d3d4481@142.171.241.143:41555?insecure=1#T.ME: @aristapnel
-hysteria2://c5533e6c-6d4f-4b01-b1c8-4fb952631e73@jp.1001101.xyz:25004?sni=jp.1001101.xyz#T.ME: @aristapnel
-hysteria2://Yet-Another-Public-Config-1@206.71.158.37:36600?sni=YAPC-1.afshin.ir&obfs=Yet-Another-Public-Config-1&insecure=1#T.ME: @aristapnel
+hysteria2://E35FD247-3464-493A-AA34-AE0972EDFA8C@hk4.dexlos.com:7484?sni=hk4.dexlos.com&obfs=none&insecure=1#T.ME: @aristapnel
+hysteria2://Yet-Another-Public-Config-1@%5B2a14:3f87:f001:13::a%5D:35200:443?sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1#T.ME: @aristapnel
+hysteria2://a698c4a6-c3c9-11ee-9693-f23c91cfbbc9@f643a7e8-t6ngg0-t74ix0-1m0fq.hk1.hyhuawei.com:443?sni=f643a7e8-t6ngg0-t74ix0-1m0fq.hk1.hyhuawei.com&obfs=none&insecure=1#T.ME: @aristapnel
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-jp-004.fastervpn.world:443?insecure=1&sni=vpn-jp-004.fastervpn.world#T.ME: @aristapnel
+hysteria2://E35FD247-3464-493A-AA34-AE0972EDFA8C@hk4.dexlos.com:7588?sni=hk4.dexlos.com&obfs=none&insecure=1#T.ME: @aristapnel
+hysteria2://e1c7fbbc-96b6-11ef-8563-f23c913c8d2b@5f159779-t55r40-te0v28-1mh67.us.hyhuawei.com:443?obfs=none&insecure=1#T.ME: @aristapnel
+hysteria2://5046SHWqk6@91.132.51.160:844?obfs=none&insecure=1#T.ME: @aristapnel
+hysteria2://51362ab6-b5e6-11ea-ad28-f23c913c8d2b@8ce460ac-t6ngg0-tnkuks-wujn.us.hyhuawei.com:443?sni=8ce460ac-t6ngg0-tnkuks-wujn.us.hyhuawei.com&obfs=none&insecure=1#T.ME: @aristapnel
+hysteria2://0720c874-35e8-11ef-aa88-f23c913c8d2b@86b4787e-t6pb40-t8xyf4-1l0qa.hk2.hyhuawei.com:443?sni=86b4787e-t6pb40-t8xyf4-1l0qa.hk2.hyhuawei.com&obfs=none&insecure=1#T.ME: @aristapnel
+hysteria2://6857f1bc-f27b-11ea-87ad-f23c913c8d2b@d2ab175b-t55r40-tgzvop-hns7.us.hyhuawei.com:443?sni=d2ab175b-t55r40-tgzvop-hns7.us.hyhuawei.com&obfs=none&insecure=1#T.ME: @aristapnel
+hysteria2://40639730-e027-11ea-87ad-f23c913c8d2b@96d1fb9f-t6ngg0-t9lc3n-z93q.hk1.hyhuawei.com:443?sni=96d1fb9f-t6ngg0-t9lc3n-z93q.hk1.hyhuawei.com&obfs=none&insecure=1#T.ME: @aristapnel
+hysteria2://6ce63b80-8b5b-11ef-b635-f23c9164ca5d@1088d113-t6pb40-tbac1z-1j3zm.hk2.hyhuawei.com:443?sni=1088d113-t6pb40-tbac1z-1j3zm.hk2.hyhuawei.com&obfs=none&insecure=1#T.ME: @aristapnel

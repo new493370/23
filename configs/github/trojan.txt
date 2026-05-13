@@ -1,5 +1,5 @@
 # GitHub TROJAN Configurations
-# Updated: 2026-05-12 22:55:30
+# Updated: 2026-05-13 00:18:44
 # Count: 180
 # Source: GitHub Repositories
 
@@ -50,9 +50,9 @@ trojan://Nova-Proxy@spring-tooth-7fa3.ahmadrj.workers.dev:443?security=tls&sni=s
 trojan://Nova-Proxy@spring-tooth-7fa3.ahmadrj.workers.dev:443?security=tls&type=ws&path=/#T.ME: @aristapnel
 trojan://OdgHycGphesfLmPMYolUF@172.238.229.254:14051?security=tls&amp;headerType=none&amp;type=tcp&amp;sni=api.avito.ru#T.ME: @aristapnel
 trojan://POORIARED@172.67.134.185:443?path=/eyJqdW5rIjoiVUl6eXhLZkkwUTJ3ZzkiLCJwcm90b2NvbCI6InRyIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119?ed=2560&security=tls&fp=chrome&type=ws&sni=reDfRee8.REDFree8.ir#T.ME: @aristapnel
+trojan://aaabcbc-bcaa-aabc-cadb-baabaccacbbc@127.0.0.1:1080?security=tls&type=tcp#T.ME: @aristapnel
 trojan://bIa-DailY_cOnFIgs@104.17.97.5:2053?#T.ME: @aristapnel
-trojan://babcaca-abca-baca-cadb-cbbcaacabcab@127.0.0.1:8080?security=tls&type=tcp#T.ME: @aristapnel
-trojan://bccabaa-acba-abac-dbac-ababccaacbcb@127.0.0.1:1080?security=tls&type=tcp#T.ME: @aristapnel
+trojan://baccbaa-cbaa-abca-cbad-cabacabbcacb@127.0.0.1:8080?security=tls&type=tcp#T.ME: @aristapnel
 trojan://bpb-trojan@vless.herogoing.top:443?security=tls&sni=vless.herogoing.top&type=ws&host=vless.herogoing.top&path=/tr?ed=2560#T.ME: @aristapnel
 trojan://bpb-trojan@wing2452.nyc.mn:443?security=tls&sni=wing2452.nyc.mn&type=ws&host=wing2452.nyc.mn&path=/tr?ed=2560#T.ME: @aristapnel
 trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@202.181.103.246:1334?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=www.nintendogames.net#T.ME: @aristapnel

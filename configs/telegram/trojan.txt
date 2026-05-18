@@ -1,14 +1,10 @@
 # Telegram TROJAN Configurations
-# Updated: 2026-05-18 16:40:52
-# Count: 9
+# Updated: 2026-05-18 18:36:25
+# Count: 5
 # Source: Telegram Channels
 
-trojan://iVfmEiZ7kuZT1PDOxigN9A@DateAndUsage.a:8443?security=none&type=tcp&headerType=none&path=&host=#ARISTA🔥
-trojan://telegram-id-directvpn@3.77.116.109:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#ARISTA🔥
-trojan://telegram-id-privatevpns@3.77.116.109:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#ARISTA🔥
-trojan://telegram-id-privatevpns@63.184.236.74:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#ARISTA🔥
-trojan://telegram-id-privatevpns@15.224.82.53:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#ARISTA🔥
-trojan://telegram-id-privatevpns@51.44.62.234:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#ARISTA🔥
-trojan://8r%3C%5B9%27l6hAO%238ZQi@46.229.253.73:8443?host=Koma-YT.PAGeS.Dev&path=%2FtrTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&sni=Koma-YT.PAGeS.Dev&type=ws#ARISTA🔥
 trojan://6202b230-417c-4d8e-b624-0f71afa9c75d@172.64.146.129:443?allowInsecure=1&alpn=http%2F1.1&fp=chrome&host=sni.111000.dynv6.net&path=%2F%3Fproxyip%3Dip.111000.de5.net%3A443&sni=sni.111000.dynv6.net&type=ws#ARISTA🔥
+trojan://telegram-id-privatevpns@51.44.62.234:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#ARISTA🔥
+trojan://telegram-id-privatevpns@3.77.116.109:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#ARISTA🔥
 trojan://strong-secret-pass-777@45.12.146.179:4443?allowInsecure=1#ARISTA🔥
+trojan://8r%3C%5B9%27l6hAO%238ZQi@5.188.118.92:8443?allowInsecure=1&host=Koma-YT.PAGeS.Dev&path=%2FtrTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&sni=Koma-YT.PAGeS.Dev&type=ws#ARISTA🔥

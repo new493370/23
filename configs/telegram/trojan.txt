@@ -1,14 +1,13 @@
 # Telegram TROJAN Configurations
-# Updated: 2026-05-21 20:33:10
-# Count: 9
+# Updated: 2026-05-21 22:10:39
+# Count: 8
 # Source: Telegram Channels
 
-trojan://humanity@85.198.11.172:40443?path=%2Fassignment&security=tls&insecure=1&host=www.ignitelimit.com&type=ws&allowInsecure=1&sni=www.ignitelimit.com#ARISTA🔥
-trojan://telegram-id-privatevpns@13.38.175.41:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#ARISTA🔥
-trojan://telegram-id-privatevpns@15.224.91.64:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#ARISTA🔥
-trojan://telegram-id-privatevpns@3.126.182.67:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#ARISTA🔥
-trojan://telegram-id-privatevpns@15.188.165.183:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#ARISTA🔥
-trojan://telegram-id-directvpn@15.188.165.183:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#ARISTA🔥
-trojan://2Bb8zvNNJd@snappfood.ir:80?host=wsphan.q69-cloud.ir&path=%2Fmargbaaramricas&security=none&type=ws#ARISTA🔥
 trojan://8r%3C%5B9%27l6hAO%238ZQi@37.46.19.79:8443?host=Koma-YT.PAGeS.Dev&path=%2FtrTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&sni=Koma-YT.PAGeS.Dev&type=ws#ARISTA🔥
-trojan://humanity@193.151.145.252:40443?path=%2Fassignment&security=tls&insecure=1&host=www.ignitelimit.com&type=ws&allowInsecure=1&sni=www.ignitelimit.com#ARISTA🔥
+trojan://humanity@104.19.229.21:443?path=%2Fassignment&security=tls&insecure=1&host=www.creationlong.org&fp=chrome&type=ws&allowInsecure=1&sni=www.creationlong.org#ARISTA🔥
+trojan://humanity@85.198.11.172:40443?path=%2Fassignment&security=tls&insecure=1&host=www.ignitelimit.com&type=ws&allowInsecure=1&sni=www.ignitelimit.com#ARISTA🔥
+trojan://8r%3C%5B9%27l6hAO%238ZQi@194.120.116.68:2053?host=Koma-YT.PAGeS.Dev&path=%2FtrTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&sni=Koma-YT.PAGeS.Dev&type=ws#ARISTA🔥
+trojan://8r%3C%5B9%27l6hAO%238ZQi@94.242.53.94:8443?host=Koma-YT.PAGeS.Dev&path=%2FtrTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&sni=Koma-YT.PAGeS.Dev&type=ws#ARISTA🔥
+trojan://6202b230-417c-4d8e-b624-0f71afa9c75d@172.64.152.23:443?allowInsecure=1&alpn=http%2F1.1&host=sni.111000.dynv6.net&path=%2F&sni=sni.111000.dynv6.net&type=ws#ARISTA🔥
+trojan://6202b230-417c-4d8e-b624-0f71afa9c75d@104.18.12.149:8443?allowInsecure=1&alpn=http%2F1.1&host=sni.111000.dynv6.net&path=%2F&sni=sni.111000.dynv6.net&type=ws#ARISTA🔥
+trojan://8r%3C%5B9%27l6hAO%238ZQi@94.228.161.155:8443?allowInsecure=1&host=Koma-YT.PAGeS.Dev&path=%2FtrTelegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2&sni=Koma-YT.PAGeS.Dev&type=ws#ARISTA🔥

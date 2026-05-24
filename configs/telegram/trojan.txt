@@ -1,13 +1,11 @@
 # Telegram TROJAN Configurations
-# Updated: 2026-05-24 09:45:04
-# Count: 8
+# Updated: 2026-05-24 11:11:17
+# Count: 6
 # Source: Telegram Channels
 
-trojan://humanity@2.144.23.72:40443?path=%2Fassignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#ARISTA🔥
-trojan://humanity@sourceforge.net:443?type=ws&host=www.calmloud.com&path=/assignment&security=tls&fp=chrome&sni=www.calmloud.com&alpn=http/1.1#ARISTA🔥
-trojan://8r%3C%5B9%27l6hAO%238ZQi@104.19.229.21:443?type=ws&security=tls&path=%2Ftr&host=Koma-YT.PAGeS.Dev&sni=Koma-YT.PAGeS.Dev&allowInsecure=1#ARISTA🔥
-trojan://mSzFVhUczD@104.20.5.134:443?path=%2F&security=tls&alpn=http%2F1.1&insecure=0&host=abest.api-tel.xyz&type=ws&allowInsecure=0&sni=abest.api-tel.xyz#ARISTA🔥
-trojan://humanity@188.121.121.183:443?path=%2Fassignment&security=tls&host=www.creationlong.org&type=ws&sni=www.creationlong.org#ARISTA🔥
-trojan://telegram-id-privatevpns@63.179.19.192:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#ARISTA🔥
 trojan://telegram-id-privatevpns@35.159.190.54:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#ARISTA🔥
 trojan://humanity@2.144.2.62:40443?path=%2Fassignment&security=tls&insecure=1&host=www.ignitelimit.com&type=ws&allowInsecure=1&sni=www.ignitelimit.com#ARISTA🔥
+trojan://humanity@2.144.23.72:40443?path=%2Fassignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#ARISTA🔥
+trojan://humanity@sourceforge.net:443?type=ws&host=www.calmloud.com&path=/assignment&security=tls&fp=chrome&sni=www.calmloud.com&alpn=http/1.1#ARISTA🔥
+trojan://humanity@127.0.0.1:40443?path=%2Fassignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#ARISTA🔥
+trojan://mSzFVhUczD@104.20.5.134:443?path=%2F&security=tls&alpn=http%2F1.1&insecure=0&host=abest.api-tel.xyz&type=ws&allowInsecure=0&sni=abest.api-tel.xyz#ARISTA🔥

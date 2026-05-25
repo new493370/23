@@ -1,34 +1,27 @@
 # Telegram TROJAN Configurations
-# Updated: 2026-05-25 09:25:27
-# Count: 29
+# Updated: 2026-05-25 13:04:22
+# Count: 22
 # Source: Telegram Channels
 
-trojan://8r%3C%5B9%27l6hAO%238ZQi@31.57.105.157:2053?host=Koma-YT.PAGeS.Dev&path=%2FtrTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&sni=Koma-YT.PAGeS.Dev&type=ws#ARISTA🔥
-trojan://8r%3C%5B9%27l6hAO%238ZQi@94.183.235.247:8443?allowInsecure=1&host=Koma-YT.PAGeS.Dev&path=%2FtrTelegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2&sni=Koma-YT.PAGeS.Dev&type=ws#ARISTA🔥
+trojan://humanity@104.20.42.250:443?path=%2Fassignment&security=tls&insecure=1&host=www.calmloud.com&fp=ios&type=ws&allowInsecure=1&sni=www.calmloud.com#ARISTA🔥
+trojan://humanity@172.67.180.92:443?path=%2Fassignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.multiplydose.com#ARISTA🔥
 trojan://8r%3C%5B9%27l6hAO%238ZQi@89.110.108.189:2053?host=Koma-YT.PAGeS.Dev&path=%2FtrTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&sni=Koma-YT.PAGeS.Dev&type=ws#ARISTA🔥
+trojan://humanity@104.19.229.21:443?path=%2Fassignment&security=tls&insecure=1&host=www.multiplydose.com&type=ws&allowInsecure=1&sni=www.multiplydose.com#ARISTA🔥
+trojan://humanity@185.208.79.62:443?path=%2Fassignment&security=tls&insecure=1&host=www.calmlunch.com&type=ws&allowInsecure=1&sni=www.calmlunch.com#ARISTA🔥
+trojan://humanity@188.121.120.248:40443?path=%2Fassignment&security=tls&insecure=1&host=www.ignitelimit.com&type=ws&allowInsecure=1&sni=www.ignitelimit.com#ARISTA🔥
+trojan://humanity@104.20.42.250:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=1&host=www.calmloud.com&type=ws&allowInsecure=1&sni=www.calmloud.com#ARISTA🔥
+trojan://8r%3C%5B9%27l6hAO%238ZQi@94.101.177.20:2087?path=%2FtrTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&security=tls&host=Koma-YT.PAGeS.Dev&type=ws&sni=Koma-YT.PAGeS.Dev#ARISTA🔥
+trojan://humanity@95.38.189.135:40443?type=ws&security=tls&path=%2Fassignment&host=www.ignitelimit.com&sni=www.ignitelimit.com&allowInsecure=1#ARISTA🔥
+trojan://2399fe0a-b359-40a9-a3f0-b70c3c177a01@95.38.180.158:40443?security=tls&sni=aa.beijng.dpdns.org&insecure=0&allowInsecure=0&type=ws&host=aa.beijng.dpdns.org&path=%2F#ARISTA🔥
+trojan://2399fe0a-b359-40a9-a3f0-b70c3c177a01@95.38.164.245:40443?security=tls&sni=aa.beijng.dpdns.org&insecure=0&allowInsecure=0&type=ws&host=aa.beijng.dpdns.org&path=%2F#ARISTA🔥
+trojan://2399fe0a-b359-40a9-a3f0-b70c3c177a01@95.38.180.95:40443?security=tls&sni=aa.beijng.dpdns.org&insecure=0&allowInsecure=0&type=ws&host=aa.beijng.dpdns.org&path=%2F#ARISTA🔥
+trojan://humanity@www.calmloud.com:443?security=tls&sni=www.calmloud.com&fp=ios&allowInsecure=0&alpn=http/1.1&type=ws&path=/assignment#ARISTA🔥
+trojan://humanity@104.20.42.250:443?path=%2Fassignment&security=tls&host=www.calmloud.com&fp=ios&type=ws&sni=www.calmloud.com#ARISTA🔥
+trojan://8r%3C%5B9%27l6hAO%238ZQi@94.183.235.247:8443?allowInsecure=1&host=Koma-YT.PAGeS.Dev&path=%2FtrTelegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2&sni=Koma-YT.PAGeS.Dev&type=ws#ARISTA🔥
 trojan://MeaDiUmPlkWbZJ2BON8tz@78.159.131.12:28259?allowInsecure=1&sni=%F0%9F%94%92#ARISTA🔥
 trojan://8r%3C%5B9%27l6hAO%238ZQi@207.154.241.250:2083?host=Koma-YT.PAGeS.Dev&path=%2FtrTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&sni=Koma-YT.PAGeS.Dev&type=ws#ARISTA🔥
 trojan://humanity@193.151.132.136:40443?allowInsecure=1&host=www.ignitelimit.com&path=%2Fassignment&sni=www.ignitelimit.com&type=ws#ARISTA🔥
 trojan://8r%3C%5B9%27l6hAO%238ZQi@91.108.242.148:2053?host=Koma-YT.PAGeS.Dev&path=%2FtrTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&sni=Koma-YT.PAGeS.Dev&type=ws#ARISTA🔥
-trojan://8r%3C%5B9%27l6hAO%238ZQi@94.101.177.20:2087?path=%2FtrTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&security=tls&host=Koma-YT.PAGeS.Dev&type=ws&sni=Koma-YT.PAGeS.Dev#ARISTA🔥
-trojan://humanity@104.20.42.250:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=1&host=www.calmloud.com&type=ws&allowInsecure=1&sni=www.calmloud.com#ARISTA🔥
-trojan://humanity@95.38.189.135:40443?type=ws&security=tls&path=%2Fassignment&host=www.ignitelimit.com&sni=www.ignitelimit.com&allowInsecure=1#ARISTA🔥
-trojan://humanity@172.67.180.92:443?path=%2Fassignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.multiplydose.com#ARISTA🔥
-trojan://humanity@104.20.42.250:443?path=%2Fassignment&security=tls&insecure=1&host=www.calmloud.com&fp=ios&type=ws&allowInsecure=1&sni=www.calmloud.com#ARISTA🔥
-trojan://8r%3C%5B9%27l6hAO%238ZQi@94.101.177.20:2087?path=%2FtrTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&security=tls&insecure=1&host=Koma-YT.PAGeS.Dev&type=ws&allowInsecure=1&sni=Koma-YT.PAGeS.Dev#ARISTA🔥
-trojan://humanity@2.144.2.51:443?path=%2Fassignment&security=tls&alpn=h2&insecure=1&host=www.ignitelimit.com&fp=random&type=ws&allowInsecure=1&sni=www.ignitelimit.com#ARISTA🔥
+trojan://8r%3C%5B9%27l6hAO%238ZQi@62.84.98.74:8443?host=Koma-YT.PAGeS.Dev&path=%2FtrTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&sni=Koma-YT.PAGeS.Dev&type=ws#ARISTA🔥
 trojan://8r%3C%5B9%27l6hAO%238ZQi@94.101.177.20:2087?type=ws&security=tls&path=%2FtrTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&host=Koma-YT.PAGeS.Dev&sni=Koma-YT.PAGeS.Dev&allowInsecure=1#ARISTA🔥
-trojan://humanity@127.0.0.1:40443?path=%2Fassignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#ARISTA🔥
-trojan://humanity@127.0.0.1:40443?path=%2Fassignment&security=tls&insecure=1&host=www.creationlong.org&fp=chrome&type=ws&allowInsecure=1&sni=www.creationlong.org#ARISTA🔥
-trojan://humanity@95.38.180.26:40443?path=%2Fassignment&security=tls&insecure=1&host=www.ignitelimit.com&type=ws&allowInsecure=1&sni=www.ignitelimit.com#ARISTA🔥
-trojan://humanity@www.ignitelimit.com:40443?security=tls&sni=www.ignitelimit.com&fp=chrome&allowInsecure=0&type=ws&path=/assignment#ARISTA🔥
-trojan://8r%3C%5B9l6hAO%238ZQi@127.0.0.1:40443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/tr#ARISTA🔥
-trojan://humanity@127.0.0.1:40443?security=tls&sni=www.creationlong.org&type=ws&host=www.creationlong.org&path=/assignment#ARISTA🔥
-trojan://humanity@127.0.0.1:40443?security=tls&sni=www.multiplydose.com&type=ws&host=www.multiplydose.com&path=/assignment#ARISTA🔥
-trojan://humanity@46.38.137.150:40443?host=www.creationlong.org&path=%2Fassignment&sni=www.creationlong.org&type=ws#ARISTA🔥
-trojan://humanity@188.121.123.55:40443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#ARISTA🔥
-trojan://2399fe0a-b359-40a9-a3f0-b70c3c177a01@95.38.180.158:40443?security=tls&sni=aa.beijng.dpdns.org&insecure=0&allowInsecure=0&type=ws&host=aa.beijng.dpdns.org&path=%2F#ARISTA🔥
-trojan://2399fe0a-b359-40a9-a3f0-b70c3c177a01@95.38.164.245:40443?security=tls&sni=aa.beijng.dpdns.org&insecure=0&allowInsecure=0&type=ws&host=aa.beijng.dpdns.org&path=%2F#ARISTA🔥
-trojan://2399fe0a-b359-40a9-a3f0-b70c3c177a01@95.38.180.95:40443?security=tls&sni=aa.beijng.dpdns.org&insecure=0&allowInsecure=0&type=ws&host=aa.beijng.dpdns.org&path=%2F#ARISTA🔥
-trojan://humanity@104.20.42.250:443?security=tls&type=ws&host=www.calmloud.com&path=%2Fassignment&sni=www.calmloud.com&fp=ios&allowInsecure=1#ARISTA🔥
-trojan://humanity@2.144.23.72:40443?path=%2Fassignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#ARISTA🔥
+trojan://humanity@95.38.180.82:40443?path=%2Fassignment&security=tls&insecure=1&host=www.ignitelimit.com&type=ws&allowInsecure=1&sni=www.ignitelimit.com#ARISTA🔥

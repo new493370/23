@@ -1,13 +1,14 @@
 # GitHub TROJAN Configurations
-# Updated: 2026-05-29 05:12:37
-# Count: 8
+# Updated: 2026-05-29 06:30:23
+# Count: 9
 # Source: GitHub Repositories
 
 trojan://humanity@212.183.88.136:443?type=ws&security=tls&path=/assignment&host=www.calmlunch.com&sni=www.calmlunch.com&allowInsecure=0#T.ME: @aristapnel
-trojan://Mitivpn@216.24.57.251:443?type=ws&security=tls&path=/?ed=2048&host=cdn.hitgram.ir&sni=cdn.hitgram.ir&alpn=http/1.1&fp=chrome&allowInsecure=1#T.ME: @aristapnel
-trojan://Mitivpn@216.24.57.6:443?path=/?ed=2048&security=tls&alpn=http/1.1&host=dash.hitgram.ir&fp=chrome&type=ws&sni=dash.hitgram.ir#T.ME: @aristapnel
+trojan://Mitivpn@216.24.57.251:443?allow_insecure=1&allowInsecure=1&alpn=http%2F1.1&insecure=1&path=%2F%3Fed%3D2048&security=tls&sni=cdn.hitgram.ir&type=ws#T.ME: @aristapnel
 trojan://Mitivpn@216.24.57.7:443?path=/?ed=2048&security=tls&alpn=http/1.1&host=dash.hitgram.ir&type=ws&sni=dash.hitgram.ir#T.ME: @aristapnel
-trojan://Mitivpn@216.24.57.7:443?path=/?ed=2048&security=tls&alpn=http/1.1&insecure=1&host=cdn.hitgram.ir&fp=chrome&type=ws&allowInsecure=1&sni=cdn.hitgram.ir#T.ME: @aristapnel
 trojan://Mitivpn@216.24.57.7:443?path=/?ed=2048&security=tls&alpn=http/1.1&insecure=1&host=dash.hitgram.ir&fp=chrome&type=ws&allowInsecure=1&sni=dash.hitgram.ir#T.ME: @aristapnel
-trojan://humanity@216.24.57.6:443?path=/assignment&security=tls&alpn=http/1.1&insecure=1&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=1&sni=www.calmloud.com#T.ME: @aristapnel
+trojan://Mitivpn@216.24.57.251:443?type=ws&security=tls&path=%2F%3Fed%3D2048&host=dash.hitgram.ir&sni=dash.hitgram.ir&alpn=http%2F1.1&fp=chrome&allowInsecure=1#T.ME: @aristapnel
 trojan://Mitivpn@216.24.57.6:443?path=/?ed=2048&security=tls&alpn=http/1.1&insecure=1&host=cdn.hitgram.ir&fp=chrome&type=ws&allowInsecure=1&sni=cdn.hitgram.ir#T.ME: @aristapnel
+trojan://humanity@216.24.57.6:443?path=/assignment&security=tls&alpn=http/1.1&insecure=1&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=1&sni=www.calmloud.com#T.ME: @aristapnel
+trojan://Mitivpn@216.24.57.251:443?type=ws&security=tls&path=/?ed=2048&host=cdn.hitgram.ir&sni=cdn.hitgram.ir&alpn=http/1.1&fp=chrome&allowInsecure=1#T.ME: @aristapnel
+trojan://Mitivpn@216.24.57.7:443?path=/?ed=2048&security=tls&alpn=http/1.1&insecure=1&host=cdn.hitgram.ir&fp=chrome&type=ws&allowInsecure=1&sni=cdn.hitgram.ir#T.ME: @aristapnel

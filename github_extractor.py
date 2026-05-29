@@ -9,20 +9,17 @@ from urllib.parse import urlparse
 import os
 
 SOURCES = [
-    "https://raw.githubusercontent.com/Mosifree/-FREE2CONFIG/refs/heads/main/Reality",
-    "https://cdn.jsdelivr.net/gh/MahsaNetConfigTopic/config@main/xray_final.txt",
-    "https://cdn.jsdelivr.net/gh/4n0nymou3/multi-proxy-config-fetcher@main/configs/proxy_configs.txt",
-    "https://raw.githubusercontent.com/parvinxs/Fssociety/refs/heads/main/Fssociety.sub",
-    "https://cdn.jsdelivr.net/gh/Firmfox/Proxify@main/v2ray_configs/seperated_by_protocol/other.txt",
-    "https://cdn.jsdelivr.net/gh/LowiKLive/BypassWhitelistRu@main/WhiteList-Bypass_Ru.txt",
-    "https://cdn.jsdelivr.net/gh/roosterkid/openproxylist@main/V2RAY_RAW.txt",
-    "https://raw.githubusercontent.com/Firmfox/Proxify/refs/heads/main/v2ray_configs/seperated_by_protocol/other.txt",
-    "https://cdn.jsdelivr.net/gh/Mahdi0024/ProxyCollector@master/sub/proxies.txt",
-    "https://cdn.jsdelivr.net/gh/youfoundamin/V2rayCollector@main/mixed_iran.txt",
-    "https://cdn.jsdelivr.net/gh/zieng2/wl@refs/heads/main/vless_lite.txt",
-    "https://cdn.jsdelivr.net/gh/zieng2/wl@main/vless_universal.txt"
+    "https://sub.shadowproxy66.workers.dev/sub/be80a76c-6044-417c-9bff-e587f9380d05#ShadowProxy66(1)",
+    "https://sub.shadowproxy66.workers.dev/sub/214abfe9-791e-44ba-bd8e-0afe298119f6#ShadowProxy66(2)",
+    "https://sub.shadowproxy66.workers.dev/sub/99066519-727d-44d0-b65a-6034f21bf3a2#ShadowProxy66(3)",
+    "https://sub.shadowproxy66.workers.dev/sub/7429c429-a848-4ef6-8508-4b23fd0472de#ShadowProxy66(4)",
+    "https://sub.shadowproxy66.workers.dev/sub/b2bc17e9-fd87-44ef-84b2-394d9763d6a6#ShadowProxy66(5)",
+    "https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/Vless-Reality-White-Lists-Rus-Mobile.txt",
+    "https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/WHITE-CIDR-RU-all.txt",
+    "https://gitverse.ru/api/repos/bywarm/rser/raw/branch/master/selected.txt",
+    "https://raw.githubusercontent.com/ByeWhiteLists/ByeWhiteLists2/refs/heads/main/ByeWhiteLists2.txt",
+    "https://raw.githubusercontent.com/Temnuk/naabuzil/refs/heads/main/whitelist_full"
 ]
-
 class GitHubConfigExtractor:
     def __init__(self):
         self.session = requests.Session()

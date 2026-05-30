@@ -1,68 +1,63 @@
 # Combined TROJAN Configurations
-# Updated: 2026-05-30 14:01:35
-# Count: 116
-# Sources: Telegram (42) + GitHub (74)
+# Updated: 2026-05-30 15:26:43
+# Count: 109
+# Sources: Telegram (45) + GitHub (64)
 
-trojan://jAck1mS8h3@45.130.125.76:443?path=%2F%3Fed%3D2048&security=tls&alpn=http%2F1.1&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=de.aananas.ir#ARISTA
-trojan://Mitivpn@216.24.57.7:443?path=%2F%3Fed%3D2048&security=tls&alpn=http%2F1.1&insecure=1&host=cdn.hitgram.ir&fp=chrome&type=ws&allowInsecure=1&sni=cdn.hitgram.ir#ARISTA
-trojan://Mitivpn@216.24.57.7:443?path=%2F%3Fed%3D2048&security=tls&alpn=http%2F1.1&insecure=1&host=www.hitgram.ir&fp=chrome&type=ws&allowInsecure=1&sni=www.hitgram.ir#ARISTA
-trojan://mitivpn@45.130.125.76:443?path=%2F%3Fed&security=tls&alpn=http%2F1.1&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=www.app-cloud.ir#ARISTA
-trojan://Mitivpn@104.17.121.8:443?path=%2F%3Fed%3Dmitivpn&security=tls&alpn=h2%2Chttp%2F1.1&insecure=1&host=panel.hitgram.ir&fp=chrome&type=ws&allowInsecure=1&sni=panel.hitgram.ir#ARISTA
-trojan://mitivpn@104.18.32.47:2096?type=ws&security=tls&path=%2F%3Fed%3D2048&sni=www.app-cloud.ir&alpn=http%2F1.1&fp=chrome&allowInsecure=1#ARISTA
-trojan://humanity@104.18.23.63:443?type=ws&security=tls&path=%2Fassignment&sni=www.ignitelimit.com&alpn=http%2F1.1&fp=chrome&allowInsecure=1#ARISTA
-trojan://humanity@172.64.152.23:443?encryption=none&security=tls&sni=www.creationlong.org&alpn=h2%2Chttp%2F1.1&fp=chrome&insecure=1&type=ws&host=www.creationlong.org&path=%2Fassignment#ARISTA
-trojan://humanity@104.18.13.149:443?encryption=none&security=tls&sni=www.calmloud.com&fp=ios&insecure=1&type=ws&host=www.calmloud.com&path=%2Fassignment#ARISTA
-trojan://humanity@104.18.7.147:443?encryption=none&security=tls&sni=www.creationlong.org&alpn=h2%2Chttp%2F1.1&insecure=1&type=ws&path=%2Fassignment#ARISTA
-trojan://humanity@2.144.2.51:443?encryption=none&security=tls&sni=www.ignitelimit.com&alpn=h2&fp=random&insecure=1&type=ws&host=www.ignitelimit.com&path=%2Fassignment#ARISTA
-trojan://humanity@104.18.0.55:443?encryption=none&security=tls&sni=www.gossipglove.com&fp=chrome&insecure=1&type=ws&path=%2Fassignment#ARISTA
+trojan://humanity@104.17.121.71:443?path=%2Fassignment&security=tls&insecure=0&host=www.multiplydose.com&type=ws&allowInsecure=0&sni=www.multiplydose.com#ARISTA
 trojan://humanity@45.130.125.76:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=1&host=www.calmlunch.com&fp=chrome&type=ws&allowInsecure=1&sni=www.calmlunch.com#ARISTA
+trojan://tunnel-astrovpn_official@193.124.46.134:8441?security=tls&alpn=http%2F1.1&insecure=1&host=193.124.46.134&headerType=none&type=tcp&allowInsecure=1&sni=zula.ir.AstroVPN-official.AstroVPN-official.workers.dev.AstroVPN_Official.org.AstroVPN.com.AstroVPN_Official.xyz.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.monster.AstroVPN_OfficialJoinTelegram-------------AstroVPN_Official----------Join.ir#ARISTA
+trojan://Mitivpn@104.17.121.8:443?path=%2F%3Fed%3Dmitivpn&security=tls&alpn=h2%2Chttp%2F1.1&insecure=1&host=panel.hitgram.ir&fp=chrome&type=ws&allowInsecure=1&sni=panel.hitgram.ir#ARISTA
+trojan://BxceQaOe@18.166.59.84:7484?security=tls&headerType=none&type=tcp&sni=t.me%252Fripaojiedian#ARISTA
 trojan://Mitivpn@216.24.57.7:443?allowInsecure=1&alpn=http%2F1.1&ed=2048&eh=Sec-WebSocket-Protocol&fp=chrome&host=cdn.hitgram.ir&path=%2F&sni=cdn.hitgram.ir&type=ws#ARISTA
 trojan://Mitivpn@104.17.121.9:443?allowInsecure=1&alpn=h2%2Chttp%2F1.1&eh=Sec-WebSocket-Protocol&fp=chrome&host=my.hitgram.ir&path=%2F&sni=my.hitgram.ir&type=ws#ARISTA
 trojan://r-_YbwF.j0TtHVewoFIppramjAnmSfqYzJ@172.238.120.124:443#ARISTA
 trojan://G2qM_GHnAEpbuIp1mcZh3mGvVn3+rHrwNe@172.232.194.147:443?fp=chrome#ARISTA
-trojan://humanity@216.24.57.6:443?type=ws&security=tls&path=%2Fassignment&host=www.creationlong.org&sni=www.creationlong.org&alpn=http%2F1.1&fp=chrome&allowInsecure=0#ARISTA
-trojan://f6d3aa07a52dbcedcb4731029e2fb6ae@18.163.128.27:2663?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=www.nintendogames.net#ARISTA
-trojan://f6d3aa07a52dbcedcb4731029e2fb6ae@18.163.128.27:2663?security=tls&headerType=none&type=tcp&sni=www.nintendogames.net#ARISTA
-trojan://Mitivpn@198.62.62.251:443?type=ws&security=tls&path=%2F%3Fed%3D2048&host=dash.hitgram.ir&sni=dash.hitgram.ir&alpn=http%2F1.1&fp=chrome&allowInsecure=1#ARISTA
-trojan://humanity@165.215.250.14:443?alpn=http%2F1.1&host=www.ignitelimit.com&path=%2Fassignment&sni=www.ignitelimit.com&type=ws#ARISTA
+trojan://1991@172.64.229.170:2096?path=/?ed=2560&security=tls&host=v2ngfast-v2ngfast-v2ngfast-v2ngfast.febeta9963.workers.dev&fp=chrome&type=ws&sni=v2ngfast-v2ngfast-v2ngfast-v2ngfast.febeta9963.workers.dev#ARISTA
 trojan://Mitivpn@45.130.125.76:2053?type=ws&security=tls&path=%2F%3Fed%3D2048&host=dash.hitgram.ir&sni=dash.hitgram.ir&alpn=http%2F1.1&fp=chrome&allowInsecure=1#ARISTA
+trojan://humanity@216.24.57.6:443?type=ws&security=tls&path=%2Fassignment&host=www.creationlong.org&sni=www.creationlong.org&alpn=http%2F1.1&fp=chrome&allowInsecure=0#ARISTA
 trojan://humanity@45.130.125.76:443?type=ws&security=tls&path=%2Fassignment&host=www.calmlunch.com&sni=www.calmlunch.com&alpn=http%2F1.1&fp=chrome&allowInsecure=1#ARISTA
 trojan://humanity@104.17.121.71:443?type=ws&security=tls&path=%2Fassignment&host=www.creationlong.org&sni=www.creationlong.org&alpn=http%2F1.1&fp=chrome&allowInsecure=0#ARISTA
 trojan://humanity@104.17.121.9:443?type=ws&security=tls&path=%2Fassignment&host=www.calmlunch.com&sni=www.calmlunch.com&alpn=http%2F1.1&fp=chrome&allowInsecure=1#ARISTA
 trojan://humanity@104.17.121.37:443?type=ws&security=tls&path=%2Fassignment&host=www.gossipglove.com&sni=www.gossipglove.com&alpn=http%2F1.1&fp=chrome&allowInsecure=1#ARISTA
-trojan://4Fi9DdXrBq@45.130.125.76:443?path=%2F%3Fed%3D2048&security=tls&alpn=http%2F1.1&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=de.aananas.ir#ARISTA
-trojan://Mitivpn@45.130.125.76:443?path=%2F%3Fed%3Dmitivpn&security=tls&alpn=h2%2Chttp%2F1.1&insecure=1&host=panel.hitgram.ir&fp=chrome&type=ws&allowInsecure=1&sni=panel.hitgram.ir#ARISTA
-trojan://telegram-id-privatevpns@13.37.36.34:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#ARISTA
-trojan://mitivpn@45.130.125.76:443?path=%2F%3Fed%3D2048&security=tls&alpn=http%2F1.1&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=www.app-cloud.ir#ARISTA
-trojan://Mitivpn@208.103.161.33:443?path=%2F%3Fed%3D2048&security=tls&alpn=http%2F1.1&host=cdn.hitgram.ir&fp=chrome&type=ws&sni=cdn.hitgram.ir#ARISTA
-trojan://humanity@104.17.121.71:443?path=%2Fassignment&security=tls&insecure=0&host=www.multiplydose.com&type=ws&allowInsecure=0&sni=www.multiplydose.com#ARISTA
-trojan://Mitivpn@45.130.125.76:443?type=ws&security=tls&path=%2F%3Fed&host=www.hitgram.ir&sni=www.hitgram.ir&alpn=http%2F1.1&fp=chrome&allowInsecure=1#ARISTA
-trojan://humanity@www.multiplydose.com:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.multiplydose.com#ARISTA
-trojan://humanity@104.18.23.63:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=www.ignitelimit.com#ARISTA
-trojan://humanity@216.24.57.6:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.creationlong.org&fp=chrome&type=ws&allowInsecure=0&sni=www.creationlong.org#ARISTA
-trojan://humanity@216.24.57.7:443?path=%2Fassignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#ARISTA
-trojan://humanity@81.255.155.10:443?path=%2Fassignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#ARISTA
-trojan://BxceQaOe@18.166.59.84:7484?security=tls&headerType=none&type=tcp&sni=t.me%252Fripaojiedian#ARISTA
+trojan://f6d3aa07a52dbcedcb4731029e2fb6ae@18.163.128.27:2663?security=tls&headerType=none&type=tcp&sni=www.nintendogames.net#ARISTA
 trojan://Mitivpn@104.17.121.71:2053?path=%2F&security=tls&alpn=http%2F1.1&insecure=1&host=dash.hitgram.ir&fp=chrome&type=ws&allowInsecure=1&sni=dash.hitgram.ir#ARISTA
 trojan://humanity@45.130.125.76:443?path=assignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.ignitelimit.com#ARISTA
-trojan://Mitivpn@45.130.125.76:2053?type=ws&security=tls&path=%2F%3Fed%3D2048&host=dash.hitgram.ir&sni=dash.hitgram.ir&alpn=http%2F1.1&fp=chrome&allowInsecure=1#T.ME: @aristapnel
-trojan://Mitivpn@216.24.57.6:443?path=%2F%3Fed%3D2048&security=tls&alpn=http%2F1.1&host=dash.hitgram.ir&fp=chrome&type=ws&sni=dash.hitgram.ir#T.ME: @aristapnel
-trojan://Mitivpn@104.17.121.71:2053?path=%2F%3Fed%3D2048&security=tls&alpn=http%2F1.1&host=dash.hitgram.ir&fp=chrome&type=ws&sni=dash.hitgram.ir#T.ME: @aristapnel
-trojan://Mitivpn@104.18.32.47:2053?path=%2F%3Fed%3D2048&security=tls&alpn=http%2F1.1&host=dash.hitgram.ir&fp=chrome&type=ws&sni=dash.hitgram.ir#T.ME: @aristapnel
-trojan://Mitivpn@104.17.121.71:443?type=ws&security=tls&path=%2F%3Fed%3D2048&host=cdn.hitgram.ir&sni=cdn.hitgram.ir&alpn=http%2F1.1&fp=chrome&allowInsecure=1#T.ME: @aristapnel
-trojan://Mitivpn@45.130.125.76:2053?path=%2F%3Fed%3D2048&security=tls&alpn=http%2F1.1&host=dash.hitgram.ir&fp=chrome&type=ws&sni=dash.hitgram.ir#T.ME: @aristapnel
-trojan://Mitivpn@216.24.57.7:443?type=ws&security=tls&path=%2F%3Fed%3D2048&host=www.hitgram.ir&sni=www.hitgram.ir&alpn=http%2F1.1&fp=chrome&allowInsecure=1#T.ME: @aristapnel
-trojan://Mitivpn@216.24.57.7:443?type=ws&security=tls&path=%2F%3Fed%3D2048&host=cdn.hitgram.ir&sni=cdn.hitgram.ir&alpn=http%2F1.1&fp=chrome&allowInsecure=1#T.ME: @aristapnel
-trojan://humanity@104.18.8.83:443?path=%2Fassignment&security=tls&host=www.calmlunch.com&type=ws&sni=www.calmlunch.com#T.ME: @aristapnel
-trojan://Mitivpn@208.103.161.33:443?path=%2F%3Fed%3Dmitivpn&security=tls&alpn=http%2F1.1&insecure=1&host=www.hitgram.ir&fp=chrome&type=ws&allowInsecure=1&sni=www.hitgram.ir#T.ME: @aristapnel
-trojan://Mitivpn@104.17.121.71:2053?path=%2F&security=tls&alpn=http%2F1.1&insecure=1&host=dash.hitgram.ir&fp=chrome&type=ws&allowInsecure=1&sni=dash.hitgram.ir#T.ME: @aristapnel
-trojan://%4d%69%74%69%76%70%6e@45.130.125.76:2053?path=%2F%3Fed%3D2048&security=tls&alpn=http%2F1.1&insecure=1&host=dash.hitgram.ir&fp=chrome&type=ws&allowInsecure=1&sni=dash.hitgram.ir#T.ME: @aristapnel
-trojan://Mitivpn@208.103.161.33:443?path=%2F%3Fed%3D2048&security=tls&alpn=http%2F1.1&insecure=0&host=cdn.hitgram.ir&fp=chrome&type=ws&allowInsecure=0&sni=cdn.hitgram.ir#T.ME: @aristapnel
-trojan://humanity@45.130.125.76:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=1&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=1&sni=www.calmloud.com#T.ME: @aristapnel
-trojan://Mitivpn@165.215.250.11:443?path=%2F%3Fed%3D2048&security=tls&alpn=http%2F1.1&host=cdn.hitgram.ir&fp=chrome&type=ws&sni=cdn.hitgram.ir#T.ME: @aristapnel
-trojan://Mitivpn@216.24.57.6:443?path=%2F%3Fed%3D2048&security=tls&alpn=http%2F1.1&insecure=0&host=dash.hitgram.ir&fp=chrome&type=ws&allowInsecure=0&sni=dash.hitgram.ir#T.ME: @aristapnel
-trojan://Mitivpn@45.130.125.76:443?path=%2F%3Fed%3Dmitivpn&security=tls&alpn=h2%2Chttp%2F1.1&host=panel.hitgram.ir&fp=chrome&type=ws&sni=panel.hitgram.ir#T.ME: @aristapnel
-trojan://Mitivpn@45.130.125.76:443?path=%2F%3Fed%3Dmitivpn&security=tls&alpn=h2%2Chttp%2F1.1&insecure=1&host=panel.hitgram.ir&fp=chrome&type=ws&allowInsecure=1&sni=panel.hitgram.ir#T.ME: @aristapnel
+trojan://4Fi9DdXrBq@45.130.125.76:443?path=%2F%3Fed%3D2048&security=tls&alpn=http%2F1.1&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=de.aananas.ir#ARISTA
+trojan://Mitivpn@45.130.125.76:443?path=%2F%3Fed%3Dmitivpn&security=tls&alpn=h2%2Chttp%2F1.1&insecure=1&host=panel.hitgram.ir&fp=chrome&type=ws&allowInsecure=1&sni=panel.hitgram.ir#ARISTA
+trojan://jAck1mS8h3@45.130.125.76:443?path=%2F%3Fed%3D2048&security=tls&alpn=http%2F1.1&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=de.aananas.ir#ARISTA
+trojan://humanity@www.multiplydose.com:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.multiplydose.com#ARISTA
+trojan://humanity@165.215.250.14:443?alpn=http%2F1.1&host=www.ignitelimit.com&path=%2Fassignment&sni=www.ignitelimit.com&type=ws#ARISTA
+trojan://mitivpn@45.130.125.76:443?path=%2F%3Fed&security=tls&alpn=http%2F1.1&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=www.app-cloud.ir#ARISTA
+trojan://humanity@216.24.57.7:443?path=%2Fassignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#ARISTA
+trojan://humanity@81.255.155.10:443?path=%2Fassignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#ARISTA
+trojan://humanity@104.18.23.63:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=www.ignitelimit.com#ARISTA
+trojan://f6d3aa07a52dbcedcb4731029e2fb6ae@18.163.128.27:2663?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=www.nintendogames.net#ARISTA
+trojan://humanity@216.24.57.6:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.creationlong.org&fp=chrome&type=ws&allowInsecure=0&sni=www.creationlong.org#ARISTA
+trojan://Mitivpn@216.24.57.7:443?path=%2F%3Fed%3D2048&security=tls&alpn=http%2F1.1&insecure=1&host=cdn.hitgram.ir&fp=chrome&type=ws&allowInsecure=1&sni=cdn.hitgram.ir#ARISTA
+trojan://Mitivpn@216.24.57.7:443?path=%2F%3Fed%3D2048&security=tls&alpn=http%2F1.1&insecure=1&host=www.hitgram.ir&fp=chrome&type=ws&allowInsecure=1&sni=www.hitgram.ir#ARISTA
+trojan://Mitivpn@198.62.62.251:443?type=ws&security=tls&path=%2F%3Fed%3D2048&host=dash.hitgram.ir&sni=dash.hitgram.ir&alpn=http%2F1.1&fp=chrome&allowInsecure=1#ARISTA
+trojan://e2f70d88-8a9a-4a41-a220-9e50d8cf283d@pokemonus-01.yunjnet.com:56115?allowInsecure=1&peer=iosapps.itunes.apple.com&sni=iosapps.itunes.apple.com&type=tcp#ARISTA
+trojan://mitivpn@216.24.57.6:443?type=ws&security=tls&path=%2F&host=www.ir-sub.ir&sni=www.ir-sub.ir&fp=chrome&allowInsecure=1#ARISTA
+trojan://mitivpn@208.103.161.33:443?path=%2F&security=tls&insecure=1&host=ir-sub.ir&fp=chrome&type=ws&allowInsecure=1&sni=ir-sub.ir#ARISTA
+trojan://humanity@104.18.13.149:443?encryption=none&security=tls&sni=www.calmloud.com&fp=ios&insecure=1&type=ws&host=www.calmloud.com&path=%2Fassignment#ARISTA
+trojan://humanity@104.18.7.147:443?encryption=none&security=tls&sni=www.creationlong.org&alpn=h2%2Chttp%2F1.1&insecure=1&type=ws&path=%2Fassignment#ARISTA
+trojan://humanity@2.144.2.51:443?encryption=none&security=tls&sni=www.ignitelimit.com&alpn=h2&fp=random&insecure=1&type=ws&host=www.ignitelimit.com&path=%2Fassignment#ARISTA
+trojan://humanity@104.18.0.55:443?encryption=none&security=tls&sni=www.gossipglove.com&fp=chrome&insecure=1&type=ws&path=%2Fassignment#ARISTA
+trojan://humanity@172.64.152.23:443?encryption=none&security=tls&sni=www.multiplydose.com&fp=chrome&insecure=1&type=ws&path=%2Fassignment#ARISTA
+trojan://humanity@www.gossipglove.com:443?encryption=none&security=tls&sni=www.gossipglove.com&alpn=http%2F1.1&fp=chrome&insecure=1&type=ws&path=%2Fassignment#ARISTA
+trojan://Mitivpn@208.103.161.33:443?path=%2F%3Fed%3D2048&security=tls&alpn=http%2F1.1&host=cdn.hitgram.ir&fp=chrome&type=ws&sni=cdn.hitgram.ir#ARISTA
+trojan://telegram-id-privatevpns@13.37.36.34:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#ARISTA
+trojan://humanity@www.calmlunch.com:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#ARISTA
+trojan://mitivpn@104.18.20.213:443?path=%2F%3Fed%3D2048&security=tls&alpn=http%2F1.1&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=www.app-cloud.ir#T.ME: @aristapnel
+trojan://gcuCpQfaiVeDBdWG@211.76.176.99:19128?security=tls&sni=yazhou10.dynu.net&type=tcp&headerType=none#T.ME: @aristapnel
+trojan://%6d%69%74%69%76%70%6e@45.130.125.76:443?path=%2F%3Fed%3D2048&security=tls&alpn=http%2F1.1&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=www.app-cloud.ir#T.ME: @aristapnel
+trojan://mitivpn@14.102.228.76:443?path=%2Fhttp%2F1.1&security=tls&type=ws&sni=www.app-cloud.ir#T.ME: @aristapnel
+trojan://mitivpn@104.18.32.47:2096?type=ws&security=tls&path=%2F%3Fed%3D2048&sni=www.app-cloud.ir&alpn=http%2F1.1&fp=chrome&allowInsecure=1#T.ME: @aristapnel
+trojan://mitivpn@104.18.32.47:8443?path=%2F%3Fed%3D2048&security=tls&alpn=http%2F1.1&fp=chrome&type=ws&sni=www.app-cloud.ir#T.ME: @aristapnel
+trojan://mitivpn@104.18.32.47:2096?path=%2F%3Fed%3D2048&security=tls&alpn=http%2F1.1&fp=chrome&type=ws&sni=www.app-cloud.ir#T.ME: @aristapnel
+trojan://mitivpn@45.130.125.76:443?type=ws&security=tls&path=%2F%3Fed%3.D2048&sni=www.app-cloud.ir&alpn=http%2F1.1&fp=chrome&allowInsecure=1#T.ME: @aristapnel
+trojan://mitivpn@14.102.228.76:443?path=%2Fhttp%2F1.1&security=tls&insecure=1&type=ws&allowInsecure=1&sni=www.app-cloud.ir#T.ME: @aristapnel
+trojan://mitivpn@14.102.228.76:443?path=%2F%3Fed%3D2048&security=tls&alpn=http%2F1.1&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=www.app-cloud.ir#T.ME: @aristapnel
 trojan://BzOx2R8u59SOipHwhIYW-IMyJePBEiUY-m@149.104.104.101:443?security=tls&sni=www.registry-monitor.click&fp=chrome&type=tcp&headerType=none&path=/#T.ME: @aristapnel
 trojan://IbezlLAYfrLRwFn9.mHn5FDwk1asLi599U@130.94.65.52:443?security=tls&sni=www.static-cast.click&fp=chrome&type=tcp&headerType=none&path=/#T.ME: @aristapnel
 trojan://gcuCpQfaiVeDBdWG@jpbgp.netvigor.cc:19128?security=tls&sni=yazhou10.dynu.net&allowInsecure=1&type=tcp&headerType=none#T.ME: @aristapnel
@@ -114,8 +109,6 @@ trojan://lTs6OZOMoqYAkDEbK10t-tE8KMjuREBW3m@130.94.104.210:443?security=tls&sni=
 trojan://r-_YbwF.j0TtHVewoFIppramjAnmSfqYzJ@172.238.120.124:443?security=tls&sni=172.238.120.124&fp=chrome&type=tcp&headerType=none&path=%2f&allow_insecure=0#T.ME: @aristapnel
 trojan://owreRY1bmquS1WcYN2@nl-1.tr202605.com:443?security=tls&path=%2f#T.ME: @aristapnel
 trojan://humanity@212.183.88.136:443?path=%2Fassignment&security=tls&insecure=1&type=ws&allowInsecure=1&sni=www.calmlunch.com#T.ME: @aristapnel
-trojan://humanity@212.183.88.136:443?type=ws&security=tls&path=%2Fassignment&host=www.calmlunch.com&sni=www.calmlunch.com&allowInsecure=0#T.ME: @aristapnel
-trojan://humanity@216.24.57.6:443?security=tls&sni=www.calmloud.com&fp=chrome&alpn=http%2F1.1&type=ws&path=%2Fassignment#T.ME: @aristapnel
 trojan://humanity@216.24.57.7:443?allow_insecure=0&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#T.ME: @aristapnel
 trojan://humanity@216.24.57.7:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#T.ME: @aristapnel
-trojan://humanity@216.24.57.7:443?security=tls&sni=www.ignitelimit.com&fp=chrome&insecure=0&allowInsecure=0&type=ws&path=%2Fassignment#T.ME: @aristapnel
+trojan://humanity@216.24.57.7:443?security=tls&sni=www.ignitelimit.com&fp=chrome&insecure=0&allowInsecure=0&type=ws&path=/assignment#T.ME: @aristapnel

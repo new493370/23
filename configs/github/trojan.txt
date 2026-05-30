@@ -1,26 +1,18 @@
 # GitHub TROJAN Configurations
-# Updated: 2026-05-30 14:01:35
-# Count: 74
+# Updated: 2026-05-30 15:26:43
+# Count: 64
 # Source: GitHub Repositories
 
-trojan://Mitivpn@45.130.125.76:2053?type=ws&security=tls&path=%2F%3Fed%3D2048&host=dash.hitgram.ir&sni=dash.hitgram.ir&alpn=http%2F1.1&fp=chrome&allowInsecure=1#T.ME: @aristapnel
-trojan://Mitivpn@216.24.57.6:443?path=%2F%3Fed%3D2048&security=tls&alpn=http%2F1.1&host=dash.hitgram.ir&fp=chrome&type=ws&sni=dash.hitgram.ir#T.ME: @aristapnel
-trojan://Mitivpn@104.17.121.71:2053?path=%2F%3Fed%3D2048&security=tls&alpn=http%2F1.1&host=dash.hitgram.ir&fp=chrome&type=ws&sni=dash.hitgram.ir#T.ME: @aristapnel
-trojan://Mitivpn@104.18.32.47:2053?path=%2F%3Fed%3D2048&security=tls&alpn=http%2F1.1&host=dash.hitgram.ir&fp=chrome&type=ws&sni=dash.hitgram.ir#T.ME: @aristapnel
-trojan://Mitivpn@104.17.121.71:443?type=ws&security=tls&path=%2F%3Fed%3D2048&host=cdn.hitgram.ir&sni=cdn.hitgram.ir&alpn=http%2F1.1&fp=chrome&allowInsecure=1#T.ME: @aristapnel
-trojan://Mitivpn@45.130.125.76:2053?path=%2F%3Fed%3D2048&security=tls&alpn=http%2F1.1&host=dash.hitgram.ir&fp=chrome&type=ws&sni=dash.hitgram.ir#T.ME: @aristapnel
-trojan://Mitivpn@216.24.57.7:443?type=ws&security=tls&path=%2F%3Fed%3D2048&host=www.hitgram.ir&sni=www.hitgram.ir&alpn=http%2F1.1&fp=chrome&allowInsecure=1#T.ME: @aristapnel
-trojan://Mitivpn@216.24.57.7:443?type=ws&security=tls&path=%2F%3Fed%3D2048&host=cdn.hitgram.ir&sni=cdn.hitgram.ir&alpn=http%2F1.1&fp=chrome&allowInsecure=1#T.ME: @aristapnel
-trojan://humanity@104.18.8.83:443?path=%2Fassignment&security=tls&host=www.calmlunch.com&type=ws&sni=www.calmlunch.com#T.ME: @aristapnel
-trojan://Mitivpn@208.103.161.33:443?path=%2F%3Fed%3Dmitivpn&security=tls&alpn=http%2F1.1&insecure=1&host=www.hitgram.ir&fp=chrome&type=ws&allowInsecure=1&sni=www.hitgram.ir#T.ME: @aristapnel
-trojan://Mitivpn@104.17.121.71:2053?path=%2F&security=tls&alpn=http%2F1.1&insecure=1&host=dash.hitgram.ir&fp=chrome&type=ws&allowInsecure=1&sni=dash.hitgram.ir#T.ME: @aristapnel
-trojan://%4d%69%74%69%76%70%6e@45.130.125.76:2053?path=%2F%3Fed%3D2048&security=tls&alpn=http%2F1.1&insecure=1&host=dash.hitgram.ir&fp=chrome&type=ws&allowInsecure=1&sni=dash.hitgram.ir#T.ME: @aristapnel
-trojan://Mitivpn@208.103.161.33:443?path=%2F%3Fed%3D2048&security=tls&alpn=http%2F1.1&insecure=0&host=cdn.hitgram.ir&fp=chrome&type=ws&allowInsecure=0&sni=cdn.hitgram.ir#T.ME: @aristapnel
-trojan://humanity@45.130.125.76:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=1&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=1&sni=www.calmloud.com#T.ME: @aristapnel
-trojan://Mitivpn@165.215.250.11:443?path=%2F%3Fed%3D2048&security=tls&alpn=http%2F1.1&host=cdn.hitgram.ir&fp=chrome&type=ws&sni=cdn.hitgram.ir#T.ME: @aristapnel
-trojan://Mitivpn@216.24.57.6:443?path=%2F%3Fed%3D2048&security=tls&alpn=http%2F1.1&insecure=0&host=dash.hitgram.ir&fp=chrome&type=ws&allowInsecure=0&sni=dash.hitgram.ir#T.ME: @aristapnel
-trojan://Mitivpn@45.130.125.76:443?path=%2F%3Fed%3Dmitivpn&security=tls&alpn=h2%2Chttp%2F1.1&host=panel.hitgram.ir&fp=chrome&type=ws&sni=panel.hitgram.ir#T.ME: @aristapnel
-trojan://Mitivpn@45.130.125.76:443?path=%2F%3Fed%3Dmitivpn&security=tls&alpn=h2%2Chttp%2F1.1&insecure=1&host=panel.hitgram.ir&fp=chrome&type=ws&allowInsecure=1&sni=panel.hitgram.ir#T.ME: @aristapnel
+trojan://mitivpn@104.18.20.213:443?path=%2F%3Fed%3D2048&security=tls&alpn=http%2F1.1&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=www.app-cloud.ir#T.ME: @aristapnel
+trojan://gcuCpQfaiVeDBdWG@211.76.176.99:19128?security=tls&sni=yazhou10.dynu.net&type=tcp&headerType=none#T.ME: @aristapnel
+trojan://%6d%69%74%69%76%70%6e@45.130.125.76:443?path=%2F%3Fed%3D2048&security=tls&alpn=http%2F1.1&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=www.app-cloud.ir#T.ME: @aristapnel
+trojan://mitivpn@14.102.228.76:443?path=%2Fhttp%2F1.1&security=tls&type=ws&sni=www.app-cloud.ir#T.ME: @aristapnel
+trojan://mitivpn@104.18.32.47:2096?type=ws&security=tls&path=%2F%3Fed%3D2048&sni=www.app-cloud.ir&alpn=http%2F1.1&fp=chrome&allowInsecure=1#T.ME: @aristapnel
+trojan://mitivpn@104.18.32.47:8443?path=%2F%3Fed%3D2048&security=tls&alpn=http%2F1.1&fp=chrome&type=ws&sni=www.app-cloud.ir#T.ME: @aristapnel
+trojan://mitivpn@104.18.32.47:2096?path=%2F%3Fed%3D2048&security=tls&alpn=http%2F1.1&fp=chrome&type=ws&sni=www.app-cloud.ir#T.ME: @aristapnel
+trojan://mitivpn@45.130.125.76:443?type=ws&security=tls&path=%2F%3Fed%3.D2048&sni=www.app-cloud.ir&alpn=http%2F1.1&fp=chrome&allowInsecure=1#T.ME: @aristapnel
+trojan://mitivpn@14.102.228.76:443?path=%2Fhttp%2F1.1&security=tls&insecure=1&type=ws&allowInsecure=1&sni=www.app-cloud.ir#T.ME: @aristapnel
+trojan://mitivpn@14.102.228.76:443?path=%2F%3Fed%3D2048&security=tls&alpn=http%2F1.1&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=www.app-cloud.ir#T.ME: @aristapnel
 trojan://BzOx2R8u59SOipHwhIYW-IMyJePBEiUY-m@149.104.104.101:443?security=tls&sni=www.registry-monitor.click&fp=chrome&type=tcp&headerType=none&path=/#T.ME: @aristapnel
 trojan://IbezlLAYfrLRwFn9.mHn5FDwk1asLi599U@130.94.65.52:443?security=tls&sni=www.static-cast.click&fp=chrome&type=tcp&headerType=none&path=/#T.ME: @aristapnel
 trojan://gcuCpQfaiVeDBdWG@jpbgp.netvigor.cc:19128?security=tls&sni=yazhou10.dynu.net&allowInsecure=1&type=tcp&headerType=none#T.ME: @aristapnel
@@ -72,8 +64,6 @@ trojan://lTs6OZOMoqYAkDEbK10t-tE8KMjuREBW3m@130.94.104.210:443?security=tls&sni=
 trojan://r-_YbwF.j0TtHVewoFIppramjAnmSfqYzJ@172.238.120.124:443?security=tls&sni=172.238.120.124&fp=chrome&type=tcp&headerType=none&path=%2f&allow_insecure=0#T.ME: @aristapnel
 trojan://owreRY1bmquS1WcYN2@nl-1.tr202605.com:443?security=tls&path=%2f#T.ME: @aristapnel
 trojan://humanity@212.183.88.136:443?path=%2Fassignment&security=tls&insecure=1&type=ws&allowInsecure=1&sni=www.calmlunch.com#T.ME: @aristapnel
-trojan://humanity@212.183.88.136:443?type=ws&security=tls&path=%2Fassignment&host=www.calmlunch.com&sni=www.calmlunch.com&allowInsecure=0#T.ME: @aristapnel
-trojan://humanity@216.24.57.6:443?security=tls&sni=www.calmloud.com&fp=chrome&alpn=http%2F1.1&type=ws&path=%2Fassignment#T.ME: @aristapnel
 trojan://humanity@216.24.57.7:443?allow_insecure=0&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#T.ME: @aristapnel
 trojan://humanity@216.24.57.7:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#T.ME: @aristapnel
-trojan://humanity@216.24.57.7:443?security=tls&sni=www.ignitelimit.com&fp=chrome&insecure=0&allowInsecure=0&type=ws&path=%2Fassignment#T.ME: @aristapnel
+trojan://humanity@216.24.57.7:443?security=tls&sni=www.ignitelimit.com&fp=chrome&insecure=0&allowInsecure=0&type=ws&path=/assignment#T.ME: @aristapnel

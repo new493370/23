@@ -1,6 +1,6 @@
 # Telegram HYSTERIA2 Configurations
-# Updated: 2026-05-31 17:26:45
-# Count: 6
+# Updated: 2026-05-31 19:00:11
+# Count: 8
 # Source: Telegram Channels
 
 hysteria2://Masir_Sefid@18.153.46.206:443?security=tls&obfs=salamander&obfs-password=Masir_Sefid&insecure=0&sni=qus.masir-sefid.shop#ARISTA
@@ -8,4 +8,6 @@ hysteria2://Masir_Sefid@18.153.46.206:444?security=tls&obfs=salamander&obfs-pass
 hysteria2://Masir_Sefid@18.153.46.206:1040?security=tls&obfs=salamander&obfs-password=Masir_Sefid&insecure=0&sni=qus.masir-sefid.shop#ARISTA
 hysteria2://Masir_Sefid@18.153.46.206:4040?security=tls&obfs=salamander&obfs-password=Masir_Sefid&insecure=0&sni=qus.masir-sefid.shop#ARISTA
 hysteria2://Masir_Sefid@18.153.46.206:54040?security=tls&obfs=salamander&obfs-password=Masir_Sefid&insecure=0&sni=qus.masir-sefid.shop#ARISTA
+hysteria2://Masir_Sefid@18.196.180.90:444?obfs=salamander&obfs-password=Masir_Sefid&sni=qus.masir-sefid.shop&insecure=0#ARISTA
+hysteria2://Masir_Sefid@18.196.180.90:1040?security=tls&obfs=salamander&obfs-password=Masir_Sefid&insecure=0&sni=qus.masir-sefid.shop#ARISTA
 hysteria2://Masir_Sefid@18.159.104.97:4040?security=tls&obfs=salamander&obfs-password=Masir_Sefid&insecure=0&sni=qus.masir-sefid.shop#ARISTA

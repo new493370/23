@@ -1,5 +1,5 @@
 # GitHub TROJAN Configurations
-# Updated: 2026-05-31 17:26:51
+# Updated: 2026-05-31 19:00:16
 # Count: 96
 # Source: GitHub Repositories
 
@@ -98,4 +98,4 @@ trojan://Tu1fZjElnkRg0ECRj0sI0u54PY8ptUmATg@65.20.90.225:443?sni=www.sandbox-clo
 trojan://IbezlLAYfrLRwFn9.mHn5FDwk1asLi599U@130.94.65.52:443?security=tls&sni=www.static-cast.click&fp=chrome&type=tcp&headerType=none&path=%2f#T.ME: @aristapnel
 trojan://lTs6OZOMoqYAkDEbK10t-tE8KMjuREBW3m@130.94.104.210:443?security=tls&sni=www.cdn-structure.click&fp=chrome&type=tcp&headerType=none&path=%2f#T.ME: @aristapnel
 trojan://gcuCpQfaiVeDBdWG@jpbgp.netvigor.cc:19128?security=tls&sni=yazhou10.dynu.net&path=%2f#T.ME: @aristapnel
-trojan://humanity@216.24.57.7:443?security=tls&sni=www.ignitelimit.com&fp=chrome&insecure=0&allowInsecure=0&type=ws&path=/assignment#T.ME: @aristapnel
+trojan://humanity@216.24.57.7:443?path=%2Fassignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#T.ME: @aristapnel

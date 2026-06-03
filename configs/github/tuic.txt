@@ -1,7 +1,0 @@
-# GitHub TUIC Configurations
-# Updated: 2026-06-03 01:56:31
-# Count: 2
-# Source: GitHub Repositories
-
-tuic://2219a1b1-9290-4ac5-94fd-6cfc1fb25280:2219a1b1-9290-4ac5-94fd-6cfc1fb25280@xbns1y.yydzx.xyz:27102?sni=xbns1y.yydzx.xyz&alpn=h3&path=%2f&congestion_control=bbr&udp_relay_mode=bbr#T.ME: @aristapnel
-tuic://2219a1b1-9290-4ac5-94fd-6cfc1fb25280:2219a1b1-9290-4ac5-94fd-6cfc1fb25280@m61wz8.yydzx.xyz:27105?sni=m61wz8.yydzx.xyz&alpn=h3&path=%2f&congestion_control=bbr&udp_relay_mode=bbr#T.ME: @aristapnel

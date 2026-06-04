@@ -1,6 +1,6 @@
 # GitHub TROJAN Configurations
-# Updated: 2026-06-03 23:18:55
-# Count: 381
+# Updated: 2026-06-04 02:22:27
+# Count: 386
 # Source: GitHub Repositories
 
 trojan://trojan@109.234.211.66:8443?security=tls&sni=store.timimi.dpdns.org&fp=chrome&type=ws&path=/&host=store.timimi.dpdns.org#T.ME: @aristapnel
@@ -380,7 +380,12 @@ trojan://4f4d1167-ef14-4304-9bce-0740472503ef@103.177.136.41:45553?security=tls&
 trojan://4f4d1167-ef14-4304-9bce-0740472503ef@103.177.136.41:48697?security=tls&sni=gh.01.naiun.bilibili.com&type=tcp&headerType=none&path=%2f&allow_insecure=1#T.ME: @aristapnel
 trojan://duaR-NjjdGGLeZ+W6j=3NY46vZW+zyMD1z@89.125.95.152:11300?sni=www.toughapp.click&path=%2f#T.ME: @aristapnel
 trojan://vpn@45.82.14.144:2025?security=none&fp=chrome&type=ws&host=wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc&path=%2f#T.ME: @aristapnel
-trojan://trojan@216.24.57.1:443?type=ws&security=tls&path=%2F&host=store.timimi.dpdns.org&sni=store.timimi.dpdns.org&allowInsecure=0&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8#T.ME: @aristapnel
+trojan://LYaEYwjN8LjWTRJdCCTzW7V6gK7atJVu@ch-2.bexum.fun:443?security=tls&sni=ch-2.bexum.fun&fp=chrome&insecure=0&allowInsecure=0&type=tcp&headerType=none#T.ME: @aristapnel
+trojan://LYaEYwjN8LjWTRJdCCTzW7V6gK7atJVu@ws-1.hysteria.ltd:9443?security=tls&sni=ws-1.hysteria.ltd&fp=chrome&insecure=0&allowInsecure=0&type=ws&path=%2Fws#T.ME: @aristapnel
+trojan://LYaEYwjN8LjWTRJdCCTzW7V6gK7atJVu@nh-1.hysteria.ltd:9443?security=tls&insecure=0&allowInsecure=0&type=tcp&headerType=none#T.ME: @aristapnel
+trojan://LYaEYwjN8LjWTRJdCCTzW7V6gK7atJVu@nh-1.hysteria.ltd:9443?security=tls&sni=nh-1.hysteria.ltd&fp=chrome&insecure=0&allowInsecure=0&type=tcp&headerType=none#T.ME: @aristapnel
 trojan://6b7f37af-a853-4f01-a031-5fa4eca4f5bf@141.193.213.10:443?path=%2Fin-do&security=tls&insecure=0&host=ads.ruangguru.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=ads.ruangguru.com.cyylr.eu.cc#T.ME: @aristapnel
+trojan://trojan@216.24.57.1:443?type=ws&security=tls&path=/&host=store.timimi.dpdns.org&sni=store.timimi.dpdns.org&allowInsecure=0&ech=ip.gs%2Budp%3A//8.8.8.8#T.ME: @aristapnel
 trojan://humanity@216.24.57.1:443?type=ws&security=tls&path=%2Fassignment&host=www.calmloud.com&sni=www.calmloud.com&allowInsecure=0&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8#T.ME: @aristapnel
-trojan://humanity@216.24.57.1:443?path=/assignment&security=tls&type=ws&sni=www.creationlong.org#T.ME: @aristapnel
+trojan://humanity@216.24.57.1:443?type=ws&security=tls&path=%2Fassignment&host=www.creationlong.org&sni=www.creationlong.org&allowInsecure=0&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8#T.ME: @aristapnel
+trojan://humanity@216.24.57.1:443?type=ws&security=tls&path=%2Fassignment&sni=www.creationlong.org&allowInsecure=0&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8#T.ME: @aristapnel

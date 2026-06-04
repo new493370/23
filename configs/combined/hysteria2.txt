@@ -1,8 +1,10 @@
 # Combined HYSTERIA2 Configurations
-# Updated: 2026-06-04 02:22:27
-# Count: 38
-# Sources: Telegram (0) + GitHub (38)
+# Updated: 2026-06-04 07:22:31
+# Count: 40
+# Sources: Telegram (2) + GitHub (38)
 
+hysteria2://Masir_Sefid@65.109.216.181:444?security=tls&obfs=salamander&obfs-password=Masir_Sefid&insecure=0&sni=qs.masir-sefid.shop#ARISTA
+hysteria2://Masir_Sefid@65.109.216.181:8880?security=tls&obfs=salamander&obfs-password=Masir_Sefid&insecure=0&sni=qs.masir-sefid.shop#ARISTA
 hysteria2://18cf8030-1ceb-4b7d-8c0c-c036413c144e@185.228.139.247:4433?insecure=1&sni=de2.xiaoliyu.cyou#T.ME: @aristapnel
 hysteria2://18cf8030-1ceb-4b7d-8c0c-c036413c144e@185.228.139.247:4433?insecure=1#T.ME: @aristapnel
 hysteria2://25cccf16-5693-4c6e-9bb9-0e38da7d4475@38.54.4.57:443?obfs=salamander&obfs-password=eNM%2FNfxTsBqQIKcN0ezARS1z0f5mIxRd9GSwhVsyJlo%3D&sni=kh2.yuntong.click#T.ME: @aristapnel

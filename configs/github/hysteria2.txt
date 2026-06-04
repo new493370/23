@@ -1,17 +1,23 @@
 # GitHub HYSTERIA2 Configurations
-# Updated: 2026-06-04 17:43:51
-# Count: 44
+# Updated: 2026-06-04 19:52:26
+# Count: 51
 # Source: GitHub Repositories
 
 hysteria2://18cf8030-1ceb-4b7d-8c0c-c036413c144e@185.228.139.247:4433?insecure=1&sni=de2.xiaoliyu.cyou#T.ME: @aristapnel
 hysteria2://18cf8030-1ceb-4b7d-8c0c-c036413c144e@185.228.139.247:4433?insecure=1#T.ME: @aristapnel
 hysteria2://25cccf16-5693-4c6e-9bb9-0e38da7d4475@38.54.4.57:443?obfs=salamander&obfs-password=eNM%2FNfxTsBqQIKcN0ezARS1z0f5mIxRd9GSwhVsyJlo%3D&sni=kh2.yuntong.click#T.ME: @aristapnel
 hysteria2://IG9Sundefinedvx6RJ@47.76.94.197:58771?insecure=1&sni=go.microsoft.com#T.ME: @aristapnel
+hysteria2://Masir_Sefid@65.109.216.181:1040?sni=qs.masir-sefid.shop&obfs=salamander&obfs-password=Masir_Sefid&insecure=0#T.ME: @aristapnel
 hysteria2://Masir_Sefid@65.109.216.181:1040?security=tls&obfs=salamander&obfs-password=Masir_Sefid&insecure=0&sni=qs.masir-sefid.shop#T.ME: @aristapnel
+hysteria2://Masir_Sefid@65.109.216.181:4040?sni=qs.masir-sefid.shop&obfs=salamander&obfs-password=Masir_Sefid&insecure=0#T.ME: @aristapnel
 hysteria2://Masir_Sefid@65.109.216.181:4040?security=tls&obfs=salamander&obfs-password=Masir_Sefid&insecure=0&sni=qs.masir-sefid.shop#T.ME: @aristapnel
+hysteria2://Masir_Sefid@65.109.216.181:443?sni=qs.masir-sefid.shop&obfs=salamander&obfs-password=Masir_Sefid&insecure=0#T.ME: @aristapnel
 hysteria2://Masir_Sefid@65.109.216.181:443?security=tls&obfs=salamander&obfs-password=Masir_Sefid&insecure=0&sni=qs.masir-sefid.shop#T.ME: @aristapnel
+hysteria2://Masir_Sefid@65.109.216.181:444?sni=qs.masir-sefid.shop&obfs=salamander&obfs-password=Masir_Sefid&insecure=0#T.ME: @aristapnel
 hysteria2://Masir_Sefid@65.109.216.181:444?security=tls&obfs=salamander&obfs-password=Masir_Sefid&insecure=0&sni=qs.masir-sefid.shop#T.ME: @aristapnel
+hysteria2://Masir_Sefid@65.109.216.181:54040?sni=qs.masir-sefid.shop&obfs=salamander&obfs-password=Masir_Sefid&insecure=0#T.ME: @aristapnel
 hysteria2://Masir_Sefid@65.109.216.181:54040?security=tls&obfs=salamander&obfs-password=Masir_Sefid&insecure=0&sni=qs.masir-sefid.shop#T.ME: @aristapnel
+hysteria2://Masir_Sefid@65.109.216.181:8880?sni=qs.masir-sefid.shop&obfs=salamander&obfs-password=Masir_Sefid&insecure=0#T.ME: @aristapnel
 hysteria2://Masir_Sefid@65.109.216.181:8880?security=tls&obfs=salamander&obfs-password=Masir_Sefid&insecure=0&sni=qs.masir-sefid.shop#T.ME: @aristapnel
 hysteria2://Masir_Sefid@@masir_sefid:443?security=tls&obfs=salamander&obfs-password=Masir_Sefid&insecure=0&sni=masir-sefid.shop#T.ME: @aristapnel
 hysteria2://bce6c821-200d-421f-bf3d-7159e5246ea0@155.248.209.237:33333?insecure=1#T.ME: @aristapnel
@@ -47,3 +53,4 @@ hysteria2://Yet-Another-Public-Config-1@206.71.158.37:36400?security=tls&obfs=sa
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:36300?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir#T.ME: @aristapnel
 hysteria2://17cdeb6c-f046-11ee-bdac-f23c93141fad@6adab57e-t53wg0-tdvgqe-2gok.la.shifen.uk:1743?security=tls&insecure=0&sni=6adab57e-t53wg0-tdvgqe-2gok.la.shifen.uk#T.ME: @aristapnel
 hysteria2://dongtaiwang.com@208.87.243.187:22222?security=tls&insecure=1&sni=www.bing.com#T.ME: @aristapnel
+hysteria2://05d79f12-6a07-47ce-a566-5d5f571b8c59@103.88.241.133:8443?headerType=none&encryption=none&sni=slopllex.app&insecure=0#T.ME: @aristapnel

@@ -1,8 +1,9 @@
 # Combined HYSTERIA2 Configurations
-# Updated: 2026-06-05 18:41:52
-# Count: 25
-# Sources: Telegram (1) + GitHub (24)
+# Updated: 2026-06-05 20:41:55
+# Count: 29
+# Sources: Telegram (2) + GitHub (27)
 
+hysteria2://github.com%2FAlvin9999-newpac%2Ffanqiang@62.210.26.173:64772/?insecure=1&sni=bing.com#ARISTA
 hysteria2://Masir_Sefid@18.157.222.169:443?sni=free.masir-sefid.shop&insecure=0&allowInsecure=0&obfs=salamander&obfs-password=Masir_Sefid#ARISTA
 hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@mumbai-3.nezhasu.com:443?sni=mumbai-3.nezhasu.com&insecure=1&mport=50000-65535#T.ME: @aristapnel
 hysteria2://e42a38c4-4bea-42d6-90f1-3076e12f8c51@lsdg1.lansecs.top:58338?sni=lsdg1.lansecs.top&insecure=1#T.ME: @aristapnel
@@ -27,4 +28,7 @@ hysteria2://Yet-Another-Public-Config-1@206.71.158.37:36400?security=tls&obfs=sa
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:36300?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir#T.ME: @aristapnel
 hysteria2://17cdeb6c-f046-11ee-bdac-f23c93141fad@6adab57e-t53wg0-tdvgqe-2gok.la.shifen.uk:1743?security=tls&insecure=0&sni=6adab57e-t53wg0-tdvgqe-2gok.la.shifen.uk#T.ME: @aristapnel
 hysteria2://dongtaiwang.com@208.87.243.187:22222?security=tls&insecure=1&sni=www.bing.com#T.ME: @aristapnel
-hysteria2://05d79f12-6a07-47ce-a566-5d5f571b8c59@103.88.241.133:8443?headerType=none&encryption=none&sni=slopllex.app&insecure=0#T.ME: @aristapnel
+hysteria2://05d79f12-6a07-47ce-a566-5d5f571b8c59@103.88.241.133:8443?sni=slopllex.app&insecure=0&allowInsecure=0#T.ME: @aristapnel
+hysteria2://10550754-cf62-3d3b-ba6a-50be27a275d7@193.53.126.108:443?insecure=0&alpn=h3&fp=&sni=s463.okgfwbackxyz.xyz#T.ME: @aristapnel
+hysteria2://10550754-cf62-3d3b-ba6a-50be27a275d7@193.53.126.108:443?sni=s463.okgfwbackxyz.xyz#T.ME: @aristapnel
+hysteria2://10550754-cf62-3d3b-ba6a-50be27a275d7@193.53.126.108:443?sni=s463.okgfwbackxyz.xyz&insecure=1#T.ME: @aristapnel

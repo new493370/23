@@ -1,8 +1,8 @@
 # Telegram HYSTERIA2 Configurations
-# Updated: 2026-06-05 14:09:41
+# Updated: 2026-06-05 16:44:33
 # Count: 3
 # Source: Telegram Channels
 
+hysteria2://github.com%2FAlvin9999-newpac%2Ffanqiang@62.210.26.173:64772/?insecure=1&sni=bing.com#ARISTA
+hysteria2://zhangyang@130.61.50.75:6443/?insecure=1&sni=dash.cloudflare.com#ARISTA
 hysteria2://Masir_Sefid@18.157.222.169:443?sni=free.masir-sefid.shop&insecure=0&allowInsecure=0&obfs=salamander&obfs-password=Masir_Sefid#ARISTA
-hysteria2://masir_sefid@3.121.136.75:443,500-56000/?obfs=salamander&obfs-password=masir_sefid&sni=content.masir-sefid.shop#ARISTA
-hysteria2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@hy2.aspidnet.xyz:443?security=tls&obfs=salamander&obfs-password=rG07s3COMIEvdnQipRyWzx_H_2xygNC3&insecure=0&sni=hy2.aspidnet.xyz#ARISTA

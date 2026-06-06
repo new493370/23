@@ -1,9 +1,17 @@
 # Combined HYSTERIA2 Configurations
-# Updated: 2026-06-06 14:31:46
-# Count: 65
-# Sources: Telegram (1) + GitHub (64)
+# Updated: 2026-06-06 15:11:52
+# Count: 66
+# Sources: Telegram (9) + GitHub (57)
 
+hysteria2://Masir_Sefid@18.157.222.169:1040?security=tls&obfs=salamander&obfs-password=Masir_Sefid&insecure=0&sni=free.masir-sefid.shop#ARISTA
+hysteria2://Masir_Sefid@18.157.222.169:1040?security=tls&obfs=salamander&obfs-password=Masir_Sefid&insecure=0&sni=free.masir…#ARISTA
 hysteria2://Masir_Sefid@18.157.222.169:44044?security=tls&obfs=salamander&obfs-password=Masir_Sefid&insecure=0&sni=free.masir-sefid.shop#ARISTA
+hysteria2://Masir_Sefid@18.157.222.169:444?security=tls&insecure=0&obfs=salamander&obfs-password=Masir_Sefid#ARISTA
+hysteria2://Masir_Sefid@18.157.205.223:8443?security=tls&obfs=salamander&obfs-password=Masir_Sefid&insecure=0&sni=qus.masir-sefid.shop#ARISTA
+hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@181.214.99.162:35000?security=tls&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=0&sni=api.kermanshahi.org#ARISTA
+hysteria2://Masir_Sefid@18.157.222.169:8880?security=tls&obfs=salamander&obfs-password=Masir_Sefid&insecure=0&sni=free.masir-sefid.shop#ARISTA
+hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@5.175.249.174:35000?security=tls&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=0&sni=api.kermanshahi.org#ARISTA
+hysteria2://xSo9h6CMLB@speedtest.mozit.site:46425?security=tls&obfs=salamander&obfs-password=welovegod&insecure=1#ARISTA
 hysteria2://18cf8030-1ceb-4b7d-8c0c-c036413c144e@185.228.139.247:4433?insecure=1&sni=de2.xiaoliyu.cyou#T.ME: @aristapnel
 hysteria2://@:-1?security=tls&obfs=salamander&obfs-password=Masir_Sefid&insecure=0&sni=masir-sefid.shop#T.ME: @aristapnel
 hysteria2://Masir_Sefid@18.157.222.169:1040?security=tls&obfs=salamander&obfs-password=Masir_Sefid&insecure=0&sni=free.masir-sefid.shop#T.ME: @aristapnel
@@ -20,25 +28,18 @@ hysteria2://Masir_Sefid@18.157.222.169:54040?security=tls&obfs=salamander&obfs-p
 hysteria2://Masir_Sefid@18.157.222.169:54040?sni=free.masir-sefid.shop&insecure=0&allowInsecure=0&obfs=salamander&obfs-password=Masir_Sefid#T.ME: @aristapnel
 hysteria2://Masir_Sefid@18.157.222.169:8880?security=tls&obfs=salamander&obfs-password=Masir_Sefid&insecure=0&sni=free.masir-sefid.shop#T.ME: @aristapnel
 hysteria2://Masir_Sefid@18.157.222.169:8880?sni=free.masir-sefid.shop&insecure=0&allowInsecure=0&obfs=salamander&obfs-password=Masir_Sefid#T.ME: @aristapnel
-hysteria2://Masir_Sefid@195.15.253.119:1040?security=tls&obfs=salamander&obfs-password=Masir_Sefid&insecure=0&sni=free2.masir-sefid-1.my#T.ME: @aristapnel
-hysteria2://Masir_Sefid@195.15.253.119:4040?security=tls&obfs=salamander&obfs-password=Masir_Sefid&insecure=0&sni=free2.masir-sefid-1.my#T.ME: @aristapnel
-hysteria2://Masir_Sefid@195.15.253.119:44044?security=tls&obfs=salamander&obfs-password=Masir_Sefid&insecure=0&sni=free2.masir-sefid-1.my#T.ME: @aristapnel
-hysteria2://Masir_Sefid@195.15.253.119:443?security=tls&obfs=salamander&obfs-password=Masir_Sefid&insecure=0&sni=free2.masir-sefid-1.my#T.ME: @aristapnel
-hysteria2://Masir_Sefid@195.15.253.119:443?sni=free2.masir-sefid-1.my&insecure=0&allowInsecure=0&obfs=salamander&obfs-password=Masir_Sefid#T.ME: @aristapnel
-hysteria2://Masir_Sefid@195.15.253.119:444?security=tls&obfs=salamander&obfs-password=Masir_Sefid&insecure=0&sni=free2.masir-sefid-1.my#T.ME: @aristapnel
-hysteria2://Masir_Sefid@195.15.253.119:54040?security=tls&obfs=salamander&obfs-password=Masir_Sefid&insecure=0&sni=free2.masir-sefid-1.my#T.ME: @aristapnel
-hysteria2://Masir_Sefid@195.15.253.119:8880?security=tls&obfs=salamander&obfs-password=Masir_Sefid&insecure=0&sni=free2.masir-sefid-1.my#T.ME: @aristapnel
-hysteria2://Masir_Sefid@84.234.31.190:1040?security=tls&obfs=salamander&obfs-password=Masir_Sefid&insecure=0&sni=free3.masir-sefid-1.my#T.ME: @aristapnel
-hysteria2://Masir_Sefid@84.234.31.190:4040?security=tls&obfs=salamander&obfs-password=Masir_Sefid&insecure=0&sni=free3.masir-sefid-1.my#T.ME: @aristapnel
-hysteria2://Masir_Sefid@84.234.31.190:44044?security=tls&obfs=salamander&obfs-password=Masir_Sefid&insecure=0&sni=free3.masir-sefid-1.my#T.ME: @aristapnel
-hysteria2://Masir_Sefid@84.234.31.190:443?security=tls&obfs=salamander&obfs-password=Masir_Sefid&insecure=0&sni=free3.masir-sefid-1.my#T.ME: @aristapnel
-hysteria2://Masir_Sefid@84.234.31.190:443?sni=free3.masir-sefid-1.my&insecure=0&allowInsecure=0&obfs=salamander&obfs-password=Masir_Sefid#T.ME: @aristapnel
-hysteria2://Masir_Sefid@84.234.31.190:444?security=tls&obfs=salamander&obfs-password=Masir_Sefid&insecure=0&sni=free3.masir-sefid-1.my#T.ME: @aristapnel
-hysteria2://Masir_Sefid@84.234.31.190:54040?security=tls&obfs=salamander&obfs-password=Masir_Sefid&insecure=0&sni=free3.masir-sefid-1.my#T.ME: @aristapnel
-hysteria2://Masir_Sefid@84.234.31.190:8880?security=tls&obfs=salamander&obfs-password=Masir_Sefid&insecure=0&sni=free3.masir-sefid-1.my#T.ME: @aristapnel
+hysteria2://Masir_Sefid@195.15.201.177:1040?sni=free2.masir-sefid-1.my&insecure=0&allowInsecure=0&obfs=salamander&obfs-password=Masir_Sefid#T.ME: @aristapnel
+hysteria2://Masir_Sefid@195.15.201.177:4040?sni=free2.masir-sefid-1.my&insecure=0&allowInsecure=0&obfs=salamander&obfs-password=Masir_Sefid#T.ME: @aristapnel
+hysteria2://Masir_Sefid@195.15.201.177:44044?sni=free2.masir-sefid-1.my&insecure=0&allowInsecure=0&obfs=salamander&obfs-password=Masir_Sefid#T.ME: @aristapnel
+hysteria2://Masir_Sefid@195.15.201.177:443?sni=free2.masir-sefid-1.my&insecure=1&allowInsecure=1&obfs=salamander&obfs-password=Masir_Sefid#T.ME: @aristapnel
+hysteria2://Masir_Sefid@195.15.201.177:444?sni=free2.masir-sefid-1.my&insecure=0&allowInsecure=0&obfs=salamander&obfs-password=Masir_Sefid#T.ME: @aristapnel
+hysteria2://Masir_Sefid@195.15.201.177:54040?sni=free2.masir-sefid-1.my&insecure=0&allowInsecure=0&obfs=salamander&obfs-password=Masir_Sefid#T.ME: @aristapnel
+hysteria2://Masir_Sefid@195.15.253.119:443?security=tls&obfs=salamander&obfs-password=Masir_Sefid&insecure=0&mport=444%2C8880%2C1040%2C4040%2C54040%2C44044&sni=free2.masir-sefid-1.my#T.ME: @aristapnel
+hysteria2://Masir_Sefid@195.15.254.167:8880?sni=free2.masir-sefid-1.my&insecure=0&allowInsecure=0&obfs=salamander&obfs-password=Masir_Sefid#T.ME: @aristapnel
+hysteria2://Masir_Sefid@84.234.31.190:443?security=tls&obfs=salamander&obfs-password=Masir_Sefid&insecure=0&mport=444%2C8880%2C1040%2C4040%2C54040%2C44044&sni=free3.masir-sefid-1.my#T.ME: @aristapnel
 hysteria2://dongtaiwang.com@62.210.124.146:22000?insecure=1&sni=www.microsoft.com#T.ME: @aristapnel
 hysteria2://masir_sefid@18.157.51.145:443?security=tls&obfs=salamander&obfs-password=masir_sefid&insecure=0&mport=443%2C2053%2C2083%2C2087%2C2096%2C8443&sni=content.masir-sefid.shop#T.ME: @aristapnel
-hysteria2://masir_sefid@18.157.51.145:443?sni=content.masir-sefid.shop&insecure=0&allowInsecure=0&obfs=salamander&obfs-password=masir_sefid#T.ME: @aristapnel
+hysteria2://masir_sefid@18.157.51.145:443?sni=content.masir-sefid.shop&insecure=0&allowInsecure=0&obfs=salamander&obfs-password=masir_sefid&mport=443%2C2053%2C2083%2C2087%2C2096%2C8443#T.ME: @aristapnel
 hysteria2://zhangyang@130.61.50.75:6443?insecure=1&sni=dash.cloudflare.com#T.ME: @aristapnel
 hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@mumbai-3.nezhasu.com:443?sni=mumbai-3.nezhasu.com&insecure=1&mport=50000-65535#T.ME: @aristapnel
 hysteria2://e42a38c4-4bea-42d6-90f1-3076e12f8c51@lsdg1.lansecs.top:58338?sni=lsdg1.lansecs.top&insecure=1#T.ME: @aristapnel

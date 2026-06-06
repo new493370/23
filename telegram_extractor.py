@@ -24,6 +24,15 @@ class TelegramConfigExtractor:
         })
         
         self.channels = [
+            "https://t.me/s/JynMarket",
+            "https://t.me/s/ConfigX2ray",
+            "https://t.me/s/JavidanNet",
+            "https://t.me/s/hddify",
+            "https://t.me/s/vpnbaz",
+            "https://t.me/s/MARAMBASHI",
+            "https://t.me/s/p1ctok",
+            "https://t.me/s/VPNX4",
+            "https://t.me/s/BestProxyTel1",
             "https://t.me/s/iSeqaro",
             "https://t.me/s/SOSkeyNET", 
             "https://t.me/s/irancpi_vpn",
@@ -643,8 +652,18 @@ class TelegramConfigExtractor:
         
         self.dead_cache = {}
         self.failed_counter = {}
+        self.last_post_cache = {}
+        self.permanent_blacklist = {}
+        self.temp_suspended_cache = {}
         self.cache_file = "configs/telegram/dead_cache.json"
+        self.permanent_blacklist_file = "configs/telegram/permanent_blacklist.json"
+        self.temp_suspend_file = "configs/telegram/temp_suspend.json"
+        self.last_seen_file = "configs/telegram/last_seen.json"
+        self.config_hash_cache = {}
         self.load_dead_cache()
+        self.load_permanent_blacklist()
+        self.load_temp_suspend()
+        self.load_last_seen()
     
     def load_dead_cache(self):
         try:
@@ -669,6 +688,75 @@ class TelegramConfigExtractor:
         except:
             pass
     
+    def load_permanent_blacklist(self):
+        try:
+            if os.path.exists(self.permanent_blacklist_file):
+                with open(self.permanent_blacklist_file, 'r', encoding='utf-8') as f:
+                    data = json.load(f)
+                    for url, timestamp_str in data.items():
+                        try:
+                            timestamp = datetime.fromisoformat(timestamp_str)
+                            self.permanent_blacklist[url] = timestamp
+                        except:
+                            continue
+        except:
+            self.permanent_blacklist = {}
+    
+    def save_permanent_blacklist(self):
+        try:
+            os.makedirs(os.path.dirname(self.permanent_blacklist_file), exist_ok=True)
+            data = {url: timestamp.isoformat() for url, timestamp in self.permanent_blacklist.items()}
+            with open(self.permanent_blacklist_file, 'w', encoding='utf-8') as f:
+                json.dump(data, f, ensure_ascii=False, indent=2)
+        except:
+            pass
+    
+    def load_temp_suspend(self):
+        try:
+            if os.path.exists(self.temp_suspend_file):
+                with open(self.temp_suspend_file, 'r', encoding='utf-8') as f:
+                    data = json.load(f)
+                    for url, timestamp_str in data.items():
+                        try:
+                            timestamp = datetime.fromisoformat(timestamp_str)
+                            self.temp_suspended_cache[url] = timestamp
+                        except:
+                            continue
+        except:
+            self.temp_suspended_cache = {}
+    
+    def save_temp_suspend(self):
+        try:
+            os.makedirs(os.path.dirname(self.temp_suspend_file), exist_ok=True)
+            data = {url: timestamp.isoformat() for url, timestamp in self.temp_suspended_cache.items()}
+            with open(self.temp_suspend_file, 'w', encoding='utf-8') as f:
+                json.dump(data, f, ensure_ascii=False, indent=2)
+        except:
+            pass
+    
+    def load_last_seen(self):
+        try:
+            if os.path.exists(self.last_seen_file):
+                with open(self.last_seen_file, 'r', encoding='utf-8') as f:
+                    data = json.load(f)
+                    for url, timestamp_str in data.items():
+                        try:
+                            timestamp = datetime.fromisoformat(timestamp_str)
+                            self.last_post_cache[url] = timestamp
+                        except:
+                            continue
+        except:
+            self.last_post_cache = {}
+    
+    def save_last_seen(self):
+        try:
+            os.makedirs(os.path.dirname(self.last_seen_file), exist_ok=True)
+            data = {url: timestamp.isoformat() for url, timestamp in self.last_post_cache.items()}
+            with open(self.last_seen_file, 'w', encoding='utf-8') as f:
+                json.dump(data, f, ensure_ascii=False, indent=2)
+        except:
+            pass
+    
     def update_dead_cache(self, url):
         now = datetime.now(timezone.utc)
         self.failed_counter[url] = self.failed_counter.get(url, 0) + 1
@@ -679,6 +767,25 @@ class TelegramConfigExtractor:
             print(f"  → Added to dead cache (failed {self.failed_counter[url]} times)")
     
     def should_skip_channel(self, url):
+        if url in self.permanent_blacklist:
+            print(f"  → Permanently blacklisted")
+            return True
+        
+        if url in self.temp_suspended_cache:
+            suspend_time = self.temp_suspended_cache[url]
+            time_since_suspend = datetime.now(timezone.utc) - suspend_time
+            if time_since_suspend < timedelta(days=7):
+                remaining = timedelta(days=7) - time_since_suspend
+                print(f"  → Temporarily suspended ({remaining.days}d {remaining.seconds//3600}h remaining)")
+                return True
+            else:
+                del self.temp_suspended_cache[url]
+                self.permanent_blacklist[url] = datetime.now(timezone.utc)
+                self.save_temp_suspend()
+                self.save_permanent_blacklist()
+                print(f"  → Moved to permanent blacklist (no posts for 7+ days)")
+                return True
+        
         if url in self.dead_cache:
             last_fail_time = self.dead_cache[url]
             time_since_fail = datetime.now(timezone.utc) - last_fail_time
@@ -705,17 +812,23 @@ class TelegramConfigExtractor:
     def get_last_post_time(self, html):
         try:
             soup = BeautifulSoup(html, 'html.parser')
-            time_tag = soup.find('time')
-            if not time_tag:
+            time_tags = soup.find_all('time')
+            if not time_tags:
                 return None
-            
-            dt_str = time_tag.get('datetime')
-            if not dt_str:
-                return None
-            
-            post_time = datetime.fromisoformat(dt_str.replace('Z', '+00:00'))
-            return post_time
-        except:
+            latest_time = None
+            for time_tag in time_tags:
+                dt_str = time_tag.get('datetime')
+                if not dt_str:
+                    continue
+                try:
+                    post_time = datetime.fromisoformat(dt_str.replace('Z', '+00:00'))
+                    if not latest_time or post_time > latest_time:
+                        latest_time = post_time
+                except:
+                    continue
+            return latest_time
+        except Exception as e:
+            print(f"Error parsing last post time: {e}")
             return None
     
     def extract_from_html(self, html):
@@ -872,11 +985,19 @@ class TelegramConfigExtractor:
         
         for config in configs:
             config_hash = hashlib.md5(config.encode()).hexdigest()
-            if config_hash not in seen_hashes:
+            if config_hash not in seen_hashes and config_hash not in self.config_hash_cache:
                 seen_hashes.add(config_hash)
+                self.config_hash_cache[config_hash] = datetime.now(timezone.utc)
                 unique_configs.append(config)
         
+        self.cleanup_old_hash_cache()
         return unique_configs
+    
+    def cleanup_old_hash_cache(self):
+        cutoff = datetime.now(timezone.utc) - timedelta(hours=24)
+        to_remove = [h for h, ts in self.config_hash_cache.items() if ts < cutoff]
+        for h in to_remove:
+            del self.config_hash_cache[h]
     
     def categorize(self, configs):
         categories = {
@@ -941,11 +1062,32 @@ class TelegramConfigExtractor:
                     self.adaptive_delay()
                     continue
                 
+                last_seen = self.last_post_cache.get(url)
+                if last_seen and last_post_time == last_seen:
+                    time_since_last = datetime.now(timezone.utc) - last_post_time
+                    if time_since_last >= timedelta(hours=24):
+                        if url not in self.temp_suspended_cache:
+                            self.temp_suspended_cache[url] = datetime.now(timezone.utc)
+                            self.save_temp_suspend()
+                            print(f"  → Channel suspended (no new posts for {int(time_since_last.total_seconds()/3600)}h)")
+                        self.adaptive_delay()
+                        continue
+                
+                self.last_post_cache[url] = last_post_time
+                self.save_last_seen()
+                
                 if datetime.now(timezone.utc) - last_post_time > timedelta(days=2):
-                    self.update_dead_cache(url)
-                    skipped_channels.append(url)
+                    if url not in self.temp_suspended_cache:
+                        self.temp_suspended_cache[url] = datetime.now(timezone.utc)
+                        self.save_temp_suspend()
+                        print(f"  → Channel suspended (last post >2 days)")
                     self.adaptive_delay()
                     continue
+                
+                if url in self.temp_suspended_cache:
+                    del self.temp_suspended_cache[url]
+                    self.save_temp_suspend()
+                    print(f"  → Channel reactivated (new post detected)")
                 
                 raw_configs = self.extract_from_html(html)
                 

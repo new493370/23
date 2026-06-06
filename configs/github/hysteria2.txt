@@ -1,5 +1,5 @@
 # GitHub HYSTERIA2 Configurations
-# Updated: 2026-06-06 19:05:37
+# Updated: 2026-06-06 20:29:33
 # Count: 52
 # Source: GitHub Repositories
 
@@ -53,5 +53,5 @@ hysteria2://05d79f12-6a07-47ce-a566-5d5f571b8c59@103.88.241.133:8443?sni=sloplle
 hysteria2://c7166f8f-236b-4fa4-b99c-172813b24f73@fi-hel-hostvds-05.sssrvpn.pro:13337?sni=h2.mtproxy-hub.org&obfs=salamander&obfs-password=killmebaby#T.ME: @aristapnel
 hysteria2://c7166f8f-236b-4fa4-b99c-172813b24f73@fi-hel-hostvds-07.sssrvpn.pro:13337?sni=h2.mtproxy-hub.org&obfs=salamander&obfs-password=killmebaby#T.ME: @aristapnel
 hysteria2://10550754-cf62-3d3b-ba6a-50be27a275d7@193.53.126.108:443?headerType=none&encryption=none&sni=s463.okgfwbackxyz.xyz&insecure=0#T.ME: @aristapnel
-hysteria2://10550754-cf62-3d3b-ba6a-50be27a275d7@193.53.126.108:443?sni=s463.okgfwbackxyz.xyz#T.ME: @aristapnel
+hysteria2://10550754-cf62-3d3b-ba6a-50be27a275d7@193.53.126.108:443?insecure=0&alpn=h3&sni=s463.okgfwbackxyz.xyz#T.ME: @aristapnel
 hysteria2://10550754-cf62-3d3b-ba6a-50be27a275d7@193.53.126.108:443?sni=s463.okgfwbackxyz.xyz&insecure=1#T.ME: @aristapnel

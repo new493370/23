@@ -1,6 +1,6 @@
 # GitHub HYSTERIA2 Configurations
-# Updated: 2026-06-08 12:15:22
-# Count: 49
+# Updated: 2026-06-08 16:28:41
+# Count: 43
 # Source: GitHub Repositories
 
 hysteria2://%40Masir_Sefid@18.157.222.169:1040?security=tls&obfs=salamander&obfs-password=Masir_Sefid&insecure=0&sni=free.masir-sefid.shop#T.ME: @aristapnel
@@ -46,9 +46,3 @@ hysteria2://Yet-Another-Public-Config-1@206.71.158.37:36400?security=tls&obfs=sa
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:36300?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir#T.ME: @aristapnel
 hysteria2://17cdeb6c-f046-11ee-bdac-f23c93141fad@6adab57e-t53wg0-tdvgqe-2gok.la.shifen.uk:1743?security=tls&insecure=0&sni=6adab57e-t53wg0-tdvgqe-2gok.la.shifen.uk#T.ME: @aristapnel
 hysteria2://dongtaiwang.com@208.87.243.187:22222?security=tls&insecure=1&sni=www.bing.com#T.ME: @aristapnel
-hysteria2://c7166f8f-236b-4fa4-b99c-172813b24f73@fi-hel-hostvds-05.sssrvpn.pro:13337?sni=h2.mtproxy-hub.org&obfs=salamander&obfs-password=killmebaby#T.ME: @aristapnel
-hysteria2://c7166f8f-236b-4fa4-b99c-172813b24f73@fi-hel-hostvds-07.sssrvpn.pro:13337?sni=h2.mtproxy-hub.org&obfs=salamander&obfs-password=killmebaby#T.ME: @aristapnel
-hysteria2://10550754-cf62-3d3b-ba6a-50be27a275d7@193.53.126.108:443?headerType=none&encryption=none&sni=s463.okgfwbackxyz.xyz&insecure=0#T.ME: @aristapnel
-hysteria2://10550754-cf62-3d3b-ba6a-50be27a275d7@193.53.126.108:443?insecure=0&alpn=h3&sni=s463.okgfwbackxyz.xyz#T.ME: @aristapnel
-hysteria2://10550754-cf62-3d3b-ba6a-50be27a275d7@193.53.126.108:443?sni=s463.okgfwbackxyz.xyz#T.ME: @aristapnel
-hysteria2://10550754-cf62-3d3b-ba6a-50be27a275d7@193.53.126.108:443?sni=s463.okgfwbackxyz.xyz&insecure=1#T.ME: @aristapnel

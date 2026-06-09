@@ -1,21 +1,21 @@
 # Combined HYSTERIA2 Configurations
-# Updated: 2026-06-09 05:03:51
+# Updated: 2026-06-09 08:46:57
 # Count: 56
 # Sources: Telegram (13) + GitHub (43)
 
-hysteria2://masir_sefid@18.157.51.145:443?security=tls&obfs=salamander&obfs-password=masir_sefid&insecure=0&mport=443%2C2053%2C2083%2C2087%2C2096%2C8443&sni=content.masir-sefid.shop#ARISTA
+hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@5.175.249.174:35000?security=tls&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=1&sni=api.kermanshahi.org#ARISTA
+hysteria2://%40Masir_Sefid@18.157.222.169:4040?security=tls&obfs=salamander&obfs-password=Masir_Sefid&insecure=0&sni=free.masir-sefid.shop#ARISTA
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-de-002.fastervpn.world:443?insecure=1&sni=vpn-de-002.fastervpn.world#ARISTA
+hysteria2://6XeWYrScbC@vercel.adinetorbat.ir:21120?security=tls&fp=chrome&alpn=h3#ARISTA
 hysteria2://Masir_Sefid@18.157.222.169:1040?security=tls&obfs=salamander&obfs-password=Masir_Sefid&insecure=0&sni=free.masir-sefid.shop#ARISTA
 hysteria2://0xver2tkqad4kvr4@134.122.86.55:443?security=tls&obfs=salamander&obfs-password=https%3A%2F%2Fspeed.cloudflare.com&insecure=0&sni=xuipanel.akgoldvip.shop#ARISTA
-hysteria2://%40Masir_Sefid@18.157.222.169:4040?security=tls&obfs=salamander&obfs-password=Masir_Sefid&insecure=0&sni=free.masir-sefid.shop#ARISTA
-hysteria2://%40Masir_Sefid@18.157.222.169:444?sni=free.masir-sefid.shop&insecure=0&allowInsecure=0&obfs=salamander&obfs-password=Masir_Sefid#ARISTA
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-de-002.fastervpn.world:443?insecure=1&sni=vpn-de-002.fastervpn.world#ARISTA
 hysteria2://%40Masir_Sefid@18.157.222.169:54040?security=tls&obfs=salamander&obfs-password=Masir_Sefid&insecure=0&sni=free.masir-sefid.shop#ARISTA
-hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@5.175.249.174:35000?security=tls&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=1&sni=api.kermanshahi.org#ARISTA
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@5.175.249.174:35000?security=tls&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=0&sni=api.kermanshahi.org#ARISTA
-hysteria2://Masir_Sefid@18.157.222.169:444?security=tls&insecure=0&obfs=salamander&obfs-password=Masir_Sefid#ARISTA
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@181.214.99.162:35000?security=tls&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=0&sni=api.kermanshahi.org#ARISTA
+hysteria2://%40Masir_Sefid@18.157.222.169:444?sni=free.masir-sefid.shop&insecure=0&allowInsecure=0&obfs=salamander&obfs-password=Masir_Sefid#ARISTA
 hysteria2://Masir_Sefid@18.157.222.169:1040?security=tls&obfs=salamander&obfs-password=Masir_Sefid&insecure=0&sni=free.masir…#ARISTA
 hysteria2://f7cb07a0-e6f9-4d22-a60e-c61854450c89@sg2.yuntong.click:443?security=tls&obfs=salamander&obfs-password=eNM%2FNfxTsBqQIKcN0ezARS1z0f5mIxRd9GSwhVsyJlo%3D&insecure=0&sni=sg2.yuntong.click#ARISTA
+hysteria2://Masir_Sefid@18.157.222.169:444?security=tls&insecure=0&obfs=salamander&obfs-password=Masir_Sefid#ARISTA
 hysteria2://%40Masir_Sefid@18.157.222.169:1040?security=tls&obfs=salamander&obfs-password=Masir_Sefid&insecure=0&sni=free.masir-sefid.shop#T.ME: @aristapnel
 hysteria2://%40Masir_Sefid@18.157.222.169:4040?security=tls&obfs=salamander&obfs-password=Masir_Sefid&insecure=0&sni=free.masir-sefid.shop#T.ME: @aristapnel
 hysteria2://%40Masir_Sefid@18.157.222.169:44044?security=tls&obfs=salamander&obfs-password=Masir_Sefid&insecure=0&sni=free.masir-sefid.shop#T.ME: @aristapnel

@@ -1,7 +1,0 @@
-# Combined TUIC Configurations
-# Updated: 2026-06-09 22:26:56
-# Count: 2
-# Sources: Telegram (0) + GitHub (2)
-
-tuic://48b603e6-6568-464e-a32f-4cf0526a9f1a:48b603e6-6568-464e-a32f-4cf0526a9f1a@8.219.215.193:5835?sni=claw.isbigdick.cc.cd&alpn=h3&path=%2f&congestion_control=bbr&udp_relay_mode=bbr&allow_insecure=0#T.ME: @aristapnel
-tuic://48b603e6-6568-464e-a32f-4cf0526a9f1a:48b603e6-6568-464e-a32f-4cf0526a9f1a@8.219.215.193:5835?sni=claw.isbigdick.cc.cd&alpn=h3&path=%2f&congestion_control=bbr&udp_relay_mode=bbr#T.ME: @aristapnel

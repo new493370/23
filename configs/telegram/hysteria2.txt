@@ -1,11 +1,10 @@
 # Telegram HYSTERIA2 Configurations
-# Updated: 2026-06-11 12:11:57
-# Count: 6
+# Updated: 2026-06-11 16:25:50
+# Count: 5
 # Source: Telegram Channels
 
 hysteria2://4543ebb9-3fa5-438d-8791-cb3d9a9e4137@us3.xiaoliyu.cyou:4433/?insecure=1#ARISTA
-hysteria2://%40Masir_Sefid@18.157.222.169:4040?security=tls&obfs=salamander&obfs-password=Masir_Sefid&insecure=0&sni=free.masir-sefid.shop#ARISTA
-hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@181.214.99.162:35000?security=tls&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=0&sni=api.kermanshahi.org#ARISTA
-hysteria2://Masir_Sefid@84.234.29.238:443?security=tls&obfs=salamander&obfs-password=Masir_Sefid&insecure=0&mport=443-20000%2C40000-50000&sni=Api.masir-sefid-1.my#ARISTA
+hysteria2://Masir_Sefid@37.156.46.29:443?security=tls&obfs=salamander&obfs-password=Masir_Sefid&insecure=0&mport=443%2C20000-56000&sni=api.masir-sefid-1.my#ARISTA
 hysteria2://Masir_Sefid@207.154.242.160:443?security=tls&obfs=salamander&obfs-password=Masir_Sefid&insecure=0&sni=Api.masir-sefid-1.my#ARISTA
 hysteria2://Masir_Sefid@206.189.58.246:443?security=tls&obfs=salamander&obfs-password=Masir_Sefid&insecure=0&sni=Api1.masir-sefid-1.my#ARISTA
+hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@181.214.99.162:35000?security=tls&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=0&sni=api.kermanshahi.org#ARISTA

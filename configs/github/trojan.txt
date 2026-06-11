@@ -1,9 +1,8 @@
 # GitHub TROJAN Configurations
-# Updated: 2026-06-11 16:25:57
-# Count: 192
+# Updated: 2026-06-11 19:33:51
+# Count: 191
 # Source: GitHub Repositories
 
-trojan://trojan@109.234.211.66:8443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=%2F&security=tls&insecure=0&host=store.timimi.dpdns.org&fp=chrome&type=ws&allowInsecure=0&sni=store.timimi.dpdns.org#T.ME: @aristapnel
 trojan://0ldyjdhd-vpnjantit.com@hu2.vpnjantit.com:4443?security=tls&sni=hu2.vpnjantit.com&fp=android&type=tcp&headerType=none&path=/&allow_insecure=0#T.ME: @aristapnel
 trojan://2bde1095-b5d2-4749-b57b-04876d3acd10@193.163.85.39:443?security=tls&sni=platyscelis.duckdns.org&type=ws&path=/vpn#T.ME: @aristapnel
 trojan://2bde1095-b5d2-4749-b57b-04876d3acd10@78.17.8.23:443?security=tls&sni=platyscelis.duckdns.org&type=ws&path=/vpn#T.ME: @aristapnel

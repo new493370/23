@@ -1,12 +1,11 @@
 # Combined HYSTERIA2 Configurations
-# Updated: 2026-06-11 02:15:36
-# Count: 43
-# Sources: Telegram (7) + GitHub (36)
+# Updated: 2026-06-11 07:27:46
+# Count: 42
+# Sources: Telegram (6) + GitHub (36)
 
-hysteria2://18cf8030-1ceb-4b7d-8c0c-c036413c144e@185.228.139.247:4433?security=tls&insecure=1&sni=de2.xiaoliyu.cyou#ARISTA
-hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@181.214.99.162:35000?security=tls&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=0&sni=api.kermanshahi.org#ARISTA
 hysteria2://%40Masir_Sefid@18.157.222.169:4040?security=tls&obfs=salamander&obfs-password=Masir_Sefid&insecure=0&sni=free.masir-sefid.shop#ARISTA
-hysteria2://miaoge110@5.45.100.100:51511/?insecure=1&sni=www.bing.com#ARISTA
+hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@181.214.99.162:35000?security=tls&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=0&sni=api.kermanshahi.org#ARISTA
+hysteria2://18cf8030-1ceb-4b7d-8c0c-c036413c144e@185.228.139.247:4433?security=tls&insecure=1&sni=de2.xiaoliyu.cyou#ARISTA
 hysteria2://Masir_Sefid@207.154.242.160:443?security=tls&obfs=salamander&obfs-password=Masir_Sefid&insecure=0&sni=Api.masir-sefid-1.my#ARISTA
 hysteria2://Masir_Sefid@206.189.58.246:443?security=tls&obfs=salamander&obfs-password=Masir_Sefid&insecure=0&sni=Api1.masir-sefid-1.my#ARISTA
 hysteria2://Masir_Sefid@206.189.58.246:2087?security=tls&obfs=salamander&obfs-password=Masir_Sefid&insecure=0&sni=Api1.masir-sefid-1.my#ARISTA

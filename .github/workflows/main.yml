@@ -2,7 +2,7 @@ name: Update Arista Configs Every 30 Min
 
 on:
   schedule:
-    - cron: '*/30 * * * *'
+    - cron: '0 */6 * * *'
   workflow_dispatch:
   push:
     branches: [ main ]

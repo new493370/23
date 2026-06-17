@@ -24,6 +24,7 @@ class TelegramConfigExtractor:
         })
         
         self.channels = [
+            "https://t.me/s/proxyxix",
             "https://t.me/s/JynMarket",
             "https://t.me/s/ConfigX2ray",
             "https://t.me/s/JavidanNet",
@@ -963,7 +964,7 @@ class TelegramConfigExtractor:
         
         return False
     
-    def tag_config(self, config_str, tag="ARISTA"):
+    def tag_config(self, config_str, tag="T.ME: @aristapanel"):
         config_str = self.clean_config(config_str)
         
         if config_str.startswith('vmess://'):

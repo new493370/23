@@ -1,6 +1,6 @@
 # GitHub TROJAN Configurations
-# Updated: 2026-06-17 11:17:47
-# Count: 222
+# Updated: 2026-06-17 15:57:51
+# Count: 236
 # Source: GitHub Repositories
 
 trojan://humanity@45.80.111.7:443?path=%2Fassignment&security=tls&fp=chrome&type=ws&sni=www.calmlunch.com#T.ME: @aristapanel
@@ -193,23 +193,37 @@ trojan://telegram-id-privatevpns@63.176.115.85:22222?security=tls&alpn=http/1.1&
 trojan://telegram-id-privatevpns@63.184.57.98:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#T.ME: @aristapanel
 trojan://tpCznR-P5%3DjZUb%23c@66.245.193.152:17126?security=tls&headerType=none&type=tcp&sni=ctaldikgfyw.uefahpgsyz.click#T.ME: @aristapanel
 trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@202.181.103.246:1334?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=www.nintendogames.net#T.ME: @aristapanel
+trojan://VN3zRAL4Hq@45.130.125.156:8080?type=ws&security=none&path=/da&host=s3.aananas.ir#T.ME: @aristapanel
+trojan://4f4d1167-ef14-4304-9bce-0740472503ef@188.253.12.96:48697?security=tls&sni=gh.01.naiun.bilibili.com#T.ME: @aristapanel
+trojan://hV66LcSGyxUdHq2aAeqxmLfpBDQmRYxo8Wte43oZr8L379SS@43.207.87.133:443?sni=node2.bw8848.org&type=ws&host=node2.bw8848.org&path=/node2-node2-gu7bfd#T.ME: @aristapanel
+trojan://4f4d1167-ef14-4304-9bce-0740472503ef@188.253.12.99:46424?security=tls&sni=de.01.naiun.bilibili.com#T.ME: @aristapanel
+trojan://telegram-id-privatevpns@15.188.67.19:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#T.ME: @aristapanel
+trojan://telegram-id-privatevpns@15.188.218.165:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#T.ME: @aristapanel
+trojan://fFj7MAGy1VlAWmB_gMBG_27oPYTSHvV6MX@185.137.157.59:443?type=tcp&security=tls&headerType=none&sni=www.lateralio.click&fp=chrome&insecure=1&allowInsecure=1#T.ME: @aristapanel
 trojan://lhvfOzkRQqNd9cLDwpryrAkFGgqzlZR9Fi@38.54.13.189:443?type=tcp&security=tls&headerType=none&sni=38.54.13.189&fp=chrome&insecure=1&allowInsecure=1#T.ME: @aristapanel
-trojan://4f4d1167-ef14-4304-9bce-0740472503ef@188.253.12.90:48697?security=tls&sni=gh.01.naiun.bilibili.com#T.ME: @aristapanel
-trojan://4f4d1167-ef14-4304-9bce-0740472503ef@103.177.136.42:46424?security=tls&sni=de.01.naiun.bilibili.com#T.ME: @aristapanel
-trojan://4f4d1167-ef14-4304-9bce-0740472503ef@103.177.136.44:46424?security=tls&sni=de.01.naiun.bilibili.com#T.ME: @aristapanel
+trojan://4f4d1167-ef14-4304-9bce-0740472503ef@188.253.12.94:48697?security=tls&sni=gh.01.naiun.bilibili.com#T.ME: @aristapanel
 trojan://GTCCjtvCtuy03-aV1mwF0OkG2q6yL+Fc5K@207.126.167.241:443?type=tcp&security=tls&headerType=none&sni=207.126.167.241&fp=chrome&insecure=1&allowInsecure=1#T.ME: @aristapanel
 trojan://s75Gtmy56sptTA39hmBH965YYx4ZgfQR_I@103.125.219.70:443?type=tcp&security=tls&headerType=none&sni=103.125.219.70&fp=chrome&insecure=1&allowInsecure=1#T.ME: @aristapanel
 trojan://tUtK5TKdjxsPnOyritLtv8OQWHAK8f8yNR@130.94.94.15:443?type=tcp&security=tls&headerType=none&sni=130.94.94.15&fp=chrome&insecure=1&allowInsecure=1#T.ME: @aristapanel
-trojan://4f4d1167-ef14-4304-9bce-0740472503ef@188.253.12.90:41943?security=tls&sni=az.01.naiun.bilibili.com#T.ME: @aristapanel
+trojan://4f4d1167-ef14-4304-9bce-0740472503ef@188.253.12.90:45553?security=tls&sni=ch.01.naiun.bilibili.com#T.ME: @aristapanel
+trojan://4f4d1167-ef14-4304-9bce-0740472503ef@188.253.12.93:45619?security=tls&sni=fr.01.naiun.bilibili.com#T.ME: @aristapanel
+trojan://4f4d1167-ef14-4304-9bce-0740472503ef@188.253.12.94:41943?security=tls&sni=az.01.naiun.bilibili.com#T.ME: @aristapanel
+trojan://4f4d1167-ef14-4304-9bce-0740472503ef@188.253.12.92:41943?security=tls&sni=az.01.naiun.bilibili.com#T.ME: @aristapanel
 trojan://hF7uSJfeBPtSNXKtuYvTRNaBdGkkXHpKJfLRfbpaDWovomSL@3.8.238.251:443?path=%2Fuk1-uk1-gcjtze&security=tls&insecure=0&host=uk1.bw8848.org&type=ws&allowInsecure=0&sni=uk1.bw8848.org#T.ME: @aristapanel
-trojan://4f4d1167-ef14-4304-9bce-0740472503ef@90081bb25c.node.tro.cac.cab:47909?security=tls&sni=is.01.naiun.bilibili.com#T.ME: @aristapanel
-trojan://4f4d1167-ef14-4304-9bce-0740472503ef@103.177.136.44:45553?security=tls&sni=ch.01.naiun.bilibili.com#T.ME: @aristapanel
-trojan://5JKj82yC2BNxy8LAZha8Gsj2BAexJJU7ttTfeFcuHzmLjAiZ@46.137.202.140:443?path=/node1-node1-5sczzi&security=tls&insecure=0&host=node1.bw8848.org&type=ws&allowInsecure=0&sni=node1.bw8848.org#T.ME: @aristapanel
+trojan://4f4d1167-ef14-4304-9bce-0740472503ef@188.253.12.90:47909?security=tls&sni=is.01.naiun.bilibili.com#T.ME: @aristapanel
+trojan://4f4d1167-ef14-4304-9bce-0740472503ef@188.253.12.94:45553?security=tls&sni=ch.01.naiun.bilibili.com#T.ME: @aristapanel
+trojan://4f4d1167-ef14-4304-9bce-0740472503ef@188.253.12.99:45553?security=tls&sni=ch.01.naiun.bilibili.com#T.ME: @aristapanel
 trojan://4f4d1167-ef14-4304-9bce-0740472503ef@103.177.136.44:41943?security=tls&sni=az.01.naiun.bilibili.com#T.ME: @aristapanel
-trojan://4f4d1167-ef14-4304-9bce-0740472503ef@90081bb25c.node.tro.cac.cab:48697?security=tls&sni=gh.01.naiun.bilibili.com#T.ME: @aristapanel
+trojan://4f4d1167-ef14-4304-9bce-0740472503ef@103.177.136.45:41943?security=tls&sni=az.01.naiun.bilibili.com#T.ME: @aristapanel
+trojan://4f4d1167-ef14-4304-9bce-0740472503ef@90081bb25c.node.tro.cac.cab:47909?security=tls&sni=is.01.naiun.bilibili.com#T.ME: @aristapanel
+trojan://4f4d1167-ef14-4304-9bce-0740472503ef@103.177.136.42:46424?security=tls&sni=de.01.naiun.bilibili.com#T.ME: @aristapanel
 trojan://4f4d1167-ef14-4304-9bce-0740472503ef@188.253.12.99:45619?security=tls&sni=fr.01.naiun.bilibili.com#T.ME: @aristapanel
+trojan://4f4d1167-ef14-4304-9bce-0740472503ef@188.253.12.90:45619?security=tls&sni=fr.01.naiun.bilibili.com#T.ME: @aristapanel
+trojan://4f4d1167-ef14-4304-9bce-0740472503ef@103.177.136.45:48697?security=tls&sni=gh.01.naiun.bilibili.com#T.ME: @aristapanel
+trojan://4f4d1167-ef14-4304-9bce-0740472503ef@103.177.136.42:41943?security=tls&sni=az.01.naiun.bilibili.com#T.ME: @aristapanel
+trojan://4f4d1167-ef14-4304-9bce-0740472503ef@103.177.136.44:45553?security=tls&sni=ch.01.naiun.bilibili.com#T.ME: @aristapanel
+trojan://4f4d1167-ef14-4304-9bce-0740472503ef@103.177.136.43:47909?security=tls&sni=is.01.naiun.bilibili.com#T.ME: @aristapanel
 trojan://BxceQaOe@119.246.1.143:443?security=tls&sni=t.me/ripaojiedian#T.ME: @aristapanel
-trojan://LYaEYwjN8LjWTRJdCCTzW7V6gK7atJVu@de-1.hysteria.ltd:9443?security=tls&sni=de-1.hysteria.ltd&fp=chrome&insecure=0&allowInsecure=0&type=tcp&headerType=none&note=#T.ME: @aristapanel
 trojan://LYaEYwjN8LjWTRJdCCTzW7V6gK7atJVu@ch-2.bexum.fun:443?security=tls&insecure=0&allowInsecure=0&type=tcp&headerType=none#T.ME: @aristapanel
 trojan://LYaEYwjN8LjWTRJdCCTzW7V6gK7atJVu@ch-2.bexum.fun:443?security=tls&sni=ch-2.bexum.fun&fp=chrome&insecure=0&allowInsecure=0&type=tcp&headerType=none#T.ME: @aristapanel
 trojan://s_WEN9lMmufG%2BqDIsn-4C7JOVAnDdbS3Ui@172.236.220.10:443?security=tls&sni=172.236.220.10&fp=chrome&insecure=0&allowInsecure=0&type=tcp&headerType=none#T.ME: @aristapanel

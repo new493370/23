@@ -1,6 +1,6 @@
 # GitHub HYSTERIA2 Configurations
-# Updated: 2026-07-12 03:35:02
-# Count: 29
+# Updated: 2026-07-12 08:36:11
+# Count: 31
 # Source: GitHub Repositories
 
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@18.141.236.225:443/?insecure=1&sni=vpn-sg-001.fastervpn.world#T.ME: @aristapanel
@@ -13,19 +13,21 @@ hysteria2://lak374gtxzrxz241@news.dd.msk.su:443?alpn=h3&fm=%7B%22quicParams%22%3
 hysteria2://lak374gtxzrxz241@social.klipp.su:443?alpn=h3&fm=%7B%22quicParams%22%3A%7B%22brutalDown%22%3A%221000mbps%22%2C%22brutalUp%22%3A%221000mbps%22%2C%22congestion%22%3A%22brutal%22%2C%22debug%22%3Afalse%2C%22disablePathMTUDiscovery%22%3Afalse%2C%22initConnectionReceiveWindow%22%3A20971520%2C%22initStreamReceiveWindow%22%3A8388608%2C%22keepAlivePeriod%22%3A10%2C%22maxConnectionReceiveWindow%22%3A20971520%2C%22maxIdleTimeout%22%3A30%2C%22maxIncomingStreams%22%3A1024%2C%22maxStreamReceiveWindow%22%3A8388608%7D%2C%22udp%22%3A%5B%7B%22settings%22%3A%7B%22password%22%3A%223sv5vpdl9xr84lyb%22%7D%2C%22type%22%3A%22salamander%22%7D%5D%7D&fp=qq&obfs=salamander&obfs-password=3sv5vpdl9xr84lyb&security=tls&sni=social.klipp.su#T.ME: @aristapanel
 hysteria2://lak374gtxzrxz241@musicclips.videolinks.ru:8443?alpn=h3&fm=%7B%22quicParams%22%3A%7B%22brutalDown%22%3A%2260mbps%22%2C%22brutalUp%22%3A%2260mbps%22%2C%22congestion%22%3A%22brutal%22%2C%22debug%22%3Afalse%2C%22disablePathMTUDiscovery%22%3Afalse%2C%22initConnectionReceiveWindow%22%3A20971520%2C%22initStreamReceiveWindow%22%3A8388608%2C%22keepAlivePeriod%22%3A10%2C%22maxConnectionReceiveWindow%22%3A20971520%2C%22maxIdleTimeout%22%3A30%2C%22maxIncomingStreams%22%3A1024%2C%22maxStreamReceiveWindow%22%3A8388608%7D%2C%22udp%22%3A%5B%7B%22settings%22%3A%7B%22password%22%3A%228zzng75tz4tf82pj%22%7D%2C%22type%22%3A%22salamander%22%7D%5D%7D&fp=safari&obfs=salamander&obfs-password=8zzng75tz4tf82pj&security=tls&sni=musicclips.videolinks.ru#T.ME: @aristapanel
 hysteria2://lak374gtxzrxz241@nrealistic.nn-foto.ru:1935?alpn=h3&fm=%7B%22quicParams%22%3A%7B%22brutalDown%22%3A%2260mbps%22%2C%22brutalUp%22%3A%2260mbps%22%2C%22congestion%22%3A%22brutal%22%2C%22debug%22%3Afalse%2C%22disablePathMTUDiscovery%22%3Afalse%2C%22initConnectionReceiveWindow%22%3A20971520%2C%22initStreamReceiveWindow%22%3A8388608%2C%22keepAlivePeriod%22%3A10%2C%22maxConnectionReceiveWindow%22%3A20971520%2C%22maxIdleTimeout%22%3A30%2C%22maxIncomingStreams%22%3A1024%2C%22maxStreamReceiveWindow%22%3A8388608%7D%2C%22udp%22%3A%5B%7B%22settings%22%3A%7B%22password%22%3A%22lhfl2z9mjngb7csh%22%7D%2C%22type%22%3A%22salamander%22%7D%5D%7D&fp=edge&obfs=salamander&obfs-password=lhfl2z9mjngb7csh&security=tls&sni=nrealistic.nn-foto.ru#T.ME: @aristapanel
-hysteria2://8bc63720-5ec8-45b5-b6a6-9a21ffb490e8@argg2.auragg.org:443?sni=argg2.auragg.org#T.ME: @aristapanel
+hysteria2://e83df40d-ea83-4537-abfe-683da87dd52e@cz2.freeinternat.com:443?sni=cz2.freeinternat.com#T.ME: @aristapanel
+hysteria2://8bc63720-5ec8-45b5-b6a6-9a21ffb490e8@argg2.auragg.org:443?insecure=0&sni=argg2.auragg.org#T.ME: @aristapanel
 hysteria2://8bc63720-5ec8-45b5-b6a6-9a21ffb490e8@argg3.auragg.org:443?sni=argg3.auragg.org#T.ME: @aristapanel
-hysteria2://b05346a9-4d13-41a4-8d2a-6b7b64e73ffc@argg2.auragg.org:443?sni=argg2.auragg.org#T.ME: @aristapanel
 hysteria2://b05346a9-4d13-41a4-8d2a-6b7b64e73ffc@argg3.auragg.org:443?insecure=0&sni=argg3.auragg.org#T.ME: @aristapanel
 hysteria2://0e3ec08f-840e-46f8-b11e-3a5decbb97b6@unic.hysteria.ltd:5443?headerType=none&encryption=none&sni=unic.hysteria.ltd&insecure=0#T.ME: @aristapanel
 hysteria2://0e3ec08f-840e-46f8-b11e-3a5decbb97b6@unic.hysteria.ltd:5443?sni=unic.hysteria.ltd&alpn=h3#T.ME: @aristapanel
+hysteria2://e83df40d-ea83-4537-abfe-683da87dd52e@lit2.freeinternat.com:443?sni=lit2.freeinternat.com#T.ME: @aristapanel
+hysteria2://8bc63720-5ec8-45b5-b6a6-9a21ffb490e8@sh02.auragg.org:443?sni=sh02.auragg.org#T.ME: @aristapanel
+hysteria2://e83df40d-ea83-4537-abfe-683da87dd52e@nl2.freeinternat.com:443?sni=nl2.freeinternat.com#T.ME: @aristapanel
 hysteria2://0e3ec08f-840e-46f8-b11e-3a5decbb97b6@united.hysteria.ltd:5443?headerType=none&encryption=none&sni=united.hysteria.ltd&insecure=0#T.ME: @aristapanel
 hysteria2://48139d20-931e-4e2b-83f5-8ea97d226c18@aestheticperforator.ru:8443?sni=aestheticperforator.ru&insecure=0&allowInsecure=0#T.ME: @aristapanel
+hysteria2://b05346a9-4d13-41a4-8d2a-6b7b64e73ffc@argg2.auragg.org:443?sni=argg2.auragg.org&insecure=1&allowInsecure=1#T.ME: @aristapanel
+hysteria2://2f4c3fc5-8fa2-4576-a583-8f98a6026887@hkt.ccwink.cc:56309?sni=hkt.ccwink.cc&nonce=7kdt2wzs&__rand=b3cc4164#T.ME: @aristapanel
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.29:443?insecure=1&sni=https%3A%2F%2Ft.me%2FWangCai2#T.ME: @aristapanel
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.29:443?sni=https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3&insecure=1#T.ME: @aristapanel
-hysteria2://d5m-5bGOsVbFgRlxsEyO3pCF@8.148.4.25:55020?insecure=1#T.ME: @aristapanel
-hysteria2://d5m-5bGOsVbFgRlxsEyO3pCF@8.148.4.25:55020?sni=8.148.4.25&insecure=1&allowInsecure=1#T.ME: @aristapanel
-hysteria2://8bc63720-5ec8-45b5-b6a6-9a21ffb490e8@sh02.auragg.org:443?sni=sh02.auragg.org#T.ME: @aristapanel
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-tw-002.fastervpn.world:443?sni=vpn-tw-002.fastervpn.world&insecure=1&allowInsecure=1#T.ME: @aristapanel
 hysteria2://LzMWgm6LaNWCm11bFTbynDPq2TqQj03t@5.255.102.165:443?insecure=1&descriptions=465#T.ME: @aristapanel
 hysteria2://LzMWgm6LaNWCm11bFTbynDPq2TqQj03t@5.255.102.165:443?insecure=1&sni=www.microsoft.com#T.ME: @aristapanel

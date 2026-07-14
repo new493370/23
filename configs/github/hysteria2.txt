@@ -1,5 +1,5 @@
 # GitHub HYSTERIA2 Configurations
-# Updated: 2026-07-14 02:57:05
+# Updated: 2026-07-14 08:22:17
 # Count: 23
 # Source: GitHub Repositories
 
@@ -15,14 +15,14 @@ hysteria2://lak374gtxzrxz241@news.dd.msk.su:443?alpn=h3&fm=%7B%22quicParams%22%3
 hysteria2://lak374gtxzrxz241@social.klipp.su:443?alpn=h3&fm=%7B%22quicParams%22%3A%7B%22brutalDown%22%3A%221000mbps%22%2C%22brutalUp%22%3A%221000mbps%22%2C%22congestion%22%3A%22brutal%22%2C%22debug%22%3Afalse%2C%22disablePathMTUDiscovery%22%3Afalse%2C%22initConnectionReceiveWindow%22%3A20971520%2C%22initStreamReceiveWindow%22%3A8388608%2C%22keepAlivePeriod%22%3A10%2C%22maxConnectionReceiveWindow%22%3A20971520%2C%22maxIdleTimeout%22%3A30%2C%22maxIncomingStreams%22%3A1024%2C%22maxStreamReceiveWindow%22%3A8388608%7D%2C%22udp%22%3A%5B%7B%22settings%22%3A%7B%22password%22%3A%223sv5vpdl9xr84lyb%22%7D%2C%22type%22%3A%22salamander%22%7D%5D%7D&fp=qq&obfs=salamander&obfs-password=3sv5vpdl9xr84lyb&security=tls&sni=social.klipp.su#T.ME: @aristapanel
 hysteria2://lak374gtxzrxz241@musicclips.videolinks.ru:8443?alpn=h3&fm=%7B%22quicParams%22%3A%7B%22brutalDown%22%3A%2260mbps%22%2C%22brutalUp%22%3A%2260mbps%22%2C%22congestion%22%3A%22brutal%22%2C%22debug%22%3Afalse%2C%22disablePathMTUDiscovery%22%3Afalse%2C%22initConnectionReceiveWindow%22%3A20971520%2C%22initStreamReceiveWindow%22%3A8388608%2C%22keepAlivePeriod%22%3A10%2C%22maxConnectionReceiveWindow%22%3A20971520%2C%22maxIdleTimeout%22%3A30%2C%22maxIncomingStreams%22%3A1024%2C%22maxStreamReceiveWindow%22%3A8388608%7D%2C%22udp%22%3A%5B%7B%22settings%22%3A%7B%22password%22%3A%228zzng75tz4tf82pj%22%7D%2C%22type%22%3A%22salamander%22%7D%5D%7D&fp=safari&obfs=salamander&obfs-password=8zzng75tz4tf82pj&security=tls&sni=musicclips.videolinks.ru#T.ME: @aristapanel
 hysteria2://lak374gtxzrxz241@nrealistic.nn-foto.ru:1935?alpn=h3&fm=%7B%22quicParams%22%3A%7B%22brutalDown%22%3A%2260mbps%22%2C%22brutalUp%22%3A%2260mbps%22%2C%22congestion%22%3A%22brutal%22%2C%22debug%22%3Afalse%2C%22disablePathMTUDiscovery%22%3Afalse%2C%22initConnectionReceiveWindow%22%3A20971520%2C%22initStreamReceiveWindow%22%3A8388608%2C%22keepAlivePeriod%22%3A10%2C%22maxConnectionReceiveWindow%22%3A20971520%2C%22maxIdleTimeout%22%3A30%2C%22maxIncomingStreams%22%3A1024%2C%22maxStreamReceiveWindow%22%3A8388608%7D%2C%22udp%22%3A%5B%7B%22settings%22%3A%7B%22password%22%3A%22lhfl2z9mjngb7csh%22%7D%2C%22type%22%3A%22salamander%22%7D%5D%7D&fp=edge&obfs=salamander&obfs-password=lhfl2z9mjngb7csh&security=tls&sni=nrealistic.nn-foto.ru#T.ME: @aristapanel
+hysteria2://2f4c3fc5-8fa2-4576-a583-8f98a6026887@hkt.ccwink.cc:56309/?insecure=1#T.ME: @aristapanel
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.29:443?insecure=1&sni=https%3A%2F%2Ft.me%2FWangCai2#T.ME: @aristapanel
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.29:443?sni=https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3&insecure=1#T.ME: @aristapanel
-hysteria2://35415e5e-3666-4454-8c45-903af0fcddf4@85.120.228.208:47257?sni=www.bing.com&alpn=h3&insecure=1#T.ME: @aristapanel
-hysteria2://d5m-5bGOsVbFgRlxsEyO3pCF@8.148.4.25:55020?insecure=1&nonce=_fTB7H3d#T.ME: @aristapanel
+hysteria2://1624ccf4-f88b-4411-81bd-978570b3cbdc@156.226.172.6:55000?insecure=1&sni=www.bing.com#T.ME: @aristapanel
+hysteria2://d6cc5b3d-304e-48dc-83b0-68e02f5afc05@156.226.172.6:55000?insecure=1&sni=www.bing.com#T.ME: @aristapanel
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-tw-002.fastervpn.world:443?sni=vpn-tw-002.fastervpn.world&insecure=1&allowInsecure=1#T.ME: @aristapanel
 hysteria2://LzMWgm6LaNWCm11bFTbynDPq2TqQj03t@5.255.102.165:443?insecure=1&descriptions=465#T.ME: @aristapanel
 hysteria2://LzMWgm6LaNWCm11bFTbynDPq2TqQj03t@5.255.102.165:443?sni=5.255.102.165&insecure=1#T.ME: @aristapanel
 hysteria2://88f839f2-c3c0-487d-aac3-f8c089d2369d@45.154.205.25:55000?insecure=1#T.ME: @aristapanel
-hysteria2://1e06c388-d31c-420e-916a-94a990648e34@united.hysteria.ltd:5443?insecure=1&sni=united.hysteria.ltd#T.ME: @aristapanel
-hysteria2://3bf33d8e-7bc7-470c-85af-8436f93dce3e@156.229.164.1:55000?insecure=1&sni=www.bing.com#T.ME: @aristapanel
+hysteria2://7c7ff1be-a6e9-4a6f-853c-052ed3f3f21b@45.202.248.138:55000?insecure=1&sni=www.bing.com#T.ME: @aristapanel
 hysteria2://3bf33d8e-7bc7-470c-85af-8436f93dce3e@45.202.248.138:55000?insecure=1&sni=www.bing.com#T.ME: @aristapanel

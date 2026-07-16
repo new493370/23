@@ -1,33 +1,25 @@
 # GitHub HYSTERIA2 Configurations
-# Updated: 2026-07-16 14:16:29
-# Count: 43
+# Updated: 2026-07-16 19:32:31
+# Count: 30
 # Source: GitHub Repositories
 
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@54.255.220.11:443/?insecure=1&sni=vpn-sg-001.fastervpn.world#T.ME: @aristapanel
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@13.250.29.24:443/?insecure=1&sni=vpn-sg-001.fastervpn.world#T.ME: @aristapanel
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@13.229.106.122:443/?insecure=1&sni=vpn-sg-001.fastervpn.world#T.ME: @aristapanel
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@54.251.212.188:443/?insecure=1&sni=vpn-sg-001.fastervpn.world#T.ME: @aristapanel
-hysteria2://elknam6l7izf3z71@assets.gateway-stream.com:52013?sni=assets.gateway-stream.com&insecure=0&allowInsecure=0&obfs=salamander&obfs-password=cukfjxud1ebjuuzs#T.ME: @aristapanel
-hysteria2://elknam6l7izf3z71@assets.gateway-stream.com:52018?security=tls&obfs=salamander&alpn=h3&obfs-password=53cgqwhojoxri5lr&insecure=0&sni=assets.gateway-stream.com#T.ME: @aristapanel
-hysteria2://elknam6l7izf3z71@assets.gateway-stream.com:52021?security=tls&obfs=salamander&obfs-password=mtg2vchyir6la3et&insecure=0&sni=assets.gateway-stream.com#T.ME: @aristapanel
-hysteria2://elknam6l7izf3z71@assets.gateway-stream.com:52002?security=tls&obfs=salamander&obfs-password=ielzukpwth087afx&insecure=0&sni=assets.gateway-stream.com#T.ME: @aristapanel
-hysteria2://elknam6l7izf3z71@assets.gateway-stream.com:52000?security=tls&obfs=salamander&obfs-password=gu74jg3ym0e21zco&insecure=0&sni=assets.gateway-stream.com#T.ME: @aristapanel
 hysteria2://lak374gtxzrxz241@news.dd.msk.su:443?alpn=h3&fm=%7B%22quicParams%22%3A%7B%22brutalDown%22%3A%2250mbps%22%2C%22brutalUp%22%3A%2250mbps%22%2C%22congestion%22%3A%22brutal%22%2C%22debug%22%3Afalse%2C%22disablePathMTUDiscovery%22%3Afalse%2C%22initConnectionReceiveWindow%22%3A20971520%2C%22initStreamReceiveWindow%22%3A8388608%2C%22keepAlivePeriod%22%3A10%2C%22maxConnectionReceiveWindow%22%3A20971520%2C%22maxIdleTimeout%22%3A30%2C%22maxIncomingStreams%22%3A1024%2C%22maxStreamReceiveWindow%22%3A8388608%7D%2C%22udp%22%3A%5B%7B%22settings%22%3A%7B%22password%22%3A%229b5cujsederxbp59%22%7D%2C%22type%22%3A%22salamander%22%7D%5D%7D&fp=qq&obfs=salamander&obfs-password=9b5cujsederxbp59&security=tls&sni=news.dd.msk.su#T.ME: @aristapanel
 hysteria2://lak374gtxzrxz241@social.klipp.su:443?alpn=h3&fm=%7B%22quicParams%22%3A%7B%22brutalDown%22%3A%221000mbps%22%2C%22brutalUp%22%3A%221000mbps%22%2C%22congestion%22%3A%22brutal%22%2C%22debug%22%3Afalse%2C%22disablePathMTUDiscovery%22%3Afalse%2C%22initConnectionReceiveWindow%22%3A20971520%2C%22initStreamReceiveWindow%22%3A8388608%2C%22keepAlivePeriod%22%3A10%2C%22maxConnectionReceiveWindow%22%3A20971520%2C%22maxIdleTimeout%22%3A30%2C%22maxIncomingStreams%22%3A1024%2C%22maxStreamReceiveWindow%22%3A8388608%7D%2C%22udp%22%3A%5B%7B%22settings%22%3A%7B%22password%22%3A%223sv5vpdl9xr84lyb%22%7D%2C%22type%22%3A%22salamander%22%7D%5D%7D&fp=qq&obfs=salamander&obfs-password=3sv5vpdl9xr84lyb&security=tls&sni=social.klipp.su#T.ME: @aristapanel
 hysteria2://lak374gtxzrxz241@musicclips.videolinks.ru:8443?alpn=h3&fm=%7B%22quicParams%22%3A%7B%22brutalDown%22%3A%2260mbps%22%2C%22brutalUp%22%3A%2260mbps%22%2C%22congestion%22%3A%22brutal%22%2C%22debug%22%3Afalse%2C%22disablePathMTUDiscovery%22%3Afalse%2C%22initConnectionReceiveWindow%22%3A20971520%2C%22initStreamReceiveWindow%22%3A8388608%2C%22keepAlivePeriod%22%3A10%2C%22maxConnectionReceiveWindow%22%3A20971520%2C%22maxIdleTimeout%22%3A30%2C%22maxIncomingStreams%22%3A1024%2C%22maxStreamReceiveWindow%22%3A8388608%7D%2C%22udp%22%3A%5B%7B%22settings%22%3A%7B%22password%22%3A%228zzng75tz4tf82pj%22%7D%2C%22type%22%3A%22salamander%22%7D%5D%7D&fp=safari&obfs=salamander&obfs-password=8zzng75tz4tf82pj&security=tls&sni=musicclips.videolinks.ru#T.ME: @aristapanel
 hysteria2://lak374gtxzrxz241@nrealistic.nn-foto.ru:1935?alpn=h3&fm=%7B%22quicParams%22%3A%7B%22brutalDown%22%3A%2260mbps%22%2C%22brutalUp%22%3A%2260mbps%22%2C%22congestion%22%3A%22brutal%22%2C%22debug%22%3Afalse%2C%22disablePathMTUDiscovery%22%3Afalse%2C%22initConnectionReceiveWindow%22%3A20971520%2C%22initStreamReceiveWindow%22%3A8388608%2C%22keepAlivePeriod%22%3A10%2C%22maxConnectionReceiveWindow%22%3A20971520%2C%22maxIdleTimeout%22%3A30%2C%22maxIncomingStreams%22%3A1024%2C%22maxStreamReceiveWindow%22%3A8388608%7D%2C%22udp%22%3A%5B%7B%22settings%22%3A%7B%22password%22%3A%22lhfl2z9mjngb7csh%22%7D%2C%22type%22%3A%22salamander%22%7D%5D%7D&fp=edge&obfs=salamander&obfs-password=lhfl2z9mjngb7csh&security=tls&sni=nrealistic.nn-foto.ru#T.ME: @aristapanel
 hysteria2://95c61940-2823-4665-a033-d4f2218329b6@46.8.210.209:443?headerType=none&encryption=none&sni=ru1.kinotorg.net&insecure=0#T.ME: @aristapanel
 hysteria2://95c61940-2823-4665-a033-d4f2218329b6@46.8.210.209:443?headerType=none&encryption=none&sni=ru3.kinotorg.net&insecure=0#T.ME: @aristapanel
-hysteria2://Ov_98eqvJ9N8SE3_Bxhr238e_Ntz2_Sxc47_J2@185.126.236.152:8443?sni=key-hm-at.1cooldns.com#T.ME: @aristapanel
-hysteria2://oiiaB38ywjEHCWRs_O_a_1113_Il_KeyyyHop_Bes1@109.206.241.10:8443?sni=russiapower.accesscam.org#T.ME: @aristapanel
-hysteria2://87qety_hERGP8Y9_jqier3gw_nA8Q34_B2@45.155.103.217:8443?sni=kamil-power-machine.roxa.org#T.ME: @aristapanel
-hysteria2://8bc63720-5ec8-45b5-b6a6-9a21ffb490e8@fl02.auragg.org:8443/?sni=fl02.auragg.org#T.ME: @aristapanel
-hysteria2://792V1zl5cJHSV3wjyGPXiFbx1YA4BrIr@jongjmi.odnako.site:8449?sni=jongjmi.odnako.site&insecure=0#T.ME: @aristapanel
+hysteria2://87qety_hERGP8Y9_jqier3gw_nA8Q34_B2@45.155.103.217:8443/?sni=kamil-power-machine.roxa.org#T.ME: @aristapanel
 hysteria2://grape_288923@82.22.53.30:8443?sni=grape-coffee-fi.gleeze.com#T.ME: @aristapanel
-hysteria2://8bc63720-5ec8-45b5-b6a6-9a21ffb490e8@pl02.auragg.org:443/?sni=pl02.auragg.org#T.ME: @aristapanel
 hysteria2://grape_288923@82.22.53.30:8080?sni=grape-coffee-fi.gleeze.com#T.ME: @aristapanel
-hysteria2://48139d20-931e-4e2b-83f5-8ea97d226c18@aestheticperforator.ru:8443?sni=aestheticperforator.ru&alpn=h3&insecure=0#T.ME: @aristapanel
 hysteria2://48139d20-931e-4e2b-83f5-8ea97d226c18@aestheticperforator.ru:8443?sni=aestheticperforator.ru&insecure=0#T.ME: @aristapanel
+hysteria2://48139d20-931e-4e2b-83f5-8ea97d226c18@aestheticperforator.ru:8443?sni=aestheticperforator.ru&obfs-password=48139d20-931e-4e2b-83f5-8ea97d226c18#T.ME: @aristapanel
+hysteria2://Ov_98eqvJ9N8SE3_Bxhr238e_Ntz2_Sxc47_J2@185.126.236.152:8443?insecure=1&sni=key-hm-at.1cooldns.com#T.ME: @aristapanel
+hysteria2://792V1zl5cJHSV3wjyGPXiFbx1YA4BrIr@jongjmi.odnako.site:8449?insecure=1&sni=jongjmi.odnako.site#T.ME: @aristapanel
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.29:443?insecure=1&sni=https%3A%2F%2Ft.me%2FWangCai2#T.ME: @aristapanel
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.29:443?insecure=1&sni=https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#T.ME: @aristapanel
 hysteria2://35415e5e-3666-4454-8c45-903af0fcddf4@85.120.228.208:47257?sni=www.bing.com&alpn=h3&insecure=1#T.ME: @aristapanel
@@ -37,12 +29,7 @@ hysteria2://b7c9e2f1-4d83-42a1-9e5f-sg2026proxy@209.74.81.28:8443?sni=209.74.81.
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-tw-002.fastervpn.world:443?sni=vpn-tw-002.fastervpn.world&insecure=1&allowInsecure=1#T.ME: @aristapanel
 hysteria2://LzMWgm6LaNWCm11bFTbynDPq2TqQj03t@5.255.102.165:443?insecure=1&nonce=nIheqZmx#T.ME: @aristapanel
 hysteria2://LzMWgm6LaNWCm11bFTbynDPq2TqQj03t@5.255.102.165:443?insecure=1&sni=www.microsoft.com#T.ME: @aristapanel
-hysteria2://LzMWgm6LaNWCm11bFTbynDPq2TqQj03t@5.255.102.165:443?sni=5.255.102.165&insecure=1#T.ME: @aristapanel
-hysteria2://0c62d145-d288-4b2c-9df3-8a76e6489d25@172.245.189.138:14656?insecure=1&sni=www.bing.com#T.ME: @aristapanel
-hysteria2://48139d20-931e-4e2b-83f5-8ea97d226c18@aestheticperforator.ru:8443?sni=aestheticperforator.ru&insecure=1&alpn=h3&obfs-password=48139d20-931e-4e2b-83f5-8ea97d226c18#T.ME: @aristapanel
-hysteria2://48139d20-931e-4e2b-83f5-8ea97d226c18@aestheticperforator.ru:8443?sni=aestheticperforator.ru&obfs-password=48139d20-931e-4e2b-83f5-8ea97d226c18#T.ME: @aristapanel
-hysteria2://Xiao456.@45.205.31.175:5443?insecure=1&sni=vpn.cyedu.xyz#T.ME: @aristapanel
-hysteria2://Xiao456.@45.205.31.175:8443?insecure=1&sni=vpn.cyedu.xyz#T.ME: @aristapanel
+hysteria2://Hy2%40SiLiCon2026!@43.130.7.3:8443?insecure=1&sni=bing.com#T.ME: @aristapanel
 hysteria2://LzMWgm6LaNWCm11bFTbynDPq2TqQj03t@5.255.102.165:443?sni=5.255.102.165&allowInsecure=1#T.ME: @aristapanel
-hysteria2://95c61940-2823-4665-a033-d4f2218329b6@46.8.210.209:443/?sni=ru1.kinotorg.net#T.ME: @aristapanel
-hysteria2://95c61940-2823-4665-a033-d4f2218329b6@46.8.210.209:443/?sni=ru3.kinotorg.net#T.ME: @aristapanel
+hysteria2://9b44bfb4-9d28-4870-9fc3-5154d6d462ff@tn2.tmn141246.ru:443?sni=live.ok.ru&amp;insecure=1#T.ME: @aristapanel
+hysteria2://2aa7f4b1-e859-46d0-b8ac-8587811ab7b1@tn2.tmn141246.ru:443?sni=live.ok.ru&amp;insecure=1#T.ME: @aristapanel

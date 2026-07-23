@@ -1,7 +1,6 @@
 # Combined HYSTERIA Configurations
-# Updated: 2026-07-23 03:30:17
-# Count: 2
-# Sources: Telegram (2) + GitHub (0)
+# Updated: 2026-07-23 08:52:14
+# Count: 1
+# Sources: Telegram (1) + GitHub (0)
 
 hysteria://195.154.200.40:15010/?insecure=1&peer=apple.com&auth=dongtaiwang.com&upmbps=100&downmbps=100&alpn=h3#T.ME: @aristapanel
-hysteria://5.83.129.90:54177/?insecure=1&peer=apple.com&auth=dongtaiwang.com&upmbps=500&downmbps=1000&alpn=h3#T.ME: @aristapanel

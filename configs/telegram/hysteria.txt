@@ -1,6 +1,6 @@
 # Telegram HYSTERIA Configurations
-# Updated: 2026-07-25 03:06:16
+# Updated: 2026-07-25 08:24:16
 # Count: 1
 # Source: Telegram Channels
 
-hysteria://195.154.200.40:15010/?insecure=1&peer=apple.com&auth=dongtaiwang.com&upmbps=100&downmbps=100&alpn=h3#T.ME: @aristapanel
+hysteria://5.83.129.143:26691?alpn=h3&auth=dongtaiwang.com&auth_str=dongtaiwang.com&downmbps=55#T.ME: @aristapanel

@@ -1,8 +1,8 @@
 # Combined HYSTERIA Configurations
-# Updated: 2026-07-29 03:09:29
+# Updated: 2026-07-29 08:59:43
 # Count: 3
 # Sources: Telegram (3) + GitHub (0)
 
-hysteria://5.83.129.143:26691?alpn=h3&auth=dongtaiwang.com&auth_str=dongtaiwang.com&downmbps=55#T.ME: @aristapanel
 hysteria://5.83.129.90:54177/?insecure=1&peer=apple.com&auth=dongtaiwang.com&upmbps=500&downmbps=1000&alpn=h3#T.ME: @aristapanel
 hysteria://5.83.129.153:20088/?insecure=1&peer=apple.com&auth=dongtaiwang.com&upmbps=500&downmbps=1000&alpn=h3#T.ME: @aristapanel
+hysteria://5.83.129.143:26691?alpn=h3&auth=dongtaiwang.com&auth_str=dongtaiwang.com&downmbps=55#T.ME: @aristapanel

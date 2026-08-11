@@ -1,14 +1,13 @@
 # Telegram HYSTERIA2 Configurations
-# Updated: 2026-08-11 07:27:02
-# Count: 9
+# Updated: 2026-08-11 19:29:46
+# Count: 8
 # Source: Telegram Channels
 
 hysteria2://1hOIVDVBG2hdKtJwOV2aUEFTDaFArCSH9-HrcOnps8yqQZeq@prodfr.h2corp.org:443?security=tls&insecure=0&sni=prodfr.h2corp.org#T.ME: @aristapanel
-hysteria2://TelegramVPNJey@179.61.251.253:37003?security=tls&obfs=salamander&obfs-password=83v9muumcyikh5ch&insecure=0&sni=de.jey.cc.cd#T.ME: @aristapanel
+hy2://github.com%2FAlvin9999-newpac%2Ffanqiang@62.210.7.139:60111?insecure=1&sni=t.me&type=tcp&allowInsecure=1&upmbps=10&downmbps=50#T.ME: @aristapanel
+hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@99.79.62.65:443?insecure=1&sni=google.com&type=tcp&allowInsecure=1&upmbps=10&downmbps=50#T.ME: @aristapanel
 hysteria2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@130.49.161.70:443?sni=hy2.aspidnet.xyz&obfs=salamander&obfs-password=rG07s3COMIEvdnQipRyWzx_H_2xygNC3&insecure=0#T.ME: @aristapanel
 hysteria2://TelegramVPNjey@179.61.251.253:37003?security=tls&obfs=salamander&obfs-password=83v9muumcyikh5ch&insecure=0&sni=de.jey.cc.cd#T.ME: @aristapanel
-hysteria2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@93.114.194.122:8443/?sni=grape-zet-ro-turbo.bumbleshrimp.com#T.ME: @aristapanel
-hysteria2://AstroVPN_official@hystry.accuratenetworkchecker.ir:8083?security=tls&obfs=salamander&obfs-password=4b6gmo4jujpapx99&insecure=0&sni=vhd.nth.gelzaro.ir#T.ME: @aristapanel
-hysteria2://AstroVPN_official@ptserv.accuratenetworkchecker.ir:36896?sni=lms22.gelzaro.ir&obfs=salamander&obfs-password=hmvyfx1tpnz6pp3k#T.ME: @aristapanel
 hysteria2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@130.49.161.70:443?security=tls&obfs=salamander&obfs-password=rG07s3COMIEvdnQipRyWzx_H_2xygNC3&insecure=0&sni=hy2.aspidnet.xyz#T.ME: @aristapanel
+hysteria2://AstroVPN_official@ptserv.accuratenetworkchecker.ir:36896?sni=lms22.gelzaro.ir&obfs=salamander&obfs-password=hmvyfx1tpnz6pp3k#T.ME: @aristapanel
 hysteria2://TelegramVPNjey@179.61.251.253:37003?obfs=salamander&obfs-password=83v9muumcyikh5ch&sni=de.jey.cc.cd&insecure=0#T.ME: @aristapanel

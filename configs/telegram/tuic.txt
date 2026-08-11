@@ -1,0 +1,6 @@
+# Telegram TUIC Configurations
+# Updated: 2026-08-11 19:29:46
+# Count: 1
+# Source: Telegram Channels
+
+tuic://dbab9df7-5c0a-4726-8574-11e34972b67d:dbab9df7-5c0a-4726-8574-11e34972b67d@86.53.105.117:33014?allow_insecure=1&alpn=h3&congestion_control=bbr&congestion_controller=bbr&sni=www.bing.com&udp_relay_mode=native&version=5#T.ME: @aristapanel
